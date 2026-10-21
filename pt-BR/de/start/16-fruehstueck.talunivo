@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-16-fruehstueck",
+  "packageVersion": 1,
+  "title": "16 · Frühstück",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Frühstück",
+      "expression": "Quero pão com manteiga.",
+      "translation": "Ich möchte Brot mit Butter.",
+      "explanation": "pão = Brot; manteiga = Butter.",
+      "example": "De manhã, como pão com manteiga e uma banana.",
+      "exampleTranslation": "Morgens esse ich Brot mit Butter und eine Banane."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Frühstück",
+      "expression": "Tem queijo?",
+      "translation": "Gibt es Käse?",
+      "explanation": "tem wird im brasilianischen Alltag für gibt es verwendet."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Frühstück",
+      "expression": "Eu como uma banana.",
+      "translation": "Ich esse eine Banane.",
+      "explanation": "como = ich esse; nicht mit como = wie verwechseln."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Frühstück",
+      "expression": "Gosto de ovos.",
+      "translation": "Ich mag Eier.",
+      "explanation": "gostar de = mögen; ovo = Ei."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Frühstück",
+      "expression": "Bebo leite de manhã.",
+      "translation": "Ich trinke morgens Milch.",
+      "explanation": "bebo = ich trinke; de manhã = morgens."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Frühstück",
+      "expression": "O café da manhã está pronto.",
+      "translation": "Das Frühstück ist fertig.",
+      "explanation": "café da manhã bedeutet Frühstück, nicht nur Kaffee."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Frühstück",
+      "expression": "Não quero açúcar.",
+      "translation": "Ich möchte keinen Zucker.",
+      "explanation": "não verneint hier quero = ich möchte."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Frühstück",
+      "expression": "Prefiro uma fruta.",
+      "translation": "Ich hätte lieber eine Frucht.",
+      "explanation": "prefiro = ich bevorzuge; fruta = Frucht."
+    }
+  ]
+}

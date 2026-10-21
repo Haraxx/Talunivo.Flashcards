@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-30-tagesablauf",
+  "packageVersion": 1,
+  "title": "30 · Mein Tagesablauf",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Mein Tagesablauf",
+      "expression": "Acordo às sete.",
+      "translation": "Ich wache um sieben auf.",
+      "explanation": "acordar = aufwachen.",
+      "example": "Acordo às sete e almoço ao meio-dia.",
+      "exampleTranslation": "Ich wache um sieben auf und esse um zwölf Uhr mittags zu Mittag."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Mein Tagesablauf",
+      "expression": "Levanto cedo.",
+      "translation": "Ich stehe früh auf.",
+      "explanation": "levantar = aufstehen; cedo = früh."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Mein Tagesablauf",
+      "expression": "Tomo banho de manhã.",
+      "translation": "Ich dusche morgens.",
+      "explanation": "tomar banho = duschen oder baden."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Mein Tagesablauf",
+      "expression": "Escovo os dentes.",
+      "translation": "Ich putze mir die Zähne.",
+      "explanation": "escovar = bürsten; dentes = Zähne."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Mein Tagesablauf",
+      "expression": "Almoço ao meio-dia.",
+      "translation": "Ich esse um zwölf Uhr mittags zu Mittag.",
+      "explanation": "almoçar = zu Mittag essen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Mein Tagesablauf",
+      "expression": "Volto para casa às seis.",
+      "translation": "Ich komme um sechs nach Hause zurück.",
+      "explanation": "voltar = zurückkehren; para casa = nach Hause."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Mein Tagesablauf",
+      "expression": "Janto com minha família.",
+      "translation": "Ich esse mit meiner Familie zu Abend.",
+      "explanation": "jantar = zu Abend essen."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Mein Tagesablauf",
+      "expression": "Vou dormir às dez da noite.",
+      "translation": "Ich gehe um zehn Uhr abends schlafen.",
+      "explanation": "ir dormir = schlafen gehen; da noite = abends."
+    }
+  ]
+}

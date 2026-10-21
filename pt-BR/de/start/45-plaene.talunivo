@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-45-plaene",
+  "packageVersion": 1,
+  "title": "45 · Pläne für morgen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Pläne für morgen",
+      "expression": "Amanhã vou trabalhar.",
+      "translation": "Morgen werde ich arbeiten.",
+      "explanation": "vou + Tätigkeit ist eine einfache Zukunftsform.",
+      "example": "Amanhã vou visitar minha irmã e vamos cozinhar juntos.",
+      "exampleTranslation": "Morgen werde ich meine Schwester besuchen und wir werden zusammen kochen."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Pläne für morgen",
+      "expression": "Vou visitar minha irmã.",
+      "translation": "Ich werde meine Schwester besuchen.",
+      "explanation": "visitar = besuchen."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Pläne für morgen",
+      "expression": "Vamos comprar comida.",
+      "translation": "Wir werden Lebensmittel einkaufen.",
+      "explanation": "vamos = wir werden; comida = Essen/Lebensmittel."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Pläne für morgen",
+      "expression": "Ela vai chegar à tarde.",
+      "translation": "Sie wird am Nachmittag ankommen.",
+      "explanation": "vai = sie wird; chegar = ankommen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Pläne für morgen",
+      "expression": "Você vai viajar no fim de semana?",
+      "translation": "Wirst du am Wochenende verreisen?",
+      "explanation": "viajar = reisen; fim de semana = Wochenende."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Pläne für morgen",
+      "expression": "Não vou sair hoje.",
+      "translation": "Ich werde heute nicht ausgehen.",
+      "explanation": "não steht vor vou."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Pläne für morgen",
+      "expression": "O que você vai fazer amanhã?",
+      "translation": "Was wirst du morgen machen?",
+      "explanation": "fazer = machen oder tun."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Pläne für morgen",
+      "expression": "Vamos ficar em casa.",
+      "translation": "Wir werden zu Hause bleiben.",
+      "explanation": "ficar em casa = zu Hause bleiben."
+    }
+  ]
+}

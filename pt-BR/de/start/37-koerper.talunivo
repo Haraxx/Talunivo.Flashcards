@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-37-koerper",
+  "packageVersion": 1,
+  "title": "37 · Körper und Befinden",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Körper und Befinden",
+      "expression": "Minha cabeça está doendo.",
+      "translation": "Mein Kopf tut weh.",
+      "explanation": "cabeça = Kopf; está doendo = tut gerade weh.",
+      "example": "Estou com dor de cabeça e preciso descansar.",
+      "exampleTranslation": "Ich habe Kopfschmerzen und muss mich ausruhen."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Körper und Befinden",
+      "expression": "Estou com dor de garganta.",
+      "translation": "Ich habe Halsschmerzen.",
+      "explanation": "estar com dor de = Schmerzen an einer Stelle haben."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Körper und Befinden",
+      "expression": "Meu braço dói.",
+      "translation": "Mein Arm tut weh.",
+      "explanation": "braço = Arm; dói = tut weh."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Körper und Befinden",
+      "expression": "Minha perna está cansada.",
+      "translation": "Mein Bein ist müde.",
+      "explanation": "perna = Bein; cansada = müde."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Körper und Befinden",
+      "expression": "Preciso descansar os pés.",
+      "translation": "Ich muss meine Füße ausruhen.",
+      "explanation": "pé = Fuß; Plural pés."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Körper und Befinden",
+      "expression": "Lave as mãos, por favor.",
+      "translation": "Wasch dir bitte die Hände.",
+      "explanation": "mão = Hand; Plural mãos."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Körper und Befinden",
+      "expression": "Estou com dor de barriga.",
+      "translation": "Ich habe Bauchschmerzen.",
+      "explanation": "barriga = Bauch."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Körper und Befinden",
+      "expression": "Meus olhos estão vermelhos.",
+      "translation": "Meine Augen sind rot.",
+      "explanation": "olhos = Augen; vermelhos = rot, männliche Mehrzahl."
+    }
+  ]
+}

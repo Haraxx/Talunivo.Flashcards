@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-46-gestern",
+  "packageVersion": 1,
+  "title": "46 · Von gestern erzählen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Von gestern erzählen",
+      "expression": "Ontem fui ao mercado.",
+      "translation": "Gestern bin ich auf den Markt gegangen.",
+      "explanation": "ontem = gestern; fui = ich ging/bin gegangen.",
+      "example": "Ontem fui ao mercado e comprei pão.",
+      "exampleTranslation": "Gestern bin ich auf den Markt gegangen und habe Brot gekauft."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Von gestern erzählen",
+      "expression": "Tomei café com uma amiga.",
+      "translation": "Ich habe mit einer Freundin Kaffee getrunken.",
+      "explanation": "tomei ist die Vergangenheitsform von tomar für ich."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Von gestern erzählen",
+      "expression": "Comprei pão e queijo.",
+      "translation": "Ich habe Brot und Käse gekauft.",
+      "explanation": "comprei = ich habe gekauft."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Von gestern erzählen",
+      "expression": "Estudei português por dez minutos.",
+      "translation": "Ich habe zehn Minuten Portugiesisch gelernt.",
+      "explanation": "estudei = ich habe gelernt; por bezeichnet hier die Dauer."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Von gestern erzählen",
+      "expression": "Gostei muito do passeio.",
+      "translation": "Der Ausflug hat mir sehr gefallen.",
+      "explanation": "gostei de = mir hat gefallen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Von gestern erzählen",
+      "expression": "Cheguei tarde em casa.",
+      "translation": "Ich bin spät nach Hause gekommen.",
+      "explanation": "cheguei = ich bin angekommen; tarde = spät."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Von gestern erzählen",
+      "expression": "Não entendi a pergunta.",
+      "translation": "Ich habe die Frage nicht verstanden.",
+      "explanation": "Diese Vergangenheitsform als ganze Wendung üben."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Von gestern erzählen",
+      "expression": "Foi um dia bom.",
+      "translation": "Es war ein guter Tag.",
+      "explanation": "foi = es war; dia ist männlich, daher bom."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-31-haushalt",
+  "packageVersion": 1,
+  "title": "31 · Im Haushalt",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Im Haushalt",
+      "expression": "Lavo a louça depois do almoço.",
+      "translation": "Ich spüle nach dem Mittagessen ab.",
+      "explanation": "lavar a louça = das Geschirr spülen.",
+      "example": "Depois do almoço, lavo a louça e arrumo a cama.",
+      "exampleTranslation": "Nach dem Mittagessen spüle ich ab und mache das Bett."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Im Haushalt",
+      "expression": "Preciso lavar a roupa.",
+      "translation": "Ich muss die Wäsche waschen.",
+      "explanation": "roupa = Kleidung oder Wäsche."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Im Haushalt",
+      "expression": "Vou arrumar a cama.",
+      "translation": "Ich werde das Bett machen.",
+      "explanation": "arrumar a cama = das Bett machen."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Im Haushalt",
+      "expression": "Pode fechar a janela?",
+      "translation": "Kannst du das Fenster schließen?",
+      "explanation": "fechar = schließen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Im Haushalt",
+      "expression": "Pode abrir a porta?",
+      "translation": "Kannst du die Tür öffnen?",
+      "explanation": "abrir = öffnen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Im Haushalt",
+      "expression": "A luz está acesa.",
+      "translation": "Das Licht ist an.",
+      "explanation": "acesa = eingeschaltet, passend zum weiblichen Wort luz."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Im Haushalt",
+      "expression": "Apague a luz, por favor.",
+      "translation": "Mach bitte das Licht aus.",
+      "explanation": "apagar bedeutet hier ausschalten."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Im Haushalt",
+      "expression": "O lixo fica lá fora.",
+      "translation": "Der Müll ist draußen.",
+      "explanation": "lixo = Müll; lá fora = draußen."
+    }
+  ]
+}

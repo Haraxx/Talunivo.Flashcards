@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-32-vorlieben",
+  "packageVersion": 1,
+  "title": "32 · Was ich mag",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Was ich mag",
+      "expression": "Gosto de música brasileira.",
+      "translation": "Ich mag brasilianische Musik.",
+      "explanation": "Nach gostar steht de.",
+      "example": "Gosto de música brasileira, mas não gosto de dançar.",
+      "exampleTranslation": "Ich mag brasilianische Musik, aber ich tanze nicht gern."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Was ich mag",
+      "expression": "Gosto muito de ler.",
+      "translation": "Ich lese sehr gern.",
+      "explanation": "gosto de + Tätigkeit = ich mache etwas gern."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Was ich mag",
+      "expression": "Não gosto de acordar cedo.",
+      "translation": "Ich stehe nicht gern früh auf.",
+      "explanation": "acordar = aufwachen; hier sinngemäß früh aufstehen."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Was ich mag",
+      "expression": "Prefiro chá a café.",
+      "translation": "Ich mag Tee lieber als Kaffee.",
+      "explanation": "preferir uma coisa a outra = eine Sache einer anderen vorziehen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Was ich mag",
+      "expression": "Qual é a sua comida favorita?",
+      "translation": "Was ist dein Lieblingsessen?",
+      "explanation": "comida favorita = Lieblingsessen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Was ich mag",
+      "expression": "Meu esporte favorito é futebol.",
+      "translation": "Mein Lieblingssport ist Fußball.",
+      "explanation": "esporte = Sport; futebol = Fußball."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Was ich mag",
+      "expression": "Também gosto de cozinhar.",
+      "translation": "Ich koche auch gern.",
+      "explanation": "também = auch; cozinhar = kochen."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Was ich mag",
+      "expression": "Você gosta de dançar?",
+      "translation": "Tanzt du gern?",
+      "explanation": "dançar = tanzen; gosta de = du magst."
+    }
+  ]
+}

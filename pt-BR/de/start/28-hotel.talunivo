@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-28-hotel",
+  "packageVersion": 1,
+  "title": "28 · Ankunft im Hotel",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Ankunft im Hotel",
+      "expression": "Tenho uma reserva em nome de Müller.",
+      "translation": "Ich habe eine Reservierung auf den Namen Müller.",
+      "explanation": "em nome de = auf den Namen.",
+      "example": "Tenho uma reserva para duas pessoas e três noites.",
+      "exampleTranslation": "Ich habe eine Reservierung für zwei Personen und drei Nächte."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Ankunft im Hotel",
+      "expression": "Quero um quarto para duas pessoas.",
+      "translation": "Ich möchte ein Zimmer für zwei Personen.",
+      "explanation": "quarto = Zimmer; para = für."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Ankunft im Hotel",
+      "expression": "Vou ficar três noites.",
+      "translation": "Ich werde drei Nächte bleiben.",
+      "explanation": "ficar heißt hier bleiben; noite = Nacht."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Ankunft im Hotel",
+      "expression": "O café da manhã está incluído?",
+      "translation": "Ist das Frühstück inbegriffen?",
+      "explanation": "incluído = inbegriffen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Ankunft im Hotel",
+      "expression": "A que horas é a saída?",
+      "translation": "Um wie viel Uhr ist die Abreise?",
+      "explanation": "saída meint hier den Zeitpunkt zum Auschecken."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Ankunft im Hotel",
+      "expression": "Aqui está meu passaporte.",
+      "translation": "Hier ist mein Reisepass.",
+      "explanation": "passaporte = Reisepass."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Ankunft im Hotel",
+      "expression": "Pode me dar a chave do quarto?",
+      "translation": "Können Sie mir den Zimmerschlüssel geben?",
+      "explanation": "chave do quarto = Schlüssel des Zimmers."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Ankunft im Hotel",
+      "expression": "Onde fica o elevador?",
+      "translation": "Wo ist der Aufzug?",
+      "explanation": "elevador = Aufzug."
+    }
+  ]
+}

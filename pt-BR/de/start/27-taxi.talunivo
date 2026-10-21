@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-27-taxi",
+  "packageVersion": 1,
+  "title": "27 · Mit dem Taxi unterwegs",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Pode me levar a este endereço?",
+      "translation": "Können Sie mich zu dieser Adresse bringen?",
+      "explanation": "levar = hinbringen; endereço = Adresse.",
+      "example": "Pode me levar ao hotel? Tenho o endereço aqui.",
+      "exampleTranslation": "Können Sie mich zum Hotel bringen? Ich habe die Adresse hier."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Quero ir para o hotel.",
+      "translation": "Ich möchte zum Hotel fahren.",
+      "explanation": "ir = gehen oder fahren; para = zu/nach."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Quanto fica a corrida?",
+      "translation": "Wie viel kostet die Fahrt?",
+      "explanation": "corrida heißt hier Taxi- oder Fahrdienstfahrt."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Pode parar aqui.",
+      "translation": "Sie können hier anhalten.",
+      "explanation": "parar = anhalten."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Vou descer aqui.",
+      "translation": "Ich steige hier aus.",
+      "explanation": "vou descer = ich werde aussteigen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "O trânsito está lento.",
+      "translation": "Der Verkehr stockt.",
+      "explanation": "trânsito = Verkehr; lento = langsam."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Estou esperando na entrada.",
+      "translation": "Ich warte am Eingang.",
+      "explanation": "esperando = gerade wartend; entrada = Eingang."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Mit dem Taxi unterwegs",
+      "expression": "Este é o carro certo?",
+      "translation": "Ist das das richtige Auto?",
+      "explanation": "certo = richtig; carro = Auto."
+    }
+  ]
+}

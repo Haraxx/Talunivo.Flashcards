@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-42-lernen",
+  "packageVersion": 1,
+  "title": "42 · Lernen und Üben",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Lernen und Üben",
+      "expression": "Vamos estudar juntos.",
+      "translation": "Lernen wir zusammen.",
+      "explanation": "estudar = lernen; juntos = zusammen.",
+      "example": "Esta palavra é nova para mim. Pode dar um exemplo?",
+      "exampleTranslation": "Dieses Wort ist neu für mich. Kannst du ein Beispiel geben?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Lernen und Üben",
+      "expression": "Tenho uma pergunta.",
+      "translation": "Ich habe eine Frage.",
+      "explanation": "pergunta = Frage."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Lernen und Üben",
+      "expression": "Pode dar um exemplo?",
+      "translation": "Kannst du ein Beispiel geben?",
+      "explanation": "dar um exemplo = ein Beispiel geben."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Lernen und Üben",
+      "expression": "Esta palavra é nova para mim.",
+      "translation": "Dieses Wort ist neu für mich.",
+      "explanation": "palavra = Wort; para mim = für mich."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Lernen und Üben",
+      "expression": "Como se pronuncia esta palavra?",
+      "translation": "Wie spricht man dieses Wort aus?",
+      "explanation": "pronunciar = aussprechen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Lernen und Üben",
+      "expression": "Preciso praticar mais.",
+      "translation": "Ich muss mehr üben.",
+      "explanation": "praticar = üben; mais = mehr."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Lernen und Üben",
+      "expression": "Vou tentar de novo.",
+      "translation": "Ich werde es noch einmal versuchen.",
+      "explanation": "tentar = versuchen; de novo = noch einmal."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Lernen und Üben",
+      "expression": "Agora eu entendi.",
+      "translation": "Jetzt habe ich es verstanden.",
+      "explanation": "agora = jetzt; entendi = ich habe verstanden."
+    }
+  ]
+}

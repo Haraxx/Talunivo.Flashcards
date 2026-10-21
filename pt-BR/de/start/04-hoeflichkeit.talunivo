@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-04-hoeflichkeit",
+  "packageVersion": 1,
+  "title": "04 · Bitte, danke, Entschuldigung",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Por favor, entre.",
+      "translation": "Bitte komm herein.",
+      "explanation": "entre ist eine höfliche Aufforderung.",
+      "example": "Por favor, entre e sente aqui.",
+      "exampleTranslation": "Bitte komm herein und setz dich hierhin."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Muito obrigado!",
+      "translation": "Vielen Dank!",
+      "explanation": "Ein Mann sagt obrigado; eine Frau obrigada."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Muito obrigada pela ajuda.",
+      "translation": "Vielen Dank für die Hilfe.",
+      "explanation": "Weibliche Sprecherform; pela = por + a."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "De nada!",
+      "translation": "Gern geschehen!",
+      "explanation": "Antwort auf einen Dank."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Com licença, posso passar?",
+      "translation": "Entschuldigung, darf ich vorbei?",
+      "explanation": "com licença bittet um Platz oder Erlaubnis."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Desculpe pelo atraso.",
+      "translation": "Entschuldige die Verspätung.",
+      "explanation": "desculpe = entschuldige; atraso = Verspätung."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Não tem problema.",
+      "translation": "Das ist kein Problem.",
+      "explanation": "Im Alltag oft statt des formelleren não há problema."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Bitte, danke, Entschuldigung",
+      "expression": "Pode repetir, por favor?",
+      "translation": "Kannst du das bitte wiederholen?",
+      "explanation": "repetir = wiederholen."
+    }
+  ]
+}

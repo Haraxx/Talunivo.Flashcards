@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-11-familie",
+  "packageVersion": 1,
+  "title": "11 · Familie und Menschen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Familie und Menschen",
+      "expression": "Esta é a minha mãe.",
+      "translation": "Das ist meine Mutter.",
+      "explanation": "minha = meine; mãe = Mutter.",
+      "example": "Esta é a minha mãe, e este é o meu pai.",
+      "exampleTranslation": "Das ist meine Mutter, und das ist mein Vater."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Familie und Menschen",
+      "expression": "Este é o meu pai.",
+      "translation": "Das ist mein Vater.",
+      "explanation": "meu = mein; pai = Vater."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Familie und Menschen",
+      "expression": "Tenho uma irmã.",
+      "translation": "Ich habe eine Schwester.",
+      "explanation": "tenho = ich habe; irmã = Schwester."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Familie und Menschen",
+      "expression": "Meu irmão se chama João.",
+      "translation": "Mein Bruder heißt João.",
+      "explanation": "irmão = Bruder; se chama = heißt."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Familie und Menschen",
+      "expression": "Meus pais moram aqui.",
+      "translation": "Meine Eltern wohnen hier.",
+      "explanation": "meus pais = meine Eltern; aqui = hier."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Familie und Menschen",
+      "expression": "Minha avó mora perto.",
+      "translation": "Meine Großmutter wohnt in der Nähe.",
+      "explanation": "avó mit ó = Großmutter; perto = in der Nähe."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Familie und Menschen",
+      "expression": "Meu avô tem setenta anos.",
+      "translation": "Mein Großvater ist siebzig Jahre alt.",
+      "explanation": "avô mit ô = Großvater; Alter mit ter ausdrücken."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Familie und Menschen",
+      "expression": "Você tem filhos?",
+      "translation": "Hast du Kinder?",
+      "explanation": "filhos kann Kinder oder Söhne heißen."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-05-verstehen",
+  "packageVersion": 1,
+  "title": "05 · Verstehen und Nachfragen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Não entendi.",
+      "translation": "Ich habe es nicht verstanden.",
+      "explanation": "entendi ist die Vergangenheit von entender.",
+      "example": "Não entendi. Pode repetir mais devagar?",
+      "exampleTranslation": "Ich habe es nicht verstanden. Kannst du es langsamer wiederholen?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Pode falar mais devagar?",
+      "translation": "Kannst du langsamer sprechen?",
+      "explanation": "mais devagar = langsamer."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "O que isso significa?",
+      "translation": "Was bedeutet das?",
+      "explanation": "significar = bedeuten."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Como se diz isso em português?",
+      "translation": "Wie sagt man das auf Portugiesisch?",
+      "explanation": "como se diz = wie sagt man."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Como se escreve seu nome?",
+      "translation": "Wie schreibt man deinen Namen?",
+      "explanation": "escrever = schreiben."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Você fala alemão?",
+      "translation": "Sprichst du Deutsch?",
+      "explanation": "alemão bezeichnet hier die Sprache."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Estou aprendendo português.",
+      "translation": "Ich lerne gerade Portugiesisch.",
+      "explanation": "estou aprendendo = ich lerne gerade; die Handlung läuft jetzt."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Verstehen und Nachfragen",
+      "expression": "Só um momento, por favor.",
+      "translation": "Nur einen Moment, bitte.",
+      "explanation": "só = nur; momento = Moment."
+    }
+  ]
+}

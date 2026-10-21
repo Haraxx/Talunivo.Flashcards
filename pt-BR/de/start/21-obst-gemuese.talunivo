@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-21-obst-gemuese",
+  "packageVersion": 1,
+  "title": "21 · Obst und Gemüse",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Obst und Gemüse",
+      "expression": "Quero duas laranjas.",
+      "translation": "Ich möchte zwei Orangen.",
+      "explanation": "laranja = Orange; duas ist die weibliche Form von zwei.",
+      "example": "Quero duas laranjas e uma alface.",
+      "exampleTranslation": "Ich möchte zwei Orangen und einen Kopfsalat."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Obst und Gemüse",
+      "expression": "O abacaxi está maduro.",
+      "translation": "Die Ananas ist reif.",
+      "explanation": "abacaxi = Ananas; maduro = reif."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Obst und Gemüse",
+      "expression": "Gosto de manga.",
+      "translation": "Ich mag Mango.",
+      "explanation": "manga kann auch Ärmel heißen; hier ist die Frucht gemeint."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Obst und Gemüse",
+      "expression": "Estes tomates estão bonitos.",
+      "translation": "Diese Tomaten sehen schön aus.",
+      "explanation": "estes = diese; bonitos = schön in der männlichen Mehrzahl."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Obst und Gemüse",
+      "expression": "Preciso de batatas.",
+      "translation": "Ich brauche Kartoffeln.",
+      "explanation": "batata = Kartoffel; Mehrzahl batatas."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Obst und Gemüse",
+      "expression": "Você tem cebola e alho?",
+      "translation": "Hast du Zwiebeln und Knoblauch?",
+      "explanation": "cebola = Zwiebel; alho = Knoblauch."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Obst und Gemüse",
+      "expression": "Quero uma alface pequena.",
+      "translation": "Ich möchte einen kleinen Kopfsalat.",
+      "explanation": "alface ist weiblich; gemeint ist hier ein Salatkopf."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Obst und Gemüse",
+      "expression": "Vou levar estas cenouras.",
+      "translation": "Ich nehme diese Karotten.",
+      "explanation": "vou levar = ich werde mitnehmen; cenoura = Karotte."
+    }
+  ]
+}

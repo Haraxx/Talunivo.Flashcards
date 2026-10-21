@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-48-mission-markt",
+  "packageVersion": 1,
+  "title": "48 · Mini-Dialog: Auf dem Markt",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Bom dia! Tem bananas maduras?",
+      "translation": "Guten Morgen! Gibt es reife Bananen?",
+      "explanation": "Käufer: maduras = reif, passend zum weiblichen Wort bananas.",
+      "example": "Bom dia! Quero meio quilo de bananas, por favor.",
+      "exampleTranslation": "Guten Morgen! Ich möchte bitte ein halbes Kilo Bananen."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Sim, estas estão bem maduras.",
+      "translation": "Ja, diese hier sind schön reif.",
+      "explanation": "Verkäufer: estas steht für die Bananen."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Quanto custa o quilo?",
+      "translation": "Wie viel kostet das Kilo?",
+      "explanation": "Käufer: o quilo = das Kilogramm."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "O quilo custa oito reais.",
+      "translation": "Das Kilo kostet acht Reais.",
+      "explanation": "Verkäufer: custa = kostet."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Então quero meio quilo.",
+      "translation": "Dann möchte ich ein halbes Kilo.",
+      "explanation": "Käufer: então = dann; meio quilo = halbes Kilo."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Quer mais alguma coisa?",
+      "translation": "Möchten Sie sonst noch etwas?",
+      "explanation": "Verkäufer: mais alguma coisa = noch etwas."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Só isso, obrigado.",
+      "translation": "Das ist alles, danke.",
+      "explanation": "Männlicher Käufer: obrigado; weiblich obrigada."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Mini-Dialog: Auf dem Markt",
+      "expression": "Aqui está. Tenha um bom dia!",
+      "translation": "Hier bitte. Einen schönen Tag noch!",
+      "explanation": "Verkäufer: tenha um bom dia ist ein freundlicher Abschiedsgruß."
+    }
+  ]
+}

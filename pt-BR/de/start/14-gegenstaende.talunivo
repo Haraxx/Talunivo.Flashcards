@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-14-gegenstaende",
+  "packageVersion": 1,
+  "title": "14 · Dinge im Alltag",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Dinge im Alltag",
+      "expression": "O que é isto?",
+      "translation": "Was ist das hier?",
+      "explanation": "isto bezeichnet etwas in der Nähe der sprechenden Person.",
+      "example": "Isto é um livro de português.",
+      "exampleTranslation": "Das hier ist ein Portugiesischbuch."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Dinge im Alltag",
+      "expression": "Isto é um livro.",
+      "translation": "Das hier ist ein Buch.",
+      "explanation": "um livro = ein Buch."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Dinge im Alltag",
+      "expression": "Preciso de uma caneta.",
+      "translation": "Ich brauche einen Stift.",
+      "explanation": "precisar de = brauchen; caneta = Kugelschreiber."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Dinge im Alltag",
+      "expression": "Meu celular está na mesa.",
+      "translation": "Mein Handy liegt auf dem Tisch.",
+      "explanation": "celular = Handy; na mesa = auf dem Tisch."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Dinge im Alltag",
+      "expression": "Onde estão minhas chaves?",
+      "translation": "Wo sind meine Schlüssel?",
+      "explanation": "estão für mehrere Dinge; chaves = Schlüssel."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Dinge im Alltag",
+      "expression": "Esta bolsa é sua?",
+      "translation": "Gehört diese Tasche dir?",
+      "explanation": "sua = deine; bolsa = Tasche."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Dinge im Alltag",
+      "expression": "O copo está vazio.",
+      "translation": "Das Glas ist leer.",
+      "explanation": "copo = Trinkglas; vazio = leer."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Dinge im Alltag",
+      "expression": "A cadeira está ocupada.",
+      "translation": "Der Stuhl ist besetzt.",
+      "explanation": "cadeira ist weiblich, daher ocupada."
+    }
+  ]
+}

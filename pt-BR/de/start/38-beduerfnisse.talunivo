@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-38-beduerfnisse",
+  "packageVersion": 1,
+  "title": "38 · Hunger, Durst und Bedürfnisse",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Estou com fome.",
+      "translation": "Ich habe Hunger.",
+      "explanation": "In Brasilien sagt man häufig estar com fome.",
+      "example": "Estou com sede. Preciso beber água.",
+      "exampleTranslation": "Ich habe Durst. Ich muss Wasser trinken."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Estou com sede.",
+      "translation": "Ich habe Durst.",
+      "explanation": "sede = Durst."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Preciso beber água.",
+      "translation": "Ich muss Wasser trinken.",
+      "explanation": "preciso + Tätigkeit = ich muss etwas tun."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Quero descansar um pouco.",
+      "translation": "Ich möchte mich ein bisschen ausruhen.",
+      "explanation": "descansar = ausruhen; um pouco = ein bisschen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Preciso ir ao banheiro.",
+      "translation": "Ich muss auf die Toilette.",
+      "explanation": "ir ao banheiro = zur Toilette gehen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Estou com sono.",
+      "translation": "Ich bin schläfrig.",
+      "explanation": "sono = Schläfrigkeit oder Schlaf."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Preciso de ajuda agora.",
+      "translation": "Ich brauche jetzt Hilfe.",
+      "explanation": "ajuda = Hilfe; agora = jetzt."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Hunger, Durst und Bedürfnisse",
+      "expression": "Quero ficar sozinho um momento.",
+      "translation": "Ich möchte einen Moment allein sein.",
+      "explanation": "Ein Mann sagt sozinho; eine Frau sozinha."
+    }
+  ]
+}

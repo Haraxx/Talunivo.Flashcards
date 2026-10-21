@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-34-einladen",
+  "packageVersion": 1,
+  "title": "34 · Einladen und Verabreden",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Einladen und Verabreden",
+      "expression": "Vamos tomar um café?",
+      "translation": "Wollen wir einen Kaffee trinken gehen?",
+      "explanation": "vamos + Tätigkeit ist eine einfache Einladung.",
+      "example": "Vamos tomar um café no sábado? Você tem tempo?",
+      "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken gehen? Hast du Zeit?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Einladen und Verabreden",
+      "expression": "Quer ir ao cinema comigo?",
+      "translation": "Möchtest du mit mir ins Kino gehen?",
+      "explanation": "comigo = mit mir."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Einladen und Verabreden",
+      "expression": "Você tem tempo amanhã?",
+      "translation": "Hast du morgen Zeit?",
+      "explanation": "ter tempo = Zeit haben."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Einladen und Verabreden",
+      "expression": "Que tal um passeio?",
+      "translation": "Wie wäre es mit einem Ausflug?",
+      "explanation": "que tal = wie wäre es mit."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Einladen und Verabreden",
+      "expression": "Boa ideia, vamos!",
+      "translation": "Gute Idee, gehen wir!",
+      "explanation": "boa ideia = gute Idee."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Einladen und Verabreden",
+      "expression": "Hoje não posso.",
+      "translation": "Heute kann ich nicht.",
+      "explanation": "posso = ich kann; não = nicht."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Einladen und Verabreden",
+      "expression": "Pode ser no sábado?",
+      "translation": "Geht es am Samstag?",
+      "explanation": "pode ser fragt hier, ob der Vorschlag passt."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Einladen und Verabreden",
+      "expression": "Combinado, até sábado!",
+      "translation": "Abgemacht, bis Samstag!",
+      "explanation": "combinado = abgemacht."
+    }
+  ]
+}

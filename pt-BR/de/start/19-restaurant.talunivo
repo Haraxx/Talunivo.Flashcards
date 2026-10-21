@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-19-restaurant",
+  "packageVersion": 1,
+  "title": "19 · Im Restaurant",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Im Restaurant",
+      "expression": "Uma mesa para três, por favor.",
+      "translation": "Einen Tisch für drei, bitte.",
+      "explanation": "para três = für drei Personen.",
+      "example": "Quero arroz com feijão e uma salada.",
+      "exampleTranslation": "Ich möchte Reis mit Bohnen und einen Salat."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Im Restaurant",
+      "expression": "Qual é o prato do dia?",
+      "translation": "Was ist das Tagesgericht?",
+      "explanation": "prato do dia = Tagesgericht."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Im Restaurant",
+      "expression": "Quero arroz com feijão.",
+      "translation": "Ich möchte Reis mit Bohnen.",
+      "explanation": "arroz com feijão ist eine verbreitete Beilage in Brasilien."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Im Restaurant",
+      "expression": "O peixe vem com salada?",
+      "translation": "Wird der Fisch mit Salat serviert?",
+      "explanation": "vem com = kommt mit, hier wird serviert mit."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Im Restaurant",
+      "expression": "Não como carne.",
+      "translation": "Ich esse kein Fleisch.",
+      "explanation": "carne = Fleisch; não como = ich esse nicht."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Im Restaurant",
+      "expression": "Este prato tem amendoim?",
+      "translation": "Enthält dieses Gericht Erdnüsse?",
+      "explanation": "tem = enthält; amendoim = Erdnuss."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Im Restaurant",
+      "expression": "Sem pimenta, por favor.",
+      "translation": "Ohne Chili, bitte.",
+      "explanation": "pimenta kann je nach Gericht Chili oder Pfeffer meinen."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Im Restaurant",
+      "expression": "Podemos dividir a conta?",
+      "translation": "Können wir die Rechnung teilen?",
+      "explanation": "podemos = wir können; dividir = teilen."
+    }
+  ]
+}

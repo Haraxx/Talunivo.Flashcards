@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-39-apotheke",
+  "packageVersion": 1,
+  "title": "39 · In der Apotheke",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "In der Apotheke",
+      "expression": "Preciso falar com o farmacêutico.",
+      "translation": "Ich muss mit dem Apotheker sprechen.",
+      "explanation": "farmacêutico = Apotheker; farmacêutica = Apothekerin.",
+      "example": "Tenho uma receita médica. Pode me ajudar?",
+      "exampleTranslation": "Ich habe ein ärztliches Rezept. Können Sie mir helfen?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "In der Apotheke",
+      "expression": "Estou procurando uma farmácia aberta.",
+      "translation": "Ich suche eine geöffnete Apotheke.",
+      "explanation": "procurando = gerade suchend; aberta = geöffnet."
+    },
+    {
+      "id": "karte-03",
+      "topic": "In der Apotheke",
+      "expression": "Tenho alergia a amendoim.",
+      "translation": "Ich bin gegen Erdnüsse allergisch.",
+      "explanation": "ter alergia a = allergisch gegen etwas sein."
+    },
+    {
+      "id": "karte-04",
+      "topic": "In der Apotheke",
+      "expression": "Tenho uma receita médica.",
+      "translation": "Ich habe ein ärztliches Rezept.",
+      "explanation": "receita médica = ärztliches Rezept."
+    },
+    {
+      "id": "karte-05",
+      "topic": "In der Apotheke",
+      "expression": "Este remédio precisa de receita?",
+      "translation": "Ist dieses Medikament rezeptpflichtig?",
+      "explanation": "remédio = Medikament; precisa de = benötigt."
+    },
+    {
+      "id": "karte-06",
+      "topic": "In der Apotheke",
+      "expression": "Pode explicar como usar?",
+      "translation": "Können Sie erklären, wie man es anwendet?",
+      "explanation": "explicar = erklären; usar = anwenden."
+    },
+    {
+      "id": "karte-07",
+      "topic": "In der Apotheke",
+      "expression": "Pode escrever as instruções?",
+      "translation": "Können Sie die Anweisungen aufschreiben?",
+      "explanation": "instruções = Anweisungen."
+    },
+    {
+      "id": "karte-08",
+      "topic": "In der Apotheke",
+      "expression": "Não entendi a orientação.",
+      "translation": "Ich habe die Auskunft nicht verstanden.",
+      "explanation": "orientação meint hier eine Erklärung oder Anleitung."
+    }
+  ]
+}

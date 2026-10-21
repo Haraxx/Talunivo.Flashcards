@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-47-gespraech",
+  "packageVersion": 1,
+  "title": "47 · Kleine Gespräche verbinden",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Quero café, mas sem leite.",
+      "translation": "Ich möchte Kaffee, aber ohne Milch.",
+      "explanation": "mas verbindet einen Gegensatz: aber.",
+      "example": "Primeiro vou estudar, depois vou tomar um café.",
+      "exampleTranslation": "Erst werde ich lernen, danach werde ich einen Kaffee trinken."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Gosto de chá e de suco.",
+      "translation": "Ich mag Tee und Saft.",
+      "explanation": "e = und; de gehört zu gostar."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Você quer água ou café?",
+      "translation": "Möchtest du Wasser oder Kaffee?",
+      "explanation": "ou = oder."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Estou cansada porque trabalhei muito.",
+      "translation": "Ich bin müde, weil ich viel gearbeitet habe.",
+      "explanation": "porque = weil; cansada ist die weibliche Form."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Primeiro vou comer, depois vou sair.",
+      "translation": "Erst werde ich essen, danach werde ich ausgehen.",
+      "explanation": "primeiro = zuerst; depois = danach."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Se chover, vou ficar em casa.",
+      "translation": "Wenn es regnet, werde ich zu Hause bleiben.",
+      "explanation": "se chover als feste Wendung lernen: falls es regnet."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Não sei, mas posso perguntar.",
+      "translation": "Ich weiß es nicht, aber ich kann fragen.",
+      "explanation": "perguntar = fragen."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Kleine Gespräche verbinden",
+      "expression": "Acho que sim.",
+      "translation": "Ich glaube schon.",
+      "explanation": "acho que = ich denke/glaube, dass."
+    }
+  ]
+}

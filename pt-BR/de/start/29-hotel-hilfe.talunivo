@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-29-hotel-hilfe",
+  "packageVersion": 1,
+  "title": "29 · Kleine Probleme im Hotel",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "O ar-condicionado não funciona.",
+      "translation": "Die Klimaanlage funktioniert nicht.",
+      "explanation": "funcionar = funktionieren.",
+      "example": "O ar-condicionado não funciona. Posso trocar de quarto?",
+      "exampleTranslation": "Die Klimaanlage funktioniert nicht. Kann ich das Zimmer wechseln?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "Não tem água quente.",
+      "translation": "Es gibt kein warmes Wasser.",
+      "explanation": "água quente = warmes oder heißes Wasser."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "Preciso de uma toalha limpa.",
+      "translation": "Ich brauche ein sauberes Handtuch.",
+      "explanation": "toalha = Handtuch; limpa = sauber."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "Pode limpar o quarto amanhã?",
+      "translation": "Können Sie das Zimmer morgen reinigen?",
+      "explanation": "limpar = reinigen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "Perdi a chave do quarto.",
+      "translation": "Ich habe den Zimmerschlüssel verloren.",
+      "explanation": "perdi = ich habe verloren."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "Tem um cobertor extra?",
+      "translation": "Gibt es eine zusätzliche Decke?",
+      "explanation": "cobertor = Decke; extra = zusätzlich."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "O quarto está muito barulhento.",
+      "translation": "Das Zimmer ist sehr laut.",
+      "explanation": "barulhento = laut oder lärmend."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Kleine Probleme im Hotel",
+      "expression": "Posso trocar de quarto?",
+      "translation": "Kann ich das Zimmer wechseln?",
+      "explanation": "trocar de = wechseln."
+    }
+  ]
+}

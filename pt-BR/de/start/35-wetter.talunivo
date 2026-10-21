@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-35-wetter",
+  "packageVersion": 1,
+  "title": "35 · Wetter und Jahreszeiten",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "Como está o tempo?",
+      "translation": "Wie ist das Wetter?",
+      "explanation": "tempo bedeutet hier Wetter, sonst auch Zeit.",
+      "example": "Hoje está quente, mas amanhã vai chover.",
+      "exampleTranslation": "Heute ist es heiß, aber morgen wird es regnen."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "Hoje está quente.",
+      "translation": "Heute ist es heiß.",
+      "explanation": "quente = warm oder heiß."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "Está fazendo frio.",
+      "translation": "Es ist kalt.",
+      "explanation": "fazer frio = kalt sein, als Wetterausdruck."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "Está chovendo muito.",
+      "translation": "Es regnet stark.",
+      "explanation": "chovendo = regnend; muito = viel/stark."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "O céu está nublado.",
+      "translation": "Der Himmel ist bewölkt.",
+      "explanation": "nublado = bewölkt."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "Tem muito vento hoje.",
+      "translation": "Heute ist es sehr windig.",
+      "explanation": "vento = Wind."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "No verão, os dias são longos.",
+      "translation": "Im Sommer sind die Tage lang.",
+      "explanation": "verão = Sommer; longos = lang in der Mehrzahl."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "No inverno, uso um casaco.",
+      "translation": "Im Winter trage ich einen Mantel.",
+      "explanation": "inverno = Winter; usar = benutzen oder tragen."
+    }
+  ]
+}

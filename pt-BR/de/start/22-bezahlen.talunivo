@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-22-bezahlen",
+  "packageVersion": 1,
+  "title": "22 · Geld und Bezahlen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Geld und Bezahlen",
+      "expression": "Quanto é tudo?",
+      "translation": "Wie viel kostet alles zusammen?",
+      "explanation": "tudo = alles; quanto é = wie viel ist es.",
+      "example": "São vinte reais. Posso pagar em dinheiro?",
+      "exampleTranslation": "Das macht zwanzig Reais. Kann ich bar bezahlen?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Geld und Bezahlen",
+      "expression": "Posso pagar em dinheiro?",
+      "translation": "Kann ich bar bezahlen?",
+      "explanation": "em dinheiro = in bar."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Geld und Bezahlen",
+      "expression": "Aceita cartão de débito?",
+      "translation": "Akzeptieren Sie eine Debitkarte?",
+      "explanation": "aceitar = akzeptieren; débito = direkte Kontobelastung."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Geld und Bezahlen",
+      "expression": "Vou pagar com Pix.",
+      "translation": "Ich werde mit Pix bezahlen.",
+      "explanation": "Pix ist ein brasilianisches Sofortzahlungssystem."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Geld und Bezahlen",
+      "expression": "Preciso de troco.",
+      "translation": "Ich brauche Wechselgeld.",
+      "explanation": "troco = Wechselgeld."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Geld und Bezahlen",
+      "expression": "Aqui estão cinquenta reais.",
+      "translation": "Hier sind fünfzig Reais.",
+      "explanation": "aqui estão = hier sind, für mehrere Einheiten."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Geld und Bezahlen",
+      "expression": "Pode me dar o recibo?",
+      "translation": "Können Sie mir den Beleg geben?",
+      "explanation": "dar = geben; recibo = Beleg."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Geld und Bezahlen",
+      "expression": "O valor está errado.",
+      "translation": "Der Betrag stimmt nicht.",
+      "explanation": "valor = Betrag; errado = falsch."
+    }
+  ]
+}

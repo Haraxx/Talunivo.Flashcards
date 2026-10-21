@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-33-freizeit",
+  "packageVersion": 1,
+  "title": "33 · Freizeit und Hobbys",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Leio um livro à noite.",
+      "translation": "Ich lese abends ein Buch.",
+      "explanation": "leio = ich lese; à noite = abends.",
+      "example": "No tempo livre, leio e ouço música.",
+      "exampleTranslation": "In meiner Freizeit lese ich und höre Musik."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Ouço música no ônibus.",
+      "translation": "Ich höre im Bus Musik.",
+      "explanation": "ouço = ich höre; no = em + o."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Assisto a filmes em casa.",
+      "translation": "Ich schaue zu Hause Filme.",
+      "explanation": "assistir a = anschauen."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Jogo futebol aos sábados.",
+      "translation": "Ich spiele samstags Fußball.",
+      "explanation": "aos sábados = samstags, regelmäßig."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Faço uma caminhada no parque.",
+      "translation": "Ich gehe im Park spazieren.",
+      "explanation": "fazer uma caminhada = einen Spaziergang machen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Tiro fotos da cidade.",
+      "translation": "Ich fotografiere die Stadt.",
+      "explanation": "tirar fotos = Fotos machen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Freizeit und Hobbys",
+      "expression": "Gosto de nadar no mar.",
+      "translation": "Ich schwimme gern im Meer.",
+      "explanation": "nadar = schwimmen; mar = Meer."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Freizeit und Hobbys",
+      "expression": "No tempo livre, desenho.",
+      "translation": "In meiner Freizeit zeichne ich.",
+      "explanation": "tempo livre = Freizeit; desenhar = zeichnen."
+    }
+  ]
+}

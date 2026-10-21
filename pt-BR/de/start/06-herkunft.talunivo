@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-06-herkunft",
+  "packageVersion": 1,
+  "title": "06 · Herkunft und Wohnort",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Herkunft und Wohnort",
+      "expression": "De onde você é?",
+      "translation": "Woher kommst du?",
+      "explanation": "de onde = woher; ser beschreibt die Herkunft.",
+      "example": "Sou da Alemanha, mas moro no Brasil.",
+      "exampleTranslation": "Ich komme aus Deutschland, aber ich wohne in Brasilien."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Eu sou da Alemanha.",
+      "translation": "Ich komme aus Deutschland.",
+      "explanation": "da = de + a; Alemanha = Deutschland."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Ela é do Brasil.",
+      "translation": "Sie kommt aus Brasilien.",
+      "explanation": "do = de + o; Brasil = Brasilien."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Sou alemão.",
+      "translation": "Ich bin Deutscher.",
+      "explanation": "Männliche Form; weiblich alemã."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Sou brasileira.",
+      "translation": "Ich bin Brasilianerin.",
+      "explanation": "Weibliche Form; männlich brasileiro."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Onde você mora?",
+      "translation": "Wo wohnst du?",
+      "explanation": "morar = wohnen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Moro em Berlim.",
+      "translation": "Ich wohne in Berlin.",
+      "explanation": "em vor Städten ohne Artikel, etwa Berlim."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Herkunft und Wohnort",
+      "expression": "Moro numa cidade pequena.",
+      "translation": "Ich wohne in einer kleinen Stadt.",
+      "explanation": "numa = em + uma; pequena = klein."
+    }
+  ]
+}

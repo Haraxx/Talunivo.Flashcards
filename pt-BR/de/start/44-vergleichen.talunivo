@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-44-vergleichen",
+  "packageVersion": 1,
+  "title": "44 · Einfach vergleichen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Einfach vergleichen",
+      "expression": "Este é mais barato.",
+      "translation": "Das hier ist billiger.",
+      "explanation": "mais barato = billiger.",
+      "example": "Este hotel é mais barato, mas fica mais longe.",
+      "exampleTranslation": "Dieses Hotel ist billiger, aber es liegt weiter weg."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Einfach vergleichen",
+      "expression": "Aquele é mais caro.",
+      "translation": "Das dort ist teurer.",
+      "explanation": "aquele = das dort; mais caro = teurer."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Einfach vergleichen",
+      "expression": "Esta mala é maior que a minha.",
+      "translation": "Dieser Koffer ist größer als meiner.",
+      "explanation": "maior que = größer als; mala ist weiblich."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Einfach vergleichen",
+      "expression": "Este quarto é menor.",
+      "translation": "Dieses Zimmer ist kleiner.",
+      "explanation": "menor = kleiner."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Einfach vergleichen",
+      "expression": "A estação fica mais longe que o mercado.",
+      "translation": "Der Bahnhof ist weiter weg als der Markt.",
+      "explanation": "mais longe que = weiter weg als."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Einfach vergleichen",
+      "expression": "Quero menos açúcar.",
+      "translation": "Ich möchte weniger Zucker.",
+      "explanation": "menos = weniger."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Einfach vergleichen",
+      "expression": "Preciso de mais tempo.",
+      "translation": "Ich brauche mehr Zeit.",
+      "explanation": "mais = mehr; tempo bedeutet hier Zeit."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Einfach vergleichen",
+      "expression": "Este caminho é melhor.",
+      "translation": "Dieser Weg ist besser.",
+      "explanation": "melhor = besser; caminho = Weg."
+    }
+  ]
+}

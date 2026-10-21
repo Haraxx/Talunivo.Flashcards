@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-50-mission-alltag",
+  "packageVersion": 1,
+  "title": "50 · Abschluss: Ein Tag in Brasilien",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Bom dia, meu nome é Lena e sou da Alemanha.",
+      "translation": "Guten Morgen, mein Name ist Lena und ich komme aus Deutschland.",
+      "explanation": "Verbinde Begrüßung, Namen und Herkunft in einem Satz.",
+      "example": "Ontem visitei o museu. Amanhã vou à praia.",
+      "exampleTranslation": "Gestern habe ich das Museum besucht. Morgen gehe ich an den Strand."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Estou aprendendo português e preciso praticar.",
+      "translation": "Ich lerne Portugiesisch und muss üben.",
+      "explanation": "Diesen Satz kannst du am Anfang eines Gesprächs verwenden."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Quero um café e um pão com queijo.",
+      "translation": "Ich möchte einen Kaffee und ein Brot mit Käse.",
+      "explanation": "Hier sind Brot mit Käse und kein pão de queijo gemeint."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Depois vou pegar o ônibus para o centro.",
+      "translation": "Danach werde ich den Bus ins Zentrum nehmen.",
+      "explanation": "depois = danach; pegar o ônibus = den Bus nehmen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Pode me dizer onde fica o museu?",
+      "translation": "Können Sie mir sagen, wo das Museum ist?",
+      "explanation": "pode me dizer = können Sie mir sagen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "À tarde vou encontrar uma amiga no parque.",
+      "translation": "Am Nachmittag werde ich eine Freundin im Park treffen.",
+      "explanation": "encontrar = treffen; à tarde = am Nachmittag."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Ontem visitei a praia e gostei muito.",
+      "translation": "Gestern habe ich den Strand besucht und es hat mir sehr gefallen.",
+      "explanation": "visitei und gostei erzählen von einem abgeschlossenen Erlebnis."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Abschluss: Ein Tag in Brasilien",
+      "expression": "Amanhã quero conversar mais em português.",
+      "translation": "Morgen möchte ich mehr auf Portugiesisch sprechen.",
+      "explanation": "conversar = sich unterhalten; feiere deinen Fortschritt mit einem kurzen Gespräch."
+    }
+  ]
+}

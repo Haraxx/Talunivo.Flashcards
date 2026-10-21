@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-03-befinden",
+  "packageVersion": 1,
+  "title": "03 · Befinden und Gefühle",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Befinden und Gefühle",
+      "expression": "Como você está hoje?",
+      "translation": "Wie geht es dir heute?",
+      "explanation": "estar beschreibt hier das aktuelle Befinden.",
+      "example": "Hoje estou bem, mas um pouco cansada.",
+      "exampleTranslation": "Heute geht es mir gut, aber ich bin ein bisschen müde."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Befinden und Gefühle",
+      "expression": "Estou bem, e você?",
+      "translation": "Mir geht es gut, und dir?",
+      "explanation": "estou = ich bin; e = und."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Befinden und Gefühle",
+      "expression": "Estou muito feliz.",
+      "translation": "Ich bin sehr glücklich.",
+      "explanation": "muito heißt hier sehr: muito feliz = sehr glücklich."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Befinden und Gefühle",
+      "expression": "Estou um pouco triste.",
+      "translation": "Ich bin ein bisschen traurig.",
+      "explanation": "um pouco = ein bisschen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Befinden und Gefühle",
+      "expression": "Estou cansado.",
+      "translation": "Ich bin müde.",
+      "explanation": "Ein Mann sagt cansado; eine Frau cansada."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Befinden und Gefühle",
+      "expression": "Estou cansada também.",
+      "translation": "Ich bin auch müde.",
+      "explanation": "Weibliche Form cansada; também = auch."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Befinden und Gefühle",
+      "expression": "Está tudo bem.",
+      "translation": "Es ist alles in Ordnung.",
+      "explanation": "tudo bem kann eine Frage oder eine Aussage sein."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Befinden und Gefühle",
+      "expression": "Mais ou menos.",
+      "translation": "So einigermaßen.",
+      "explanation": "Wörtlich: mehr oder weniger."
+    }
+  ]
+}

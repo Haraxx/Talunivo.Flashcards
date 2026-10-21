@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-40-hilfe",
+  "packageVersion": 1,
+  "title": "40 · Um Hilfe bitten",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Um Hilfe bitten",
+      "expression": "Pode me ajudar, por favor?",
+      "translation": "Können Sie mir bitte helfen?",
+      "explanation": "ajudar = helfen; me = mir.",
+      "example": "Estou perdida. Pode me mostrar o hotel no mapa?",
+      "exampleTranslation": "Ich habe mich verlaufen. Können Sie mir das Hotel auf der Karte zeigen?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Um Hilfe bitten",
+      "expression": "Estou perdido.",
+      "translation": "Ich habe mich verlaufen.",
+      "explanation": "Ein Mann sagt perdido; eine Frau perdida."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Um Hilfe bitten",
+      "expression": "Estou perdida nesta rua.",
+      "translation": "Ich habe mich in dieser Straße verlaufen.",
+      "explanation": "Weibliche Sprecherform; nesta = in dieser."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Um Hilfe bitten",
+      "expression": "Perdi meu celular.",
+      "translation": "Ich habe mein Handy verloren.",
+      "explanation": "perdi = ich habe verloren; celular = Handy."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Um Hilfe bitten",
+      "expression": "Não encontro meu passaporte.",
+      "translation": "Ich finde meinen Reisepass nicht.",
+      "explanation": "encontrar = finden."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Um Hilfe bitten",
+      "expression": "Chame uma ambulância, por favor.",
+      "translation": "Rufen Sie bitte einen Krankenwagen.",
+      "explanation": "chame = rufen Sie; ambulância = Krankenwagen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Um Hilfe bitten",
+      "expression": "Preciso de um médico.",
+      "translation": "Ich brauche einen Arzt.",
+      "explanation": "médico = Arzt; médica = Ärztin."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Um Hilfe bitten",
+      "expression": "Estou na entrada do hotel.",
+      "translation": "Ich bin am Hoteleingang.",
+      "explanation": "na entrada = am Eingang; do hotel = des Hotels."
+    }
+  ]
+}

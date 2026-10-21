@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-17-getraenke",
+  "packageVersion": 1,
+  "title": "17 · Getränke bestellen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Getränke bestellen",
+      "expression": "Uma água sem gás, por favor.",
+      "translation": "Ein stilles Wasser, bitte.",
+      "explanation": "sem gás = ohne Kohlensäure.",
+      "example": "Quero uma água sem gás e sem gelo.",
+      "exampleTranslation": "Ich möchte ein stilles Wasser ohne Eiswürfel."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Getränke bestellen",
+      "expression": "Quero água com gás.",
+      "translation": "Ich möchte Sprudelwasser.",
+      "explanation": "com gás = mit Kohlensäure."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Getränke bestellen",
+      "expression": "Um café com leite, por favor.",
+      "translation": "Einen Kaffee mit Milch, bitte.",
+      "explanation": "com leite = mit Milch."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Getränke bestellen",
+      "expression": "Você tem chá?",
+      "translation": "Hast du Tee?",
+      "explanation": "chá = Tee; tem = du hast."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Getränke bestellen",
+      "expression": "Quero um suco de laranja.",
+      "translation": "Ich möchte einen Orangensaft.",
+      "explanation": "suco ist in Brasilien das übliche Wort für Saft."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Getränke bestellen",
+      "expression": "Sem gelo, por favor.",
+      "translation": "Ohne Eiswürfel, bitte.",
+      "explanation": "gelo meint hier Eiswürfel im Getränk."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Getränke bestellen",
+      "expression": "Pode ser uma xícara pequena.",
+      "translation": "Es kann eine kleine Tasse sein.",
+      "explanation": "pode ser = es kann sein; xícara = Tasse."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Getränke bestellen",
+      "expression": "Para levar, por favor.",
+      "translation": "Zum Mitnehmen, bitte.",
+      "explanation": "para levar ist die übliche Wendung für zum Mitnehmen."
+    }
+  ]
+}

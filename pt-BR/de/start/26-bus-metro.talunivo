@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-26-bus-metro",
+  "packageVersion": 1,
+  "title": "26 · Bus und Metro",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Bus und Metro",
+      "expression": "Onde fica o ponto de ônibus?",
+      "translation": "Wo ist die Bushaltestelle?",
+      "explanation": "ponto de ônibus ist die brasilianische Bezeichnung.",
+      "example": "Este ônibus vai para o centro ou para a praia?",
+      "exampleTranslation": "Fährt dieser Bus ins Zentrum oder zum Strand?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Bus und Metro",
+      "expression": "Este ônibus vai para o centro?",
+      "translation": "Fährt dieser Bus ins Zentrum?",
+      "explanation": "vai para = fährt nach; ônibus = Bus."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Bus und Metro",
+      "expression": "Qual linha devo pegar?",
+      "translation": "Welche Linie soll ich nehmen?",
+      "explanation": "pegar bedeutet hier ein Verkehrsmittel nehmen."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Bus und Metro",
+      "expression": "Uma passagem, por favor.",
+      "translation": "Eine Fahrkarte, bitte.",
+      "explanation": "passagem = Fahrkarte oder Fahrt."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Bus und Metro",
+      "expression": "Onde posso comprar o bilhete?",
+      "translation": "Wo kann ich den Fahrschein kaufen?",
+      "explanation": "bilhete = Fahrschein; comprar = kaufen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Bus und Metro",
+      "expression": "Preciso descer na próxima parada.",
+      "translation": "Ich muss an der nächsten Haltestelle aussteigen.",
+      "explanation": "descer = aussteigen; próxima = nächste."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Bus und Metro",
+      "expression": "Tenho que trocar de linha?",
+      "translation": "Muss ich die Linie wechseln?",
+      "explanation": "ter que = müssen; trocar = wechseln."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Bus und Metro",
+      "expression": "O metrô está lotado.",
+      "translation": "Die Metro ist überfüllt.",
+      "explanation": "lotado = voll oder überfüllt."
+    }
+  ]
+}

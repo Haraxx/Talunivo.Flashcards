@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-01-begruessung",
+  "packageVersion": 1,
+  "title": "01 · Begrüßung und Abschied",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Oi!",
+      "translation": "Hallo!",
+      "explanation": "Informelle Begrüßung im brasilianischen Alltag.",
+      "example": "Oi, Ana! Tudo bem?",
+      "exampleTranslation": "Hallo, Ana! Alles gut?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Olá, tudo bem?",
+      "translation": "Hallo, alles gut?",
+      "explanation": "tudo = alles; bem = gut."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Bom dia!",
+      "translation": "Guten Morgen!",
+      "explanation": "Übliche Begrüßung am Morgen."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Boa tarde!",
+      "translation": "Guten Tag!",
+      "explanation": "Begrüßung am Nachmittag."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Boa noite!",
+      "translation": "Guten Abend!",
+      "explanation": "Auch als Gute-Nacht-Gruß verwendbar."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Até amanhã!",
+      "translation": "Bis morgen!",
+      "explanation": "até = bis; amanhã = morgen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Até mais tarde!",
+      "translation": "Bis später!",
+      "explanation": "mais tarde = später."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Begrüßung und Abschied",
+      "expression": "Tchau, até logo!",
+      "translation": "Tschüss, bis bald!",
+      "explanation": "tchau ist ein üblicher Abschiedsgruß."
+    }
+  ]
+}

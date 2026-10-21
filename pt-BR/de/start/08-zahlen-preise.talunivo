@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-08-zahlen-preise",
+  "packageVersion": 1,
+  "title": "08 · Zahlen und Preise bis hundert",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "onze, doze, treze",
+      "translation": "elf, zwölf, dreizehn",
+      "explanation": "Diese Zahlen werden als eigene Wörter gelernt.",
+      "example": "Esta bolsa custa trinta e cinco reais.",
+      "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "quatorze, quinze, dezesseis",
+      "translation": "vierzehn, fünfzehn, sechzehn",
+      "explanation": "Auch catorze ist gebräuchlich; dezesseis ist brasilianisch."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "dezessete, dezoito, dezenove",
+      "translation": "siebzehn, achtzehn, neunzehn",
+      "explanation": "Brasilianische Schreibweisen mit dez-."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "vinte, trinta, quarenta",
+      "translation": "zwanzig, dreißig, vierzig",
+      "explanation": "Die Zehnerformen als feste Wörter lernen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "cinquenta, sessenta, setenta",
+      "translation": "fünfzig, sechzig, siebzig",
+      "explanation": "cinquenta wird ohne Trema geschrieben."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "oitenta, noventa, cem",
+      "translation": "achtzig, neunzig, hundert",
+      "explanation": "Genau 100 heißt cem; ab 101 verwendet man cento."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "Custa vinte e dois reais.",
+      "translation": "Es kostet zweiundzwanzig Reais.",
+      "explanation": "Zwischen Zehner und Einer steht e."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "Quanto custa esta garrafa?",
+      "translation": "Wie viel kostet diese Flasche?",
+      "explanation": "quanto custa = wie viel kostet; garrafa = Flasche."
+    }
+  ]
+}

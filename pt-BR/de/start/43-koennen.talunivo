@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-43-koennen",
+  "packageVersion": 1,
+  "title": "43 · Können und Erlaubnis",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Können und Erlaubnis",
+      "expression": "Sei falar um pouco de português.",
+      "translation": "Ich kann ein bisschen Portugiesisch sprechen.",
+      "explanation": "sei + Tätigkeit bedeutet ich kann, weil ich es gelernt habe.",
+      "example": "Sei nadar, mas não posso nadar aqui.",
+      "exampleTranslation": "Ich kann schwimmen, aber ich darf hier nicht schwimmen."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Können und Erlaubnis",
+      "expression": "Ainda não sei nadar.",
+      "translation": "Ich kann noch nicht schwimmen.",
+      "explanation": "não sei + Tätigkeit = ich beherrsche es nicht."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Können und Erlaubnis",
+      "expression": "Você sabe cozinhar?",
+      "translation": "Kannst du kochen?",
+      "explanation": "saber fragt hier nach einer erlernten Fähigkeit."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Können und Erlaubnis",
+      "expression": "Posso sentar aqui?",
+      "translation": "Darf ich mich hier hinsetzen?",
+      "explanation": "posso fragt hier nach Erlaubnis."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Können und Erlaubnis",
+      "expression": "Pode usar meu telefone.",
+      "translation": "Du darfst mein Telefon benutzen.",
+      "explanation": "pode kann Erlaubnis ausdrücken."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Können und Erlaubnis",
+      "expression": "Não posso sair agora.",
+      "translation": "Ich kann jetzt nicht weggehen.",
+      "explanation": "posso kann auch eine aktuelle Möglichkeit bezeichnen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Können und Erlaubnis",
+      "expression": "Você pode abrir isto?",
+      "translation": "Kannst du das hier öffnen?",
+      "explanation": "poder fragt hier, ob jemand etwas tun kann."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Können und Erlaubnis",
+      "expression": "Aqui não pode fumar.",
+      "translation": "Hier darf man nicht rauchen.",
+      "explanation": "não pode = es ist nicht erlaubt; fumar = rauchen."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-13-wohnen",
+  "packageVersion": 1,
+  "title": "13 · Zu Hause",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Zu Hause",
+      "expression": "Esta é a minha casa.",
+      "translation": "Das ist mein Haus.",
+      "explanation": "casa kann Haus oder Zuhause bedeuten.",
+      "example": "Minha casa é pequena, mas a sala é grande.",
+      "exampleTranslation": "Mein Haus ist klein, aber das Wohnzimmer ist groß."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Zu Hause",
+      "expression": "Meu apartamento é pequeno.",
+      "translation": "Meine Wohnung ist klein.",
+      "explanation": "apartamento = Wohnung; pequeno = klein."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Zu Hause",
+      "expression": "A cozinha fica aqui.",
+      "translation": "Die Küche ist hier.",
+      "explanation": "ficar beschreibt hier die Lage."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Zu Hause",
+      "expression": "O banheiro fica ali.",
+      "translation": "Das Badezimmer ist dort.",
+      "explanation": "banheiro bedeutet in Brasilien auch Toilette."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Zu Hause",
+      "expression": "Meu quarto tem uma janela.",
+      "translation": "Mein Zimmer hat ein Fenster.",
+      "explanation": "quarto = Zimmer; janela = Fenster."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Zu Hause",
+      "expression": "A sala é grande.",
+      "translation": "Das Wohnzimmer ist groß.",
+      "explanation": "sala meint hier das Wohnzimmer."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Zu Hause",
+      "expression": "Moro com minha família.",
+      "translation": "Ich wohne mit meiner Familie.",
+      "explanation": "com = mit; família = Familie."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Zu Hause",
+      "expression": "A porta está aberta.",
+      "translation": "Die Tür ist offen.",
+      "explanation": "aberta passt zur weiblichen porta."
+    }
+  ]
+}

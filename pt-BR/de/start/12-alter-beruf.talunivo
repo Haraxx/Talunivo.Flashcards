@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-12-alter-beruf",
+  "packageVersion": 1,
+  "title": "12 · Alter und Beruf",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Alter und Beruf",
+      "expression": "Quantos anos você tem?",
+      "translation": "Wie alt bist du?",
+      "explanation": "Wörtlich: Wie viele Jahre hast du?",
+      "example": "Tenho vinte anos e sou estudante.",
+      "exampleTranslation": "Ich bin zwanzig Jahre alt und bin Student."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Alter und Beruf",
+      "expression": "Tenho vinte e cinco anos.",
+      "translation": "Ich bin fünfundzwanzig Jahre alt.",
+      "explanation": "Für das Alter sagt man tenho, also ich habe."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Alter und Beruf",
+      "expression": "Sou estudante.",
+      "translation": "Ich bin Student.",
+      "explanation": "estudante kann auch Schüler bedeuten; für beide Geschlechter gleich."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Alter und Beruf",
+      "expression": "Ela é professora.",
+      "translation": "Sie ist Lehrerin.",
+      "explanation": "professora = Lehrerin; professor = Lehrer."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Alter und Beruf",
+      "expression": "Ele é médico.",
+      "translation": "Er ist Arzt.",
+      "explanation": "médico = Arzt; médica = Ärztin."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Alter und Beruf",
+      "expression": "Trabalho num escritório.",
+      "translation": "Ich arbeite in einem Büro.",
+      "explanation": "num = em + um, also in einem."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Alter und Beruf",
+      "expression": "Onde você trabalha?",
+      "translation": "Wo arbeitest du?",
+      "explanation": "trabalhar = arbeiten."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Alter und Beruf",
+      "expression": "Ainda não trabalho.",
+      "translation": "Ich arbeite noch nicht.",
+      "explanation": "ainda não = noch nicht."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-20-supermarkt",
+  "packageVersion": 1,
+  "title": "20 · Im Supermarkt",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Im Supermarkt",
+      "expression": "Onde fica o supermercado?",
+      "translation": "Wo ist der Supermarkt?",
+      "explanation": "onde fica = wo befindet sich.",
+      "example": "Preciso de leite, arroz e maçãs.",
+      "exampleTranslation": "Ich brauche Milch, Reis und Äpfel."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Im Supermarkt",
+      "expression": "Preciso de um litro de leite.",
+      "translation": "Ich brauche einen Liter Milch.",
+      "explanation": "um litro de = ein Liter."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Im Supermarkt",
+      "expression": "Quero meio quilo de arroz.",
+      "translation": "Ich möchte ein halbes Kilo Reis.",
+      "explanation": "meio quilo = ein halbes Kilogramm."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Im Supermarkt",
+      "expression": "As maçãs estão frescas?",
+      "translation": "Sind die Äpfel frisch?",
+      "explanation": "maçã = Apfel; frescas passt zur Mehrzahl maçãs."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Im Supermarkt",
+      "expression": "Quanto custa este pacote?",
+      "translation": "Wie viel kostet diese Packung?",
+      "explanation": "pacote = Packung oder Paket."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Im Supermarkt",
+      "expression": "Tem uma sacola?",
+      "translation": "Gibt es eine Tüte?",
+      "explanation": "sacola = Einkaufstüte."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Im Supermarkt",
+      "expression": "Não preciso de sacola.",
+      "translation": "Ich brauche keine Tüte.",
+      "explanation": "preciso de = ich brauche; não verneint den Satz."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Im Supermarkt",
+      "expression": "Onde fica o caixa?",
+      "translation": "Wo ist die Kasse?",
+      "explanation": "o caixa = die Kasse; a caixa = die Schachtel."
+    }
+  ]
+}

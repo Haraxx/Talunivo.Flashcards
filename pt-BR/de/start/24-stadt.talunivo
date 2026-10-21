@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-24-stadt",
+  "packageVersion": 1,
+  "title": "24 · Orte in der Stadt",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Orte in der Stadt",
+      "expression": "Tem uma farmácia perto daqui?",
+      "translation": "Gibt es eine Apotheke hier in der Nähe?",
+      "explanation": "perto daqui = in der Nähe von hier.",
+      "example": "A farmácia fica na esquina, perto do banco.",
+      "exampleTranslation": "Die Apotheke ist an der Ecke, in der Nähe der Bank."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Orte in der Stadt",
+      "expression": "Onde fica o banco?",
+      "translation": "Wo ist die Bank?",
+      "explanation": "banco kann Bankgebäude oder Sitzbank heißen."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Orte in der Stadt",
+      "expression": "A padaria fica na esquina.",
+      "translation": "Die Bäckerei ist an der Ecke.",
+      "explanation": "padaria = Bäckerei; esquina = Straßenecke."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Orte in der Stadt",
+      "expression": "O mercado fica em frente à praça.",
+      "translation": "Der Markt liegt gegenüber dem Platz.",
+      "explanation": "em frente a = gegenüber; praça = Platz."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Orte in der Stadt",
+      "expression": "A estação está perto.",
+      "translation": "Der Bahnhof ist in der Nähe.",
+      "explanation": "estação kann je nach Kontext auch Station heißen."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Orte in der Stadt",
+      "expression": "O museu está fechado hoje.",
+      "translation": "Das Museum ist heute geschlossen.",
+      "explanation": "fechado = geschlossen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Orte in der Stadt",
+      "expression": "A praia fica longe?",
+      "translation": "Ist der Strand weit weg?",
+      "explanation": "praia = Strand; longe = weit entfernt."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Orte in der Stadt",
+      "expression": "Há um parque neste bairro.",
+      "translation": "In diesem Viertel gibt es einen Park.",
+      "explanation": "há = es gibt; neste = em + este; bairro = Viertel."
+    }
+  ]
+}

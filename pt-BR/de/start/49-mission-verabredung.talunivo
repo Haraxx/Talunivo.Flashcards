@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-49-mission-verabredung",
+  "packageVersion": 1,
+  "title": "49 · Mini-Dialog: Einen Ausflug planen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Você está livre no domingo?",
+      "translation": "Hast du am Sonntag Zeit?",
+      "explanation": "livre meint hier frei von anderen Verpflichtungen.",
+      "example": "Vamos sair às nove e nos encontrar na frente da padaria.",
+      "exampleTranslation": "Wir werden um neun losgehen und uns vor der Bäckerei treffen."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Sim, estou livre de manhã.",
+      "translation": "Ja, vormittags habe ich Zeit.",
+      "explanation": "de manhã kann morgens oder am Vormittag heißen."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Vamos visitar o parque novo?",
+      "translation": "Wollen wir den neuen Park besuchen?",
+      "explanation": "vamos + Tätigkeit schlägt etwas Gemeinsames vor."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Claro! A que horas vamos sair?",
+      "translation": "Klar! Um wie viel Uhr gehen wir los?",
+      "explanation": "claro = klar/natürlich; sair = losgehen."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Podemos sair às nove.",
+      "translation": "Wir können um neun losgehen.",
+      "explanation": "podemos = wir können; às nove = um neun Uhr."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Onde vamos nos encontrar?",
+      "translation": "Wo werden wir uns treffen?",
+      "explanation": "nos encontrar = uns treffen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Na frente da padaria da esquina.",
+      "translation": "Vor der Bäckerei an der Ecke.",
+      "explanation": "na frente de = vor; da esquina = an der Ecke."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Mini-Dialog: Einen Ausflug planen",
+      "expression": "Ótimo, vou levar água para nós.",
+      "translation": "Prima, ich werde Wasser für uns mitnehmen.",
+      "explanation": "ótimo = prima; para nós = für uns."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-02-vorstellung",
+  "packageVersion": 1,
+  "title": "02 · Name und Vorstellung",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Name und Vorstellung",
+      "expression": "Meu nome é Ana.",
+      "translation": "Mein Name ist Ana.",
+      "explanation": "meu nome = mein Name; é = ist.",
+      "example": "Meu nome é Lucas. E o seu?",
+      "exampleTranslation": "Mein Name ist Lucas. Und deiner?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Name und Vorstellung",
+      "expression": "Eu me chamo Lucas.",
+      "translation": "Ich heiße Lucas.",
+      "explanation": "chamar-se = heißen; me chamo = ich heiße."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Name und Vorstellung",
+      "expression": "Como você se chama?",
+      "translation": "Wie heißt du?",
+      "explanation": "você entspricht hier dem deutschen du."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Name und Vorstellung",
+      "expression": "Qual é o seu nome?",
+      "translation": "Wie ist dein Name?",
+      "explanation": "qual = welcher/welche/welches; seu nome = dein Name."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Name und Vorstellung",
+      "expression": "Prazer em conhecer você.",
+      "translation": "Freut mich, dich kennenzulernen.",
+      "explanation": "Höfliche Wendung bei einer Vorstellung."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Name und Vorstellung",
+      "expression": "Este é o Pedro.",
+      "translation": "Das ist Pedro.",
+      "explanation": "este = dieser; vor Namen ist der Artikel regional üblich."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Name und Vorstellung",
+      "expression": "Esta é a minha amiga.",
+      "translation": "Das ist meine Freundin.",
+      "explanation": "amiga = Freundin; esta ist weiblich."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Name und Vorstellung",
+      "expression": "Pode me chamar de Bia.",
+      "translation": "Du kannst mich Bia nennen.",
+      "explanation": "chamar de = nennen; pode = du kannst."
+    }
+  ]
+}

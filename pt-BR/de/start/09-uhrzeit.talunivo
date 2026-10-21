@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-09-uhrzeit",
+  "packageVersion": 1,
+  "title": "09 · Uhrzeit und Verabredungen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "Que horas são?",
+      "translation": "Wie spät ist es?",
+      "explanation": "Wörtlich: Welche Stunden sind es?",
+      "example": "Vamos nos encontrar às duas e meia.",
+      "exampleTranslation": "Treffen wir uns um halb drei."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "É uma hora.",
+      "translation": "Es ist ein Uhr.",
+      "explanation": "Bei einer Stunde steht der Singular é."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "São duas horas.",
+      "translation": "Es ist zwei Uhr.",
+      "explanation": "Ab zwei Stunden steht der Plural são."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "São três e meia.",
+      "translation": "Es ist halb vier.",
+      "explanation": "Portugiesisch zählt drei und eine halbe Stunde."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "São quatro e quinze.",
+      "translation": "Es ist Viertel nach vier.",
+      "explanation": "quinze = fünfzehn Minuten."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "São dez para as cinco.",
+      "translation": "Es ist zehn vor fünf.",
+      "explanation": "para as cinco = bis fünf Uhr."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "A aula começa às oito.",
+      "translation": "Der Unterricht beginnt um acht.",
+      "explanation": "às = a + as; Uhrzeit mit às."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Uhrzeit und Verabredungen",
+      "expression": "Vamos nos encontrar ao meio-dia.",
+      "translation": "Treffen wir uns um zwölf Uhr mittags.",
+      "explanation": "ao meio-dia = um zwölf Uhr mittags."
+    }
+  ]
+}

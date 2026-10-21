@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-25-wegbeschreibung",
+  "packageVersion": 1,
+  "title": "25 · Nach dem Weg fragen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Como chego ao centro?",
+      "translation": "Wie komme ich ins Zentrum?",
+      "explanation": "chegar a = ankommen bei; ao = a + o.",
+      "example": "Siga em frente e vire à direita.",
+      "exampleTranslation": "Gehen Sie geradeaus und biegen Sie rechts ab."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Siga em frente.",
+      "translation": "Gehen Sie geradeaus.",
+      "explanation": "siga em frente ist eine feste Weganweisung."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Vire à direita.",
+      "translation": "Biegen Sie rechts ab.",
+      "explanation": "à direita = nach rechts."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Vire à esquerda.",
+      "translation": "Biegen Sie links ab.",
+      "explanation": "à esquerda = nach links."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Atravesse a rua.",
+      "translation": "Überqueren Sie die Straße.",
+      "explanation": "atravessar = überqueren; rua = Straße."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Nach dem Weg fragen",
+      "expression": "É depois do semáforo.",
+      "translation": "Es ist hinter der Ampel.",
+      "explanation": "depois de = nach; semáforo = Ampel."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Fica ao lado da escola.",
+      "translation": "Es liegt neben der Schule.",
+      "explanation": "ao lado de = neben."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Nach dem Weg fragen",
+      "expression": "Pode me mostrar no mapa?",
+      "translation": "Können Sie es mir auf der Karte zeigen?",
+      "explanation": "mostrar = zeigen; no mapa = auf der Karte."
+    }
+  ]
+}

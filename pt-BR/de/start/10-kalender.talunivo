@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-10-kalender",
+  "packageVersion": 1,
+  "title": "10 · Wochentage und Datum",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Wochentage und Datum",
+      "expression": "Hoje é segunda-feira.",
+      "translation": "Heute ist Montag.",
+      "explanation": "segunda-feira = Montag.",
+      "example": "Hoje é segunda-feira, primeiro de junho.",
+      "exampleTranslation": "Heute ist Montag, der erste Juni."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Wochentage und Datum",
+      "expression": "Amanhã é terça-feira.",
+      "translation": "Morgen ist Dienstag.",
+      "explanation": "amanhã = morgen."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Wochentage und Datum",
+      "expression": "A reunião é na quarta-feira.",
+      "translation": "Die Besprechung ist am Mittwoch.",
+      "explanation": "na = em + a; quarta-feira = Mittwoch."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Wochentage und Datum",
+      "expression": "Trabalho na quinta e na sexta.",
+      "translation": "Ich arbeite am Donnerstag und am Freitag.",
+      "explanation": "quinta und sexta sind Kurzformen der Wochentage."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Wochentage und Datum",
+      "expression": "Sábado e domingo são dias de descanso.",
+      "translation": "Samstag und Sonntag sind Ruhetage.",
+      "explanation": "dias de descanso = Ruhetage."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Wochentage und Datum",
+      "expression": "Que dia é hoje?",
+      "translation": "Welches Datum haben wir heute?",
+      "explanation": "dia kann Tag oder Datum meinen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Wochentage und Datum",
+      "expression": "Hoje é primeiro de maio.",
+      "translation": "Heute ist der erste Mai.",
+      "explanation": "Für den Monatsersten verwendet man primeiro."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Wochentage und Datum",
+      "expression": "Meu aniversário é em junho.",
+      "translation": "Mein Geburtstag ist im Juni.",
+      "explanation": "Vor Monaten steht hier em."
+    }
+  ]
+}

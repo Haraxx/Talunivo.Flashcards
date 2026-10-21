@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-07-zahlen-zehn",
+  "packageVersion": 1,
+  "title": "07 · Zahlen von null bis zehn",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "zero, um, dois",
+      "translation": "null, eins, zwei",
+      "explanation": "um und dois sind die männlichen Zahlformen.",
+      "example": "Tenho dois livros e uma caneta.",
+      "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
+    },
+    {
+      "id": "karte-02",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "três, quatro, cinco",
+      "translation": "drei, vier, fünf",
+      "explanation": "três trägt einen Zirkumflex."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "seis, sete, oito",
+      "translation": "sechs, sieben, acht",
+      "explanation": "Beim Üben jede Zahl einzeln laut sprechen."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "nove, dez",
+      "translation": "neun, zehn",
+      "explanation": "dez = zehn; nove = neun."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "Uma pessoa.",
+      "translation": "Eine Person.",
+      "explanation": "pessoa ist weiblich, daher uma."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "Duas mesas.",
+      "translation": "Zwei Tische.",
+      "explanation": "Weibliches Zahlwort duas zu mesas."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "Tenho três irmãos.",
+      "translation": "Ich habe drei Brüder.",
+      "explanation": "irmãos kann je nach Kontext auch Geschwister heißen."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "São cinco reais.",
+      "translation": "Das macht fünf Reais.",
+      "explanation": "real ist die brasilianische Währung; Plural reais."
+    }
+  ]
+}

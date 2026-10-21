@@ -1,0 +1,69 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 1,
+  "packageId": "start-ptbr-41-handy",
+  "packageVersion": 1,
+  "title": "41 · Handy und Kontakt",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Handy und Kontakt",
+      "expression": "Qual é o seu número de telefone?",
+      "translation": "Wie lautet deine Telefonnummer?",
+      "explanation": "número de telefone = Telefonnummer.",
+      "example": "Meu celular está sem bateria. Tem uma tomada aqui?",
+      "exampleTranslation": "Mein Handy hat keinen Akku mehr. Gibt es hier eine Steckdose?"
+    },
+    {
+      "id": "karte-02",
+      "topic": "Handy und Kontakt",
+      "expression": "Pode me mandar uma mensagem?",
+      "translation": "Kannst du mir eine Nachricht schicken?",
+      "explanation": "mandar = schicken; mensagem = Nachricht."
+    },
+    {
+      "id": "karte-03",
+      "topic": "Handy und Kontakt",
+      "expression": "Vou te ligar amanhã.",
+      "translation": "Ich rufe dich morgen an.",
+      "explanation": "ligar = anrufen; te = dich."
+    },
+    {
+      "id": "karte-04",
+      "topic": "Handy und Kontakt",
+      "expression": "Meu celular está sem bateria.",
+      "translation": "Mein Handy hat keinen Akku mehr.",
+      "explanation": "sem bateria = ohne Akkuladung."
+    },
+    {
+      "id": "karte-05",
+      "topic": "Handy und Kontakt",
+      "expression": "Tem uma tomada aqui?",
+      "translation": "Gibt es hier eine Steckdose?",
+      "explanation": "tomada = Steckdose."
+    },
+    {
+      "id": "karte-06",
+      "topic": "Handy und Kontakt",
+      "expression": "Posso carregar meu celular?",
+      "translation": "Kann ich mein Handy aufladen?",
+      "explanation": "carregar bedeutet hier aufladen."
+    },
+    {
+      "id": "karte-07",
+      "topic": "Handy und Kontakt",
+      "expression": "Não tenho sinal aqui.",
+      "translation": "Ich habe hier keinen Empfang.",
+      "explanation": "sinal meint hier Mobilfunkempfang."
+    },
+    {
+      "id": "karte-08",
+      "topic": "Handy und Kontakt",
+      "expression": "Pode escrever seu endereço de e-mail?",
+      "translation": "Kannst du deine E-Mail-Adresse aufschreiben?",
+      "explanation": "endereço de e-mail = E-Mail-Adresse."
+    }
+  ]
+}
