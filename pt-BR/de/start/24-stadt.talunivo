@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-24-stadt",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "24 · Orte in der Stadt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Orte in der Stadt",
-      "expression": "Tem uma farmácia perto daqui?",
-      "translation": "Gibt es eine Apotheke hier in der Nähe?",
-      "explanation": "perto daqui = in der Nähe von hier.",
+      "expression": "farmácia",
+      "translation": "Apotheke",
+      "isVocabulary": true,
       "example": "A farmácia fica na esquina, perto do banco.",
       "exampleTranslation": "Die Apotheke ist an der Ecke, in der Nähe der Bank."
     },
     {
       "id": "karte-02",
       "topic": "Orte in der Stadt",
-      "expression": "Onde fica o banco?",
-      "translation": "Wo ist die Bank?",
-      "explanation": "banco kann Bankgebäude oder Sitzbank heißen."
+      "expression": "banco",
+      "translation": "Bank",
+      "isVocabulary": true,
+      "example": "Onde fica o banco?",
+      "exampleTranslation": "Wo ist die Bank?"
     },
     {
       "id": "karte-03",
       "topic": "Orte in der Stadt",
-      "expression": "A padaria fica na esquina.",
-      "translation": "Die Bäckerei ist an der Ecke.",
-      "explanation": "padaria = Bäckerei; esquina = Straßenecke."
+      "expression": "padaria",
+      "translation": "Bäckerei",
+      "isVocabulary": true,
+      "example": "A padaria fica na esquina.",
+      "exampleTranslation": "Die Bäckerei ist an der Ecke."
     },
     {
       "id": "karte-04",
       "topic": "Orte in der Stadt",
-      "expression": "O mercado fica em frente à praça.",
-      "translation": "Der Markt liegt gegenüber dem Platz.",
-      "explanation": "em frente a = gegenüber; praça = Platz."
+      "expression": "praça",
+      "translation": "Platz",
+      "isVocabulary": true,
+      "example": "O mercado fica em frente à praça.",
+      "exampleTranslation": "Der Markt liegt gegenüber dem Platz."
     },
     {
       "id": "karte-05",
       "topic": "Orte in der Stadt",
-      "expression": "A estação está perto.",
-      "translation": "Der Bahnhof ist in der Nähe.",
-      "explanation": "estação kann je nach Kontext auch Station heißen."
+      "expression": "estação",
+      "translation": "Bahnhof; Station",
+      "isVocabulary": true,
+      "example": "A estação está perto.",
+      "exampleTranslation": "Der Bahnhof ist in der Nähe."
     },
     {
       "id": "karte-06",
       "topic": "Orte in der Stadt",
-      "expression": "O museu está fechado hoje.",
-      "translation": "Das Museum ist heute geschlossen.",
-      "explanation": "fechado = geschlossen."
+      "expression": "museu",
+      "translation": "Museum",
+      "isVocabulary": true,
+      "example": "O museu está fechado hoje.",
+      "exampleTranslation": "Das Museum ist heute geschlossen."
     },
     {
       "id": "karte-07",
       "topic": "Orte in der Stadt",
-      "expression": "A praia fica longe?",
-      "translation": "Ist der Strand weit weg?",
-      "explanation": "praia = Strand; longe = weit entfernt."
+      "expression": "praia",
+      "translation": "Strand",
+      "isVocabulary": true,
+      "example": "A praia fica longe?",
+      "exampleTranslation": "Ist der Strand weit weg?"
     },
     {
       "id": "karte-08",
       "topic": "Orte in der Stadt",
-      "expression": "Há um parque neste bairro.",
-      "translation": "In diesem Viertel gibt es einen Park.",
-      "explanation": "há = es gibt; neste = em + este; bairro = Viertel."
+      "expression": "parque",
+      "translation": "Park",
+      "isVocabulary": true,
+      "example": "Há um parque neste bairro.",
+      "exampleTranslation": "In diesem Viertel gibt es einen Park."
     }
   ]
 }

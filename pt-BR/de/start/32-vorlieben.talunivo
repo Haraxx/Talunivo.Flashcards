@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-32-vorlieben",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "32 · Was ich mag",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Was ich mag",
-      "expression": "Gosto de música brasileira.",
-      "translation": "Ich mag brasilianische Musik.",
-      "explanation": "Nach gostar steht de.",
+      "expression": "música",
+      "translation": "Musik",
+      "isVocabulary": true,
       "example": "Gosto de música brasileira, mas não gosto de dançar.",
       "exampleTranslation": "Ich mag brasilianische Musik, aber ich tanze nicht gern."
     },
     {
       "id": "karte-02",
       "topic": "Was ich mag",
-      "expression": "Gosto muito de ler.",
-      "translation": "Ich lese sehr gern.",
-      "explanation": "gosto de + Tätigkeit = ich mache etwas gern."
+      "expression": "ler",
+      "translation": "lesen",
+      "isVocabulary": true,
+      "example": "Gosto muito de ler.",
+      "exampleTranslation": "Ich lese sehr gern."
     },
     {
       "id": "karte-03",
       "topic": "Was ich mag",
-      "expression": "Não gosto de acordar cedo.",
-      "translation": "Ich stehe nicht gern früh auf.",
-      "explanation": "acordar = aufwachen; hier sinngemäß früh aufstehen."
+      "expression": "cedo",
+      "translation": "früh",
+      "isVocabulary": true,
+      "example": "Não gosto de acordar cedo.",
+      "exampleTranslation": "Ich stehe nicht gern früh auf."
     },
     {
       "id": "karte-04",
       "topic": "Was ich mag",
-      "expression": "Prefiro chá a café.",
-      "translation": "Ich mag Tee lieber als Kaffee.",
-      "explanation": "preferir uma coisa a outra = eine Sache einer anderen vorziehen."
+      "expression": "preferir",
+      "translation": "bevorzugen",
+      "isVocabulary": true,
+      "example": "Prefiro chá a café.",
+      "exampleTranslation": "Ich mag Tee lieber als Kaffee."
     },
     {
       "id": "karte-05",
       "topic": "Was ich mag",
-      "expression": "Qual é a sua comida favorita?",
-      "translation": "Was ist dein Lieblingsessen?",
-      "explanation": "comida favorita = Lieblingsessen."
+      "expression": "comida",
+      "translation": "Essen",
+      "isVocabulary": true,
+      "example": "Qual é a sua comida favorita?",
+      "exampleTranslation": "Was ist dein Lieblingsessen?"
     },
     {
       "id": "karte-06",
       "topic": "Was ich mag",
-      "expression": "Meu esporte favorito é futebol.",
-      "translation": "Mein Lieblingssport ist Fußball.",
-      "explanation": "esporte = Sport; futebol = Fußball."
+      "expression": "futebol",
+      "translation": "Fußball",
+      "isVocabulary": true,
+      "example": "Meu esporte favorito é futebol.",
+      "exampleTranslation": "Mein Lieblingssport ist Fußball."
     },
     {
       "id": "karte-07",
       "topic": "Was ich mag",
-      "expression": "Também gosto de cozinhar.",
-      "translation": "Ich koche auch gern.",
-      "explanation": "também = auch; cozinhar = kochen."
+      "expression": "cozinhar",
+      "translation": "kochen",
+      "isVocabulary": true,
+      "example": "Também gosto de cozinhar.",
+      "exampleTranslation": "Ich koche auch gern."
     },
     {
       "id": "karte-08",
       "topic": "Was ich mag",
-      "expression": "Você gosta de dançar?",
-      "translation": "Tanzt du gern?",
-      "explanation": "dançar = tanzen; gosta de = du magst."
+      "expression": "dançar",
+      "translation": "tanzen",
+      "isVocabulary": true,
+      "example": "Você gosta de dançar?",
+      "exampleTranslation": "Tanzt du gern?"
     }
   ]
 }

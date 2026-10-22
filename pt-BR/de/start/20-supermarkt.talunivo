@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-20-supermarkt",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "20 · Im Supermarkt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Im Supermarkt",
-      "expression": "Onde fica o supermercado?",
-      "translation": "Wo ist der Supermarkt?",
-      "explanation": "onde fica = wo befindet sich.",
+      "expression": "supermercado",
+      "translation": "Supermarkt",
+      "isVocabulary": true,
       "example": "Preciso de leite, arroz e maçãs.",
       "exampleTranslation": "Ich brauche Milch, Reis und Äpfel."
     },
     {
       "id": "karte-02",
       "topic": "Im Supermarkt",
-      "expression": "Preciso de um litro de leite.",
-      "translation": "Ich brauche einen Liter Milch.",
-      "explanation": "um litro de = ein Liter."
+      "expression": "litro",
+      "translation": "Liter",
+      "isVocabulary": true,
+      "example": "Preciso de um litro de leite.",
+      "exampleTranslation": "Ich brauche einen Liter Milch."
     },
     {
       "id": "karte-03",
       "topic": "Im Supermarkt",
-      "expression": "Quero meio quilo de arroz.",
-      "translation": "Ich möchte ein halbes Kilo Reis.",
-      "explanation": "meio quilo = ein halbes Kilogramm."
+      "expression": "meio quilo",
+      "translation": "halbes Kilo",
+      "isVocabulary": true,
+      "example": "Quero meio quilo de arroz.",
+      "exampleTranslation": "Ich möchte ein halbes Kilo Reis."
     },
     {
       "id": "karte-04",
       "topic": "Im Supermarkt",
-      "expression": "As maçãs estão frescas?",
-      "translation": "Sind die Äpfel frisch?",
-      "explanation": "maçã = Apfel; frescas passt zur Mehrzahl maçãs."
+      "expression": "maçãs",
+      "translation": "Äpfel",
+      "isVocabulary": true,
+      "example": "As maçãs estão frescas?",
+      "exampleTranslation": "Sind die Äpfel frisch?"
     },
     {
       "id": "karte-05",
       "topic": "Im Supermarkt",
-      "expression": "Quanto custa este pacote?",
-      "translation": "Wie viel kostet diese Packung?",
-      "explanation": "pacote = Packung oder Paket."
+      "expression": "pacote",
+      "translation": "Packung",
+      "isVocabulary": true,
+      "example": "Quanto custa este pacote?",
+      "exampleTranslation": "Wie viel kostet diese Packung?"
     },
     {
       "id": "karte-06",
       "topic": "Im Supermarkt",
-      "expression": "Tem uma sacola?",
-      "translation": "Gibt es eine Tüte?",
-      "explanation": "sacola = Einkaufstüte."
+      "expression": "sacola",
+      "translation": "Tüte",
+      "isVocabulary": true,
+      "example": "Tem uma sacola?",
+      "exampleTranslation": "Gibt es eine Tüte?"
     },
     {
       "id": "karte-07",
       "topic": "Im Supermarkt",
-      "expression": "Não preciso de sacola.",
-      "translation": "Ich brauche keine Tüte.",
-      "explanation": "preciso de = ich brauche; não verneint den Satz."
+      "expression": "precisar",
+      "translation": "brauchen",
+      "isVocabulary": true,
+      "example": "Não preciso de sacola.",
+      "exampleTranslation": "Ich brauche keine Tüte."
     },
     {
       "id": "karte-08",
       "topic": "Im Supermarkt",
-      "expression": "Onde fica o caixa?",
-      "translation": "Wo ist die Kasse?",
-      "explanation": "o caixa = die Kasse; a caixa = die Schachtel."
+      "expression": "caixa",
+      "translation": "Kasse",
+      "isVocabulary": true,
+      "example": "Onde fica o caixa?",
+      "exampleTranslation": "Wo ist die Kasse?"
     }
   ]
 }

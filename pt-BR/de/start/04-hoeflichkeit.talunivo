@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-04-hoeflichkeit",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "04 · Bitte, danke, Entschuldigung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Por favor, entre.",
-      "translation": "Bitte komm herein.",
-      "explanation": "entre ist eine höfliche Aufforderung.",
+      "expression": "por favor",
+      "translation": "bitte",
+      "isVocabulary": true,
       "example": "Por favor, entre e sente aqui.",
       "exampleTranslation": "Bitte komm herein und setz dich hierhin."
     },
     {
       "id": "karte-02",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Muito obrigado!",
-      "translation": "Vielen Dank!",
-      "explanation": "Ein Mann sagt obrigado; eine Frau obrigada."
+      "expression": "obrigado",
+      "translation": "danke (männlicher Sprecher)",
+      "isVocabulary": true,
+      "example": "Muito obrigado!",
+      "exampleTranslation": "Vielen Dank!"
     },
     {
       "id": "karte-03",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Muito obrigada pela ajuda.",
-      "translation": "Vielen Dank für die Hilfe.",
-      "explanation": "Weibliche Sprecherform; pela = por + a."
+      "expression": "obrigada",
+      "translation": "danke (weibliche Sprecherin)",
+      "isVocabulary": true,
+      "example": "Muito obrigada pela ajuda.",
+      "exampleTranslation": "Vielen Dank für die Hilfe."
     },
     {
       "id": "karte-04",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "De nada!",
-      "translation": "Gern geschehen!",
-      "explanation": "Antwort auf einen Dank."
+      "expression": "de nada",
+      "translation": "gern geschehen",
+      "isVocabulary": true,
+      "example": "De nada!",
+      "exampleTranslation": "Gern geschehen!"
     },
     {
       "id": "karte-05",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Com licença, posso passar?",
-      "translation": "Entschuldigung, darf ich vorbei?",
-      "explanation": "com licença bittet um Platz oder Erlaubnis."
+      "expression": "com licença",
+      "translation": "Entschuldigung (um Erlaubnis bitten)",
+      "isVocabulary": true,
+      "example": "Com licença, posso passar?",
+      "exampleTranslation": "Entschuldigung, darf ich vorbei?"
     },
     {
       "id": "karte-06",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Desculpe pelo atraso.",
-      "translation": "Entschuldige die Verspätung.",
-      "explanation": "desculpe = entschuldige; atraso = Verspätung."
+      "expression": "desculpe",
+      "translation": "Entschuldigung (um Verzeihung bitten)",
+      "isVocabulary": true,
+      "example": "Desculpe pelo atraso.",
+      "exampleTranslation": "Entschuldige die Verspätung."
     },
     {
       "id": "karte-07",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Não tem problema.",
-      "translation": "Das ist kein Problem.",
-      "explanation": "Im Alltag oft statt des formelleren não há problema."
+      "expression": "problema",
+      "translation": "Problem",
+      "isVocabulary": true,
+      "example": "Não tem problema.",
+      "exampleTranslation": "Das ist kein Problem."
     },
     {
       "id": "karte-08",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "Pode repetir, por favor?",
-      "translation": "Kannst du das bitte wiederholen?",
-      "explanation": "repetir = wiederholen."
+      "expression": "repetir",
+      "translation": "wiederholen",
+      "isVocabulary": true,
+      "example": "Pode repetir, por favor?",
+      "exampleTranslation": "Kannst du das bitte wiederholen?"
     }
   ]
 }

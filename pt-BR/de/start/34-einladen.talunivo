@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-34-einladen",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "34 · Einladen und Verabreden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Einladen und Verabreden",
-      "expression": "Vamos tomar um café?",
-      "translation": "Wollen wir einen Kaffee trinken gehen?",
-      "explanation": "vamos + Tätigkeit ist eine einfache Einladung.",
+      "expression": "tomar café",
+      "translation": "Kaffee trinken",
+      "isVocabulary": true,
       "example": "Vamos tomar um café no sábado? Você tem tempo?",
       "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken gehen? Hast du Zeit?"
     },
     {
       "id": "karte-02",
       "topic": "Einladen und Verabreden",
-      "expression": "Quer ir ao cinema comigo?",
-      "translation": "Möchtest du mit mir ins Kino gehen?",
-      "explanation": "comigo = mit mir."
+      "expression": "cinema",
+      "translation": "Kino",
+      "isVocabulary": true,
+      "example": "Quer ir ao cinema comigo?",
+      "exampleTranslation": "Möchtest du mit mir ins Kino gehen?"
     },
     {
       "id": "karte-03",
       "topic": "Einladen und Verabreden",
-      "expression": "Você tem tempo amanhã?",
-      "translation": "Hast du morgen Zeit?",
-      "explanation": "ter tempo = Zeit haben."
+      "expression": "tempo",
+      "translation": "Zeit",
+      "isVocabulary": true,
+      "example": "Você tem tempo amanhã?",
+      "exampleTranslation": "Hast du morgen Zeit?"
     },
     {
       "id": "karte-04",
       "topic": "Einladen und Verabreden",
-      "expression": "Que tal um passeio?",
-      "translation": "Wie wäre es mit einem Ausflug?",
-      "explanation": "que tal = wie wäre es mit."
+      "expression": "passeio",
+      "translation": "Ausflug",
+      "isVocabulary": true,
+      "example": "Que tal um passeio?",
+      "exampleTranslation": "Wie wäre es mit einem Ausflug?"
     },
     {
       "id": "karte-05",
       "topic": "Einladen und Verabreden",
-      "expression": "Boa ideia, vamos!",
-      "translation": "Gute Idee, gehen wir!",
-      "explanation": "boa ideia = gute Idee."
+      "expression": "boa ideia",
+      "translation": "gute Idee",
+      "isVocabulary": true,
+      "example": "Boa ideia, vamos!",
+      "exampleTranslation": "Gute Idee, gehen wir!"
     },
     {
       "id": "karte-06",
       "topic": "Einladen und Verabreden",
-      "expression": "Hoje não posso.",
-      "translation": "Heute kann ich nicht.",
-      "explanation": "posso = ich kann; não = nicht."
+      "expression": "poder",
+      "translation": "können; dürfen",
+      "isVocabulary": true,
+      "example": "Hoje não posso.",
+      "exampleTranslation": "Heute kann ich nicht."
     },
     {
       "id": "karte-07",
       "topic": "Einladen und Verabreden",
-      "expression": "Pode ser no sábado?",
-      "translation": "Geht es am Samstag?",
-      "explanation": "pode ser fragt hier, ob der Vorschlag passt."
+      "expression": "sábado",
+      "translation": "Samstag",
+      "isVocabulary": true,
+      "example": "Pode ser no sábado?",
+      "exampleTranslation": "Geht es am Samstag?"
     },
     {
       "id": "karte-08",
       "topic": "Einladen und Verabreden",
-      "expression": "Combinado, até sábado!",
-      "translation": "Abgemacht, bis Samstag!",
-      "explanation": "combinado = abgemacht."
+      "expression": "combinado",
+      "translation": "abgemacht",
+      "isVocabulary": true,
+      "example": "Combinado, até sábado!",
+      "exampleTranslation": "Abgemacht, bis Samstag!"
     }
   ]
 }

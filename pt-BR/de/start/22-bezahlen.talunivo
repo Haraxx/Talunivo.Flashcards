@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-22-bezahlen",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "22 · Geld und Bezahlen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Geld und Bezahlen",
-      "expression": "Quanto é tudo?",
-      "translation": "Wie viel kostet alles zusammen?",
-      "explanation": "tudo = alles; quanto é = wie viel ist es.",
+      "expression": "tudo",
+      "translation": "alles",
+      "isVocabulary": true,
       "example": "São vinte reais. Posso pagar em dinheiro?",
       "exampleTranslation": "Das macht zwanzig Reais. Kann ich bar bezahlen?"
     },
     {
       "id": "karte-02",
       "topic": "Geld und Bezahlen",
-      "expression": "Posso pagar em dinheiro?",
-      "translation": "Kann ich bar bezahlen?",
-      "explanation": "em dinheiro = in bar."
+      "expression": "dinheiro",
+      "translation": "Bargeld; Geld",
+      "isVocabulary": true,
+      "example": "Posso pagar em dinheiro?",
+      "exampleTranslation": "Kann ich bar bezahlen?"
     },
     {
       "id": "karte-03",
       "topic": "Geld und Bezahlen",
-      "expression": "Aceita cartão de débito?",
-      "translation": "Akzeptieren Sie eine Debitkarte?",
-      "explanation": "aceitar = akzeptieren; débito = direkte Kontobelastung."
+      "expression": "cartão de débito",
+      "translation": "Debitkarte",
+      "isVocabulary": true,
+      "example": "Aceita cartão de débito?",
+      "exampleTranslation": "Akzeptieren Sie eine Debitkarte?"
     },
     {
       "id": "karte-04",
       "topic": "Geld und Bezahlen",
-      "expression": "Vou pagar com Pix.",
-      "translation": "Ich werde mit Pix bezahlen.",
-      "explanation": "Pix ist ein brasilianisches Sofortzahlungssystem."
+      "expression": "Pix",
+      "translation": "Pix (brasilianisches Bezahlsystem)",
+      "isVocabulary": true,
+      "example": "Vou pagar com Pix.",
+      "exampleTranslation": "Ich werde mit Pix bezahlen."
     },
     {
       "id": "karte-05",
       "topic": "Geld und Bezahlen",
-      "expression": "Preciso de troco.",
-      "translation": "Ich brauche Wechselgeld.",
-      "explanation": "troco = Wechselgeld."
+      "expression": "troco",
+      "translation": "Wechselgeld",
+      "isVocabulary": true,
+      "example": "Preciso de troco.",
+      "exampleTranslation": "Ich brauche Wechselgeld."
     },
     {
       "id": "karte-06",
       "topic": "Geld und Bezahlen",
-      "expression": "Aqui estão cinquenta reais.",
-      "translation": "Hier sind fünfzig Reais.",
-      "explanation": "aqui estão = hier sind, für mehrere Einheiten."
+      "expression": "reais",
+      "translation": "Reais (Mehrzahl von Real)",
+      "isVocabulary": true,
+      "example": "Aqui estão cinquenta reais.",
+      "exampleTranslation": "Hier sind fünfzig Reais."
     },
     {
       "id": "karte-07",
       "topic": "Geld und Bezahlen",
-      "expression": "Pode me dar o recibo?",
-      "translation": "Können Sie mir den Beleg geben?",
-      "explanation": "dar = geben; recibo = Beleg."
+      "expression": "recibo",
+      "translation": "Beleg",
+      "isVocabulary": true,
+      "example": "Pode me dar o recibo?",
+      "exampleTranslation": "Können Sie mir den Beleg geben?"
     },
     {
       "id": "karte-08",
       "topic": "Geld und Bezahlen",
-      "expression": "O valor está errado.",
-      "translation": "Der Betrag stimmt nicht.",
-      "explanation": "valor = Betrag; errado = falsch."
+      "expression": "valor",
+      "translation": "Betrag",
+      "isVocabulary": true,
+      "example": "O valor está errado.",
+      "exampleTranslation": "Der Betrag stimmt nicht."
     }
   ]
 }

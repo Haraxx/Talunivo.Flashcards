@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-10-kalender",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "10 · Wochentage und Datum",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,92 @@
     {
       "id": "karte-01",
       "topic": "Wochentage und Datum",
-      "expression": "Hoje é segunda-feira.",
-      "translation": "Heute ist Montag.",
-      "explanation": "segunda-feira = Montag.",
+      "expression": "segunda-feira",
+      "translation": "Montag",
+      "isVocabulary": true,
       "example": "Hoje é segunda-feira, primeiro de junho.",
       "exampleTranslation": "Heute ist Montag, der erste Juni."
     },
     {
       "id": "karte-02",
       "topic": "Wochentage und Datum",
-      "expression": "Amanhã é terça-feira.",
-      "translation": "Morgen ist Dienstag.",
-      "explanation": "amanhã = morgen."
+      "expression": "terça-feira",
+      "translation": "Dienstag",
+      "isVocabulary": true,
+      "example": "Amanhã é terça-feira.",
+      "exampleTranslation": "Morgen ist Dienstag."
     },
     {
       "id": "karte-03",
       "topic": "Wochentage und Datum",
-      "expression": "A reunião é na quarta-feira.",
-      "translation": "Die Besprechung ist am Mittwoch.",
-      "explanation": "na = em + a; quarta-feira = Mittwoch."
+      "expression": "quarta-feira",
+      "translation": "Mittwoch",
+      "isVocabulary": true,
+      "example": "A reunião é na quarta-feira.",
+      "exampleTranslation": "Die Besprechung ist am Mittwoch."
     },
     {
       "id": "karte-04",
       "topic": "Wochentage und Datum",
-      "expression": "Trabalho na quinta e na sexta.",
-      "translation": "Ich arbeite am Donnerstag und am Freitag.",
-      "explanation": "quinta und sexta sind Kurzformen der Wochentage."
+      "expression": "quinta-feira",
+      "translation": "Donnerstag",
+      "isVocabulary": true,
+      "example": "Trabalho na quinta e na sexta.",
+      "exampleTranslation": "Ich arbeite am Donnerstag und am Freitag."
+    },
+    {
+      "id": "karte-04-2",
+      "topic": "Wochentage und Datum",
+      "expression": "sexta-feira",
+      "translation": "Freitag",
+      "isVocabulary": true,
+      "example": "Trabalho na quinta e na sexta.",
+      "exampleTranslation": "Ich arbeite am Donnerstag und am Freitag."
     },
     {
       "id": "karte-05",
       "topic": "Wochentage und Datum",
-      "expression": "Sábado e domingo são dias de descanso.",
-      "translation": "Samstag und Sonntag sind Ruhetage.",
-      "explanation": "dias de descanso = Ruhetage."
+      "expression": "sábado",
+      "translation": "Samstag",
+      "isVocabulary": true,
+      "example": "Sábado e domingo são dias de descanso.",
+      "exampleTranslation": "Samstag und Sonntag sind Ruhetage."
+    },
+    {
+      "id": "karte-05-2",
+      "topic": "Wochentage und Datum",
+      "expression": "domingo",
+      "translation": "Sonntag",
+      "isVocabulary": true,
+      "example": "Sábado e domingo são dias de descanso.",
+      "exampleTranslation": "Samstag und Sonntag sind Ruhetage."
     },
     {
       "id": "karte-06",
       "topic": "Wochentage und Datum",
-      "expression": "Que dia é hoje?",
-      "translation": "Welches Datum haben wir heute?",
-      "explanation": "dia kann Tag oder Datum meinen."
+      "expression": "dia",
+      "translation": "Tag",
+      "isVocabulary": true,
+      "example": "Que dia é hoje?",
+      "exampleTranslation": "Welches Datum haben wir heute?"
     },
     {
       "id": "karte-07",
       "topic": "Wochentage und Datum",
-      "expression": "Hoje é primeiro de maio.",
-      "translation": "Heute ist der erste Mai.",
-      "explanation": "Für den Monatsersten verwendet man primeiro."
+      "expression": "maio",
+      "translation": "Mai",
+      "isVocabulary": true,
+      "example": "Hoje é primeiro de maio.",
+      "exampleTranslation": "Heute ist der erste Mai."
     },
     {
       "id": "karte-08",
       "topic": "Wochentage und Datum",
-      "expression": "Meu aniversário é em junho.",
-      "translation": "Mein Geburtstag ist im Juni.",
-      "explanation": "Vor Monaten steht hier em."
+      "expression": "junho",
+      "translation": "Juni",
+      "isVocabulary": true,
+      "example": "Meu aniversário é em junho.",
+      "exampleTranslation": "Mein Geburtstag ist im Juni."
     }
   ]
 }

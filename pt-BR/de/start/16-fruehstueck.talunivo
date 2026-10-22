@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-16-fruehstueck",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "16 · Frühstück",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Frühstück",
-      "expression": "Quero pão com manteiga.",
-      "translation": "Ich möchte Brot mit Butter.",
-      "explanation": "pão = Brot; manteiga = Butter.",
+      "expression": "pão",
+      "translation": "Brot",
+      "isVocabulary": true,
       "example": "De manhã, como pão com manteiga e uma banana.",
       "exampleTranslation": "Morgens esse ich Brot mit Butter und eine Banane."
     },
     {
       "id": "karte-02",
       "topic": "Frühstück",
-      "expression": "Tem queijo?",
-      "translation": "Gibt es Käse?",
-      "explanation": "tem wird im brasilianischen Alltag für gibt es verwendet."
+      "expression": "queijo",
+      "translation": "Käse",
+      "isVocabulary": true,
+      "example": "Tem queijo?",
+      "exampleTranslation": "Gibt es Käse?"
     },
     {
       "id": "karte-03",
       "topic": "Frühstück",
-      "expression": "Eu como uma banana.",
-      "translation": "Ich esse eine Banane.",
-      "explanation": "como = ich esse; nicht mit como = wie verwechseln."
+      "expression": "banana",
+      "translation": "Banane",
+      "isVocabulary": true,
+      "example": "Eu como uma banana.",
+      "exampleTranslation": "Ich esse eine Banane."
     },
     {
       "id": "karte-04",
       "topic": "Frühstück",
-      "expression": "Gosto de ovos.",
-      "translation": "Ich mag Eier.",
-      "explanation": "gostar de = mögen; ovo = Ei."
+      "expression": "ovos",
+      "translation": "Eier",
+      "isVocabulary": true,
+      "example": "Gosto de ovos.",
+      "exampleTranslation": "Ich mag Eier."
     },
     {
       "id": "karte-05",
       "topic": "Frühstück",
-      "expression": "Bebo leite de manhã.",
-      "translation": "Ich trinke morgens Milch.",
-      "explanation": "bebo = ich trinke; de manhã = morgens."
+      "expression": "leite",
+      "translation": "Milch",
+      "isVocabulary": true,
+      "example": "Bebo leite de manhã.",
+      "exampleTranslation": "Ich trinke morgens Milch."
     },
     {
       "id": "karte-06",
       "topic": "Frühstück",
-      "expression": "O café da manhã está pronto.",
-      "translation": "Das Frühstück ist fertig.",
-      "explanation": "café da manhã bedeutet Frühstück, nicht nur Kaffee."
+      "expression": "café da manhã",
+      "translation": "Frühstück",
+      "isVocabulary": true,
+      "example": "O café da manhã está pronto.",
+      "exampleTranslation": "Das Frühstück ist fertig."
     },
     {
       "id": "karte-07",
       "topic": "Frühstück",
-      "expression": "Não quero açúcar.",
-      "translation": "Ich möchte keinen Zucker.",
-      "explanation": "não verneint hier quero = ich möchte."
+      "expression": "açúcar",
+      "translation": "Zucker",
+      "isVocabulary": true,
+      "example": "Não quero açúcar.",
+      "exampleTranslation": "Ich möchte keinen Zucker."
     },
     {
       "id": "karte-08",
       "topic": "Frühstück",
-      "expression": "Prefiro uma fruta.",
-      "translation": "Ich hätte lieber eine Frucht.",
-      "explanation": "prefiro = ich bevorzuge; fruta = Frucht."
+      "expression": "fruta",
+      "translation": "Frucht",
+      "isVocabulary": true,
+      "example": "Prefiro uma fruta.",
+      "exampleTranslation": "Ich hätte lieber eine Frucht."
     }
   ]
 }

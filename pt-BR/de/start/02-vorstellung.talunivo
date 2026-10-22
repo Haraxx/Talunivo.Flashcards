@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-02-vorstellung",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "02 · Name und Vorstellung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Name und Vorstellung",
-      "expression": "Meu nome é Ana.",
-      "translation": "Mein Name ist Ana.",
-      "explanation": "meu nome = mein Name; é = ist.",
+      "expression": "nome",
+      "translation": "Name",
+      "isVocabulary": true,
       "example": "Meu nome é Lucas. E o seu?",
       "exampleTranslation": "Mein Name ist Lucas. Und deiner?"
     },
     {
       "id": "karte-02",
       "topic": "Name und Vorstellung",
-      "expression": "Eu me chamo Lucas.",
-      "translation": "Ich heiße Lucas.",
-      "explanation": "chamar-se = heißen; me chamo = ich heiße."
+      "expression": "chamar-se",
+      "translation": "sich nennen; heißen",
+      "isVocabulary": true,
+      "example": "Eu me chamo Lucas.",
+      "exampleTranslation": "Ich heiße Lucas."
     },
     {
       "id": "karte-03",
       "topic": "Name und Vorstellung",
-      "expression": "Como você se chama?",
-      "translation": "Wie heißt du?",
-      "explanation": "você entspricht hier dem deutschen du."
+      "expression": "você",
+      "translation": "du; Sie",
+      "isVocabulary": true,
+      "example": "Como você se chama?",
+      "exampleTranslation": "Wie heißt du?"
     },
     {
       "id": "karte-04",
       "topic": "Name und Vorstellung",
-      "expression": "Qual é o seu nome?",
-      "translation": "Wie ist dein Name?",
-      "explanation": "qual = welcher/welche/welches; seu nome = dein Name."
+      "expression": "qual",
+      "translation": "welcher; welche; welches",
+      "isVocabulary": true,
+      "example": "Qual é o seu nome?",
+      "exampleTranslation": "Wie ist dein Name?"
     },
     {
       "id": "karte-05",
       "topic": "Name und Vorstellung",
-      "expression": "Prazer em conhecer você.",
-      "translation": "Freut mich, dich kennenzulernen.",
-      "explanation": "Höfliche Wendung bei einer Vorstellung."
+      "expression": "prazer",
+      "translation": "Vergnügen",
+      "isVocabulary": true,
+      "example": "Prazer em conhecer você.",
+      "exampleTranslation": "Freut mich, dich kennenzulernen."
     },
     {
       "id": "karte-06",
       "topic": "Name und Vorstellung",
-      "expression": "Este é o Pedro.",
-      "translation": "Das ist Pedro.",
-      "explanation": "este = dieser; vor Namen ist der Artikel regional üblich."
+      "expression": "este",
+      "translation": "dieser",
+      "isVocabulary": true,
+      "example": "Este é o Pedro.",
+      "exampleTranslation": "Das ist Pedro."
     },
     {
       "id": "karte-07",
       "topic": "Name und Vorstellung",
-      "expression": "Esta é a minha amiga.",
-      "translation": "Das ist meine Freundin.",
-      "explanation": "amiga = Freundin; esta ist weiblich."
+      "expression": "amiga",
+      "translation": "Freundin",
+      "isVocabulary": true,
+      "example": "Esta é a minha amiga.",
+      "exampleTranslation": "Das ist meine Freundin."
     },
     {
       "id": "karte-08",
       "topic": "Name und Vorstellung",
-      "expression": "Pode me chamar de Bia.",
-      "translation": "Du kannst mich Bia nennen.",
-      "explanation": "chamar de = nennen; pode = du kannst."
+      "expression": "chamar",
+      "translation": "rufen; nennen",
+      "isVocabulary": true,
+      "example": "Pode me chamar de Bia.",
+      "exampleTranslation": "Du kannst mich Bia nennen."
     }
   ]
 }

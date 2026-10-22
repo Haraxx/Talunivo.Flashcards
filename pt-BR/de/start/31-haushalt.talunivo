@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-31-haushalt",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "31 · Im Haushalt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Im Haushalt",
-      "expression": "Lavo a louça depois do almoço.",
-      "translation": "Ich spüle nach dem Mittagessen ab.",
-      "explanation": "lavar a louça = das Geschirr spülen.",
+      "expression": "louça",
+      "translation": "Geschirr",
+      "isVocabulary": true,
       "example": "Depois do almoço, lavo a louça e arrumo a cama.",
       "exampleTranslation": "Nach dem Mittagessen spüle ich ab und mache das Bett."
     },
     {
       "id": "karte-02",
       "topic": "Im Haushalt",
-      "expression": "Preciso lavar a roupa.",
-      "translation": "Ich muss die Wäsche waschen.",
-      "explanation": "roupa = Kleidung oder Wäsche."
+      "expression": "roupa",
+      "translation": "Wäsche; Kleidung",
+      "isVocabulary": true,
+      "example": "Preciso lavar a roupa.",
+      "exampleTranslation": "Ich muss die Wäsche waschen."
     },
     {
       "id": "karte-03",
       "topic": "Im Haushalt",
-      "expression": "Vou arrumar a cama.",
-      "translation": "Ich werde das Bett machen.",
-      "explanation": "arrumar a cama = das Bett machen."
+      "expression": "cama",
+      "translation": "Bett",
+      "isVocabulary": true,
+      "example": "Vou arrumar a cama.",
+      "exampleTranslation": "Ich werde das Bett machen."
     },
     {
       "id": "karte-04",
       "topic": "Im Haushalt",
-      "expression": "Pode fechar a janela?",
-      "translation": "Kannst du das Fenster schließen?",
-      "explanation": "fechar = schließen."
+      "expression": "fechar",
+      "translation": "schließen",
+      "isVocabulary": true,
+      "example": "Pode fechar a janela?",
+      "exampleTranslation": "Kannst du das Fenster schließen?"
     },
     {
       "id": "karte-05",
       "topic": "Im Haushalt",
-      "expression": "Pode abrir a porta?",
-      "translation": "Kannst du die Tür öffnen?",
-      "explanation": "abrir = öffnen."
+      "expression": "abrir",
+      "translation": "öffnen",
+      "isVocabulary": true,
+      "example": "Pode abrir a porta?",
+      "exampleTranslation": "Kannst du die Tür öffnen?"
     },
     {
       "id": "karte-06",
       "topic": "Im Haushalt",
-      "expression": "A luz está acesa.",
-      "translation": "Das Licht ist an.",
-      "explanation": "acesa = eingeschaltet, passend zum weiblichen Wort luz."
+      "expression": "luz",
+      "translation": "Licht",
+      "isVocabulary": true,
+      "example": "A luz está acesa.",
+      "exampleTranslation": "Das Licht ist an."
     },
     {
       "id": "karte-07",
       "topic": "Im Haushalt",
-      "expression": "Apague a luz, por favor.",
-      "translation": "Mach bitte das Licht aus.",
-      "explanation": "apagar bedeutet hier ausschalten."
+      "expression": "apagar",
+      "translation": "ausschalten",
+      "isVocabulary": true,
+      "example": "Apague a luz, por favor.",
+      "exampleTranslation": "Mach bitte das Licht aus."
     },
     {
       "id": "karte-08",
       "topic": "Im Haushalt",
-      "expression": "O lixo fica lá fora.",
-      "translation": "Der Müll ist draußen.",
-      "explanation": "lixo = Müll; lá fora = draußen."
+      "expression": "lixo",
+      "translation": "Müll",
+      "isVocabulary": true,
+      "example": "O lixo fica lá fora.",
+      "exampleTranslation": "Der Müll ist draußen."
     }
   ]
 }

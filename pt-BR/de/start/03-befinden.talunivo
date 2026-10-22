@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-03-befinden",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "03 · Befinden und Gefühle",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Befinden und Gefühle",
-      "expression": "Como você está hoje?",
-      "translation": "Wie geht es dir heute?",
-      "explanation": "estar beschreibt hier das aktuelle Befinden.",
+      "expression": "hoje",
+      "translation": "heute",
+      "isVocabulary": true,
       "example": "Hoje estou bem, mas um pouco cansada.",
       "exampleTranslation": "Heute geht es mir gut, aber ich bin ein bisschen müde."
     },
     {
       "id": "karte-02",
       "topic": "Befinden und Gefühle",
-      "expression": "Estou bem, e você?",
-      "translation": "Mir geht es gut, und dir?",
-      "explanation": "estou = ich bin; e = und."
+      "expression": "bem",
+      "translation": "gut",
+      "isVocabulary": true,
+      "example": "Estou bem, e você?",
+      "exampleTranslation": "Mir geht es gut, und dir?"
     },
     {
       "id": "karte-03",
       "topic": "Befinden und Gefühle",
-      "expression": "Estou muito feliz.",
-      "translation": "Ich bin sehr glücklich.",
-      "explanation": "muito heißt hier sehr: muito feliz = sehr glücklich."
+      "expression": "feliz",
+      "translation": "glücklich",
+      "isVocabulary": true,
+      "example": "Estou muito feliz.",
+      "exampleTranslation": "Ich bin sehr glücklich."
     },
     {
       "id": "karte-04",
       "topic": "Befinden und Gefühle",
-      "expression": "Estou um pouco triste.",
-      "translation": "Ich bin ein bisschen traurig.",
-      "explanation": "um pouco = ein bisschen."
+      "expression": "triste",
+      "translation": "traurig",
+      "isVocabulary": true,
+      "example": "Estou um pouco triste.",
+      "exampleTranslation": "Ich bin ein bisschen traurig."
     },
     {
       "id": "karte-05",
       "topic": "Befinden und Gefühle",
-      "expression": "Estou cansado.",
-      "translation": "Ich bin müde.",
-      "explanation": "Ein Mann sagt cansado; eine Frau cansada."
+      "expression": "cansado",
+      "translation": "müde (männlich)",
+      "isVocabulary": true,
+      "example": "Estou cansado.",
+      "exampleTranslation": "Ich bin müde."
     },
     {
       "id": "karte-06",
       "topic": "Befinden und Gefühle",
-      "expression": "Estou cansada também.",
-      "translation": "Ich bin auch müde.",
-      "explanation": "Weibliche Form cansada; também = auch."
+      "expression": "cansada",
+      "translation": "müde (weiblich)",
+      "isVocabulary": true,
+      "example": "Estou cansada também.",
+      "exampleTranslation": "Ich bin auch müde."
     },
     {
       "id": "karte-07",
       "topic": "Befinden und Gefühle",
-      "expression": "Está tudo bem.",
-      "translation": "Es ist alles in Ordnung.",
-      "explanation": "tudo bem kann eine Frage oder eine Aussage sein."
+      "expression": "tudo",
+      "translation": "alles",
+      "isVocabulary": true,
+      "example": "Está tudo bem.",
+      "exampleTranslation": "Es ist alles in Ordnung."
     },
     {
       "id": "karte-08",
       "topic": "Befinden und Gefühle",
-      "expression": "Mais ou menos.",
-      "translation": "So einigermaßen.",
-      "explanation": "Wörtlich: mehr oder weniger."
+      "expression": "mais ou menos",
+      "translation": "so einigermaßen",
+      "isVocabulary": true,
+      "example": "Mais ou menos.",
+      "exampleTranslation": "So einigermaßen."
     }
   ]
 }

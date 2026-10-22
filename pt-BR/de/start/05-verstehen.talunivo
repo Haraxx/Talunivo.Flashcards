@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-05-verstehen",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "05 · Verstehen und Nachfragen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Não entendi.",
-      "translation": "Ich habe es nicht verstanden.",
-      "explanation": "entendi ist die Vergangenheit von entender.",
+      "expression": "entender",
+      "translation": "verstehen",
+      "isVocabulary": true,
       "example": "Não entendi. Pode repetir mais devagar?",
       "exampleTranslation": "Ich habe es nicht verstanden. Kannst du es langsamer wiederholen?"
     },
     {
       "id": "karte-02",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Pode falar mais devagar?",
-      "translation": "Kannst du langsamer sprechen?",
-      "explanation": "mais devagar = langsamer."
+      "expression": "devagar",
+      "translation": "langsam",
+      "isVocabulary": true,
+      "example": "Pode falar mais devagar?",
+      "exampleTranslation": "Kannst du langsamer sprechen?"
     },
     {
       "id": "karte-03",
       "topic": "Verstehen und Nachfragen",
-      "expression": "O que isso significa?",
-      "translation": "Was bedeutet das?",
-      "explanation": "significar = bedeuten."
+      "expression": "significar",
+      "translation": "bedeuten",
+      "isVocabulary": true,
+      "example": "O que isso significa?",
+      "exampleTranslation": "Was bedeutet das?"
     },
     {
       "id": "karte-04",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Como se diz isso em português?",
-      "translation": "Wie sagt man das auf Portugiesisch?",
-      "explanation": "como se diz = wie sagt man."
+      "expression": "dizer",
+      "translation": "sagen",
+      "isVocabulary": true,
+      "example": "Como se diz isso em português?",
+      "exampleTranslation": "Wie sagt man das auf Portugiesisch?"
     },
     {
       "id": "karte-05",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Como se escreve seu nome?",
-      "translation": "Wie schreibt man deinen Namen?",
-      "explanation": "escrever = schreiben."
+      "expression": "escrever",
+      "translation": "schreiben",
+      "isVocabulary": true,
+      "example": "Como se escreve seu nome?",
+      "exampleTranslation": "Wie schreibt man deinen Namen?"
     },
     {
       "id": "karte-06",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Você fala alemão?",
-      "translation": "Sprichst du Deutsch?",
-      "explanation": "alemão bezeichnet hier die Sprache."
+      "expression": "alemão",
+      "translation": "Deutsch (Sprache)",
+      "isVocabulary": true,
+      "example": "Você fala alemão?",
+      "exampleTranslation": "Sprichst du Deutsch?"
     },
     {
       "id": "karte-07",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Estou aprendendo português.",
-      "translation": "Ich lerne gerade Portugiesisch.",
-      "explanation": "estou aprendendo = ich lerne gerade; die Handlung läuft jetzt."
+      "expression": "aprender",
+      "translation": "lernen",
+      "isVocabulary": true,
+      "example": "Estou aprendendo português.",
+      "exampleTranslation": "Ich lerne gerade Portugiesisch."
     },
     {
       "id": "karte-08",
       "topic": "Verstehen und Nachfragen",
-      "expression": "Só um momento, por favor.",
-      "translation": "Nur einen Moment, bitte.",
-      "explanation": "só = nur; momento = Moment."
+      "expression": "momento",
+      "translation": "Moment",
+      "isVocabulary": true,
+      "example": "Só um momento, por favor.",
+      "exampleTranslation": "Nur einen Moment, bitte."
     }
   ]
 }

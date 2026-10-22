@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-39-apotheke",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "39 · In der Apotheke",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "In der Apotheke",
-      "expression": "Preciso falar com o farmacêutico.",
-      "translation": "Ich muss mit dem Apotheker sprechen.",
-      "explanation": "farmacêutico = Apotheker; farmacêutica = Apothekerin.",
+      "expression": "farmacêutico",
+      "translation": "Apotheker",
+      "isVocabulary": true,
       "example": "Tenho uma receita médica. Pode me ajudar?",
       "exampleTranslation": "Ich habe ein ärztliches Rezept. Können Sie mir helfen?"
     },
     {
       "id": "karte-02",
       "topic": "In der Apotheke",
-      "expression": "Estou procurando uma farmácia aberta.",
-      "translation": "Ich suche eine geöffnete Apotheke.",
-      "explanation": "procurando = gerade suchend; aberta = geöffnet."
+      "expression": "farmácia",
+      "translation": "Apotheke",
+      "isVocabulary": true,
+      "example": "Estou procurando uma farmácia aberta.",
+      "exampleTranslation": "Ich suche eine geöffnete Apotheke."
     },
     {
       "id": "karte-03",
       "topic": "In der Apotheke",
-      "expression": "Tenho alergia a amendoim.",
-      "translation": "Ich bin gegen Erdnüsse allergisch.",
-      "explanation": "ter alergia a = allergisch gegen etwas sein."
+      "expression": "alergia",
+      "translation": "Allergie",
+      "isVocabulary": true,
+      "example": "Tenho alergia a amendoim.",
+      "exampleTranslation": "Ich bin gegen Erdnüsse allergisch."
     },
     {
       "id": "karte-04",
       "topic": "In der Apotheke",
-      "expression": "Tenho uma receita médica.",
-      "translation": "Ich habe ein ärztliches Rezept.",
-      "explanation": "receita médica = ärztliches Rezept."
+      "expression": "receita médica",
+      "translation": "ärztliches Rezept",
+      "isVocabulary": true,
+      "example": "Tenho uma receita médica.",
+      "exampleTranslation": "Ich habe ein ärztliches Rezept."
     },
     {
       "id": "karte-05",
       "topic": "In der Apotheke",
-      "expression": "Este remédio precisa de receita?",
-      "translation": "Ist dieses Medikament rezeptpflichtig?",
-      "explanation": "remédio = Medikament; precisa de = benötigt."
+      "expression": "remédio",
+      "translation": "Medikament",
+      "isVocabulary": true,
+      "example": "Este remédio precisa de receita?",
+      "exampleTranslation": "Ist dieses Medikament rezeptpflichtig?"
     },
     {
       "id": "karte-06",
       "topic": "In der Apotheke",
-      "expression": "Pode explicar como usar?",
-      "translation": "Können Sie erklären, wie man es anwendet?",
-      "explanation": "explicar = erklären; usar = anwenden."
+      "expression": "usar",
+      "translation": "anwenden; benutzen",
+      "isVocabulary": true,
+      "example": "Pode explicar como usar?",
+      "exampleTranslation": "Können Sie erklären, wie man es anwendet?"
     },
     {
       "id": "karte-07",
       "topic": "In der Apotheke",
-      "expression": "Pode escrever as instruções?",
-      "translation": "Können Sie die Anweisungen aufschreiben?",
-      "explanation": "instruções = Anweisungen."
+      "expression": "instruções",
+      "translation": "Anweisungen",
+      "isVocabulary": true,
+      "example": "Pode escrever as instruções?",
+      "exampleTranslation": "Können Sie die Anweisungen aufschreiben?"
     },
     {
       "id": "karte-08",
       "topic": "In der Apotheke",
-      "expression": "Não entendi a orientação.",
-      "translation": "Ich habe die Auskunft nicht verstanden.",
-      "explanation": "orientação meint hier eine Erklärung oder Anleitung."
+      "expression": "orientação",
+      "translation": "Auskunft; Anleitung",
+      "isVocabulary": true,
+      "example": "Não entendi a orientação.",
+      "exampleTranslation": "Ich habe die Auskunft nicht verstanden."
     }
   ]
 }

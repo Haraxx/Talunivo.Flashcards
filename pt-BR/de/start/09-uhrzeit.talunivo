@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-09-uhrzeit",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "09 · Uhrzeit und Verabredungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "Que horas são?",
-      "translation": "Wie spät ist es?",
-      "explanation": "Wörtlich: Welche Stunden sind es?",
+      "expression": "hora",
+      "translation": "Stunde; Uhrzeit",
+      "isVocabulary": true,
       "example": "Vamos nos encontrar às duas e meia.",
       "exampleTranslation": "Treffen wir uns um halb drei."
     },
     {
       "id": "karte-02",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "É uma hora.",
-      "translation": "Es ist ein Uhr.",
-      "explanation": "Bei einer Stunde steht der Singular é."
+      "expression": "uma hora",
+      "translation": "ein Uhr",
+      "isVocabulary": true,
+      "example": "É uma hora.",
+      "exampleTranslation": "Es ist ein Uhr."
     },
     {
       "id": "karte-03",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "São duas horas.",
-      "translation": "Es ist zwei Uhr.",
-      "explanation": "Ab zwei Stunden steht der Plural são."
+      "expression": "duas horas",
+      "translation": "zwei Uhr",
+      "isVocabulary": true,
+      "example": "São duas horas.",
+      "exampleTranslation": "Es ist zwei Uhr."
     },
     {
       "id": "karte-04",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "São três e meia.",
-      "translation": "Es ist halb vier.",
-      "explanation": "Portugiesisch zählt drei und eine halbe Stunde."
+      "expression": "meia",
+      "translation": "halb",
+      "isVocabulary": true,
+      "example": "São três e meia.",
+      "exampleTranslation": "Es ist halb vier."
     },
     {
       "id": "karte-05",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "São quatro e quinze.",
-      "translation": "Es ist Viertel nach vier.",
-      "explanation": "quinze = fünfzehn Minuten."
+      "expression": "quinze",
+      "translation": "fünfzehn",
+      "isVocabulary": true,
+      "example": "São quatro e quinze.",
+      "exampleTranslation": "Es ist Viertel nach vier."
     },
     {
       "id": "karte-06",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "São dez para as cinco.",
-      "translation": "Es ist zehn vor fünf.",
-      "explanation": "para as cinco = bis fünf Uhr."
+      "expression": "dez para",
+      "translation": "zehn vor (bei Uhrzeiten)",
+      "isVocabulary": true,
+      "example": "São dez para as cinco.",
+      "exampleTranslation": "Es ist zehn vor fünf."
     },
     {
       "id": "karte-07",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "A aula começa às oito.",
-      "translation": "Der Unterricht beginnt um acht.",
-      "explanation": "às = a + as; Uhrzeit mit às."
+      "expression": "aula",
+      "translation": "Unterricht",
+      "isVocabulary": true,
+      "example": "A aula começa às oito.",
+      "exampleTranslation": "Der Unterricht beginnt um acht."
     },
     {
       "id": "karte-08",
       "topic": "Uhrzeit und Verabredungen",
-      "expression": "Vamos nos encontrar ao meio-dia.",
-      "translation": "Treffen wir uns um zwölf Uhr mittags.",
-      "explanation": "ao meio-dia = um zwölf Uhr mittags."
+      "expression": "meio-dia",
+      "translation": "Mittag; zwölf Uhr mittags",
+      "isVocabulary": true,
+      "example": "Vamos nos encontrar ao meio-dia.",
+      "exampleTranslation": "Treffen wir uns um zwölf Uhr mittags."
     }
   ]
 }

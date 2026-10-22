@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-07-zahlen-zehn",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "07 · Zahlen von null bis zehn",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,137 @@
     {
       "id": "karte-01",
       "topic": "Zahlen von null bis zehn",
-      "expression": "zero, um, dois",
-      "translation": "null, eins, zwei",
-      "explanation": "um und dois sind die männlichen Zahlformen.",
+      "expression": "zero",
+      "translation": "null",
+      "isVocabulary": true,
+      "example": "Tenho dois livros e uma caneta.",
+      "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
+    },
+    {
+      "id": "karte-01-2",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "um",
+      "translation": "eins",
+      "isVocabulary": true,
+      "example": "Tenho dois livros e uma caneta.",
+      "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
+    },
+    {
+      "id": "karte-01-3",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "dois",
+      "translation": "zwei",
+      "isVocabulary": true,
       "example": "Tenho dois livros e uma caneta.",
       "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
     },
     {
       "id": "karte-02",
       "topic": "Zahlen von null bis zehn",
-      "expression": "três, quatro, cinco",
-      "translation": "drei, vier, fünf",
-      "explanation": "três trägt einen Zirkumflex."
+      "expression": "três",
+      "translation": "drei",
+      "isVocabulary": true,
+      "example": "três, quatro, cinco",
+      "exampleTranslation": "drei, vier, fünf"
+    },
+    {
+      "id": "karte-02-2",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "quatro",
+      "translation": "vier",
+      "isVocabulary": true,
+      "example": "três, quatro, cinco",
+      "exampleTranslation": "drei, vier, fünf"
+    },
+    {
+      "id": "karte-02-3",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "cinco",
+      "translation": "fünf",
+      "isVocabulary": true,
+      "example": "três, quatro, cinco",
+      "exampleTranslation": "drei, vier, fünf"
     },
     {
       "id": "karte-03",
       "topic": "Zahlen von null bis zehn",
-      "expression": "seis, sete, oito",
-      "translation": "sechs, sieben, acht",
-      "explanation": "Beim Üben jede Zahl einzeln laut sprechen."
+      "expression": "seis",
+      "translation": "sechs",
+      "isVocabulary": true,
+      "example": "seis, sete, oito",
+      "exampleTranslation": "sechs, sieben, acht"
+    },
+    {
+      "id": "karte-03-2",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "sete",
+      "translation": "sieben",
+      "isVocabulary": true,
+      "example": "seis, sete, oito",
+      "exampleTranslation": "sechs, sieben, acht"
+    },
+    {
+      "id": "karte-03-3",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "oito",
+      "translation": "acht",
+      "isVocabulary": true,
+      "example": "seis, sete, oito",
+      "exampleTranslation": "sechs, sieben, acht"
     },
     {
       "id": "karte-04",
       "topic": "Zahlen von null bis zehn",
-      "expression": "nove, dez",
-      "translation": "neun, zehn",
-      "explanation": "dez = zehn; nove = neun."
+      "expression": "nove",
+      "translation": "neun",
+      "isVocabulary": true,
+      "example": "nove, dez",
+      "exampleTranslation": "neun, zehn"
+    },
+    {
+      "id": "karte-04-2",
+      "topic": "Zahlen von null bis zehn",
+      "expression": "dez",
+      "translation": "zehn",
+      "isVocabulary": true,
+      "example": "nove, dez",
+      "exampleTranslation": "neun, zehn"
     },
     {
       "id": "karte-05",
       "topic": "Zahlen von null bis zehn",
-      "expression": "Uma pessoa.",
-      "translation": "Eine Person.",
-      "explanation": "pessoa ist weiblich, daher uma."
+      "expression": "pessoa",
+      "translation": "Person",
+      "isVocabulary": true,
+      "example": "Uma pessoa.",
+      "exampleTranslation": "Eine Person."
     },
     {
       "id": "karte-06",
       "topic": "Zahlen von null bis zehn",
-      "expression": "Duas mesas.",
-      "translation": "Zwei Tische.",
-      "explanation": "Weibliches Zahlwort duas zu mesas."
+      "expression": "duas",
+      "translation": "zwei (weiblich)",
+      "isVocabulary": true,
+      "example": "Duas mesas.",
+      "exampleTranslation": "Zwei Tische."
     },
     {
       "id": "karte-07",
       "topic": "Zahlen von null bis zehn",
-      "expression": "Tenho três irmãos.",
-      "translation": "Ich habe drei Brüder.",
-      "explanation": "irmãos kann je nach Kontext auch Geschwister heißen."
+      "expression": "irmão",
+      "translation": "Bruder",
+      "isVocabulary": true,
+      "example": "Tenho três irmãos.",
+      "exampleTranslation": "Ich habe drei Brüder."
     },
     {
       "id": "karte-08",
       "topic": "Zahlen von null bis zehn",
-      "expression": "São cinco reais.",
-      "translation": "Das macht fünf Reais.",
-      "explanation": "real ist die brasilianische Währung; Plural reais."
+      "expression": "real",
+      "translation": "Real (brasilianische Währung)",
+      "isVocabulary": true,
+      "example": "São cinco reais.",
+      "exampleTranslation": "Das macht fünf Reais."
     }
   ]
 }

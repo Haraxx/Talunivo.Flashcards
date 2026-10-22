@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-41-handy",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "41 · Handy und Kontakt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Handy und Kontakt",
-      "expression": "Qual é o seu número de telefone?",
-      "translation": "Wie lautet deine Telefonnummer?",
-      "explanation": "número de telefone = Telefonnummer.",
+      "expression": "número",
+      "translation": "Nummer",
+      "isVocabulary": true,
       "example": "Meu celular está sem bateria. Tem uma tomada aqui?",
       "exampleTranslation": "Mein Handy hat keinen Akku mehr. Gibt es hier eine Steckdose?"
     },
     {
       "id": "karte-02",
       "topic": "Handy und Kontakt",
-      "expression": "Pode me mandar uma mensagem?",
-      "translation": "Kannst du mir eine Nachricht schicken?",
-      "explanation": "mandar = schicken; mensagem = Nachricht."
+      "expression": "mensagem",
+      "translation": "Nachricht",
+      "isVocabulary": true,
+      "example": "Pode me mandar uma mensagem?",
+      "exampleTranslation": "Kannst du mir eine Nachricht schicken?"
     },
     {
       "id": "karte-03",
       "topic": "Handy und Kontakt",
-      "expression": "Vou te ligar amanhã.",
-      "translation": "Ich rufe dich morgen an.",
-      "explanation": "ligar = anrufen; te = dich."
+      "expression": "ligar",
+      "translation": "anrufen",
+      "isVocabulary": true,
+      "example": "Vou te ligar amanhã.",
+      "exampleTranslation": "Ich rufe dich morgen an."
     },
     {
       "id": "karte-04",
       "topic": "Handy und Kontakt",
-      "expression": "Meu celular está sem bateria.",
-      "translation": "Mein Handy hat keinen Akku mehr.",
-      "explanation": "sem bateria = ohne Akkuladung."
+      "expression": "bateria",
+      "translation": "Akku",
+      "isVocabulary": true,
+      "example": "Meu celular está sem bateria.",
+      "exampleTranslation": "Mein Handy hat keinen Akku mehr."
     },
     {
       "id": "karte-05",
       "topic": "Handy und Kontakt",
-      "expression": "Tem uma tomada aqui?",
-      "translation": "Gibt es hier eine Steckdose?",
-      "explanation": "tomada = Steckdose."
+      "expression": "tomada",
+      "translation": "Steckdose",
+      "isVocabulary": true,
+      "example": "Tem uma tomada aqui?",
+      "exampleTranslation": "Gibt es hier eine Steckdose?"
     },
     {
       "id": "karte-06",
       "topic": "Handy und Kontakt",
-      "expression": "Posso carregar meu celular?",
-      "translation": "Kann ich mein Handy aufladen?",
-      "explanation": "carregar bedeutet hier aufladen."
+      "expression": "carregar",
+      "translation": "aufladen",
+      "isVocabulary": true,
+      "example": "Posso carregar meu celular?",
+      "exampleTranslation": "Kann ich mein Handy aufladen?"
     },
     {
       "id": "karte-07",
       "topic": "Handy und Kontakt",
-      "expression": "Não tenho sinal aqui.",
-      "translation": "Ich habe hier keinen Empfang.",
-      "explanation": "sinal meint hier Mobilfunkempfang."
+      "expression": "sinal",
+      "translation": "Empfang; Signal",
+      "isVocabulary": true,
+      "example": "Não tenho sinal aqui.",
+      "exampleTranslation": "Ich habe hier keinen Empfang."
     },
     {
       "id": "karte-08",
       "topic": "Handy und Kontakt",
-      "expression": "Pode escrever seu endereço de e-mail?",
-      "translation": "Kannst du deine E-Mail-Adresse aufschreiben?",
-      "explanation": "endereço de e-mail = E-Mail-Adresse."
+      "expression": "e-mail",
+      "translation": "E-Mail",
+      "isVocabulary": true,
+      "example": "Pode escrever seu endereço de e-mail?",
+      "exampleTranslation": "Kannst du deine E-Mail-Adresse aufschreiben?"
     }
   ]
 }

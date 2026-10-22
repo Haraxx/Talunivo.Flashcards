@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-36-strand",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "36 · Strand und Ausflug",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Strand und Ausflug",
-      "expression": "Vamos à praia amanhã.",
-      "translation": "Gehen wir morgen an den Strand.",
-      "explanation": "à = a + a; praia = Strand.",
+      "expression": "praia",
+      "translation": "Strand",
+      "isVocabulary": true,
       "example": "Vamos à praia. Leve água e protetor solar.",
       "exampleTranslation": "Gehen wir an den Strand. Nimm Wasser und Sonnencreme mit."
     },
     {
       "id": "karte-02",
       "topic": "Strand und Ausflug",
-      "expression": "Preciso de protetor solar.",
-      "translation": "Ich brauche Sonnencreme.",
-      "explanation": "protetor solar = Sonnenschutzmittel."
+      "expression": "protetor solar",
+      "translation": "Sonnencreme",
+      "isVocabulary": true,
+      "example": "Preciso de protetor solar.",
+      "exampleTranslation": "Ich brauche Sonnencreme."
     },
     {
       "id": "karte-03",
       "topic": "Strand und Ausflug",
-      "expression": "Leve água e um chapéu.",
-      "translation": "Nimm Wasser und einen Hut mit.",
-      "explanation": "leve ist eine Aufforderung; chapéu = Hut."
+      "expression": "chapéu",
+      "translation": "Hut",
+      "isVocabulary": true,
+      "example": "Leve água e um chapéu.",
+      "exampleTranslation": "Nimm Wasser und einen Hut mit."
     },
     {
       "id": "karte-04",
       "topic": "Strand und Ausflug",
-      "expression": "Onde posso alugar um guarda-sol?",
-      "translation": "Wo kann ich einen Sonnenschirm mieten?",
-      "explanation": "alugar = mieten; guarda-sol = Sonnenschirm."
+      "expression": "guarda-sol",
+      "translation": "Sonnenschirm",
+      "isVocabulary": true,
+      "example": "Onde posso alugar um guarda-sol?",
+      "exampleTranslation": "Wo kann ich einen Sonnenschirm mieten?"
     },
     {
       "id": "karte-05",
       "topic": "Strand und Ausflug",
-      "expression": "O mar está calmo hoje.",
-      "translation": "Das Meer ist heute ruhig.",
-      "explanation": "calmo = ruhig."
+      "expression": "mar",
+      "translation": "Meer",
+      "isVocabulary": true,
+      "example": "O mar está calmo hoje.",
+      "exampleTranslation": "Das Meer ist heute ruhig."
     },
     {
       "id": "karte-06",
       "topic": "Strand und Ausflug",
-      "expression": "É seguro nadar aqui?",
-      "translation": "Ist es sicher, hier zu schwimmen?",
-      "explanation": "seguro = sicher; vor Ort aktuelle Hinweise beachten."
+      "expression": "seguro",
+      "translation": "sicher",
+      "isVocabulary": true,
+      "example": "É seguro nadar aqui?",
+      "exampleTranslation": "Ist es sicher, hier zu schwimmen?"
     },
     {
       "id": "karte-07",
       "topic": "Strand und Ausflug",
-      "expression": "Vou ficar na sombra.",
-      "translation": "Ich werde im Schatten bleiben.",
-      "explanation": "sombra = Schatten."
+      "expression": "sombra",
+      "translation": "Schatten",
+      "isVocabulary": true,
+      "example": "Vou ficar na sombra.",
+      "exampleTranslation": "Ich werde im Schatten bleiben."
     },
     {
       "id": "karte-08",
       "topic": "Strand und Ausflug",
-      "expression": "Vamos voltar antes de escurecer.",
-      "translation": "Kehren wir zurück, bevor es dunkel wird.",
-      "explanation": "antes de = bevor; escurecer = dunkel werden."
+      "expression": "escurecer",
+      "translation": "dunkel werden",
+      "isVocabulary": true,
+      "example": "Vamos voltar antes de escurecer.",
+      "exampleTranslation": "Kehren wir zurück, bevor es dunkel wird."
     }
   ]
 }

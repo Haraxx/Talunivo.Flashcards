@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-23-kleidung",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "23 · Kleidung und Größen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Kleidung und Größen",
-      "expression": "Procuro uma camiseta.",
-      "translation": "Ich suche ein T-Shirt.",
-      "explanation": "procurar = suchen; camiseta = T-Shirt.",
+      "expression": "camiseta",
+      "translation": "T-Shirt",
+      "isVocabulary": true,
       "example": "Esta camiseta está apertada. Tem um tamanho maior?",
       "exampleTranslation": "Dieses T-Shirt ist zu eng. Gibt es eine größere Größe?"
     },
     {
       "id": "karte-02",
       "topic": "Kleidung und Größen",
-      "expression": "Preciso de uma calça.",
-      "translation": "Ich brauche eine Hose.",
-      "explanation": "calça ist in Brasilien ein übliches Wort für Hose."
+      "expression": "calça",
+      "translation": "Hose",
+      "isVocabulary": true,
+      "example": "Preciso de uma calça.",
+      "exampleTranslation": "Ich brauche eine Hose."
     },
     {
       "id": "karte-03",
       "topic": "Kleidung und Größen",
-      "expression": "Tem um tamanho maior?",
-      "translation": "Gibt es eine größere Größe?",
-      "explanation": "tamanho = Größe; maior = größer."
+      "expression": "maior",
+      "translation": "größer",
+      "isVocabulary": true,
+      "example": "Tem um tamanho maior?",
+      "exampleTranslation": "Gibt es eine größere Größe?"
     },
     {
       "id": "karte-04",
       "topic": "Kleidung und Größen",
-      "expression": "Tem um tamanho menor?",
-      "translation": "Gibt es eine kleinere Größe?",
-      "explanation": "menor = kleiner."
+      "expression": "menor",
+      "translation": "kleiner",
+      "isVocabulary": true,
+      "example": "Tem um tamanho menor?",
+      "exampleTranslation": "Gibt es eine kleinere Größe?"
     },
     {
       "id": "karte-05",
       "topic": "Kleidung und Größen",
-      "expression": "Posso experimentar esta jaqueta?",
-      "translation": "Kann ich diese Jacke anprobieren?",
-      "explanation": "experimentar bedeutet hier anprobieren."
+      "expression": "jaqueta",
+      "translation": "Jacke",
+      "isVocabulary": true,
+      "example": "Posso experimentar esta jaqueta?",
+      "exampleTranslation": "Kann ich diese Jacke anprobieren?"
     },
     {
       "id": "karte-06",
       "topic": "Kleidung und Größen",
-      "expression": "Onde fica o provador?",
-      "translation": "Wo ist die Umkleidekabine?",
-      "explanation": "provador = Umkleidekabine im Laden."
+      "expression": "provador",
+      "translation": "Umkleidekabine",
+      "isVocabulary": true,
+      "example": "Onde fica o provador?",
+      "exampleTranslation": "Wo ist die Umkleidekabine?"
     },
     {
       "id": "karte-07",
       "topic": "Kleidung und Größen",
-      "expression": "Estes sapatos estão apertados.",
-      "translation": "Diese Schuhe sind zu eng.",
-      "explanation": "apertados = eng; sapatos = Schuhe."
+      "expression": "sapatos",
+      "translation": "Schuhe",
+      "isVocabulary": true,
+      "example": "Estes sapatos estão apertados.",
+      "exampleTranslation": "Diese Schuhe sind zu eng."
     },
     {
       "id": "karte-08",
       "topic": "Kleidung und Größen",
-      "expression": "Esta camiseta ficou boa.",
-      "translation": "Dieses T-Shirt passt gut.",
-      "explanation": "ficou boa sagt hier, dass das Kleidungsstück gut passt."
+      "expression": "boa",
+      "translation": "gut (weiblich)",
+      "isVocabulary": true,
+      "example": "Esta camiseta ficou boa.",
+      "exampleTranslation": "Dieses T-Shirt passt gut."
     }
   ]
 }

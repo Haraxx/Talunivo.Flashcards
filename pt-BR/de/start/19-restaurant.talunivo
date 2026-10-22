@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-19-restaurant",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "19 · Im Restaurant",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,92 @@
     {
       "id": "karte-01",
       "topic": "Im Restaurant",
-      "expression": "Uma mesa para três, por favor.",
-      "translation": "Einen Tisch für drei, bitte.",
-      "explanation": "para três = für drei Personen.",
+      "expression": "mesa",
+      "translation": "Tisch",
+      "isVocabulary": true,
       "example": "Quero arroz com feijão e uma salada.",
       "exampleTranslation": "Ich möchte Reis mit Bohnen und einen Salat."
     },
     {
       "id": "karte-02",
       "topic": "Im Restaurant",
-      "expression": "Qual é o prato do dia?",
-      "translation": "Was ist das Tagesgericht?",
-      "explanation": "prato do dia = Tagesgericht."
+      "expression": "prato do dia",
+      "translation": "Tagesgericht",
+      "isVocabulary": true,
+      "example": "Qual é o prato do dia?",
+      "exampleTranslation": "Was ist das Tagesgericht?"
     },
     {
       "id": "karte-03",
       "topic": "Im Restaurant",
-      "expression": "Quero arroz com feijão.",
-      "translation": "Ich möchte Reis mit Bohnen.",
-      "explanation": "arroz com feijão ist eine verbreitete Beilage in Brasilien."
+      "expression": "arroz",
+      "translation": "Reis",
+      "isVocabulary": true,
+      "example": "Quero arroz com feijão.",
+      "exampleTranslation": "Ich möchte Reis mit Bohnen."
+    },
+    {
+      "id": "karte-03-2",
+      "topic": "Im Restaurant",
+      "expression": "feijão",
+      "translation": "Bohnen",
+      "isVocabulary": true,
+      "example": "Quero arroz com feijão.",
+      "exampleTranslation": "Ich möchte Reis mit Bohnen."
     },
     {
       "id": "karte-04",
       "topic": "Im Restaurant",
-      "expression": "O peixe vem com salada?",
-      "translation": "Wird der Fisch mit Salat serviert?",
-      "explanation": "vem com = kommt mit, hier wird serviert mit."
+      "expression": "peixe",
+      "translation": "Fisch",
+      "isVocabulary": true,
+      "example": "O peixe vem com salada?",
+      "exampleTranslation": "Wird der Fisch mit Salat serviert?"
+    },
+    {
+      "id": "karte-04-2",
+      "topic": "Im Restaurant",
+      "expression": "salada",
+      "translation": "Salat",
+      "isVocabulary": true,
+      "example": "O peixe vem com salada?",
+      "exampleTranslation": "Wird der Fisch mit Salat serviert?"
     },
     {
       "id": "karte-05",
       "topic": "Im Restaurant",
-      "expression": "Não como carne.",
-      "translation": "Ich esse kein Fleisch.",
-      "explanation": "carne = Fleisch; não como = ich esse nicht."
+      "expression": "carne",
+      "translation": "Fleisch",
+      "isVocabulary": true,
+      "example": "Não como carne.",
+      "exampleTranslation": "Ich esse kein Fleisch."
     },
     {
       "id": "karte-06",
       "topic": "Im Restaurant",
-      "expression": "Este prato tem amendoim?",
-      "translation": "Enthält dieses Gericht Erdnüsse?",
-      "explanation": "tem = enthält; amendoim = Erdnuss."
+      "expression": "amendoim",
+      "translation": "Erdnuss",
+      "isVocabulary": true,
+      "example": "Este prato tem amendoim?",
+      "exampleTranslation": "Enthält dieses Gericht Erdnüsse?"
     },
     {
       "id": "karte-07",
       "topic": "Im Restaurant",
-      "expression": "Sem pimenta, por favor.",
-      "translation": "Ohne Chili, bitte.",
-      "explanation": "pimenta kann je nach Gericht Chili oder Pfeffer meinen."
+      "expression": "pimenta",
+      "translation": "Chili; Pfeffer",
+      "isVocabulary": true,
+      "example": "Sem pimenta, por favor.",
+      "exampleTranslation": "Ohne Chili, bitte."
     },
     {
       "id": "karte-08",
       "topic": "Im Restaurant",
-      "expression": "Podemos dividir a conta?",
-      "translation": "Können wir die Rechnung teilen?",
-      "explanation": "podemos = wir können; dividir = teilen."
+      "expression": "dividir",
+      "translation": "teilen",
+      "isVocabulary": true,
+      "example": "Podemos dividir a conta?",
+      "exampleTranslation": "Können wir die Rechnung teilen?"
     }
   ]
 }

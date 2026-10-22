@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-29-hotel-hilfe",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "29 · Kleine Probleme im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "O ar-condicionado não funciona.",
-      "translation": "Die Klimaanlage funktioniert nicht.",
-      "explanation": "funcionar = funktionieren.",
+      "expression": "ar-condicionado",
+      "translation": "Klimaanlage",
+      "isVocabulary": true,
       "example": "O ar-condicionado não funciona. Posso trocar de quarto?",
       "exampleTranslation": "Die Klimaanlage funktioniert nicht. Kann ich das Zimmer wechseln?"
     },
     {
       "id": "karte-02",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "Não tem água quente.",
-      "translation": "Es gibt kein warmes Wasser.",
-      "explanation": "água quente = warmes oder heißes Wasser."
+      "expression": "água quente",
+      "translation": "warmes Wasser",
+      "isVocabulary": true,
+      "example": "Não tem água quente.",
+      "exampleTranslation": "Es gibt kein warmes Wasser."
     },
     {
       "id": "karte-03",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "Preciso de uma toalha limpa.",
-      "translation": "Ich brauche ein sauberes Handtuch.",
-      "explanation": "toalha = Handtuch; limpa = sauber."
+      "expression": "toalha",
+      "translation": "Handtuch",
+      "isVocabulary": true,
+      "example": "Preciso de uma toalha limpa.",
+      "exampleTranslation": "Ich brauche ein sauberes Handtuch."
     },
     {
       "id": "karte-04",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "Pode limpar o quarto amanhã?",
-      "translation": "Können Sie das Zimmer morgen reinigen?",
-      "explanation": "limpar = reinigen."
+      "expression": "limpar",
+      "translation": "reinigen",
+      "isVocabulary": true,
+      "example": "Pode limpar o quarto amanhã?",
+      "exampleTranslation": "Können Sie das Zimmer morgen reinigen?"
     },
     {
       "id": "karte-05",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "Perdi a chave do quarto.",
-      "translation": "Ich habe den Zimmerschlüssel verloren.",
-      "explanation": "perdi = ich habe verloren."
+      "expression": "perder",
+      "translation": "verlieren",
+      "isVocabulary": true,
+      "example": "Perdi a chave do quarto.",
+      "exampleTranslation": "Ich habe den Zimmerschlüssel verloren."
     },
     {
       "id": "karte-06",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "Tem um cobertor extra?",
-      "translation": "Gibt es eine zusätzliche Decke?",
-      "explanation": "cobertor = Decke; extra = zusätzlich."
+      "expression": "cobertor",
+      "translation": "Decke",
+      "isVocabulary": true,
+      "example": "Tem um cobertor extra?",
+      "exampleTranslation": "Gibt es eine zusätzliche Decke?"
     },
     {
       "id": "karte-07",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "O quarto está muito barulhento.",
-      "translation": "Das Zimmer ist sehr laut.",
-      "explanation": "barulhento = laut oder lärmend."
+      "expression": "barulhento",
+      "translation": "laut",
+      "isVocabulary": true,
+      "example": "O quarto está muito barulhento.",
+      "exampleTranslation": "Das Zimmer ist sehr laut."
     },
     {
       "id": "karte-08",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "Posso trocar de quarto?",
-      "translation": "Kann ich das Zimmer wechseln?",
-      "explanation": "trocar de = wechseln."
+      "expression": "trocar",
+      "translation": "wechseln",
+      "isVocabulary": true,
+      "example": "Posso trocar de quarto?",
+      "exampleTranslation": "Kann ich das Zimmer wechseln?"
     }
   ]
 }

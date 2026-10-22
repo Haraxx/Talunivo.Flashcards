@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-30-tagesablauf",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "30 · Mein Tagesablauf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Mein Tagesablauf",
-      "expression": "Acordo às sete.",
-      "translation": "Ich wache um sieben auf.",
-      "explanation": "acordar = aufwachen.",
+      "expression": "acordar",
+      "translation": "aufwachen",
+      "isVocabulary": true,
       "example": "Acordo às sete e almoço ao meio-dia.",
       "exampleTranslation": "Ich wache um sieben auf und esse um zwölf Uhr mittags zu Mittag."
     },
     {
       "id": "karte-02",
       "topic": "Mein Tagesablauf",
-      "expression": "Levanto cedo.",
-      "translation": "Ich stehe früh auf.",
-      "explanation": "levantar = aufstehen; cedo = früh."
+      "expression": "levantar",
+      "translation": "aufstehen",
+      "isVocabulary": true,
+      "example": "Levanto cedo.",
+      "exampleTranslation": "Ich stehe früh auf."
     },
     {
       "id": "karte-03",
       "topic": "Mein Tagesablauf",
-      "expression": "Tomo banho de manhã.",
-      "translation": "Ich dusche morgens.",
-      "explanation": "tomar banho = duschen oder baden."
+      "expression": "tomar banho",
+      "translation": "duschen; baden",
+      "isVocabulary": true,
+      "example": "Tomo banho de manhã.",
+      "exampleTranslation": "Ich dusche morgens."
     },
     {
       "id": "karte-04",
       "topic": "Mein Tagesablauf",
-      "expression": "Escovo os dentes.",
-      "translation": "Ich putze mir die Zähne.",
-      "explanation": "escovar = bürsten; dentes = Zähne."
+      "expression": "escovar",
+      "translation": "putzen; bürsten",
+      "isVocabulary": true,
+      "example": "Escovo os dentes.",
+      "exampleTranslation": "Ich putze mir die Zähne."
     },
     {
       "id": "karte-05",
       "topic": "Mein Tagesablauf",
-      "expression": "Almoço ao meio-dia.",
-      "translation": "Ich esse um zwölf Uhr mittags zu Mittag.",
-      "explanation": "almoçar = zu Mittag essen."
+      "expression": "almoçar",
+      "translation": "zu Mittag essen",
+      "isVocabulary": true,
+      "example": "Almoço ao meio-dia.",
+      "exampleTranslation": "Ich esse um zwölf Uhr mittags zu Mittag."
     },
     {
       "id": "karte-06",
       "topic": "Mein Tagesablauf",
-      "expression": "Volto para casa às seis.",
-      "translation": "Ich komme um sechs nach Hause zurück.",
-      "explanation": "voltar = zurückkehren; para casa = nach Hause."
+      "expression": "voltar",
+      "translation": "zurückkommen",
+      "isVocabulary": true,
+      "example": "Volto para casa às seis.",
+      "exampleTranslation": "Ich komme um sechs nach Hause zurück."
     },
     {
       "id": "karte-07",
       "topic": "Mein Tagesablauf",
-      "expression": "Janto com minha família.",
-      "translation": "Ich esse mit meiner Familie zu Abend.",
-      "explanation": "jantar = zu Abend essen."
+      "expression": "jantar",
+      "translation": "zu Abend essen",
+      "isVocabulary": true,
+      "example": "Janto com minha família.",
+      "exampleTranslation": "Ich esse mit meiner Familie zu Abend."
     },
     {
       "id": "karte-08",
       "topic": "Mein Tagesablauf",
-      "expression": "Vou dormir às dez da noite.",
-      "translation": "Ich gehe um zehn Uhr abends schlafen.",
-      "explanation": "ir dormir = schlafen gehen; da noite = abends."
+      "expression": "dormir",
+      "translation": "schlafen",
+      "isVocabulary": true,
+      "example": "Vou dormir às dez da noite.",
+      "exampleTranslation": "Ich gehe um zehn Uhr abends schlafen."
     }
   ]
 }

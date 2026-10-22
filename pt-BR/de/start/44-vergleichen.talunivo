@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-44-vergleichen",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "44 · Einfach vergleichen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Einfach vergleichen",
-      "expression": "Este é mais barato.",
-      "translation": "Das hier ist billiger.",
-      "explanation": "mais barato = billiger.",
+      "expression": "mais barato",
+      "translation": "günstiger",
+      "isVocabulary": true,
       "example": "Este hotel é mais barato, mas fica mais longe.",
       "exampleTranslation": "Dieses Hotel ist billiger, aber es liegt weiter weg."
     },
     {
       "id": "karte-02",
       "topic": "Einfach vergleichen",
-      "expression": "Aquele é mais caro.",
-      "translation": "Das dort ist teurer.",
-      "explanation": "aquele = das dort; mais caro = teurer."
+      "expression": "mais caro",
+      "translation": "teurer",
+      "isVocabulary": true,
+      "example": "Aquele é mais caro.",
+      "exampleTranslation": "Das dort ist teurer."
     },
     {
       "id": "karte-03",
       "topic": "Einfach vergleichen",
-      "expression": "Esta mala é maior que a minha.",
-      "translation": "Dieser Koffer ist größer als meiner.",
-      "explanation": "maior que = größer als; mala ist weiblich."
+      "expression": "maior",
+      "translation": "größer",
+      "isVocabulary": true,
+      "example": "Esta mala é maior que a minha.",
+      "exampleTranslation": "Dieser Koffer ist größer als meiner."
     },
     {
       "id": "karte-04",
       "topic": "Einfach vergleichen",
-      "expression": "Este quarto é menor.",
-      "translation": "Dieses Zimmer ist kleiner.",
-      "explanation": "menor = kleiner."
+      "expression": "menor",
+      "translation": "kleiner",
+      "isVocabulary": true,
+      "example": "Este quarto é menor.",
+      "exampleTranslation": "Dieses Zimmer ist kleiner."
     },
     {
       "id": "karte-05",
       "topic": "Einfach vergleichen",
-      "expression": "A estação fica mais longe que o mercado.",
-      "translation": "Der Bahnhof ist weiter weg als der Markt.",
-      "explanation": "mais longe que = weiter weg als."
+      "expression": "mais longe",
+      "translation": "weiter weg",
+      "isVocabulary": true,
+      "example": "A estação fica mais longe que o mercado.",
+      "exampleTranslation": "Der Bahnhof ist weiter weg als der Markt."
     },
     {
       "id": "karte-06",
       "topic": "Einfach vergleichen",
-      "expression": "Quero menos açúcar.",
-      "translation": "Ich möchte weniger Zucker.",
-      "explanation": "menos = weniger."
+      "expression": "menos",
+      "translation": "weniger",
+      "isVocabulary": true,
+      "example": "Quero menos açúcar.",
+      "exampleTranslation": "Ich möchte weniger Zucker."
     },
     {
       "id": "karte-07",
       "topic": "Einfach vergleichen",
-      "expression": "Preciso de mais tempo.",
-      "translation": "Ich brauche mehr Zeit.",
-      "explanation": "mais = mehr; tempo bedeutet hier Zeit."
+      "expression": "mais",
+      "translation": "mehr",
+      "isVocabulary": true,
+      "example": "Preciso de mais tempo.",
+      "exampleTranslation": "Ich brauche mehr Zeit."
     },
     {
       "id": "karte-08",
       "topic": "Einfach vergleichen",
-      "expression": "Este caminho é melhor.",
-      "translation": "Dieser Weg ist besser.",
-      "explanation": "melhor = besser; caminho = Weg."
+      "expression": "melhor",
+      "translation": "besser",
+      "isVocabulary": true,
+      "example": "Este caminho é melhor.",
+      "exampleTranslation": "Dieser Weg ist besser."
     }
   ]
 }

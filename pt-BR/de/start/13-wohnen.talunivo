@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-13-wohnen",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "13 · Zu Hause",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Zu Hause",
-      "expression": "Esta é a minha casa.",
-      "translation": "Das ist mein Haus.",
-      "explanation": "casa kann Haus oder Zuhause bedeuten.",
+      "expression": "casa",
+      "translation": "Haus",
+      "isVocabulary": true,
       "example": "Minha casa é pequena, mas a sala é grande.",
       "exampleTranslation": "Mein Haus ist klein, aber das Wohnzimmer ist groß."
     },
     {
       "id": "karte-02",
       "topic": "Zu Hause",
-      "expression": "Meu apartamento é pequeno.",
-      "translation": "Meine Wohnung ist klein.",
-      "explanation": "apartamento = Wohnung; pequeno = klein."
+      "expression": "apartamento",
+      "translation": "Wohnung",
+      "isVocabulary": true,
+      "example": "Meu apartamento é pequeno.",
+      "exampleTranslation": "Meine Wohnung ist klein."
     },
     {
       "id": "karte-03",
       "topic": "Zu Hause",
-      "expression": "A cozinha fica aqui.",
-      "translation": "Die Küche ist hier.",
-      "explanation": "ficar beschreibt hier die Lage."
+      "expression": "cozinha",
+      "translation": "Küche",
+      "isVocabulary": true,
+      "example": "A cozinha fica aqui.",
+      "exampleTranslation": "Die Küche ist hier."
     },
     {
       "id": "karte-04",
       "topic": "Zu Hause",
-      "expression": "O banheiro fica ali.",
-      "translation": "Das Badezimmer ist dort.",
-      "explanation": "banheiro bedeutet in Brasilien auch Toilette."
+      "expression": "banheiro",
+      "translation": "Badezimmer; Toilette",
+      "isVocabulary": true,
+      "example": "O banheiro fica ali.",
+      "exampleTranslation": "Das Badezimmer ist dort."
     },
     {
       "id": "karte-05",
       "topic": "Zu Hause",
-      "expression": "Meu quarto tem uma janela.",
-      "translation": "Mein Zimmer hat ein Fenster.",
-      "explanation": "quarto = Zimmer; janela = Fenster."
+      "expression": "quarto",
+      "translation": "Zimmer",
+      "isVocabulary": true,
+      "example": "Meu quarto tem uma janela.",
+      "exampleTranslation": "Mein Zimmer hat ein Fenster."
     },
     {
       "id": "karte-06",
       "topic": "Zu Hause",
-      "expression": "A sala é grande.",
-      "translation": "Das Wohnzimmer ist groß.",
-      "explanation": "sala meint hier das Wohnzimmer."
+      "expression": "sala",
+      "translation": "Wohnzimmer",
+      "isVocabulary": true,
+      "example": "A sala é grande.",
+      "exampleTranslation": "Das Wohnzimmer ist groß."
     },
     {
       "id": "karte-07",
       "topic": "Zu Hause",
-      "expression": "Moro com minha família.",
-      "translation": "Ich wohne mit meiner Familie.",
-      "explanation": "com = mit; família = Familie."
+      "expression": "família",
+      "translation": "Familie",
+      "isVocabulary": true,
+      "example": "Moro com minha família.",
+      "exampleTranslation": "Ich wohne mit meiner Familie."
     },
     {
       "id": "karte-08",
       "topic": "Zu Hause",
-      "expression": "A porta está aberta.",
-      "translation": "Die Tür ist offen.",
-      "explanation": "aberta passt zur weiblichen porta."
+      "expression": "porta",
+      "translation": "Tür",
+      "isVocabulary": true,
+      "example": "A porta está aberta.",
+      "exampleTranslation": "Die Tür ist offen."
     }
   ]
 }

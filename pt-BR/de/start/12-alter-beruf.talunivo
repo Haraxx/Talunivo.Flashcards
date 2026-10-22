@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-12-alter-beruf",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "12 · Alter und Beruf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Alter und Beruf",
-      "expression": "Quantos anos você tem?",
-      "translation": "Wie alt bist du?",
-      "explanation": "Wörtlich: Wie viele Jahre hast du?",
+      "expression": "quantos",
+      "translation": "wie viele (männlich)",
+      "isVocabulary": true,
       "example": "Tenho vinte anos e sou estudante.",
       "exampleTranslation": "Ich bin zwanzig Jahre alt und bin Student."
     },
     {
       "id": "karte-02",
       "topic": "Alter und Beruf",
-      "expression": "Tenho vinte e cinco anos.",
-      "translation": "Ich bin fünfundzwanzig Jahre alt.",
-      "explanation": "Für das Alter sagt man tenho, also ich habe."
+      "expression": "anos",
+      "translation": "Jahre",
+      "isVocabulary": true,
+      "example": "Tenho vinte e cinco anos.",
+      "exampleTranslation": "Ich bin fünfundzwanzig Jahre alt."
     },
     {
       "id": "karte-03",
       "topic": "Alter und Beruf",
-      "expression": "Sou estudante.",
-      "translation": "Ich bin Student.",
-      "explanation": "estudante kann auch Schüler bedeuten; für beide Geschlechter gleich."
+      "expression": "estudante",
+      "translation": "Student; Studentin",
+      "isVocabulary": true,
+      "example": "Sou estudante.",
+      "exampleTranslation": "Ich bin Student."
     },
     {
       "id": "karte-04",
       "topic": "Alter und Beruf",
-      "expression": "Ela é professora.",
-      "translation": "Sie ist Lehrerin.",
-      "explanation": "professora = Lehrerin; professor = Lehrer."
+      "expression": "professora",
+      "translation": "Lehrerin",
+      "isVocabulary": true,
+      "example": "Ela é professora.",
+      "exampleTranslation": "Sie ist Lehrerin."
     },
     {
       "id": "karte-05",
       "topic": "Alter und Beruf",
-      "expression": "Ele é médico.",
-      "translation": "Er ist Arzt.",
-      "explanation": "médico = Arzt; médica = Ärztin."
+      "expression": "médico",
+      "translation": "Arzt",
+      "isVocabulary": true,
+      "example": "Ele é médico.",
+      "exampleTranslation": "Er ist Arzt."
     },
     {
       "id": "karte-06",
       "topic": "Alter und Beruf",
-      "expression": "Trabalho num escritório.",
-      "translation": "Ich arbeite in einem Büro.",
-      "explanation": "num = em + um, also in einem."
+      "expression": "escritório",
+      "translation": "Büro",
+      "isVocabulary": true,
+      "example": "Trabalho num escritório.",
+      "exampleTranslation": "Ich arbeite in einem Büro."
     },
     {
       "id": "karte-07",
       "topic": "Alter und Beruf",
-      "expression": "Onde você trabalha?",
-      "translation": "Wo arbeitest du?",
-      "explanation": "trabalhar = arbeiten."
+      "expression": "trabalhar",
+      "translation": "arbeiten",
+      "isVocabulary": true,
+      "example": "Onde você trabalha?",
+      "exampleTranslation": "Wo arbeitest du?"
     },
     {
       "id": "karte-08",
       "topic": "Alter und Beruf",
-      "expression": "Ainda não trabalho.",
-      "translation": "Ich arbeite noch nicht.",
-      "explanation": "ainda não = noch nicht."
+      "expression": "ainda",
+      "translation": "noch",
+      "isVocabulary": true,
+      "example": "Ainda não trabalho.",
+      "exampleTranslation": "Ich arbeite noch nicht."
     }
   ]
 }

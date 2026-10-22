@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-17-getraenke",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "17 · Getränke bestellen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Getränke bestellen",
-      "expression": "Uma água sem gás, por favor.",
-      "translation": "Ein stilles Wasser, bitte.",
-      "explanation": "sem gás = ohne Kohlensäure.",
+      "expression": "água sem gás",
+      "translation": "stilles Wasser",
+      "isVocabulary": true,
       "example": "Quero uma água sem gás e sem gelo.",
       "exampleTranslation": "Ich möchte ein stilles Wasser ohne Eiswürfel."
     },
     {
       "id": "karte-02",
       "topic": "Getränke bestellen",
-      "expression": "Quero água com gás.",
-      "translation": "Ich möchte Sprudelwasser.",
-      "explanation": "com gás = mit Kohlensäure."
+      "expression": "água com gás",
+      "translation": "Sprudelwasser",
+      "isVocabulary": true,
+      "example": "Quero água com gás.",
+      "exampleTranslation": "Ich möchte Sprudelwasser."
     },
     {
       "id": "karte-03",
       "topic": "Getränke bestellen",
-      "expression": "Um café com leite, por favor.",
-      "translation": "Einen Kaffee mit Milch, bitte.",
-      "explanation": "com leite = mit Milch."
+      "expression": "café com leite",
+      "translation": "Milchkaffee",
+      "isVocabulary": true,
+      "example": "Um café com leite, por favor.",
+      "exampleTranslation": "Einen Kaffee mit Milch, bitte."
     },
     {
       "id": "karte-04",
       "topic": "Getränke bestellen",
-      "expression": "Você tem chá?",
-      "translation": "Hast du Tee?",
-      "explanation": "chá = Tee; tem = du hast."
+      "expression": "chá",
+      "translation": "Tee",
+      "isVocabulary": true,
+      "example": "Você tem chá?",
+      "exampleTranslation": "Hast du Tee?"
     },
     {
       "id": "karte-05",
       "topic": "Getränke bestellen",
-      "expression": "Quero um suco de laranja.",
-      "translation": "Ich möchte einen Orangensaft.",
-      "explanation": "suco ist in Brasilien das übliche Wort für Saft."
+      "expression": "suco de laranja",
+      "translation": "Orangensaft",
+      "isVocabulary": true,
+      "example": "Quero um suco de laranja.",
+      "exampleTranslation": "Ich möchte einen Orangensaft."
     },
     {
       "id": "karte-06",
       "topic": "Getränke bestellen",
-      "expression": "Sem gelo, por favor.",
-      "translation": "Ohne Eiswürfel, bitte.",
-      "explanation": "gelo meint hier Eiswürfel im Getränk."
+      "expression": "sem gelo",
+      "translation": "ohne Eiswürfel",
+      "isVocabulary": true,
+      "example": "Sem gelo, por favor.",
+      "exampleTranslation": "Ohne Eiswürfel, bitte."
     },
     {
       "id": "karte-07",
       "topic": "Getränke bestellen",
-      "expression": "Pode ser uma xícara pequena.",
-      "translation": "Es kann eine kleine Tasse sein.",
-      "explanation": "pode ser = es kann sein; xícara = Tasse."
+      "expression": "xícara",
+      "translation": "Tasse",
+      "isVocabulary": true,
+      "example": "Pode ser uma xícara pequena.",
+      "exampleTranslation": "Es kann eine kleine Tasse sein."
     },
     {
       "id": "karte-08",
       "topic": "Getränke bestellen",
-      "expression": "Para levar, por favor.",
-      "translation": "Zum Mitnehmen, bitte.",
-      "explanation": "para levar ist die übliche Wendung für zum Mitnehmen."
+      "expression": "para levar",
+      "translation": "zum Mitnehmen",
+      "isVocabulary": true,
+      "example": "Para levar, por favor.",
+      "exampleTranslation": "Zum Mitnehmen, bitte."
     }
   ]
 }

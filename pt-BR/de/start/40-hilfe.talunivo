@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-40-hilfe",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "40 · Um Hilfe bitten",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Um Hilfe bitten",
-      "expression": "Pode me ajudar, por favor?",
-      "translation": "Können Sie mir bitte helfen?",
-      "explanation": "ajudar = helfen; me = mir.",
+      "expression": "ajudar",
+      "translation": "helfen",
+      "isVocabulary": true,
       "example": "Estou perdida. Pode me mostrar o hotel no mapa?",
       "exampleTranslation": "Ich habe mich verlaufen. Können Sie mir das Hotel auf der Karte zeigen?"
     },
     {
       "id": "karte-02",
       "topic": "Um Hilfe bitten",
-      "expression": "Estou perdido.",
-      "translation": "Ich habe mich verlaufen.",
-      "explanation": "Ein Mann sagt perdido; eine Frau perdida."
+      "expression": "perdido",
+      "translation": "verirrt (männlich)",
+      "isVocabulary": true,
+      "example": "Estou perdido.",
+      "exampleTranslation": "Ich habe mich verlaufen."
     },
     {
       "id": "karte-03",
       "topic": "Um Hilfe bitten",
-      "expression": "Estou perdida nesta rua.",
-      "translation": "Ich habe mich in dieser Straße verlaufen.",
-      "explanation": "Weibliche Sprecherform; nesta = in dieser."
+      "expression": "perdida",
+      "translation": "verirrt (weiblich)",
+      "isVocabulary": true,
+      "example": "Estou perdida nesta rua.",
+      "exampleTranslation": "Ich habe mich in dieser Straße verlaufen."
     },
     {
       "id": "karte-04",
       "topic": "Um Hilfe bitten",
-      "expression": "Perdi meu celular.",
-      "translation": "Ich habe mein Handy verloren.",
-      "explanation": "perdi = ich habe verloren; celular = Handy."
+      "expression": "perder",
+      "translation": "verlieren",
+      "isVocabulary": true,
+      "example": "Perdi meu celular.",
+      "exampleTranslation": "Ich habe mein Handy verloren."
     },
     {
       "id": "karte-05",
       "topic": "Um Hilfe bitten",
-      "expression": "Não encontro meu passaporte.",
-      "translation": "Ich finde meinen Reisepass nicht.",
-      "explanation": "encontrar = finden."
+      "expression": "encontrar",
+      "translation": "finden",
+      "isVocabulary": true,
+      "example": "Não encontro meu passaporte.",
+      "exampleTranslation": "Ich finde meinen Reisepass nicht."
     },
     {
       "id": "karte-06",
       "topic": "Um Hilfe bitten",
-      "expression": "Chame uma ambulância, por favor.",
-      "translation": "Rufen Sie bitte einen Krankenwagen.",
-      "explanation": "chame = rufen Sie; ambulância = Krankenwagen."
+      "expression": "ambulância",
+      "translation": "Krankenwagen",
+      "isVocabulary": true,
+      "example": "Chame uma ambulância, por favor.",
+      "exampleTranslation": "Rufen Sie bitte einen Krankenwagen."
     },
     {
       "id": "karte-07",
       "topic": "Um Hilfe bitten",
-      "expression": "Preciso de um médico.",
-      "translation": "Ich brauche einen Arzt.",
-      "explanation": "médico = Arzt; médica = Ärztin."
+      "expression": "médico",
+      "translation": "Arzt",
+      "isVocabulary": true,
+      "example": "Preciso de um médico.",
+      "exampleTranslation": "Ich brauche einen Arzt."
     },
     {
       "id": "karte-08",
       "topic": "Um Hilfe bitten",
-      "expression": "Estou na entrada do hotel.",
-      "translation": "Ich bin am Hoteleingang.",
-      "explanation": "na entrada = am Eingang; do hotel = des Hotels."
+      "expression": "entrada",
+      "translation": "Eingang",
+      "isVocabulary": true,
+      "example": "Estou na entrada do hotel.",
+      "exampleTranslation": "Ich bin am Hoteleingang."
     }
   ]
 }

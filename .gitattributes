@@ -1,2 +1,4 @@
 *.talunivo -text
 *.json -text
+*.md text eol=lf
+*.txt text eol=lf

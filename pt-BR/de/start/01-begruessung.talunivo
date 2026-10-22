@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-01-begruessung",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "01 · Begrüßung und Abschied",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Begrüßung und Abschied",
-      "expression": "Oi!",
-      "translation": "Hallo!",
-      "explanation": "Informelle Begrüßung im brasilianischen Alltag.",
+      "expression": "oi",
+      "translation": "hallo",
+      "isVocabulary": true,
       "example": "Oi, Ana! Tudo bem?",
       "exampleTranslation": "Hallo, Ana! Alles gut?"
     },
     {
       "id": "karte-02",
       "topic": "Begrüßung und Abschied",
-      "expression": "Olá, tudo bem?",
-      "translation": "Hallo, alles gut?",
-      "explanation": "tudo = alles; bem = gut."
+      "expression": "olá",
+      "translation": "hallo",
+      "isVocabulary": true,
+      "example": "Olá, tudo bem?",
+      "exampleTranslation": "Hallo, alles gut?"
     },
     {
       "id": "karte-03",
       "topic": "Begrüßung und Abschied",
-      "expression": "Bom dia!",
-      "translation": "Guten Morgen!",
-      "explanation": "Übliche Begrüßung am Morgen."
+      "expression": "bom dia",
+      "translation": "guten Morgen",
+      "isVocabulary": true,
+      "example": "Bom dia!",
+      "exampleTranslation": "Guten Morgen!"
     },
     {
       "id": "karte-04",
       "topic": "Begrüßung und Abschied",
-      "expression": "Boa tarde!",
-      "translation": "Guten Tag!",
-      "explanation": "Begrüßung am Nachmittag."
+      "expression": "boa tarde",
+      "translation": "guten Tag",
+      "isVocabulary": true,
+      "example": "Boa tarde!",
+      "exampleTranslation": "Guten Tag!"
     },
     {
       "id": "karte-05",
       "topic": "Begrüßung und Abschied",
-      "expression": "Boa noite!",
-      "translation": "Guten Abend!",
-      "explanation": "Auch als Gute-Nacht-Gruß verwendbar."
+      "expression": "boa noite",
+      "translation": "guten Abend; gute Nacht",
+      "isVocabulary": true,
+      "example": "Boa noite!",
+      "exampleTranslation": "Guten Abend!"
     },
     {
       "id": "karte-06",
       "topic": "Begrüßung und Abschied",
-      "expression": "Até amanhã!",
-      "translation": "Bis morgen!",
-      "explanation": "até = bis; amanhã = morgen."
+      "expression": "até amanhã",
+      "translation": "bis morgen",
+      "isVocabulary": true,
+      "example": "Até amanhã!",
+      "exampleTranslation": "Bis morgen!"
     },
     {
       "id": "karte-07",
       "topic": "Begrüßung und Abschied",
-      "expression": "Até mais tarde!",
-      "translation": "Bis später!",
-      "explanation": "mais tarde = später."
+      "expression": "mais tarde",
+      "translation": "später",
+      "isVocabulary": true,
+      "example": "Até mais tarde!",
+      "exampleTranslation": "Bis später!"
     },
     {
       "id": "karte-08",
       "topic": "Begrüßung und Abschied",
-      "expression": "Tchau, até logo!",
-      "translation": "Tschüss, bis bald!",
-      "explanation": "tchau ist ein üblicher Abschiedsgruß."
+      "expression": "tchau",
+      "translation": "tschüss",
+      "isVocabulary": true,
+      "example": "Tchau, até logo!",
+      "exampleTranslation": "Tschüss, bis bald!"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-15-farben",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "15 · Farben und Beschreibungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,83 @@
     {
       "id": "karte-01",
       "topic": "Farben und Beschreibungen",
-      "expression": "A camisa é branca.",
-      "translation": "Das Hemd ist weiß.",
-      "explanation": "branca passt zum weiblichen Wort camisa.",
+      "expression": "branco",
+      "translation": "weiß",
+      "isVocabulary": true,
       "example": "Quero uma camisa branca e uma bolsa preta.",
       "exampleTranslation": "Ich möchte ein weißes Hemd und eine schwarze Tasche."
     },
     {
       "id": "karte-02",
       "topic": "Farben und Beschreibungen",
-      "expression": "O sapato é preto.",
-      "translation": "Der Schuh ist schwarz.",
-      "explanation": "preto passt zum männlichen Wort sapato."
+      "expression": "preto",
+      "translation": "schwarz",
+      "isVocabulary": true,
+      "example": "O sapato é preto.",
+      "exampleTranslation": "Der Schuh ist schwarz."
     },
     {
       "id": "karte-03",
       "topic": "Farben und Beschreibungen",
-      "expression": "Quero a bolsa vermelha.",
-      "translation": "Ich möchte die rote Tasche.",
-      "explanation": "vermelha = rot, weibliche Form."
+      "expression": "vermelho",
+      "translation": "rot",
+      "isVocabulary": true,
+      "example": "Quero a bolsa vermelha.",
+      "exampleTranslation": "Ich möchte die rote Tasche."
     },
     {
       "id": "karte-04",
       "topic": "Farben und Beschreibungen",
-      "expression": "O céu está azul.",
-      "translation": "Der Himmel ist blau.",
-      "explanation": "azul bleibt bei männlichen und weiblichen Wörtern gleich."
+      "expression": "azul",
+      "translation": "blau",
+      "isVocabulary": true,
+      "example": "O céu está azul.",
+      "exampleTranslation": "Der Himmel ist blau."
     },
     {
       "id": "karte-05",
       "topic": "Farben und Beschreibungen",
-      "expression": "A parede é verde.",
-      "translation": "Die Wand ist grün.",
-      "explanation": "verde bleibt für beide Geschlechter gleich."
+      "expression": "verde",
+      "translation": "grün",
+      "isVocabulary": true,
+      "example": "A parede é verde.",
+      "exampleTranslation": "Die Wand ist grün."
     },
     {
       "id": "karte-06",
       "topic": "Farben und Beschreibungen",
-      "expression": "O vestido é amarelo.",
-      "translation": "Das Kleid ist gelb.",
-      "explanation": "amarelo = gelb; vestido = Kleid."
+      "expression": "amarelo",
+      "translation": "gelb",
+      "isVocabulary": true,
+      "example": "O vestido é amarelo.",
+      "exampleTranslation": "Das Kleid ist gelb."
     },
     {
       "id": "karte-07",
       "topic": "Farben und Beschreibungen",
-      "expression": "Este livro é novo.",
-      "translation": "Dieses Buch ist neu.",
-      "explanation": "novo = neu; este = dieser."
+      "expression": "novo",
+      "translation": "neu",
+      "isVocabulary": true,
+      "example": "Este livro é novo.",
+      "exampleTranslation": "Dieses Buch ist neu."
     },
     {
       "id": "karte-08",
       "topic": "Farben und Beschreibungen",
-      "expression": "A mesa é grande, mas a cadeira é pequena.",
-      "translation": "Der Tisch ist groß, aber der Stuhl ist klein.",
-      "explanation": "mas = aber; Eigenschaftswörter wie grande und pequena stehen hier nach dem Hauptwort."
+      "expression": "grande",
+      "translation": "groß",
+      "isVocabulary": true,
+      "example": "A mesa é grande, mas a cadeira é pequena.",
+      "exampleTranslation": "Der Tisch ist groß, aber der Stuhl ist klein."
+    },
+    {
+      "id": "karte-08-2",
+      "topic": "Farben und Beschreibungen",
+      "expression": "pequeno",
+      "translation": "klein",
+      "isVocabulary": true,
+      "example": "A mesa é grande, mas a cadeira é pequena.",
+      "exampleTranslation": "Der Tisch ist groß, aber der Stuhl ist klein."
     }
   ]
 }

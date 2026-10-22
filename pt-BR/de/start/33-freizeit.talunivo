@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-33-freizeit",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "33 · Freizeit und Hobbys",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Freizeit und Hobbys",
-      "expression": "Leio um livro à noite.",
-      "translation": "Ich lese abends ein Buch.",
-      "explanation": "leio = ich lese; à noite = abends.",
+      "expression": "ler",
+      "translation": "lesen",
+      "isVocabulary": true,
       "example": "No tempo livre, leio e ouço música.",
       "exampleTranslation": "In meiner Freizeit lese ich und höre Musik."
     },
     {
       "id": "karte-02",
       "topic": "Freizeit und Hobbys",
-      "expression": "Ouço música no ônibus.",
-      "translation": "Ich höre im Bus Musik.",
-      "explanation": "ouço = ich höre; no = em + o."
+      "expression": "ouvir",
+      "translation": "hören",
+      "isVocabulary": true,
+      "example": "Ouço música no ônibus.",
+      "exampleTranslation": "Ich höre im Bus Musik."
     },
     {
       "id": "karte-03",
       "topic": "Freizeit und Hobbys",
-      "expression": "Assisto a filmes em casa.",
-      "translation": "Ich schaue zu Hause Filme.",
-      "explanation": "assistir a = anschauen."
+      "expression": "filmes",
+      "translation": "Filme",
+      "isVocabulary": true,
+      "example": "Assisto a filmes em casa.",
+      "exampleTranslation": "Ich schaue zu Hause Filme."
     },
     {
       "id": "karte-04",
       "topic": "Freizeit und Hobbys",
-      "expression": "Jogo futebol aos sábados.",
-      "translation": "Ich spiele samstags Fußball.",
-      "explanation": "aos sábados = samstags, regelmäßig."
+      "expression": "jogar",
+      "translation": "spielen (Sport)",
+      "isVocabulary": true,
+      "example": "Jogo futebol aos sábados.",
+      "exampleTranslation": "Ich spiele samstags Fußball."
     },
     {
       "id": "karte-05",
       "topic": "Freizeit und Hobbys",
-      "expression": "Faço uma caminhada no parque.",
-      "translation": "Ich gehe im Park spazieren.",
-      "explanation": "fazer uma caminhada = einen Spaziergang machen."
+      "expression": "caminhada",
+      "translation": "Spaziergang",
+      "isVocabulary": true,
+      "example": "Faço uma caminhada no parque.",
+      "exampleTranslation": "Ich gehe im Park spazieren."
     },
     {
       "id": "karte-06",
       "topic": "Freizeit und Hobbys",
-      "expression": "Tiro fotos da cidade.",
-      "translation": "Ich fotografiere die Stadt.",
-      "explanation": "tirar fotos = Fotos machen."
+      "expression": "fotos",
+      "translation": "Fotos",
+      "isVocabulary": true,
+      "example": "Tiro fotos da cidade.",
+      "exampleTranslation": "Ich fotografiere die Stadt."
     },
     {
       "id": "karte-07",
       "topic": "Freizeit und Hobbys",
-      "expression": "Gosto de nadar no mar.",
-      "translation": "Ich schwimme gern im Meer.",
-      "explanation": "nadar = schwimmen; mar = Meer."
+      "expression": "nadar",
+      "translation": "schwimmen",
+      "isVocabulary": true,
+      "example": "Gosto de nadar no mar.",
+      "exampleTranslation": "Ich schwimme gern im Meer."
     },
     {
       "id": "karte-08",
       "topic": "Freizeit und Hobbys",
-      "expression": "No tempo livre, desenho.",
-      "translation": "In meiner Freizeit zeichne ich.",
-      "explanation": "tempo livre = Freizeit; desenhar = zeichnen."
+      "expression": "desenhar",
+      "translation": "zeichnen",
+      "isVocabulary": true,
+      "example": "No tempo livre, desenho.",
+      "exampleTranslation": "In meiner Freizeit zeichne ich."
     }
   ]
 }

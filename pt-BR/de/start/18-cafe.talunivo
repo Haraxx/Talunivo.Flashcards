@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-18-cafe",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "18 · Im Café",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Im Café",
-      "expression": "Tem uma mesa livre?",
-      "translation": "Ist ein Tisch frei?",
-      "explanation": "livre = frei, also nicht besetzt.",
+      "expression": "mesa",
+      "translation": "Tisch",
+      "isVocabulary": true,
       "example": "Somos duas pessoas. Tem uma mesa livre?",
       "exampleTranslation": "Wir sind zwei Personen. Ist ein Tisch frei?"
     },
     {
       "id": "karte-02",
       "topic": "Im Café",
-      "expression": "Somos duas pessoas.",
-      "translation": "Wir sind zwei Personen.",
-      "explanation": "somos = wir sind; duas zu pessoas."
+      "expression": "pessoas",
+      "translation": "Personen",
+      "isVocabulary": true,
+      "example": "Somos duas pessoas.",
+      "exampleTranslation": "Wir sind zwei Personen."
     },
     {
       "id": "karte-03",
       "topic": "Im Café",
-      "expression": "Posso ver o cardápio?",
-      "translation": "Kann ich die Speisekarte sehen?",
-      "explanation": "cardápio heißt in Brasilien Speise- oder Getränkekarte."
+      "expression": "cardápio",
+      "translation": "Speisekarte",
+      "isVocabulary": true,
+      "example": "Posso ver o cardápio?",
+      "exampleTranslation": "Kann ich die Speisekarte sehen?"
     },
     {
       "id": "karte-04",
       "topic": "Im Café",
-      "expression": "Quero um sanduíche de queijo.",
-      "translation": "Ich möchte ein Käsesandwich.",
-      "explanation": "de queijo = mit Käse."
+      "expression": "sanduíche",
+      "translation": "Sandwich",
+      "isVocabulary": true,
+      "example": "Quero um sanduíche de queijo.",
+      "exampleTranslation": "Ich möchte ein Käsesandwich."
     },
     {
       "id": "karte-05",
       "topic": "Im Café",
-      "expression": "Mais um café, por favor.",
-      "translation": "Noch einen Kaffee, bitte.",
-      "explanation": "mais um = noch einen."
+      "expression": "mais um",
+      "translation": "noch ein",
+      "isVocabulary": true,
+      "example": "Mais um café, por favor.",
+      "exampleTranslation": "Noch einen Kaffee, bitte."
     },
     {
       "id": "karte-06",
       "topic": "Im Café",
-      "expression": "Está muito gostoso.",
-      "translation": "Das schmeckt sehr gut.",
-      "explanation": "gostoso beschreibt hier etwas Leckeres."
+      "expression": "gostoso",
+      "translation": "lecker",
+      "isVocabulary": true,
+      "example": "Está muito gostoso.",
+      "exampleTranslation": "Das schmeckt sehr gut."
     },
     {
       "id": "karte-07",
       "topic": "Im Café",
-      "expression": "Posso pagar com cartão?",
-      "translation": "Kann ich mit Karte bezahlen?",
-      "explanation": "pagar = bezahlen; cartão = Karte."
+      "expression": "cartão",
+      "translation": "Karte (Zahlung)",
+      "isVocabulary": true,
+      "example": "Posso pagar com cartão?",
+      "exampleTranslation": "Kann ich mit Karte bezahlen?"
     },
     {
       "id": "karte-08",
       "topic": "Im Café",
-      "expression": "Pode trazer a conta?",
-      "translation": "Kannst du die Rechnung bringen?",
-      "explanation": "trazer = bringen; conta = Rechnung."
+      "expression": "conta",
+      "translation": "Rechnung",
+      "isVocabulary": true,
+      "example": "Pode trazer a conta?",
+      "exampleTranslation": "Kannst du die Rechnung bringen?"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-21-obst-gemuese",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "21 · Obst und Gemüse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,83 @@
     {
       "id": "karte-01",
       "topic": "Obst und Gemüse",
-      "expression": "Quero duas laranjas.",
-      "translation": "Ich möchte zwei Orangen.",
-      "explanation": "laranja = Orange; duas ist die weibliche Form von zwei.",
+      "expression": "laranjas",
+      "translation": "Orangen",
+      "isVocabulary": true,
       "example": "Quero duas laranjas e uma alface.",
       "exampleTranslation": "Ich möchte zwei Orangen und einen Kopfsalat."
     },
     {
       "id": "karte-02",
       "topic": "Obst und Gemüse",
-      "expression": "O abacaxi está maduro.",
-      "translation": "Die Ananas ist reif.",
-      "explanation": "abacaxi = Ananas; maduro = reif."
+      "expression": "abacaxi",
+      "translation": "Ananas",
+      "isVocabulary": true,
+      "example": "O abacaxi está maduro.",
+      "exampleTranslation": "Die Ananas ist reif."
     },
     {
       "id": "karte-03",
       "topic": "Obst und Gemüse",
-      "expression": "Gosto de manga.",
-      "translation": "Ich mag Mango.",
-      "explanation": "manga kann auch Ärmel heißen; hier ist die Frucht gemeint."
+      "expression": "manga",
+      "translation": "Mango",
+      "isVocabulary": true,
+      "example": "Gosto de manga.",
+      "exampleTranslation": "Ich mag Mango."
     },
     {
       "id": "karte-04",
       "topic": "Obst und Gemüse",
-      "expression": "Estes tomates estão bonitos.",
-      "translation": "Diese Tomaten sehen schön aus.",
-      "explanation": "estes = diese; bonitos = schön in der männlichen Mehrzahl."
+      "expression": "tomates",
+      "translation": "Tomaten",
+      "isVocabulary": true,
+      "example": "Estes tomates estão bonitos.",
+      "exampleTranslation": "Diese Tomaten sehen schön aus."
     },
     {
       "id": "karte-05",
       "topic": "Obst und Gemüse",
-      "expression": "Preciso de batatas.",
-      "translation": "Ich brauche Kartoffeln.",
-      "explanation": "batata = Kartoffel; Mehrzahl batatas."
+      "expression": "batatas",
+      "translation": "Kartoffeln",
+      "isVocabulary": true,
+      "example": "Preciso de batatas.",
+      "exampleTranslation": "Ich brauche Kartoffeln."
     },
     {
       "id": "karte-06",
       "topic": "Obst und Gemüse",
-      "expression": "Você tem cebola e alho?",
-      "translation": "Hast du Zwiebeln und Knoblauch?",
-      "explanation": "cebola = Zwiebel; alho = Knoblauch."
+      "expression": "cebola",
+      "translation": "Zwiebel",
+      "isVocabulary": true,
+      "example": "Você tem cebola e alho?",
+      "exampleTranslation": "Hast du Zwiebeln und Knoblauch?"
+    },
+    {
+      "id": "karte-06-2",
+      "topic": "Obst und Gemüse",
+      "expression": "alho",
+      "translation": "Knoblauch",
+      "isVocabulary": true,
+      "example": "Você tem cebola e alho?",
+      "exampleTranslation": "Hast du Zwiebeln und Knoblauch?"
     },
     {
       "id": "karte-07",
       "topic": "Obst und Gemüse",
-      "expression": "Quero uma alface pequena.",
-      "translation": "Ich möchte einen kleinen Kopfsalat.",
-      "explanation": "alface ist weiblich; gemeint ist hier ein Salatkopf."
+      "expression": "alface",
+      "translation": "Kopfsalat",
+      "isVocabulary": true,
+      "example": "Quero uma alface pequena.",
+      "exampleTranslation": "Ich möchte einen kleinen Kopfsalat."
     },
     {
       "id": "karte-08",
       "topic": "Obst und Gemüse",
-      "expression": "Vou levar estas cenouras.",
-      "translation": "Ich nehme diese Karotten.",
-      "explanation": "vou levar = ich werde mitnehmen; cenoura = Karotte."
+      "expression": "cenouras",
+      "translation": "Karotten",
+      "isVocabulary": true,
+      "example": "Vou levar estas cenouras.",
+      "exampleTranslation": "Ich nehme diese Karotten."
     }
   ]
 }

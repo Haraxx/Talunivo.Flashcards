@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-46-gestern",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "46 · Von gestern erzählen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Von gestern erzählen",
-      "expression": "Ontem fui ao mercado.",
-      "translation": "Gestern bin ich auf den Markt gegangen.",
-      "explanation": "ontem = gestern; fui = ich ging/bin gegangen.",
+      "expression": "ontem",
+      "translation": "gestern",
+      "isVocabulary": true,
       "example": "Ontem fui ao mercado e comprei pão.",
       "exampleTranslation": "Gestern bin ich auf den Markt gegangen und habe Brot gekauft."
     },
     {
       "id": "karte-02",
       "topic": "Von gestern erzählen",
-      "expression": "Tomei café com uma amiga.",
-      "translation": "Ich habe mit einer Freundin Kaffee getrunken.",
-      "explanation": "tomei ist die Vergangenheitsform von tomar für ich."
+      "expression": "amiga",
+      "translation": "Freundin",
+      "isVocabulary": true,
+      "example": "Tomei café com uma amiga.",
+      "exampleTranslation": "Ich habe mit einer Freundin Kaffee getrunken."
     },
     {
       "id": "karte-03",
       "topic": "Von gestern erzählen",
-      "expression": "Comprei pão e queijo.",
-      "translation": "Ich habe Brot und Käse gekauft.",
-      "explanation": "comprei = ich habe gekauft."
+      "expression": "comprar",
+      "translation": "kaufen",
+      "isVocabulary": true,
+      "example": "Comprei pão e queijo.",
+      "exampleTranslation": "Ich habe Brot und Käse gekauft."
     },
     {
       "id": "karte-04",
       "topic": "Von gestern erzählen",
-      "expression": "Estudei português por dez minutos.",
-      "translation": "Ich habe zehn Minuten Portugiesisch gelernt.",
-      "explanation": "estudei = ich habe gelernt; por bezeichnet hier die Dauer."
+      "expression": "minutos",
+      "translation": "Minuten",
+      "isVocabulary": true,
+      "example": "Estudei português por dez minutos.",
+      "exampleTranslation": "Ich habe zehn Minuten Portugiesisch gelernt."
     },
     {
       "id": "karte-05",
       "topic": "Von gestern erzählen",
-      "expression": "Gostei muito do passeio.",
-      "translation": "Der Ausflug hat mir sehr gefallen.",
-      "explanation": "gostei de = mir hat gefallen."
+      "expression": "passeio",
+      "translation": "Ausflug",
+      "isVocabulary": true,
+      "example": "Gostei muito do passeio.",
+      "exampleTranslation": "Der Ausflug hat mir sehr gefallen."
     },
     {
       "id": "karte-06",
       "topic": "Von gestern erzählen",
-      "expression": "Cheguei tarde em casa.",
-      "translation": "Ich bin spät nach Hause gekommen.",
-      "explanation": "cheguei = ich bin angekommen; tarde = spät."
+      "expression": "tarde",
+      "translation": "spät",
+      "isVocabulary": true,
+      "example": "Cheguei tarde em casa.",
+      "exampleTranslation": "Ich bin spät nach Hause gekommen."
     },
     {
       "id": "karte-07",
       "topic": "Von gestern erzählen",
-      "expression": "Não entendi a pergunta.",
-      "translation": "Ich habe die Frage nicht verstanden.",
-      "explanation": "Diese Vergangenheitsform als ganze Wendung üben."
+      "expression": "pergunta",
+      "translation": "Frage",
+      "isVocabulary": true,
+      "example": "Não entendi a pergunta.",
+      "exampleTranslation": "Ich habe die Frage nicht verstanden."
     },
     {
       "id": "karte-08",
       "topic": "Von gestern erzählen",
-      "expression": "Foi um dia bom.",
-      "translation": "Es war ein guter Tag.",
-      "explanation": "foi = es war; dia ist männlich, daher bom."
+      "expression": "bom",
+      "translation": "gut (männlich)",
+      "isVocabulary": true,
+      "example": "Foi um dia bom.",
+      "exampleTranslation": "Es war ein guter Tag."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-14-gegenstaende",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "14 · Dinge im Alltag",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Dinge im Alltag",
-      "expression": "O que é isto?",
-      "translation": "Was ist das hier?",
-      "explanation": "isto bezeichnet etwas in der Nähe der sprechenden Person.",
+      "expression": "isto",
+      "translation": "das hier",
+      "isVocabulary": true,
       "example": "Isto é um livro de português.",
       "exampleTranslation": "Das hier ist ein Portugiesischbuch."
     },
     {
       "id": "karte-02",
       "topic": "Dinge im Alltag",
-      "expression": "Isto é um livro.",
-      "translation": "Das hier ist ein Buch.",
-      "explanation": "um livro = ein Buch."
+      "expression": "livro",
+      "translation": "Buch",
+      "isVocabulary": true,
+      "example": "Isto é um livro.",
+      "exampleTranslation": "Das hier ist ein Buch."
     },
     {
       "id": "karte-03",
       "topic": "Dinge im Alltag",
-      "expression": "Preciso de uma caneta.",
-      "translation": "Ich brauche einen Stift.",
-      "explanation": "precisar de = brauchen; caneta = Kugelschreiber."
+      "expression": "caneta",
+      "translation": "Stift",
+      "isVocabulary": true,
+      "example": "Preciso de uma caneta.",
+      "exampleTranslation": "Ich brauche einen Stift."
     },
     {
       "id": "karte-04",
       "topic": "Dinge im Alltag",
-      "expression": "Meu celular está na mesa.",
-      "translation": "Mein Handy liegt auf dem Tisch.",
-      "explanation": "celular = Handy; na mesa = auf dem Tisch."
+      "expression": "celular",
+      "translation": "Handy",
+      "isVocabulary": true,
+      "example": "Meu celular está na mesa.",
+      "exampleTranslation": "Mein Handy liegt auf dem Tisch."
     },
     {
       "id": "karte-05",
       "topic": "Dinge im Alltag",
-      "expression": "Onde estão minhas chaves?",
-      "translation": "Wo sind meine Schlüssel?",
-      "explanation": "estão für mehrere Dinge; chaves = Schlüssel."
+      "expression": "chaves",
+      "translation": "Schlüssel",
+      "isVocabulary": true,
+      "example": "Onde estão minhas chaves?",
+      "exampleTranslation": "Wo sind meine Schlüssel?"
     },
     {
       "id": "karte-06",
       "topic": "Dinge im Alltag",
-      "expression": "Esta bolsa é sua?",
-      "translation": "Gehört diese Tasche dir?",
-      "explanation": "sua = deine; bolsa = Tasche."
+      "expression": "bolsa",
+      "translation": "Tasche",
+      "isVocabulary": true,
+      "example": "Esta bolsa é sua?",
+      "exampleTranslation": "Gehört diese Tasche dir?"
     },
     {
       "id": "karte-07",
       "topic": "Dinge im Alltag",
-      "expression": "O copo está vazio.",
-      "translation": "Das Glas ist leer.",
-      "explanation": "copo = Trinkglas; vazio = leer."
+      "expression": "copo",
+      "translation": "Glas",
+      "isVocabulary": true,
+      "example": "O copo está vazio.",
+      "exampleTranslation": "Das Glas ist leer."
     },
     {
       "id": "karte-08",
       "topic": "Dinge im Alltag",
-      "expression": "A cadeira está ocupada.",
-      "translation": "Der Stuhl ist besetzt.",
-      "explanation": "cadeira ist weiblich, daher ocupada."
+      "expression": "cadeira",
+      "translation": "Stuhl",
+      "isVocabulary": true,
+      "example": "A cadeira está ocupada.",
+      "exampleTranslation": "Der Stuhl ist besetzt."
     }
   ]
 }

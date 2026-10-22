@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-48-mission-markt",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "48 · Mini-Dialog: Auf dem Markt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,74 @@
     {
       "id": "karte-01",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Bom dia! Tem bananas maduras?",
-      "translation": "Guten Morgen! Gibt es reife Bananen?",
-      "explanation": "Käufer: maduras = reif, passend zum weiblichen Wort bananas.",
+      "expression": "bananas",
+      "translation": "Bananen",
+      "isVocabulary": true,
       "example": "Bom dia! Quero meio quilo de bananas, por favor.",
       "exampleTranslation": "Guten Morgen! Ich möchte bitte ein halbes Kilo Bananen."
     },
     {
       "id": "karte-02",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Sim, estas estão bem maduras.",
-      "translation": "Ja, diese hier sind schön reif.",
-      "explanation": "Verkäufer: estas steht für die Bananen."
+      "expression": "maduras",
+      "translation": "reif (weiblich, Mehrzahl)",
+      "isVocabulary": true,
+      "example": "Sim, estas estão bem maduras.",
+      "exampleTranslation": "Ja, diese hier sind schön reif."
     },
     {
       "id": "karte-03",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Quanto custa o quilo?",
-      "translation": "Wie viel kostet das Kilo?",
-      "explanation": "Käufer: o quilo = das Kilogramm."
+      "expression": "quilo",
+      "translation": "Kilo",
+      "isVocabulary": true,
+      "example": "Quanto custa o quilo?",
+      "exampleTranslation": "Wie viel kostet das Kilo?"
     },
     {
       "id": "karte-04",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "O quilo custa oito reais.",
-      "translation": "Das Kilo kostet acht Reais.",
-      "explanation": "Verkäufer: custa = kostet."
+      "expression": "oito",
+      "translation": "acht",
+      "isVocabulary": true,
+      "example": "O quilo custa oito reais.",
+      "exampleTranslation": "Das Kilo kostet acht Reais."
     },
     {
       "id": "karte-05",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Então quero meio quilo.",
-      "translation": "Dann möchte ich ein halbes Kilo.",
-      "explanation": "Käufer: então = dann; meio quilo = halbes Kilo."
+      "expression": "meio",
+      "translation": "halb",
+      "isVocabulary": true,
+      "example": "Então quero meio quilo.",
+      "exampleTranslation": "Dann möchte ich ein halbes Kilo."
     },
     {
       "id": "karte-06",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Quer mais alguma coisa?",
-      "translation": "Möchten Sie sonst noch etwas?",
-      "explanation": "Verkäufer: mais alguma coisa = noch etwas."
+      "expression": "alguma coisa",
+      "translation": "etwas",
+      "isVocabulary": true,
+      "example": "Quer mais alguma coisa?",
+      "exampleTranslation": "Möchten Sie sonst noch etwas?"
     },
     {
       "id": "karte-07",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Só isso, obrigado.",
-      "translation": "Das ist alles, danke.",
-      "explanation": "Männlicher Käufer: obrigado; weiblich obrigada."
+      "expression": "só",
+      "translation": "nur",
+      "isVocabulary": true,
+      "example": "Só isso, obrigado.",
+      "exampleTranslation": "Das ist alles, danke."
     },
     {
       "id": "karte-08",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "Aqui está. Tenha um bom dia!",
-      "translation": "Hier bitte. Einen schönen Tag noch!",
-      "explanation": "Verkäufer: tenha um bom dia ist ein freundlicher Abschiedsgruß."
+      "expression": "bom dia",
+      "translation": "guten Morgen",
+      "isVocabulary": true,
+      "example": "Aqui está. Tenha um bom dia!",
+      "exampleTranslation": "Hier bitte. Einen schönen Tag noch!"
     }
   ]
 }

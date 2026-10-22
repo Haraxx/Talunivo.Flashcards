@@ -1,8 +1,8 @@
 {
   "format": "talunivo",
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "packageId": "start-ptbr-08-zahlen-preise",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "08 · Zahlen und Preise bis hundert",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,60 +10,182 @@
     {
       "id": "karte-01",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "onze, doze, treze",
-      "translation": "elf, zwölf, dreizehn",
-      "explanation": "Diese Zahlen werden als eigene Wörter gelernt.",
+      "expression": "onze",
+      "translation": "elf",
+      "isVocabulary": true,
+      "example": "Esta bolsa custa trinta e cinco reais.",
+      "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
+    },
+    {
+      "id": "karte-01-2",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "doze",
+      "translation": "zwölf",
+      "isVocabulary": true,
+      "example": "Esta bolsa custa trinta e cinco reais.",
+      "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
+    },
+    {
+      "id": "karte-01-3",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "treze",
+      "translation": "dreizehn",
+      "isVocabulary": true,
       "example": "Esta bolsa custa trinta e cinco reais.",
       "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
     },
     {
       "id": "karte-02",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "quatorze, quinze, dezesseis",
-      "translation": "vierzehn, fünfzehn, sechzehn",
-      "explanation": "Auch catorze ist gebräuchlich; dezesseis ist brasilianisch."
+      "expression": "quatorze",
+      "translation": "vierzehn",
+      "isVocabulary": true,
+      "example": "quatorze, quinze, dezesseis",
+      "exampleTranslation": "vierzehn, fünfzehn, sechzehn"
+    },
+    {
+      "id": "karte-02-2",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "quinze",
+      "translation": "fünfzehn",
+      "isVocabulary": true,
+      "example": "quatorze, quinze, dezesseis",
+      "exampleTranslation": "vierzehn, fünfzehn, sechzehn"
+    },
+    {
+      "id": "karte-02-3",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "dezesseis",
+      "translation": "sechzehn",
+      "isVocabulary": true,
+      "example": "quatorze, quinze, dezesseis",
+      "exampleTranslation": "vierzehn, fünfzehn, sechzehn"
     },
     {
       "id": "karte-03",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "dezessete, dezoito, dezenove",
-      "translation": "siebzehn, achtzehn, neunzehn",
-      "explanation": "Brasilianische Schreibweisen mit dez-."
+      "expression": "dezessete",
+      "translation": "siebzehn",
+      "isVocabulary": true,
+      "example": "dezessete, dezoito, dezenove",
+      "exampleTranslation": "siebzehn, achtzehn, neunzehn"
+    },
+    {
+      "id": "karte-03-2",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "dezoito",
+      "translation": "achtzehn",
+      "isVocabulary": true,
+      "example": "dezessete, dezoito, dezenove",
+      "exampleTranslation": "siebzehn, achtzehn, neunzehn"
+    },
+    {
+      "id": "karte-03-3",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "dezenove",
+      "translation": "neunzehn",
+      "isVocabulary": true,
+      "example": "dezessete, dezoito, dezenove",
+      "exampleTranslation": "siebzehn, achtzehn, neunzehn"
     },
     {
       "id": "karte-04",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "vinte, trinta, quarenta",
-      "translation": "zwanzig, dreißig, vierzig",
-      "explanation": "Die Zehnerformen als feste Wörter lernen."
+      "expression": "vinte",
+      "translation": "zwanzig",
+      "isVocabulary": true,
+      "example": "vinte, trinta, quarenta",
+      "exampleTranslation": "zwanzig, dreißig, vierzig"
+    },
+    {
+      "id": "karte-04-2",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "trinta",
+      "translation": "dreißig",
+      "isVocabulary": true,
+      "example": "vinte, trinta, quarenta",
+      "exampleTranslation": "zwanzig, dreißig, vierzig"
+    },
+    {
+      "id": "karte-04-3",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "quarenta",
+      "translation": "vierzig",
+      "isVocabulary": true,
+      "example": "vinte, trinta, quarenta",
+      "exampleTranslation": "zwanzig, dreißig, vierzig"
     },
     {
       "id": "karte-05",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "cinquenta, sessenta, setenta",
-      "translation": "fünfzig, sechzig, siebzig",
-      "explanation": "cinquenta wird ohne Trema geschrieben."
+      "expression": "cinquenta",
+      "translation": "fünfzig",
+      "isVocabulary": true,
+      "example": "cinquenta, sessenta, setenta",
+      "exampleTranslation": "fünfzig, sechzig, siebzig"
+    },
+    {
+      "id": "karte-05-2",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "sessenta",
+      "translation": "sechzig",
+      "isVocabulary": true,
+      "example": "cinquenta, sessenta, setenta",
+      "exampleTranslation": "fünfzig, sechzig, siebzig"
+    },
+    {
+      "id": "karte-05-3",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "setenta",
+      "translation": "siebzig",
+      "isVocabulary": true,
+      "example": "cinquenta, sessenta, setenta",
+      "exampleTranslation": "fünfzig, sechzig, siebzig"
     },
     {
       "id": "karte-06",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "oitenta, noventa, cem",
-      "translation": "achtzig, neunzig, hundert",
-      "explanation": "Genau 100 heißt cem; ab 101 verwendet man cento."
+      "expression": "oitenta",
+      "translation": "achtzig",
+      "isVocabulary": true,
+      "example": "oitenta, noventa, cem",
+      "exampleTranslation": "achtzig, neunzig, hundert"
+    },
+    {
+      "id": "karte-06-2",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "noventa",
+      "translation": "neunzig",
+      "isVocabulary": true,
+      "example": "oitenta, noventa, cem",
+      "exampleTranslation": "achtzig, neunzig, hundert"
+    },
+    {
+      "id": "karte-06-3",
+      "topic": "Zahlen und Preise bis hundert",
+      "expression": "cem",
+      "translation": "hundert",
+      "isVocabulary": true,
+      "example": "oitenta, noventa, cem",
+      "exampleTranslation": "achtzig, neunzig, hundert"
     },
     {
       "id": "karte-07",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "Custa vinte e dois reais.",
-      "translation": "Es kostet zweiundzwanzig Reais.",
-      "explanation": "Zwischen Zehner und Einer steht e."
+      "expression": "vinte e dois",
+      "translation": "zweiundzwanzig",
+      "isVocabulary": true,
+      "example": "Custa vinte e dois reais.",
+      "exampleTranslation": "Es kostet zweiundzwanzig Reais."
     },
     {
       "id": "karte-08",
       "topic": "Zahlen und Preise bis hundert",
-      "expression": "Quanto custa esta garrafa?",
-      "translation": "Wie viel kostet diese Flasche?",
-      "explanation": "quanto custa = wie viel kostet; garrafa = Flasche."
+      "expression": "garrafa",
+      "translation": "Flasche",
+      "isVocabulary": true,
+      "example": "Quanto custa esta garrafa?",
+      "exampleTranslation": "Wie viel kostet diese Flasche?"
     }
   ]
 }
