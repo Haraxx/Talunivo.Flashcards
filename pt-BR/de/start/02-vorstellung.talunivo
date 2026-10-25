@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-02-vorstellung",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "02 · Name und Vorstellung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Name",
       "isVocabulary": true,
       "example": "Meu nome é Lucas. E o seu?",
-      "exampleTranslation": "Mein Name ist Lucas. Und deiner?"
+      "exampleTranslation": "Mein Name ist Lucas. Und deiner?",
+      "explanation": "O nome; Plural nomes."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "sich nennen; heißen",
       "isVocabulary": true,
       "example": "Eu me chamo Lucas.",
-      "exampleTranslation": "Ich heiße Lucas."
+      "exampleTranslation": "Ich heiße Lucas.",
+      "explanation": "Eu me chamo bedeutet ich heiße; me gehört zum Verb."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "du; Sie",
       "isVocabulary": true,
       "example": "Como você se chama?",
-      "exampleTranslation": "Wie heißt du?"
+      "exampleTranslation": "Wie heißt du?",
+      "explanation": "Você steht mit der dritten Person Singular; die passende deutsche Anrede hängt vom Kontext ab."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "welcher; welche; welches",
       "isVocabulary": true,
       "example": "Qual é o seu nome?",
-      "exampleTranslation": "Wie ist dein Name?"
+      "exampleTranslation": "Wie ist dein Name?",
+      "explanation": "Bei Fragen: Qual é o seu nome? = Wie heißt du?"
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Vergnügen",
       "isVocabulary": true,
       "example": "Prazer em conhecer você.",
-      "exampleTranslation": "Freut mich, dich kennenzulernen."
+      "exampleTranslation": "Freut mich, dich kennenzulernen.",
+      "explanation": "Prazer! ist bei einer Vorstellung etwa freut mich."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "dieser",
       "isVocabulary": true,
       "example": "Este é o Pedro.",
-      "exampleTranslation": "Das ist Pedro."
+      "exampleTranslation": "Das ist Pedro.",
+      "explanation": "Männliche Form; weiblich esta."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Freundin",
       "isVocabulary": true,
       "example": "Esta é a minha amiga.",
-      "exampleTranslation": "Das ist meine Freundin."
+      "exampleTranslation": "Das ist meine Freundin.",
+      "explanation": "A amiga; männlich o amigo. Kann auch eine platonische Freundin sein."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "rufen; nennen",
       "isVocabulary": true,
       "example": "Pode me chamar de Bia.",
-      "exampleTranslation": "Du kannst mich Bia nennen."
+      "exampleTranslation": "Du kannst mich Bia nennen.",
+      "explanation": "Chamar alguém de … bedeutet jemanden … nennen."
     }
   ]
 }

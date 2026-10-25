@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-50-mission-alltag",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "50 · Abschluss: Ein Tag in Brasilien",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "nome",
       "translation": "Name",
       "isVocabulary": true,
-      "example": "Ontem visitei o museu. Amanhã vou à praia.",
-      "exampleTranslation": "Gestern habe ich das Museum besucht. Morgen gehe ich an den Strand."
+      "example": "Meu nome é Ana. E o seu?",
+      "exampleTranslation": "Mein Name ist Ana. Und deiner?",
+      "explanation": "O nome; Meu nome é … = Mein Name ist …"
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "lernen",
       "isVocabulary": true,
       "example": "Estou aprendendo português e preciso praticar.",
-      "exampleTranslation": "Ich lerne Portugiesisch und muss üben."
+      "exampleTranslation": "Ich lerne Portugiesisch und muss üben.",
+      "explanation": "Estou aprendendo = ich lerne gerade."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Brot mit Käse",
       "isVocabulary": true,
       "example": "Quero um café e um pão com queijo.",
-      "exampleTranslation": "Ich möchte einen Kaffee und ein Brot mit Käse."
+      "exampleTranslation": "Ich möchte einen Kaffee und ein Brot mit Käse.",
+      "explanation": "Pão com queijo ist Brot mit Käse; pão de queijo ist ein anderes Gebäck."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "nehmen (Verkehrsmittel)",
       "isVocabulary": true,
       "example": "Depois vou pegar o ônibus para o centro.",
-      "exampleTranslation": "Danach werde ich den Bus ins Zentrum nehmen."
+      "exampleTranslation": "Danach werde ich den Bus ins Zentrum nehmen.",
+      "explanation": "Pegar o ônibus ist in Brasilien üblich für den Bus nehmen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Museum",
       "isVocabulary": true,
       "example": "Pode me dizer onde fica o museu?",
-      "exampleTranslation": "Können Sie mir sagen, wo das Museum ist?"
+      "exampleTranslation": "Können Sie mir sagen, wo das Museum ist?",
+      "explanation": "O museu; onde fica …? = wo ist …?"
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "nachmittags",
       "isVocabulary": true,
       "example": "À tarde vou encontrar uma amiga no parque.",
-      "exampleTranslation": "Am Nachmittag werde ich eine Freundin im Park treffen."
+      "exampleTranslation": "Am Nachmittag werde ich eine Freundin im Park treffen.",
+      "explanation": "À tarde bedeutet nachmittags; tarde ohne Artikel kann spät heißen."
     },
     {
       "id": "karte-07",
@@ -67,8 +73,9 @@
       "expression": "praia",
       "translation": "Strand",
       "isVocabulary": true,
-      "example": "Ontem visitei a praia e gostei muito.",
-      "exampleTranslation": "Gestern habe ich den Strand besucht und es hat mir sehr gefallen."
+      "example": "Ontem fui à praia e gostei muito.",
+      "exampleTranslation": "Gestern bin ich an den Strand gegangen und es hat mir sehr gefallen.",
+      "explanation": "A praia; fui à praia = ich bin an den Strand gegangen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "sich unterhalten",
       "isVocabulary": true,
       "example": "Amanhã quero conversar mais em português.",
-      "exampleTranslation": "Morgen möchte ich mehr auf Portugiesisch sprechen."
+      "exampleTranslation": "Morgen möchte ich mehr auf Portugiesisch sprechen.",
+      "explanation": "Conversar em português = sich auf Portugiesisch unterhalten."
     }
   ]
 }

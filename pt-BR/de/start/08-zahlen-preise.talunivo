@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-08-zahlen-preise",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "08 · Zahlen und Preise bis hundert",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "onze",
       "translation": "elf",
       "isVocabulary": true,
-      "example": "Esta bolsa custa trinta e cinco reais.",
-      "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
+      "example": "O suco custa onze reais.",
+      "exampleTranslation": "Der Saft kostet elf Reais.",
+      "explanation": "Onze steht für 11."
     },
     {
       "id": "karte-01-2",
@@ -22,8 +23,9 @@
       "expression": "doze",
       "translation": "zwölf",
       "isVocabulary": true,
-      "example": "Esta bolsa custa trinta e cinco reais.",
-      "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
+      "example": "A banana custa doze reais o quilo.",
+      "exampleTranslation": "Die Bananen kosten zwölf Reais pro Kilo.",
+      "explanation": "Doze steht für 12."
     },
     {
       "id": "karte-01-3",
@@ -31,8 +33,9 @@
       "expression": "treze",
       "translation": "dreizehn",
       "isVocabulary": true,
-      "example": "Esta bolsa custa trinta e cinco reais.",
-      "exampleTranslation": "Diese Tasche kostet fünfunddreißig Reais."
+      "example": "O sanduíche custa treze reais.",
+      "exampleTranslation": "Das Sandwich kostet dreizehn Reais.",
+      "explanation": "Treze steht für 13."
     },
     {
       "id": "karte-02",
@@ -40,8 +43,9 @@
       "expression": "quatorze",
       "translation": "vierzehn",
       "isVocabulary": true,
-      "example": "quatorze, quinze, dezesseis",
-      "exampleTranslation": "vierzehn, fünfzehn, sechzehn"
+      "example": "A passagem custa quatorze reais.",
+      "exampleTranslation": "Die Fahrkarte kostet vierzehn Reais.",
+      "explanation": "Quatorze steht für 14; auch catorze ist gebräuchlich."
     },
     {
       "id": "karte-02-2",
@@ -49,8 +53,9 @@
       "expression": "quinze",
       "translation": "fünfzehn",
       "isVocabulary": true,
-      "example": "quatorze, quinze, dezesseis",
-      "exampleTranslation": "vierzehn, fünfzehn, sechzehn"
+      "example": "O almoço custa quinze reais.",
+      "exampleTranslation": "Das Mittagessen kostet fünfzehn Reais.",
+      "explanation": "Quinze steht für 15."
     },
     {
       "id": "karte-02-3",
@@ -58,8 +63,9 @@
       "expression": "dezesseis",
       "translation": "sechzehn",
       "isVocabulary": true,
-      "example": "quatorze, quinze, dezesseis",
-      "exampleTranslation": "vierzehn, fünfzehn, sechzehn"
+      "example": "O prato custa dezesseis reais.",
+      "exampleTranslation": "Das Gericht kostet sechzehn Reais.",
+      "explanation": "Brasilianische Schreibweise für 16: dezesseis."
     },
     {
       "id": "karte-03",
@@ -67,8 +73,9 @@
       "expression": "dezessete",
       "translation": "siebzehn",
       "isVocabulary": true,
-      "example": "dezessete, dezoito, dezenove",
-      "exampleTranslation": "siebzehn, achtzehn, neunzehn"
+      "example": "Este livro custa dezessete reais.",
+      "exampleTranslation": "Dieses Buch kostet siebzehn Reais.",
+      "explanation": "Brasilianische Schreibweise für 17: dezessete."
     },
     {
       "id": "karte-03-2",
@@ -76,8 +83,9 @@
       "expression": "dezoito",
       "translation": "achtzehn",
       "isVocabulary": true,
-      "example": "dezessete, dezoito, dezenove",
-      "exampleTranslation": "siebzehn, achtzehn, neunzehn"
+      "example": "A salada custa dezoito reais.",
+      "exampleTranslation": "Der Salat kostet achtzehn Reais.",
+      "explanation": "Dezoito steht für 18."
     },
     {
       "id": "karte-03-3",
@@ -85,8 +93,9 @@
       "expression": "dezenove",
       "translation": "neunzehn",
       "isVocabulary": true,
-      "example": "dezessete, dezoito, dezenove",
-      "exampleTranslation": "siebzehn, achtzehn, neunzehn"
+      "example": "Esta camiseta custa dezenove reais.",
+      "exampleTranslation": "Dieses T-Shirt kostet neunzehn Reais.",
+      "explanation": "Dezenove steht für 19."
     },
     {
       "id": "karte-04",
@@ -94,8 +103,9 @@
       "expression": "vinte",
       "translation": "zwanzig",
       "isVocabulary": true,
-      "example": "vinte, trinta, quarenta",
-      "exampleTranslation": "zwanzig, dreißig, vierzig"
+      "example": "Tenho vinte reais.",
+      "exampleTranslation": "Ich habe zwanzig Reais.",
+      "explanation": "Vinte steht für 20."
     },
     {
       "id": "karte-04-2",
@@ -103,8 +113,9 @@
       "expression": "trinta",
       "translation": "dreißig",
       "isVocabulary": true,
-      "example": "vinte, trinta, quarenta",
-      "exampleTranslation": "zwanzig, dreißig, vierzig"
+      "example": "A conta deu trinta reais.",
+      "exampleTranslation": "Die Rechnung beträgt dreißig Reais.",
+      "explanation": "Trinta steht für 30."
     },
     {
       "id": "karte-04-3",
@@ -112,8 +123,9 @@
       "expression": "quarenta",
       "translation": "vierzig",
       "isVocabulary": true,
-      "example": "vinte, trinta, quarenta",
-      "exampleTranslation": "zwanzig, dreißig, vierzig"
+      "example": "Esta bolsa custa quarenta reais.",
+      "exampleTranslation": "Diese Tasche kostet vierzig Reais.",
+      "explanation": "Quarenta steht für 40."
     },
     {
       "id": "karte-05",
@@ -121,8 +133,9 @@
       "expression": "cinquenta",
       "translation": "fünfzig",
       "isVocabulary": true,
-      "example": "cinquenta, sessenta, setenta",
-      "exampleTranslation": "fünfzig, sechzig, siebzig"
+      "example": "O passeio custa cinquenta reais.",
+      "exampleTranslation": "Der Ausflug kostet fünfzig Reais.",
+      "explanation": "Cinquenta steht für 50."
     },
     {
       "id": "karte-05-2",
@@ -130,8 +143,9 @@
       "expression": "sessenta",
       "translation": "sechzig",
       "isVocabulary": true,
-      "example": "cinquenta, sessenta, setenta",
-      "exampleTranslation": "fünfzig, sechzig, siebzig"
+      "example": "Este sapato custa sessenta reais.",
+      "exampleTranslation": "Dieser Schuh kostet sechzig Reais.",
+      "explanation": "Sessenta steht für 60; mit doppeltem s."
     },
     {
       "id": "karte-05-3",
@@ -139,8 +153,9 @@
       "expression": "setenta",
       "translation": "siebzig",
       "isVocabulary": true,
-      "example": "cinquenta, sessenta, setenta",
-      "exampleTranslation": "fünfzig, sechzig, siebzig"
+      "example": "Esta calça custa setenta reais.",
+      "exampleTranslation": "Diese Hose kostet siebzig Reais.",
+      "explanation": "Setenta steht für 70."
     },
     {
       "id": "karte-06",
@@ -148,8 +163,9 @@
       "expression": "oitenta",
       "translation": "achtzig",
       "isVocabulary": true,
-      "example": "oitenta, noventa, cem",
-      "exampleTranslation": "achtzig, neunzig, hundert"
+      "example": "A jaqueta custa oitenta reais.",
+      "exampleTranslation": "Die Jacke kostet achtzig Reais.",
+      "explanation": "Oitenta steht für 80."
     },
     {
       "id": "karte-06-2",
@@ -157,8 +173,9 @@
       "expression": "noventa",
       "translation": "neunzig",
       "isVocabulary": true,
-      "example": "oitenta, noventa, cem",
-      "exampleTranslation": "achtzig, neunzig, hundert"
+      "example": "O quarto custa noventa reais por noite.",
+      "exampleTranslation": "Das Zimmer kostet neunzig Reais pro Nacht.",
+      "explanation": "Noventa steht für 90."
     },
     {
       "id": "karte-06-3",
@@ -166,8 +183,9 @@
       "expression": "cem",
       "translation": "hundert",
       "isVocabulary": true,
-      "example": "oitenta, noventa, cem",
-      "exampleTranslation": "achtzig, neunzig, hundert"
+      "example": "Tenho cem reais.",
+      "exampleTranslation": "Ich habe hundert Reais.",
+      "explanation": "Cem steht für genau 100; ab 101: cento e um."
     },
     {
       "id": "karte-07",
@@ -176,7 +194,8 @@
       "translation": "zweiundzwanzig",
       "isVocabulary": true,
       "example": "Custa vinte e dois reais.",
-      "exampleTranslation": "Es kostet zweiundzwanzig Reais."
+      "exampleTranslation": "Es kostet zweiundzwanzig Reais.",
+      "explanation": "Zehner und Einer werden mit e verbunden."
     },
     {
       "id": "karte-08",
@@ -185,7 +204,8 @@
       "translation": "Flasche",
       "isVocabulary": true,
       "example": "Quanto custa esta garrafa?",
-      "exampleTranslation": "Wie viel kostet diese Flasche?"
+      "exampleTranslation": "Wie viel kostet diese Flasche?",
+      "explanation": "A garrafa; Plural garrafas."
     }
   ]
 }

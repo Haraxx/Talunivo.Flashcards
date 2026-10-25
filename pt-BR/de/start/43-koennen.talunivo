@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-43-koennen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "43 · Können und Erlaubnis",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "falar",
       "translation": "sprechen",
       "isVocabulary": true,
-      "example": "Sei nadar, mas não posso nadar aqui.",
-      "exampleTranslation": "Ich kann schwimmen, aber ich darf hier nicht schwimmen."
+      "example": "Você fala português?",
+      "exampleTranslation": "Sprichst du Portugiesisch?",
+      "explanation": "Falar português = Portugiesisch sprechen."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "können; wissen",
       "isVocabulary": true,
       "example": "Ainda não sei nadar.",
-      "exampleTranslation": "Ich kann noch nicht schwimmen."
+      "exampleTranslation": "Ich kann noch nicht schwimmen.",
+      "explanation": "Saber mit Infinitiv bezeichnet eine erlernte Fähigkeit; poder die Möglichkeit oder Erlaubnis."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "kochen",
       "isVocabulary": true,
       "example": "Você sabe cozinhar?",
-      "exampleTranslation": "Kannst du kochen?"
+      "exampleTranslation": "Kannst du kochen?",
+      "explanation": "Sabe cozinhar? = Kannst du kochen?"
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "sich setzen",
       "isVocabulary": true,
       "example": "Posso sentar aqui?",
-      "exampleTranslation": "Darf ich mich hier hinsetzen?"
+      "exampleTranslation": "Darf ich mich hier hinsetzen?",
+      "explanation": "Sentar aqui = sich hier hinsetzen; auch sentar-se ist möglich."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "benutzen",
       "isVocabulary": true,
       "example": "Pode usar meu telefone.",
-      "exampleTranslation": "Du darfst mein Telefon benutzen."
+      "exampleTranslation": "Du darfst mein Telefon benutzen.",
+      "explanation": "Pode usar = du darfst benutzen."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "weggehen",
       "isVocabulary": true,
       "example": "Não posso sair agora.",
-      "exampleTranslation": "Ich kann jetzt nicht weggehen."
+      "exampleTranslation": "Ich kann jetzt nicht weggehen.",
+      "explanation": "Sair bedeutet je nach Kontext weggehen, ausgehen oder losgehen."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "öffnen",
       "isVocabulary": true,
       "example": "Você pode abrir isto?",
-      "exampleTranslation": "Kannst du das hier öffnen?"
+      "exampleTranslation": "Kannst du das hier öffnen?",
+      "explanation": "Abrir isto = das hier öffnen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "rauchen",
       "isVocabulary": true,
       "example": "Aqui não pode fumar.",
-      "exampleTranslation": "Hier darf man nicht rauchen."
+      "exampleTranslation": "Hier darf man nicht rauchen.",
+      "explanation": "Não pode fumar = man darf nicht rauchen."
     }
   ]
 }

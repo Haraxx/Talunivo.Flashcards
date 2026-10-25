@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-45-plaene",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "45 · Pläne für morgen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "trabalhar",
       "translation": "arbeiten",
       "isVocabulary": true,
-      "example": "Amanhã vou visitar minha irmã e vamos cozinhar juntos.",
-      "exampleTranslation": "Morgen werde ich meine Schwester besuchen und wir werden zusammen kochen."
+      "example": "Amanhã vou trabalhar de manhã.",
+      "exampleTranslation": "Morgen werde ich vormittags arbeiten.",
+      "explanation": "Vou trabalhar drückt eine zukünftige Handlung aus."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "besuchen",
       "isVocabulary": true,
       "example": "Vou visitar minha irmã.",
-      "exampleTranslation": "Ich werde meine Schwester besuchen."
+      "exampleTranslation": "Ich werde meine Schwester besuchen.",
+      "explanation": "Vou visitar = ich werde besuchen."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "kaufen",
       "isVocabulary": true,
       "example": "Vamos comprar comida.",
-      "exampleTranslation": "Wir werden Lebensmittel einkaufen."
+      "exampleTranslation": "Wir werden Lebensmittel einkaufen.",
+      "explanation": "Vamos comprar = wir werden kaufen."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "ankommen",
       "isVocabulary": true,
       "example": "Ela vai chegar à tarde.",
-      "exampleTranslation": "Sie wird am Nachmittag ankommen."
+      "exampleTranslation": "Sie wird am Nachmittag ankommen.",
+      "explanation": "Vai chegar = sie wird ankommen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "verreisen",
       "isVocabulary": true,
       "example": "Você vai viajar no fim de semana?",
-      "exampleTranslation": "Wirst du am Wochenende verreisen?"
+      "exampleTranslation": "Wirst du am Wochenende verreisen?",
+      "explanation": "Vai viajar = du wirst verreisen bei você."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "ausgehen",
       "isVocabulary": true,
       "example": "Não vou sair hoje.",
-      "exampleTranslation": "Ich werde heute nicht ausgehen."
+      "exampleTranslation": "Ich werde heute nicht ausgehen.",
+      "explanation": "Hier ausgehen; je nach Kontext auch weggehen oder losgehen."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "machen",
       "isVocabulary": true,
       "example": "O que você vai fazer amanhã?",
-      "exampleTranslation": "Was wirst du morgen machen?"
+      "exampleTranslation": "Was wirst du morgen machen?",
+      "explanation": "O que você vai fazer? = Was wirst du machen?"
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "bleiben",
       "isVocabulary": true,
       "example": "Vamos ficar em casa.",
-      "exampleTranslation": "Wir werden zu Hause bleiben."
+      "exampleTranslation": "Wir werden zu Hause bleiben.",
+      "explanation": "Vamos ficar = wir werden bleiben."
     }
   ]
 }

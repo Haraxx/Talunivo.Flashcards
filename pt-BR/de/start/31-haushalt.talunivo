@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-31-haushalt",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "31 · Im Haushalt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "louça",
       "translation": "Geschirr",
       "isVocabulary": true,
-      "example": "Depois do almoço, lavo a louça e arrumo a cama.",
-      "exampleTranslation": "Nach dem Mittagessen spüle ich ab und mache das Bett."
+      "example": "Depois do almoço, lavo a louça.",
+      "exampleTranslation": "Nach dem Mittagessen spüle ich das Geschirr.",
+      "explanation": "A louça; lavar a louça = das Geschirr spülen."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Wäsche; Kleidung",
       "isVocabulary": true,
       "example": "Preciso lavar a roupa.",
-      "exampleTranslation": "Ich muss die Wäsche waschen."
+      "exampleTranslation": "Ich muss die Wäsche waschen.",
+      "explanation": "A roupa; lavar a roupa = die Wäsche waschen."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Bett",
       "isVocabulary": true,
       "example": "Vou arrumar a cama.",
-      "exampleTranslation": "Ich werde das Bett machen."
+      "exampleTranslation": "Ich werde das Bett machen.",
+      "explanation": "A cama; arrumar a cama = das Bett machen."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "schließen",
       "isVocabulary": true,
       "example": "Pode fechar a janela?",
-      "exampleTranslation": "Kannst du das Fenster schließen?"
+      "exampleTranslation": "Kannst du das Fenster schließen?",
+      "explanation": "Fechar ist das Gegenteil von abrir."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "öffnen",
       "isVocabulary": true,
       "example": "Pode abrir a porta?",
-      "exampleTranslation": "Kannst du die Tür öffnen?"
+      "exampleTranslation": "Kannst du die Tür öffnen?",
+      "explanation": "Abrir ist das Gegenteil von fechar."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Licht",
       "isVocabulary": true,
       "example": "A luz está acesa.",
-      "exampleTranslation": "Das Licht ist an."
+      "exampleTranslation": "Das Licht ist an.",
+      "explanation": "A luz; acesa bedeutet eingeschaltet."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "ausschalten",
       "isVocabulary": true,
       "example": "Apague a luz, por favor.",
-      "exampleTranslation": "Mach bitte das Licht aus."
+      "exampleTranslation": "Mach bitte das Licht aus.",
+      "explanation": "Bei Licht: apagar a luz = das Licht ausschalten."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Müll",
       "isVocabulary": true,
       "example": "O lixo fica lá fora.",
-      "exampleTranslation": "Der Müll ist draußen."
+      "exampleTranslation": "Der Müll ist draußen.",
+      "explanation": "O lixo; lá fora = draußen."
     }
   ]
 }

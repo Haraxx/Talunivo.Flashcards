@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-29-hotel-hilfe",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "29 · Kleine Probleme im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Klimaanlage",
       "isVocabulary": true,
       "example": "O ar-condicionado não funciona. Posso trocar de quarto?",
-      "exampleTranslation": "Die Klimaanlage funktioniert nicht. Kann ich das Zimmer wechseln?"
+      "exampleTranslation": "Die Klimaanlage funktioniert nicht. Kann ich das Zimmer wechseln?",
+      "explanation": "O ar-condicionado; mit Bindestrich."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "warmes Wasser",
       "isVocabulary": true,
       "example": "Não tem água quente.",
-      "exampleTranslation": "Es gibt kein warmes Wasser."
+      "exampleTranslation": "Es gibt kein warmes Wasser.",
+      "explanation": "A água quente; quente bleibt für beide Genera gleich."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Handtuch",
       "isVocabulary": true,
       "example": "Preciso de uma toalha limpa.",
-      "exampleTranslation": "Ich brauche ein sauberes Handtuch."
+      "exampleTranslation": "Ich brauche ein sauberes Handtuch.",
+      "explanation": "A toalha; limpa bedeutet sauber."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "reinigen",
       "isVocabulary": true,
       "example": "Pode limpar o quarto amanhã?",
-      "exampleTranslation": "Können Sie das Zimmer morgen reinigen?"
+      "exampleTranslation": "Können Sie das Zimmer morgen reinigen?",
+      "explanation": "Limpar o quarto bedeutet das Zimmer reinigen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "verlieren",
       "isVocabulary": true,
       "example": "Perdi a chave do quarto.",
-      "exampleTranslation": "Ich habe den Zimmerschlüssel verloren."
+      "exampleTranslation": "Ich habe den Zimmerschlüssel verloren.",
+      "explanation": "Perdi ist Vergangenheit: ich habe verloren."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Decke",
       "isVocabulary": true,
       "example": "Tem um cobertor extra?",
-      "exampleTranslation": "Gibt es eine zusätzliche Decke?"
+      "exampleTranslation": "Gibt es eine zusätzliche Decke?",
+      "explanation": "O cobertor bezeichnet eine wärmende Decke."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "laut",
       "isVocabulary": true,
       "example": "O quarto está muito barulhento.",
-      "exampleTranslation": "Das Zimmer ist sehr laut."
+      "exampleTranslation": "Das Zimmer ist sehr laut.",
+      "explanation": "Männliche Form; weiblich barulhenta."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "wechseln",
       "isVocabulary": true,
       "example": "Posso trocar de quarto?",
-      "exampleTranslation": "Kann ich das Zimmer wechseln?"
+      "exampleTranslation": "Kann ich das Zimmer wechseln?",
+      "explanation": "Trocar de quarto bedeutet das Zimmer wechseln."
     }
   ]
 }

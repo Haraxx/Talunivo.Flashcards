@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-01-begruessung",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "01 · Begrüßung und Abschied",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "hallo",
       "isVocabulary": true,
       "example": "Oi, Ana! Tudo bem?",
-      "exampleTranslation": "Hallo, Ana! Alles gut?"
+      "exampleTranslation": "Hallo, Ana! Alles gut?",
+      "explanation": "Informelle Begrüßung."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "hallo",
       "isVocabulary": true,
       "example": "Olá, tudo bem?",
-      "exampleTranslation": "Hallo, alles gut?"
+      "exampleTranslation": "Hallo, alles gut?",
+      "explanation": "Neutrale Begrüßung."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "guten Morgen",
       "isVocabulary": true,
       "example": "Bom dia!",
-      "exampleTranslation": "Guten Morgen!"
+      "exampleTranslation": "Guten Morgen!",
+      "explanation": "Begrüßung am Morgen."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "guten Tag",
       "isVocabulary": true,
       "example": "Boa tarde!",
-      "exampleTranslation": "Guten Tag!"
+      "exampleTranslation": "Guten Tag!",
+      "explanation": "Begrüßung am Nachmittag; auf Deutsch meist guten Tag."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "guten Abend; gute Nacht",
       "isVocabulary": true,
       "example": "Boa noite!",
-      "exampleTranslation": "Guten Abend!"
+      "exampleTranslation": "Guten Abend!",
+      "explanation": "Am Abend zur Begrüßung und beim Abschied auch gute Nacht."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "bis morgen",
       "isVocabulary": true,
       "example": "Até amanhã!",
-      "exampleTranslation": "Bis morgen!"
+      "exampleTranslation": "Bis morgen!",
+      "explanation": "Até bedeutet bis; amanhã bedeutet morgen."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "später",
       "isVocabulary": true,
       "example": "Até mais tarde!",
-      "exampleTranslation": "Bis später!"
+      "exampleTranslation": "Bis später!",
+      "explanation": "Até mais tarde bedeutet bis später."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "tschüss",
       "isVocabulary": true,
       "example": "Tchau, até logo!",
-      "exampleTranslation": "Tschüss, bis bald!"
+      "exampleTranslation": "Tschüss, bis bald!",
+      "explanation": "Informeller Abschiedsgruß."
     }
   ]
 }

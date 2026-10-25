@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-11-familie",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "11 · Familie und Menschen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Mutter",
       "isVocabulary": true,
       "example": "Esta é a minha mãe, e este é o meu pai.",
-      "exampleTranslation": "Das ist meine Mutter, und das ist mein Vater."
+      "exampleTranslation": "Das ist meine Mutter, und das ist mein Vater.",
+      "explanation": "A mãe; Plural mães."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Vater",
       "isVocabulary": true,
       "example": "Este é o meu pai.",
-      "exampleTranslation": "Das ist mein Vater."
+      "exampleTranslation": "Das ist mein Vater.",
+      "explanation": "O pai; Plural pais."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Schwester",
       "isVocabulary": true,
       "example": "Tenho uma irmã.",
-      "exampleTranslation": "Ich habe eine Schwester."
+      "exampleTranslation": "Ich habe eine Schwester.",
+      "explanation": "A irmã; Plural irmãs."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Bruder",
       "isVocabulary": true,
       "example": "Meu irmão se chama João.",
-      "exampleTranslation": "Mein Bruder heißt João."
+      "exampleTranslation": "Mein Bruder heißt João.",
+      "explanation": "O irmão; Plural irmãos kann auch Geschwister bezeichnen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Eltern",
       "isVocabulary": true,
       "example": "Meus pais moram aqui.",
-      "exampleTranslation": "Meine Eltern wohnen hier."
+      "exampleTranslation": "Meine Eltern wohnen hier.",
+      "explanation": "Os pais bedeutet die Eltern; Singular pai = Vater."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Großmutter",
       "isVocabulary": true,
       "example": "Minha avó mora perto.",
-      "exampleTranslation": "Meine Großmutter wohnt in der Nähe."
+      "exampleTranslation": "Meine Großmutter wohnt in der Nähe.",
+      "explanation": "A avó mit Akut bezeichnet die Großmutter."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Großvater",
       "isVocabulary": true,
       "example": "Meu avô tem setenta anos.",
-      "exampleTranslation": "Mein Großvater ist siebzig Jahre alt."
+      "exampleTranslation": "Mein Großvater ist siebzig Jahre alt.",
+      "explanation": "O avô mit Zirkumflex bezeichnet den Großvater."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Kinder",
       "isVocabulary": true,
       "example": "Você tem filhos?",
-      "exampleTranslation": "Hast du Kinder?"
+      "exampleTranslation": "Hast du Kinder?",
+      "explanation": "Os filhos kann Söhne oder Kinder bezeichnen; filhas sind Töchter."
     }
   ]
 }

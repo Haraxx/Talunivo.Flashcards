@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-05-verstehen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "05 · Verstehen und Nachfragen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "verstehen",
       "isVocabulary": true,
       "example": "Não entendi. Pode repetir mais devagar?",
-      "exampleTranslation": "Ich habe es nicht verstanden. Kannst du es langsamer wiederholen?"
+      "exampleTranslation": "Ich habe es nicht verstanden. Kannst du es langsamer wiederholen?",
+      "explanation": "Não entendi ist Vergangenheit: ich habe es nicht verstanden."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "langsam",
       "isVocabulary": true,
       "example": "Pode falar mais devagar?",
-      "exampleTranslation": "Kannst du langsamer sprechen?"
+      "exampleTranslation": "Kannst du langsamer sprechen?",
+      "explanation": "Mais devagar bedeutet langsamer."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "bedeuten",
       "isVocabulary": true,
       "example": "O que isso significa?",
-      "exampleTranslation": "Was bedeutet das?"
+      "exampleTranslation": "Was bedeutet das?",
+      "explanation": "Significa ist die Form zu isso: das bedeutet."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "sagen",
       "isVocabulary": true,
       "example": "Como se diz isso em português?",
-      "exampleTranslation": "Wie sagt man das auf Portugiesisch?"
+      "exampleTranslation": "Wie sagt man das auf Portugiesisch?",
+      "explanation": "Como se diz …? = Wie sagt man …?"
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "schreiben",
       "isVocabulary": true,
       "example": "Como se escreve seu nome?",
-      "exampleTranslation": "Wie schreibt man deinen Namen?"
+      "exampleTranslation": "Wie schreibt man deinen Namen?",
+      "explanation": "Como se escreve …? = Wie schreibt man …?"
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Deutsch (Sprache)",
       "isVocabulary": true,
       "example": "Você fala alemão?",
-      "exampleTranslation": "Sprichst du Deutsch?"
+      "exampleTranslation": "Sprichst du Deutsch?",
+      "explanation": "Als Sprachname; dieselbe Schreibweise kann auch Deutscher bedeuten."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "lernen",
       "isVocabulary": true,
       "example": "Estou aprendendo português.",
-      "exampleTranslation": "Ich lerne gerade Portugiesisch."
+      "exampleTranslation": "Ich lerne gerade Portugiesisch.",
+      "explanation": "Estou aprendendo beschreibt laufendes Lernen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Moment",
       "isVocabulary": true,
       "example": "Só um momento, por favor.",
-      "exampleTranslation": "Nur einen Moment, bitte."
+      "exampleTranslation": "Nur einen Moment, bitte.",
+      "explanation": "O momento; só um momento = nur einen Moment."
     }
   ]
 }

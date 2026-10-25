@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-17-getraenke",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "17 · Getränke bestellen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "stilles Wasser",
       "isVocabulary": true,
       "example": "Quero uma água sem gás e sem gelo.",
-      "exampleTranslation": "Ich möchte ein stilles Wasser ohne Eiswürfel."
+      "exampleTranslation": "Ich möchte ein stilles Wasser ohne Eiswürfel.",
+      "explanation": "A água; sem gás = ohne Kohlensäure."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Sprudelwasser",
       "isVocabulary": true,
       "example": "Quero água com gás.",
-      "exampleTranslation": "Ich möchte Sprudelwasser."
+      "exampleTranslation": "Ich möchte Sprudelwasser.",
+      "explanation": "Com gás bedeutet mit Kohlensäure."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Milchkaffee",
       "isVocabulary": true,
       "example": "Um café com leite, por favor.",
-      "exampleTranslation": "Einen Kaffee mit Milch, bitte."
+      "exampleTranslation": "Einen Kaffee mit Milch, bitte.",
+      "explanation": "Café com leite bedeutet wörtlich Kaffee mit Milch."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Tee",
       "isVocabulary": true,
       "example": "Você tem chá?",
-      "exampleTranslation": "Hast du Tee?"
+      "exampleTranslation": "Hast du Tee?",
+      "explanation": "O chá; der Akut gehört zur Schreibweise."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Orangensaft",
       "isVocabulary": true,
       "example": "Quero um suco de laranja.",
-      "exampleTranslation": "Ich möchte einen Orangensaft."
+      "exampleTranslation": "Ich möchte einen Orangensaft.",
+      "explanation": "O suco ist die brasilianische Bezeichnung für Saft."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "ohne Eiswürfel",
       "isVocabulary": true,
       "example": "Sem gelo, por favor.",
-      "exampleTranslation": "Ohne Eiswürfel, bitte."
+      "exampleTranslation": "Ohne Eiswürfel, bitte.",
+      "explanation": "Gelo bedeutet Eis; bei Getränken sind hier Eiswürfel gemeint."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Tasse",
       "isVocabulary": true,
       "example": "Pode ser uma xícara pequena.",
-      "exampleTranslation": "Es kann eine kleine Tasse sein."
+      "exampleTranslation": "Es kann eine kleine Tasse sein.",
+      "explanation": "A xícara; Plural xícaras."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "zum Mitnehmen",
       "isVocabulary": true,
       "example": "Para levar, por favor.",
-      "exampleTranslation": "Zum Mitnehmen, bitte."
+      "exampleTranslation": "Zum Mitnehmen, bitte.",
+      "explanation": "Feste Wendung bei einer Bestellung zum Mitnehmen."
     }
   ]
 }

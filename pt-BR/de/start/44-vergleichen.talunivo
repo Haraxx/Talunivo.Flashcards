@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-44-vergleichen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "44 · Einfach vergleichen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "günstiger",
       "isVocabulary": true,
       "example": "Este hotel é mais barato, mas fica mais longe.",
-      "exampleTranslation": "Dieses Hotel ist billiger, aber es liegt weiter weg."
+      "exampleTranslation": "Dieses Hotel ist billiger, aber es liegt weiter weg.",
+      "explanation": "Barato ist günstig; mais barato bildet den Vergleich."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "teurer",
       "isVocabulary": true,
       "example": "Aquele é mais caro.",
-      "exampleTranslation": "Das dort ist teurer."
+      "exampleTranslation": "Das dort ist teurer.",
+      "explanation": "Caro ist teuer; mais caro bildet den Vergleich."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "größer",
       "isVocabulary": true,
       "example": "Esta mala é maior que a minha.",
-      "exampleTranslation": "Dieser Koffer ist größer als meiner."
+      "exampleTranslation": "Dieser Koffer ist größer als meiner.",
+      "explanation": "Maior ist die unregelmäßige Steigerung von grande."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "kleiner",
       "isVocabulary": true,
       "example": "Este quarto é menor.",
-      "exampleTranslation": "Dieses Zimmer ist kleiner."
+      "exampleTranslation": "Dieses Zimmer ist kleiner.",
+      "explanation": "Menor ist die unregelmäßige Steigerung von pequeno."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "weiter weg",
       "isVocabulary": true,
       "example": "A estação fica mais longe que o mercado.",
-      "exampleTranslation": "Der Bahnhof ist weiter weg als der Markt."
+      "exampleTranslation": "Der Bahnhof ist weiter weg als der Markt.",
+      "explanation": "Longe bedeutet weit weg; mais longe = weiter weg."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "weniger",
       "isVocabulary": true,
       "example": "Quero menos açúcar.",
-      "exampleTranslation": "Ich möchte weniger Zucker."
+      "exampleTranslation": "Ich möchte weniger Zucker.",
+      "explanation": "Menos bleibt unverändert, auch vor einem Nomen im Plural."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "mehr",
       "isVocabulary": true,
       "example": "Preciso de mais tempo.",
-      "exampleTranslation": "Ich brauche mehr Zeit."
+      "exampleTranslation": "Ich brauche mehr Zeit.",
+      "explanation": "Mais bleibt unverändert; nicht mit mas, aber, verwechseln."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "besser",
       "isVocabulary": true,
       "example": "Este caminho é melhor.",
-      "exampleTranslation": "Dieser Weg ist besser."
+      "exampleTranslation": "Dieser Weg ist besser.",
+      "explanation": "Melhor ist die unregelmäßige Steigerung von bom."
     }
   ]
 }

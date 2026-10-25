@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-27-taxi",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "27 · Mit dem Taxi unterwegs",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Adresse",
       "isVocabulary": true,
       "example": "Pode me levar ao hotel? Tenho o endereço aqui.",
-      "exampleTranslation": "Können Sie mich zum Hotel bringen? Ich habe die Adresse hier."
+      "exampleTranslation": "Können Sie mich zum Hotel bringen? Ich habe die Adresse hier.",
+      "explanation": "O endereço; der Buchstabe ç wird wie s gesprochen."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Hotel",
       "isVocabulary": true,
       "example": "Quero ir para o hotel.",
-      "exampleTranslation": "Ich möchte zum Hotel fahren."
+      "exampleTranslation": "Ich möchte zum Hotel fahren.",
+      "explanation": "O hotel; para o hotel = zum Hotel."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Fahrt (Taxi)",
       "isVocabulary": true,
       "example": "Quanto fica a corrida?",
-      "exampleTranslation": "Wie viel kostet die Fahrt?"
+      "exampleTranslation": "Wie viel kostet die Fahrt?",
+      "explanation": "A corrida bezeichnet hier eine Taxifahrt, sonst auch einen Lauf."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "anhalten",
       "isVocabulary": true,
       "example": "Pode parar aqui.",
-      "exampleTranslation": "Sie können hier anhalten."
+      "exampleTranslation": "Sie können hier anhalten.",
+      "explanation": "Pode parar ist hier eine höfliche Aufforderung anzuhalten."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "aussteigen",
       "isVocabulary": true,
       "example": "Vou descer aqui.",
-      "exampleTranslation": "Ich steige hier aus."
+      "exampleTranslation": "Ich steige hier aus.",
+      "explanation": "Bei Verkehrsmitteln: descer = aussteigen."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Verkehr",
       "isVocabulary": true,
       "example": "O trânsito está lento.",
-      "exampleTranslation": "Der Verkehr stockt."
+      "exampleTranslation": "Der Verkehr stockt.",
+      "explanation": "O trânsito; der Akut gehört zur Schreibweise."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Eingang",
       "isVocabulary": true,
       "example": "Estou esperando na entrada.",
-      "exampleTranslation": "Ich warte am Eingang."
+      "exampleTranslation": "Ich warte am Eingang.",
+      "explanation": "A entrada; na entrada = am Eingang."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Auto",
       "isVocabulary": true,
       "example": "Este é o carro certo?",
-      "exampleTranslation": "Ist das das richtige Auto?"
+      "exampleTranslation": "Ist das das richtige Auto?",
+      "explanation": "O carro; Plural carros."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-23-kleidung",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "23 · Kleidung und Größen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "T-Shirt",
       "isVocabulary": true,
       "example": "Esta camiseta está apertada. Tem um tamanho maior?",
-      "exampleTranslation": "Dieses T-Shirt ist zu eng. Gibt es eine größere Größe?"
+      "exampleTranslation": "Dieses T-Shirt ist zu eng. Gibt es eine größere Größe?",
+      "explanation": "A camiseta; nicht mit camisa, Hemd, verwechseln."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Hose",
       "isVocabulary": true,
       "example": "Preciso de uma calça.",
-      "exampleTranslation": "Ich brauche eine Hose."
+      "exampleTranslation": "Ich brauche eine Hose.",
+      "explanation": "A calça steht im Portugiesischen für eine Hose im Singular."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "größer",
       "isVocabulary": true,
       "example": "Tem um tamanho maior?",
-      "exampleTranslation": "Gibt es eine größere Größe?"
+      "exampleTranslation": "Gibt es eine größere Größe?",
+      "explanation": "Unregelmäßige Steigerung von grande; bei beiden Genera gleich."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "kleiner",
       "isVocabulary": true,
       "example": "Tem um tamanho menor?",
-      "exampleTranslation": "Gibt es eine kleinere Größe?"
+      "exampleTranslation": "Gibt es eine kleinere Größe?",
+      "explanation": "Unregelmäßige Steigerung von pequeno; bei beiden Genera gleich."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Jacke",
       "isVocabulary": true,
       "example": "Posso experimentar esta jaqueta?",
-      "exampleTranslation": "Kann ich diese Jacke anprobieren?"
+      "exampleTranslation": "Kann ich diese Jacke anprobieren?",
+      "explanation": "A jaqueta; experimentar bedeutet hier anprobieren."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Umkleidekabine",
       "isVocabulary": true,
       "example": "Onde fica o provador?",
-      "exampleTranslation": "Wo ist die Umkleidekabine?"
+      "exampleTranslation": "Wo ist die Umkleidekabine?",
+      "explanation": "O provador; hier die Umkleidekabine im Geschäft."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Schuhe",
       "isVocabulary": true,
       "example": "Estes sapatos estão apertados.",
-      "exampleTranslation": "Diese Schuhe sind zu eng."
+      "exampleTranslation": "Diese Schuhe sind zu eng.",
+      "explanation": "Plural von o sapato."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "gut (weiblich)",
       "isVocabulary": true,
       "example": "Esta camiseta ficou boa.",
-      "exampleTranslation": "Dieses T-Shirt passt gut."
+      "exampleTranslation": "Dieses T-Shirt passt gut.",
+      "explanation": "Weibliche Form von bom; bei Kleidung kann ficar boa gut passen bedeuten."
     }
   ]
 }

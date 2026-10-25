@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-37-koerper",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "37 · Körper und Befinden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Kopf",
       "isVocabulary": true,
       "example": "Estou com dor de cabeça e preciso descansar.",
-      "exampleTranslation": "Ich habe Kopfschmerzen und muss mich ausruhen."
+      "exampleTranslation": "Ich habe Kopfschmerzen und muss mich ausruhen.",
+      "explanation": "A cabeça; dor de cabeça = Kopfschmerzen."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Hals; Rachen",
       "isVocabulary": true,
       "example": "Estou com dor de garganta.",
-      "exampleTranslation": "Ich habe Halsschmerzen."
+      "exampleTranslation": "Ich habe Halsschmerzen.",
+      "explanation": "A garganta bezeichnet den Hals innen beziehungsweise den Rachen."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Arm",
       "isVocabulary": true,
       "example": "Meu braço dói.",
-      "exampleTranslation": "Mein Arm tut weh."
+      "exampleTranslation": "Mein Arm tut weh.",
+      "explanation": "O braço; Plural braços."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Bein",
       "isVocabulary": true,
       "example": "Minha perna está cansada.",
-      "exampleTranslation": "Mein Bein ist müde."
+      "exampleTranslation": "Mein Bein ist müde.",
+      "explanation": "A perna; Plural pernas."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Füße",
       "isVocabulary": true,
       "example": "Preciso descansar os pés.",
-      "exampleTranslation": "Ich muss meine Füße ausruhen."
+      "exampleTranslation": "Ich muss meine Füße ausruhen.",
+      "explanation": "Plural von o pé; der Akut bleibt erhalten."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Hände",
       "isVocabulary": true,
       "example": "Lave as mãos, por favor.",
-      "exampleTranslation": "Wasch dir bitte die Hände."
+      "exampleTranslation": "Wasch dir bitte die Hände.",
+      "explanation": "Plural von a mão; das ã bleibt erhalten."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Bauch",
       "isVocabulary": true,
       "example": "Estou com dor de barriga.",
-      "exampleTranslation": "Ich habe Bauchschmerzen."
+      "exampleTranslation": "Ich habe Bauchschmerzen.",
+      "explanation": "A barriga; dor de barriga = Bauchschmerzen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Augen",
       "isVocabulary": true,
       "example": "Meus olhos estão vermelhos.",
-      "exampleTranslation": "Meine Augen sind rot."
+      "exampleTranslation": "Meine Augen sind rot.",
+      "explanation": "Plural von o olho."
     }
   ]
 }

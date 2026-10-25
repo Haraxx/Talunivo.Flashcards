@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-38-beduerfnisse",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "38 · Hunger, Durst und Bedürfnisse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "fome",
       "translation": "Hunger",
       "isVocabulary": true,
-      "example": "Estou com sede. Preciso beber água.",
-      "exampleTranslation": "Ich habe Durst. Ich muss Wasser trinken."
+      "example": "Estou com fome. Quero comer.",
+      "exampleTranslation": "Ich habe Hunger. Ich möchte etwas essen.",
+      "explanation": "A fome; estar com fome = Hunger haben."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Durst",
       "isVocabulary": true,
       "example": "Estou com sede.",
-      "exampleTranslation": "Ich habe Durst."
+      "exampleTranslation": "Ich habe Durst.",
+      "explanation": "A sede; estar com sede = Durst haben."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "trinken",
       "isVocabulary": true,
       "example": "Preciso beber água.",
-      "exampleTranslation": "Ich muss Wasser trinken."
+      "exampleTranslation": "Ich muss Wasser trinken.",
+      "explanation": "Beber água = Wasser trinken."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "sich ausruhen",
       "isVocabulary": true,
       "example": "Quero descansar um pouco.",
-      "exampleTranslation": "Ich möchte mich ein bisschen ausruhen."
+      "exampleTranslation": "Ich möchte mich ein bisschen ausruhen.",
+      "explanation": "Quero descansar = ich möchte mich ausruhen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Toilette; Badezimmer",
       "isVocabulary": true,
       "example": "Preciso ir ao banheiro.",
-      "exampleTranslation": "Ich muss auf die Toilette."
+      "exampleTranslation": "Ich muss auf die Toilette.",
+      "explanation": "O banheiro bezeichnet hier die Toilette."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Schläfrigkeit",
       "isVocabulary": true,
       "example": "Estou com sono.",
-      "exampleTranslation": "Ich bin schläfrig."
+      "exampleTranslation": "Ich bin schläfrig.",
+      "explanation": "O sono; estar com sono = schläfrig oder müde sein."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Hilfe",
       "isVocabulary": true,
       "example": "Preciso de ajuda agora.",
-      "exampleTranslation": "Ich brauche jetzt Hilfe."
+      "exampleTranslation": "Ich brauche jetzt Hilfe.",
+      "explanation": "A ajuda; precisar de ajuda = Hilfe brauchen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "allein (männlich)",
       "isVocabulary": true,
       "example": "Quero ficar sozinho um momento.",
-      "exampleTranslation": "Ich möchte einen Moment allein sein."
+      "exampleTranslation": "Ich möchte einen Moment allein sein.",
+      "explanation": "Männliche Form; weiblich sozinha."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-07-zahlen-zehn",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "07 · Zahlen von null bis zehn",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "zero",
       "translation": "null",
       "isVocabulary": true,
-      "example": "Tenho dois livros e uma caneta.",
-      "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
+      "example": "A temperatura está em zero grau.",
+      "exampleTranslation": "Die Temperatur liegt bei null Grad.",
+      "explanation": "Zero steht für die Zahl 0."
     },
     {
       "id": "karte-01-2",
@@ -22,8 +23,9 @@
       "expression": "um",
       "translation": "eins",
       "isVocabulary": true,
-      "example": "Tenho dois livros e uma caneta.",
-      "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
+      "example": "Quero um café, por favor.",
+      "exampleTranslation": "Ich möchte einen Kaffee, bitte.",
+      "explanation": "Um steht für 1; vor weiblichen Nomen uma."
     },
     {
       "id": "karte-01-3",
@@ -31,8 +33,9 @@
       "expression": "dois",
       "translation": "zwei",
       "isVocabulary": true,
-      "example": "Tenho dois livros e uma caneta.",
-      "exampleTranslation": "Ich habe zwei Bücher und einen Stift."
+      "example": "Tenho dois livros.",
+      "exampleTranslation": "Ich habe zwei Bücher.",
+      "explanation": "Dois steht für 2; vor weiblichen Nomen duas."
     },
     {
       "id": "karte-02",
@@ -40,8 +43,9 @@
       "expression": "três",
       "translation": "drei",
       "isVocabulary": true,
-      "example": "três, quatro, cinco",
-      "exampleTranslation": "drei, vier, fünf"
+      "example": "Tenho três canetas.",
+      "exampleTranslation": "Ich habe drei Stifte.",
+      "explanation": "Três steht für 3 und trägt einen Zirkumflex."
     },
     {
       "id": "karte-02-2",
@@ -49,8 +53,9 @@
       "expression": "quatro",
       "translation": "vier",
       "isVocabulary": true,
-      "example": "três, quatro, cinco",
-      "exampleTranslation": "drei, vier, fünf"
+      "example": "São quatro pessoas.",
+      "exampleTranslation": "Es sind vier Personen.",
+      "explanation": "Quatro steht für 4 und bleibt vor Nomen unverändert."
     },
     {
       "id": "karte-02-3",
@@ -58,8 +63,9 @@
       "expression": "cinco",
       "translation": "fünf",
       "isVocabulary": true,
-      "example": "três, quatro, cinco",
-      "exampleTranslation": "drei, vier, fünf"
+      "example": "Quero cinco maçãs.",
+      "exampleTranslation": "Ich möchte fünf Äpfel.",
+      "explanation": "Cinco steht für 5."
     },
     {
       "id": "karte-03",
@@ -67,8 +73,9 @@
       "expression": "seis",
       "translation": "sechs",
       "isVocabulary": true,
-      "example": "seis, sete, oito",
-      "exampleTranslation": "sechs, sieben, acht"
+      "example": "Tenho seis livros.",
+      "exampleTranslation": "Ich habe sechs Bücher.",
+      "explanation": "Seis steht für 6; nicht mit sete verwechseln."
     },
     {
       "id": "karte-03-2",
@@ -76,8 +83,9 @@
       "expression": "sete",
       "translation": "sieben",
       "isVocabulary": true,
-      "example": "seis, sete, oito",
-      "exampleTranslation": "sechs, sieben, acht"
+      "example": "A semana tem sete dias.",
+      "exampleTranslation": "Die Woche hat sieben Tage.",
+      "explanation": "Sete steht für 7."
     },
     {
       "id": "karte-03-3",
@@ -85,8 +93,9 @@
       "expression": "oito",
       "translation": "acht",
       "isVocabulary": true,
-      "example": "seis, sete, oito",
-      "exampleTranslation": "sechs, sieben, acht"
+      "example": "São oito reais.",
+      "exampleTranslation": "Das macht acht Reais.",
+      "explanation": "Oito steht für 8."
     },
     {
       "id": "karte-04",
@@ -94,8 +103,9 @@
       "expression": "nove",
       "translation": "neun",
       "isVocabulary": true,
-      "example": "nove, dez",
-      "exampleTranslation": "neun, zehn"
+      "example": "Tenho nove moedas.",
+      "exampleTranslation": "Ich habe neun Münzen.",
+      "explanation": "Nove steht für 9."
     },
     {
       "id": "karte-04-2",
@@ -103,8 +113,9 @@
       "expression": "dez",
       "translation": "zehn",
       "isVocabulary": true,
-      "example": "nove, dez",
-      "exampleTranslation": "neun, zehn"
+      "example": "Tenho dez dedos nas mãos.",
+      "exampleTranslation": "Ich habe zehn Finger an den Händen.",
+      "explanation": "Dez steht für 10."
     },
     {
       "id": "karte-05",
@@ -112,8 +123,9 @@
       "expression": "pessoa",
       "translation": "Person",
       "isVocabulary": true,
-      "example": "Uma pessoa.",
-      "exampleTranslation": "Eine Person."
+      "example": "Tem uma pessoa na sala.",
+      "exampleTranslation": "Im Wohnzimmer ist eine Person.",
+      "explanation": "A pessoa ist grammatisch weiblich, unabhängig von der bezeichneten Person."
     },
     {
       "id": "karte-06",
@@ -121,8 +133,9 @@
       "expression": "duas",
       "translation": "zwei (weiblich)",
       "isVocabulary": true,
-      "example": "Duas mesas.",
-      "exampleTranslation": "Zwei Tische."
+      "example": "Tem duas mesas livres.",
+      "exampleTranslation": "Es sind zwei Tische frei.",
+      "explanation": "Weibliche Form von dois; der Genus richtet sich nach dem portugiesischen Nomen."
     },
     {
       "id": "karte-07",
@@ -130,8 +143,9 @@
       "expression": "irmão",
       "translation": "Bruder",
       "isVocabulary": true,
-      "example": "Tenho três irmãos.",
-      "exampleTranslation": "Ich habe drei Brüder."
+      "example": "Meu irmão mora aqui.",
+      "exampleTranslation": "Mein Bruder wohnt hier.",
+      "explanation": "O irmão; Plural irmãos kann auch gemischte Geschwister bezeichnen."
     },
     {
       "id": "karte-08",
@@ -139,8 +153,9 @@
       "expression": "real",
       "translation": "Real (brasilianische Währung)",
       "isVocabulary": true,
-      "example": "São cinco reais.",
-      "exampleTranslation": "Das macht fünf Reais."
+      "example": "Um pão custa um real.",
+      "exampleTranslation": "Ein Brot kostet einen Real.",
+      "explanation": "O real; Plural reais. Bei Preisen: um real, dois reais."
     }
   ]
 }

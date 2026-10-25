@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-42-lernen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "42 · Lernen und Üben",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "estudar",
       "translation": "lernen (Studium)",
       "isVocabulary": true,
-      "example": "Esta palavra é nova para mim. Pode dar um exemplo?",
-      "exampleTranslation": "Dieses Wort ist neu für mich. Kannst du ein Beispiel geben?"
+      "example": "Estudo português todos os dias.",
+      "exampleTranslation": "Ich lerne jeden Tag Portugiesisch.",
+      "explanation": "Estudar bezeichnet gezieltes Lernen oder Studieren, auch außerhalb einer Hochschule."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Frage",
       "isVocabulary": true,
       "example": "Tenho uma pergunta.",
-      "exampleTranslation": "Ich habe eine Frage."
+      "exampleTranslation": "Ich habe eine Frage.",
+      "explanation": "A pergunta; ter uma pergunta = eine Frage haben."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Beispiel",
       "isVocabulary": true,
       "example": "Pode dar um exemplo?",
-      "exampleTranslation": "Kannst du ein Beispiel geben?"
+      "exampleTranslation": "Kannst du ein Beispiel geben?",
+      "explanation": "O exemplo; dar um exemplo = ein Beispiel geben."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Wort",
       "isVocabulary": true,
       "example": "Esta palavra é nova para mim.",
-      "exampleTranslation": "Dieses Wort ist neu für mich."
+      "exampleTranslation": "Dieses Wort ist neu für mich.",
+      "explanation": "A palavra; Plural palavras."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "aussprechen",
       "isVocabulary": true,
       "example": "Como se pronuncia esta palavra?",
-      "exampleTranslation": "Wie spricht man dieses Wort aus?"
+      "exampleTranslation": "Wie spricht man dieses Wort aus?",
+      "explanation": "Como se pronuncia …? = Wie spricht man … aus?"
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "üben",
       "isVocabulary": true,
       "example": "Preciso praticar mais.",
-      "exampleTranslation": "Ich muss mehr üben."
+      "exampleTranslation": "Ich muss mehr üben.",
+      "explanation": "Praticar bedeutet üben; mais bedeutet hier mehr."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "noch einmal",
       "isVocabulary": true,
       "example": "Vou tentar de novo.",
-      "exampleTranslation": "Ich werde es noch einmal versuchen."
+      "exampleTranslation": "Ich werde es noch einmal versuchen.",
+      "explanation": "Feste Wendung für noch einmal oder erneut."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "verstehen",
       "isVocabulary": true,
       "example": "Agora eu entendi.",
-      "exampleTranslation": "Jetzt habe ich es verstanden."
+      "exampleTranslation": "Jetzt habe ich es verstanden.",
+      "explanation": "Entendi = ich habe verstanden; entende = du verstehst bei você."
     }
   ]
 }

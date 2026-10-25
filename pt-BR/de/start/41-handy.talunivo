@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-41-handy",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "41 · Handy und Kontakt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "número",
       "translation": "Nummer",
       "isVocabulary": true,
-      "example": "Meu celular está sem bateria. Tem uma tomada aqui?",
-      "exampleTranslation": "Mein Handy hat keinen Akku mehr. Gibt es hier eine Steckdose?"
+      "example": "Qual é o seu número de telefone?",
+      "exampleTranslation": "Wie lautet deine Telefonnummer?",
+      "explanation": "O número; número de telefone = Telefonnummer."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Nachricht",
       "isVocabulary": true,
       "example": "Pode me mandar uma mensagem?",
-      "exampleTranslation": "Kannst du mir eine Nachricht schicken?"
+      "exampleTranslation": "Kannst du mir eine Nachricht schicken?",
+      "explanation": "A mensagem; mandar uma mensagem = eine Nachricht schicken."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "anrufen",
       "isVocabulary": true,
       "example": "Vou te ligar amanhã.",
-      "exampleTranslation": "Ich rufe dich morgen an."
+      "exampleTranslation": "Ich rufe dich morgen an.",
+      "explanation": "Ligar para alguém = jemanden anrufen."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Akku",
       "isVocabulary": true,
       "example": "Meu celular está sem bateria.",
-      "exampleTranslation": "Mein Handy hat keinen Akku mehr."
+      "exampleTranslation": "Mein Handy hat keinen Akku mehr.",
+      "explanation": "A bateria; sem bateria = ohne Akkuladung."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Steckdose",
       "isVocabulary": true,
       "example": "Tem uma tomada aqui?",
-      "exampleTranslation": "Gibt es hier eine Steckdose?"
+      "exampleTranslation": "Gibt es hier eine Steckdose?",
+      "explanation": "A tomada bezeichnet eine Steckdose."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "aufladen",
       "isVocabulary": true,
       "example": "Posso carregar meu celular?",
-      "exampleTranslation": "Kann ich mein Handy aufladen?"
+      "exampleTranslation": "Kann ich mein Handy aufladen?",
+      "explanation": "Carregar o celular = das Handy aufladen."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Empfang; Signal",
       "isVocabulary": true,
       "example": "Não tenho sinal aqui.",
-      "exampleTranslation": "Ich habe hier keinen Empfang."
+      "exampleTranslation": "Ich habe hier keinen Empfang.",
+      "explanation": "O sinal; hier der Mobilfunkempfang."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "E-Mail",
       "isVocabulary": true,
       "example": "Pode escrever seu endereço de e-mail?",
-      "exampleTranslation": "Kannst du deine E-Mail-Adresse aufschreiben?"
+      "exampleTranslation": "Kannst du deine E-Mail-Adresse aufschreiben?",
+      "explanation": "O e-mail; endereço de e-mail = E-Mail-Adresse."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-22-bezahlen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "22 · Geld und Bezahlen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "tudo",
       "translation": "alles",
       "isVocabulary": true,
-      "example": "São vinte reais. Posso pagar em dinheiro?",
-      "exampleTranslation": "Das macht zwanzig Reais. Kann ich bar bezahlen?"
+      "example": "Quanto custa tudo?",
+      "exampleTranslation": "Wie viel kostet alles zusammen?",
+      "explanation": "Tudo bezeichnet hier den gesamten Einkauf."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Bargeld; Geld",
       "isVocabulary": true,
       "example": "Posso pagar em dinheiro?",
-      "exampleTranslation": "Kann ich bar bezahlen?"
+      "exampleTranslation": "Kann ich bar bezahlen?",
+      "explanation": "O dinheiro; em dinheiro = bar."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Debitkarte",
       "isVocabulary": true,
       "example": "Aceita cartão de débito?",
-      "exampleTranslation": "Akzeptieren Sie eine Debitkarte?"
+      "exampleTranslation": "Akzeptieren Sie eine Debitkarte?",
+      "explanation": "O cartão de débito; débito trägt einen Akut."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Pix (brasilianisches Bezahlsystem)",
       "isVocabulary": true,
       "example": "Vou pagar com Pix.",
-      "exampleTranslation": "Ich werde mit Pix bezahlen."
+      "exampleTranslation": "Ich werde mit Pix bezahlen.",
+      "explanation": "Name eines brasilianischen Zahlungssystems."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Wechselgeld",
       "isVocabulary": true,
       "example": "Preciso de troco.",
-      "exampleTranslation": "Ich brauche Wechselgeld."
+      "exampleTranslation": "Ich brauche Wechselgeld.",
+      "explanation": "O troco bezeichnet Wechselgeld."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Reais (Mehrzahl von Real)",
       "isVocabulary": true,
       "example": "Aqui estão cinquenta reais.",
-      "exampleTranslation": "Hier sind fünfzig Reais."
+      "exampleTranslation": "Hier sind fünfzig Reais.",
+      "explanation": "Plural von o real, der brasilianischen Währung."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Beleg",
       "isVocabulary": true,
       "example": "Pode me dar o recibo?",
-      "exampleTranslation": "Können Sie mir den Beleg geben?"
+      "exampleTranslation": "Können Sie mir den Beleg geben?",
+      "explanation": "O recibo bezeichnet einen Zahlungsbeleg."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Betrag",
       "isVocabulary": true,
       "example": "O valor está errado.",
-      "exampleTranslation": "Der Betrag stimmt nicht."
+      "exampleTranslation": "Der Betrag stimmt nicht.",
+      "explanation": "O valor; hier der zu zahlende Betrag."
     }
   ]
 }

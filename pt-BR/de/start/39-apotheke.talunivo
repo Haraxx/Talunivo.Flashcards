@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-39-apotheke",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "39 · In der Apotheke",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "farmacêutico",
       "translation": "Apotheker",
       "isVocabulary": true,
-      "example": "Tenho uma receita médica. Pode me ajudar?",
-      "exampleTranslation": "Ich habe ein ärztliches Rezept. Können Sie mir helfen?"
+      "example": "Quero falar com o farmacêutico.",
+      "exampleTranslation": "Ich möchte mit dem Apotheker sprechen.",
+      "explanation": "O farmacêutico; weiblich a farmacêutica."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Apotheke",
       "isVocabulary": true,
       "example": "Estou procurando uma farmácia aberta.",
-      "exampleTranslation": "Ich suche eine geöffnete Apotheke."
+      "exampleTranslation": "Ich suche eine geöffnete Apotheke.",
+      "explanation": "A farmácia; aberta bedeutet geöffnet."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Allergie",
       "isVocabulary": true,
       "example": "Tenho alergia a amendoim.",
-      "exampleTranslation": "Ich bin gegen Erdnüsse allergisch."
+      "exampleTranslation": "Ich bin gegen Erdnüsse allergisch.",
+      "explanation": "A alergia; ter alergia a … = gegen … allergisch sein."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "ärztliches Rezept",
       "isVocabulary": true,
       "example": "Tenho uma receita médica.",
-      "exampleTranslation": "Ich habe ein ärztliches Rezept."
+      "exampleTranslation": "Ich habe ein ärztliches Rezept.",
+      "explanation": "A receita médica bezeichnet ein ärztliches Rezept, kein Kochrezept."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Medikament",
       "isVocabulary": true,
       "example": "Este remédio precisa de receita?",
-      "exampleTranslation": "Ist dieses Medikament rezeptpflichtig?"
+      "exampleTranslation": "Ist dieses Medikament rezeptpflichtig?",
+      "explanation": "O remédio; hier ein Medikament, keine Empfehlung für eine bestimmte Behandlung."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "anwenden; benutzen",
       "isVocabulary": true,
       "example": "Pode explicar como usar?",
-      "exampleTranslation": "Können Sie erklären, wie man es anwendet?"
+      "exampleTranslation": "Können Sie erklären, wie man es anwendet?",
+      "explanation": "Como usar = wie man etwas anwendet; hier eine sprachliche Bitte um Erklärung."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Anweisungen",
       "isVocabulary": true,
       "example": "Pode escrever as instruções?",
-      "exampleTranslation": "Können Sie die Anweisungen aufschreiben?"
+      "exampleTranslation": "Können Sie die Anweisungen aufschreiben?",
+      "explanation": "Plural von a instrução."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Auskunft; Anleitung",
       "isVocabulary": true,
       "example": "Não entendi a orientação.",
-      "exampleTranslation": "Ich habe die Auskunft nicht verstanden."
+      "exampleTranslation": "Ich habe die Auskunft nicht verstanden.",
+      "explanation": "A orientação; hier Erklärung oder Anleitung zur Anwendung."
     }
   ]
 }

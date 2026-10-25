@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-48-mission-markt",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "48 · Mini-Dialog: Auf dem Markt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Bananen",
       "isVocabulary": true,
       "example": "Bom dia! Quero meio quilo de bananas, por favor.",
-      "exampleTranslation": "Guten Morgen! Ich möchte bitte ein halbes Kilo Bananen."
+      "exampleTranslation": "Guten Morgen! Ich möchte bitte ein halbes Kilo Bananen.",
+      "explanation": "Plural von a banana."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "reif (weiblich, Mehrzahl)",
       "isVocabulary": true,
       "example": "Sim, estas estão bem maduras.",
-      "exampleTranslation": "Ja, diese hier sind schön reif."
+      "exampleTranslation": "Ja, diese hier sind schön reif.",
+      "explanation": "Weiblicher Plural von maduro; passend zu bananas."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Kilo",
       "isVocabulary": true,
       "example": "Quanto custa o quilo?",
-      "exampleTranslation": "Wie viel kostet das Kilo?"
+      "exampleTranslation": "Wie viel kostet das Kilo?",
+      "explanation": "O quilo; meio quilo = ein halbes Kilo."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "acht",
       "isVocabulary": true,
       "example": "O quilo custa oito reais.",
-      "exampleTranslation": "Das Kilo kostet acht Reais."
+      "exampleTranslation": "Das Kilo kostet acht Reais.",
+      "explanation": "Oito steht für 8; bei Preisen gefolgt von reais."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "halb",
       "isVocabulary": true,
       "example": "Então quero meio quilo.",
-      "exampleTranslation": "Dann möchte ich ein halbes Kilo."
+      "exampleTranslation": "Dann möchte ich ein halbes Kilo.",
+      "explanation": "Männliche Form; weiblich meia. Hier passend zu quilo."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "etwas",
       "isVocabulary": true,
       "example": "Quer mais alguma coisa?",
-      "exampleTranslation": "Möchten Sie sonst noch etwas?"
+      "exampleTranslation": "Möchten Sie sonst noch etwas?",
+      "explanation": "Mais alguma coisa? = Sonst noch etwas?"
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "nur",
       "isVocabulary": true,
       "example": "Só isso, obrigado.",
-      "exampleTranslation": "Das ist alles, danke."
+      "exampleTranslation": "Das ist alles, danke.",
+      "explanation": "Só isso = nur das beziehungsweise das ist alles."
     },
     {
       "id": "karte-08",
@@ -76,8 +83,9 @@
       "expression": "bom dia",
       "translation": "guten Morgen",
       "isVocabulary": true,
-      "example": "Aqui está. Tenha um bom dia!",
-      "exampleTranslation": "Hier bitte. Einen schönen Tag noch!"
+      "example": "Bom dia! Quanto custa o quilo de bananas?",
+      "exampleTranslation": "Guten Morgen! Wie viel kostet ein Kilo Bananen?",
+      "explanation": "Bom dia! als Gruß: guten Morgen; um bom dia in einem Wunsch: einen schönen Tag."
     }
   ]
 }

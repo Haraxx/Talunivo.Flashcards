@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-36-strand",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "36 · Strand und Ausflug",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Strand",
       "isVocabulary": true,
       "example": "Vamos à praia. Leve água e protetor solar.",
-      "exampleTranslation": "Gehen wir an den Strand. Nimm Wasser und Sonnencreme mit."
+      "exampleTranslation": "Gehen wir an den Strand. Nimm Wasser und Sonnencreme mit.",
+      "explanation": "A praia; à praia = an den Strand."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Sonnencreme",
       "isVocabulary": true,
       "example": "Preciso de protetor solar.",
-      "exampleTranslation": "Ich brauche Sonnencreme."
+      "exampleTranslation": "Ich brauche Sonnencreme.",
+      "explanation": "O protetor solar bezeichnet ein Sonnenschutzmittel."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Hut",
       "isVocabulary": true,
       "example": "Leve água e um chapéu.",
-      "exampleTranslation": "Nimm Wasser und einen Hut mit."
+      "exampleTranslation": "Nimm Wasser und einen Hut mit.",
+      "explanation": "O chapéu; der Akut gehört zur Schreibweise."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Sonnenschirm",
       "isVocabulary": true,
       "example": "Onde posso alugar um guarda-sol?",
-      "exampleTranslation": "Wo kann ich einen Sonnenschirm mieten?"
+      "exampleTranslation": "Wo kann ich einen Sonnenschirm mieten?",
+      "explanation": "O guarda-sol ist männlich und wird mit Bindestrich geschrieben."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Meer",
       "isVocabulary": true,
       "example": "O mar está calmo hoje.",
-      "exampleTranslation": "Das Meer ist heute ruhig."
+      "exampleTranslation": "Das Meer ist heute ruhig.",
+      "explanation": "O mar; calmo bedeutet ruhig."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "sicher",
       "isVocabulary": true,
       "example": "É seguro nadar aqui?",
-      "exampleTranslation": "Ist es sicher, hier zu schwimmen?"
+      "exampleTranslation": "Ist es sicher, hier zu schwimmen?",
+      "explanation": "Hier eine Frage nach Sicherheit, keine Aussage über einen konkreten Badeort."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Schatten",
       "isVocabulary": true,
       "example": "Vou ficar na sombra.",
-      "exampleTranslation": "Ich werde im Schatten bleiben."
+      "exampleTranslation": "Ich werde im Schatten bleiben.",
+      "explanation": "A sombra; na sombra = im Schatten."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "dunkel werden",
       "isVocabulary": true,
       "example": "Vamos voltar antes de escurecer.",
-      "exampleTranslation": "Kehren wir zurück, bevor es dunkel wird."
+      "exampleTranslation": "Kehren wir zurück, bevor es dunkel wird.",
+      "explanation": "Antes de escurecer bedeutet bevor es dunkel wird."
     }
   ]
 }

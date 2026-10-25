@@ -1,30 +1,26 @@
 # Talunivo Flashcards
 
-Language-learning flashcard packages for Talunivo, organized by language and topic.
+Brazilian Portuguese (pt-BR) with German translations (de), for an introductory A0/A1 learning path.
 
-The initial collection teaches **Brazilian Portuguese (pt-BR) with German translations (de)**. No prior knowledge required. Further language pairs can be added as the app's import format supports them.
+Revision 3 contains 50 starter packages with 428 vocabulary cards, plus two Café add-ons with 13 cards: 52 catalog packages and 441 cards in total. Each card has a bilingual example and a German learning note. Cards contain individual words or short expressions; full sentences belong in the examples. The numbers zero to ten, numbers eleven to nineteen, tens to one hundred, all seven weekdays and all four seasons are covered. Common vocabulary intentionally recurs across related topics and shares progress for identical expression/translation pairs.
 
-Revision 2 contains 50 numbered packages and 426 vocabulary cards: individual words and short word groups with German translations. Every card has a separate bilingual example. Common words intentionally recur in related topics and share progress when the expression/translation pair is identical. Topics progress from greetings and introductions to shopping, transport, accommodation and everyday needs. This is an introductory collection, not a certified A1 course. Revision 2 requires Talunivo 1.3 or newer.
+## Local import
 
-## Use in Talunivo
+Use **Pakete → Datei auswählen** and select an individual `.talunivo` file, or `talunivo-start-ptbr-50.zip` for the complete collection. Review the validated preview and confirm the import explicitly. Installed content and SQLite learning progress remain available offline. Packages with more than eight cards have several lesson parts, linked from each lesson.
 
-In a current app version, open **Pakete → Katalog aus Git laden**, find a topic, and select **Paket zur Vorschau laden**. Review its contents, then confirm **Paket importieren**. Merely downloading or opening the preview does not save cards to your learning progress.
+All 50 package IDs and all 426 vocabulary card IDs and word pairs from revision 2 are retained. Revision 3 corrects 75 bilingual examples, adds learning notes and adds the missing spring and autumn vocabulary. Format version 2 declares `isVocabulary: true`. Package version 3 is separate from the format version. Use Talunivo 1.3 or newer.
 
-You can also download individual `.talunivo` files from `pt-BR/de/start/` and use **Pakete → Datei auswählen**. If you download the repository as a ZIP, extract it first and select the desired `.talunivo` files individually. Import support for a ZIP depends on the app version and is not required for these files.
+Updates preserve repetition progress for identical word pairs. The app archives replaced sentence cards from version 1 rather than transferring their scores to individual new words. Downloading or previewing a package does not import it. The app catalog on the main branch supplies these revisions. Reload the catalog and explicitly confirm each update after reviewing its preview.
 
-Start with package 01 and a few cards per day. Read the Portuguese expression, try to recall its meaning, then reveal the German answer. Use “Noch üben” or “Gewusst” honestly. Imported cards remain available offline; existing SQLite learning progress is preserved. Downloads require internet, but practice does not.
+## Files and validation
 
-## Files and updates
+- `catalog.json`: package metadata and SHA-256 checksums.
+- `pt-BR/de/start/*.talunivo`: UTF-8 JSON starter vocabulary packages, with 8–20 cards depending on the topic.
+- `pt-BR/de/cafe/*.talunivo`: the Café text add-on (package version 3) and illustrated pilot (package version 2, format 3).
+- `talunivo-start-ptbr-50.zip`: all 50 starter packages for a single confirmed import.
+- `pt-BR/de/start/SHA256SUMS.txt`: per-file checksums.
+- `pt-BR/de/start/README.md`: German topic guide.
 
-- `catalog.json`: versioned index with package ID, version, title, card count, relative path and SHA-256 checksum.
-- `pt-BR/de/start/*.talunivo`: one editable UTF-8 JSON file per package, containing its eight cards.
-- `pt-BR/de/start/SHA256SUMS.txt`: checksums of the individual package files.
-- `.gitattributes`: preserves package bytes across Git checkouts, so checksums remain stable.
+In the app repository, `scripts/Review-LearningPackages.py` rebuilds this revision from the preserved source archive. `tools/Talunivo.PackageValidator` checks the actual app parser, catalog metadata, hashes and generated lessons. A separate JSON-Schema check also validates the package structure. Editorial review by Codex is complete; independent review by a native-speaking teacher and a device import remain separate steps. This is an introductory collection, not a certified A1 course.
 
-No app source, credentials, personal information, progress databases, scripts or executable content are included. This repository is publicly readable; the app uses ordinary HTTPS downloads without authentication. Talunivo 1.3 checks only the catalog at startup to notify users about newer installed packages. Package downloads and imports still require explicit user actions. No learning progress or local content is uploaded.
-
-All package IDs remain unchanged; `packageVersion` is now 2. Format version 2 requires `isVocabulary: true` on every card. Expressions contain at most four words; full sentences belong in `example` and `exampleTranslation`. The selection is editorial: sentences have not been automatically tokenized or machine-translated.
-
-Higher package versions may add, change or remove cards. The app shows the changes before confirmation, applies them atomically and preserves review progress for identical expression/translation pairs. New pairs start fresh; replaced cards and their previous progress are retained in local history. A sentence's learning score is never copied onto several new words. The same version with different contents and version downgrades are rejected. Regenerate the catalog and checksums whenever package bytes change.
-
-The app repository includes `scripts/Revise-Flashcards.py` to reproduce this initial editorial revision from the original version-1 commit, and `tools/Talunivo.PackageValidator` to validate all files using the actual import parser, metadata and SHA-256 checksums. See [revision notes](REVISION-2.md).
+See [revision 3 notes](REVISION-3.md) for the corrections and update behavior.

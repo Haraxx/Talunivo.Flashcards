@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-26-bus-metro",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "26 · Bus und Metro",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "ponto de ônibus",
       "translation": "Bushaltestelle",
       "isVocabulary": true,
-      "example": "Este ônibus vai para o centro ou para a praia?",
-      "exampleTranslation": "Fährt dieser Bus ins Zentrum oder zum Strand?"
+      "example": "Onde fica o ponto de ônibus?",
+      "exampleTranslation": "Wo ist die Bushaltestelle?",
+      "explanation": "O ponto de ônibus ist die Bushaltestelle."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Bus",
       "isVocabulary": true,
       "example": "Este ônibus vai para o centro?",
-      "exampleTranslation": "Fährt dieser Bus ins Zentrum?"
+      "exampleTranslation": "Fährt dieser Bus ins Zentrum?",
+      "explanation": "O ônibus hat im Singular und Plural dieselbe Form."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Linie",
       "isVocabulary": true,
       "example": "Qual linha devo pegar?",
-      "exampleTranslation": "Welche Linie soll ich nehmen?"
+      "exampleTranslation": "Welche Linie soll ich nehmen?",
+      "explanation": "A linha; pegar uma linha = eine Linie nehmen."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Fahrkarte",
       "isVocabulary": true,
       "example": "Uma passagem, por favor.",
-      "exampleTranslation": "Eine Fahrkarte, bitte."
+      "exampleTranslation": "Eine Fahrkarte, bitte.",
+      "explanation": "A passagem bezeichnet hier eine Fahrkarte."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Fahrschein",
       "isVocabulary": true,
       "example": "Onde posso comprar o bilhete?",
-      "exampleTranslation": "Wo kann ich den Fahrschein kaufen?"
+      "exampleTranslation": "Wo kann ich den Fahrschein kaufen?",
+      "explanation": "O bilhete bezeichnet hier einen Fahrschein."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Haltestelle",
       "isVocabulary": true,
       "example": "Preciso descer na próxima parada.",
-      "exampleTranslation": "Ich muss an der nächsten Haltestelle aussteigen."
+      "exampleTranslation": "Ich muss an der nächsten Haltestelle aussteigen.",
+      "explanation": "A parada; próxima parada = nächste Haltestelle."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "wechseln",
       "isVocabulary": true,
       "example": "Tenho que trocar de linha?",
-      "exampleTranslation": "Muss ich die Linie wechseln?"
+      "exampleTranslation": "Muss ich die Linie wechseln?",
+      "explanation": "Trocar de linha bedeutet die Linie wechseln."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Metro",
       "isVocabulary": true,
       "example": "O metrô está lotado.",
-      "exampleTranslation": "Die Metro ist überfüllt."
+      "exampleTranslation": "Die Metro ist überfüllt.",
+      "explanation": "O metrô ist die brasilianische Schreibweise für Metro."
     }
   ]
 }

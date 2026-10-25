@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-47-gespraech",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "47 · Kleine Gespräche verbinden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "mas",
       "translation": "aber",
       "isVocabulary": true,
-      "example": "Primeiro vou estudar, depois vou tomar um café.",
-      "exampleTranslation": "Erst werde ich lernen, danach werde ich einen Kaffee trinken."
+      "example": "Quero sair, mas estou cansada.",
+      "exampleTranslation": "Ich möchte ausgehen, aber ich bin müde.",
+      "explanation": "Mas verbindet einen Gegensatz; nicht mit mais, mehr, verwechseln."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "und",
       "isVocabulary": true,
       "example": "Gosto de chá e de suco.",
-      "exampleTranslation": "Ich mag Tee und Saft."
+      "exampleTranslation": "Ich mag Tee und Saft.",
+      "explanation": "E verbindet Wörter oder Satzteile: und."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "oder",
       "isVocabulary": true,
       "example": "Você quer água ou café?",
-      "exampleTranslation": "Möchtest du Wasser oder Kaffee?"
+      "exampleTranslation": "Möchtest du Wasser oder Kaffee?",
+      "explanation": "Ou bietet eine Alternative: oder."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "weil",
       "isVocabulary": true,
       "example": "Estou cansada porque trabalhei muito.",
-      "exampleTranslation": "Ich bin müde, weil ich viel gearbeitet habe."
+      "exampleTranslation": "Ich bin müde, weil ich viel gearbeitet habe.",
+      "explanation": "Porque nennt einen Grund; por que in einer Frage bedeutet warum."
     },
     {
       "id": "karte-05",
@@ -49,8 +53,9 @@
       "expression": "primeiro",
       "translation": "zuerst",
       "isVocabulary": true,
-      "example": "Primeiro vou comer, depois vou sair.",
-      "exampleTranslation": "Erst werde ich essen, danach werde ich ausgehen."
+      "example": "Primeiro vou comer.",
+      "exampleTranslation": "Zuerst werde ich essen.",
+      "explanation": "Primeiro leitet den ersten Schritt ein."
     },
     {
       "id": "karte-05-2",
@@ -58,8 +63,9 @@
       "expression": "depois",
       "translation": "danach",
       "isVocabulary": true,
-      "example": "Primeiro vou comer, depois vou sair.",
-      "exampleTranslation": "Erst werde ich essen, danach werde ich ausgehen."
+      "example": "Depois vou sair.",
+      "exampleTranslation": "Danach werde ich ausgehen.",
+      "explanation": "Depois bezeichnet einen späteren Schritt."
     },
     {
       "id": "karte-06",
@@ -68,7 +74,8 @@
       "translation": "wenn",
       "isVocabulary": true,
       "example": "Se chover, vou ficar em casa.",
-      "exampleTranslation": "Wenn es regnet, werde ich zu Hause bleiben."
+      "exampleTranslation": "Wenn es regnet, werde ich zu Hause bleiben.",
+      "explanation": "Se leitet hier eine Bedingung ein: wenn."
     },
     {
       "id": "karte-07",
@@ -77,7 +84,8 @@
       "translation": "fragen",
       "isVocabulary": true,
       "example": "Não sei, mas posso perguntar.",
-      "exampleTranslation": "Ich weiß es nicht, aber ich kann fragen."
+      "exampleTranslation": "Ich weiß es nicht, aber ich kann fragen.",
+      "explanation": "Posso perguntar = ich kann fragen."
     },
     {
       "id": "karte-08",
@@ -86,7 +94,8 @@
       "translation": "glauben; finden",
       "isVocabulary": true,
       "example": "Acho que sim.",
-      "exampleTranslation": "Ich glaube schon."
+      "exampleTranslation": "Ich glaube schon.",
+      "explanation": "Acho que … bedeutet ich glaube beziehungsweise finde, dass …"
     }
   ]
 }

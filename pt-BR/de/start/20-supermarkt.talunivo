@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-20-supermarkt",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "20 · Im Supermarkt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "supermercado",
       "translation": "Supermarkt",
       "isVocabulary": true,
-      "example": "Preciso de leite, arroz e maçãs.",
-      "exampleTranslation": "Ich brauche Milch, Reis und Äpfel."
+      "example": "Onde fica o supermercado?",
+      "exampleTranslation": "Wo ist der Supermarkt?",
+      "explanation": "O supermercado; Plural supermercados."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Liter",
       "isVocabulary": true,
       "example": "Preciso de um litro de leite.",
-      "exampleTranslation": "Ich brauche einen Liter Milch."
+      "exampleTranslation": "Ich brauche einen Liter Milch.",
+      "explanation": "O litro; um litro de leite = ein Liter Milch."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "halbes Kilo",
       "isVocabulary": true,
       "example": "Quero meio quilo de arroz.",
-      "exampleTranslation": "Ich möchte ein halbes Kilo Reis."
+      "exampleTranslation": "Ich möchte ein halbes Kilo Reis.",
+      "explanation": "Quilo ist männlich, daher meio; vor weiblichen Nomen meia."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Äpfel",
       "isVocabulary": true,
       "example": "As maçãs estão frescas?",
-      "exampleTranslation": "Sind die Äpfel frisch?"
+      "exampleTranslation": "Sind die Äpfel frisch?",
+      "explanation": "Plural von a maçã; das ã gehört zur Schreibweise."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Packung",
       "isVocabulary": true,
       "example": "Quanto custa este pacote?",
-      "exampleTranslation": "Wie viel kostet diese Packung?"
+      "exampleTranslation": "Wie viel kostet diese Packung?",
+      "explanation": "O pacote; Plural pacotes."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Tüte",
       "isVocabulary": true,
       "example": "Tem uma sacola?",
-      "exampleTranslation": "Gibt es eine Tüte?"
+      "exampleTranslation": "Gibt es eine Tüte?",
+      "explanation": "A sacola bezeichnet eine Einkaufstüte."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "brauchen",
       "isVocabulary": true,
       "example": "Não preciso de sacola.",
-      "exampleTranslation": "Ich brauche keine Tüte."
+      "exampleTranslation": "Ich brauche keine Tüte.",
+      "explanation": "Preciso de leite, aber preciso comprar leite: de vor einem Nomen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Kasse",
       "isVocabulary": true,
       "example": "Onde fica o caixa?",
-      "exampleTranslation": "Wo ist die Kasse?"
+      "exampleTranslation": "Wo ist die Kasse?",
+      "explanation": "O caixa bezeichnet hier die Kasse; a caixa bedeutet die Schachtel oder eine Kassiererin."
     }
   ]
 }

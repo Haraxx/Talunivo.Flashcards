@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-06-herkunft",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "06 · Herkunft und Wohnort",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "onde",
       "translation": "wo",
       "isVocabulary": true,
-      "example": "Sou da Alemanha, mas moro no Brasil.",
-      "exampleTranslation": "Ich komme aus Deutschland, aber ich wohne in Brasilien."
+      "example": "De onde você é?",
+      "exampleTranslation": "Woher kommst du?",
+      "explanation": "De onde bedeutet woher; onde allein bedeutet wo."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Deutschland",
       "isVocabulary": true,
       "example": "Eu sou da Alemanha.",
-      "exampleTranslation": "Ich komme aus Deutschland."
+      "exampleTranslation": "Ich komme aus Deutschland.",
+      "explanation": "A Alemanha; da Alemanha = aus Deutschland."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Brasilien",
       "isVocabulary": true,
       "example": "Ela é do Brasil.",
-      "exampleTranslation": "Sie kommt aus Brasilien."
+      "exampleTranslation": "Sie kommt aus Brasilien.",
+      "explanation": "O Brasil; do Brasil = aus Brasilien."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Deutscher",
       "isVocabulary": true,
       "example": "Sou alemão.",
-      "exampleTranslation": "Ich bin Deutscher."
+      "exampleTranslation": "Ich bin Deutscher.",
+      "explanation": "Bezeichnung einer männlichen Person; weiblich alemã."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Brasilianerin",
       "isVocabulary": true,
       "example": "Sou brasileira.",
-      "exampleTranslation": "Ich bin Brasilianerin."
+      "exampleTranslation": "Ich bin Brasilianerin.",
+      "explanation": "Bezeichnung einer weiblichen Person; männlich brasileiro."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "wohnen",
       "isVocabulary": true,
       "example": "Onde você mora?",
-      "exampleTranslation": "Wo wohnst du?"
+      "exampleTranslation": "Wo wohnst du?",
+      "explanation": "Moro = ich wohne; mora = du wohnst bei você."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Berlin",
       "isVocabulary": true,
       "example": "Moro em Berlim.",
-      "exampleTranslation": "Ich wohne in Berlin."
+      "exampleTranslation": "Ich wohne in Berlin.",
+      "explanation": "Bei diesem Städtenamen: em Berlim, ohne Artikel."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Stadt",
       "isVocabulary": true,
       "example": "Moro numa cidade pequena.",
-      "exampleTranslation": "Ich wohne in einer kleinen Stadt."
+      "exampleTranslation": "Ich wohne in einer kleinen Stadt.",
+      "explanation": "A cidade; Plural cidades."
     }
   ]
 }

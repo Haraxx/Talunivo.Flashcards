@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-24-stadt",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "24 · Orte in der Stadt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Apotheke",
       "isVocabulary": true,
       "example": "A farmácia fica na esquina, perto do banco.",
-      "exampleTranslation": "Die Apotheke ist an der Ecke, in der Nähe der Bank."
+      "exampleTranslation": "Die Apotheke ist an der Ecke, in der Nähe der Bank.",
+      "explanation": "A farmácia; der Akut gehört zur Schreibweise."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Bank",
       "isVocabulary": true,
       "example": "Onde fica o banco?",
-      "exampleTranslation": "Wo ist die Bank?"
+      "exampleTranslation": "Wo ist die Bank?",
+      "explanation": "O banco bezeichnet hier die Bank als Geldinstitut; auch Sitzbank möglich."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Bäckerei",
       "isVocabulary": true,
       "example": "A padaria fica na esquina.",
-      "exampleTranslation": "Die Bäckerei ist an der Ecke."
+      "exampleTranslation": "Die Bäckerei ist an der Ecke.",
+      "explanation": "A padaria; Plural padarias."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Platz",
       "isVocabulary": true,
       "example": "O mercado fica em frente à praça.",
-      "exampleTranslation": "Der Markt liegt gegenüber dem Platz."
+      "exampleTranslation": "Der Markt liegt gegenüber dem Platz.",
+      "explanation": "A praça; em frente à praça = gegenüber dem Platz."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Bahnhof; Station",
       "isVocabulary": true,
       "example": "A estação está perto.",
-      "exampleTranslation": "Der Bahnhof ist in der Nähe."
+      "exampleTranslation": "Der Bahnhof ist in der Nähe.",
+      "explanation": "A estação; Plural estações."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Museum",
       "isVocabulary": true,
       "example": "O museu está fechado hoje.",
-      "exampleTranslation": "Das Museum ist heute geschlossen."
+      "exampleTranslation": "Das Museum ist heute geschlossen.",
+      "explanation": "O museu; fechado bedeutet geschlossen."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Strand",
       "isVocabulary": true,
       "example": "A praia fica longe?",
-      "exampleTranslation": "Ist der Strand weit weg?"
+      "exampleTranslation": "Ist der Strand weit weg?",
+      "explanation": "A praia; longe bedeutet weit weg."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Park",
       "isVocabulary": true,
       "example": "Há um parque neste bairro.",
-      "exampleTranslation": "In diesem Viertel gibt es einen Park."
+      "exampleTranslation": "In diesem Viertel gibt es einen Park.",
+      "explanation": "O parque; neste = em este."
     }
   ]
 }

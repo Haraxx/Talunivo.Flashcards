@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-12-alter-beruf",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "12 · Alter und Beruf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "quantos",
       "translation": "wie viele (männlich)",
       "isVocabulary": true,
-      "example": "Tenho vinte anos e sou estudante.",
-      "exampleTranslation": "Ich bin zwanzig Jahre alt und bin Student."
+      "example": "Quantos anos você tem?",
+      "exampleTranslation": "Wie alt bist du?",
+      "explanation": "Männlicher Plural zu quanto; weiblich quantas."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Jahre",
       "isVocabulary": true,
       "example": "Tenho vinte e cinco anos.",
-      "exampleTranslation": "Ich bin fünfundzwanzig Jahre alt."
+      "exampleTranslation": "Ich bin fünfundzwanzig Jahre alt.",
+      "explanation": "O ano, os anos; Alter wird mit ter ausgedrückt: tenho … anos."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Student; Studentin",
       "isVocabulary": true,
       "example": "Sou estudante.",
-      "exampleTranslation": "Ich bin Student."
+      "exampleTranslation": "Ich bin Student.",
+      "explanation": "O estudante oder a estudante; je nach Kontext auch Schüler oder Schülerin."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Lehrerin",
       "isVocabulary": true,
       "example": "Ela é professora.",
-      "exampleTranslation": "Sie ist Lehrerin."
+      "exampleTranslation": "Sie ist Lehrerin.",
+      "explanation": "A professora; männlich o professor."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Arzt",
       "isVocabulary": true,
       "example": "Ele é médico.",
-      "exampleTranslation": "Er ist Arzt."
+      "exampleTranslation": "Er ist Arzt.",
+      "explanation": "O médico; weiblich a médica."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Büro",
       "isVocabulary": true,
       "example": "Trabalho num escritório.",
-      "exampleTranslation": "Ich arbeite in einem Büro."
+      "exampleTranslation": "Ich arbeite in einem Büro.",
+      "explanation": "O escritório; num = em um."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "arbeiten",
       "isVocabulary": true,
       "example": "Onde você trabalha?",
-      "exampleTranslation": "Wo arbeitest du?"
+      "exampleTranslation": "Wo arbeitest du?",
+      "explanation": "Trabalho = ich arbeite; trabalha = du arbeitest bei você."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "noch",
       "isVocabulary": true,
       "example": "Ainda não trabalho.",
-      "exampleTranslation": "Ich arbeite noch nicht."
+      "exampleTranslation": "Ich arbeite noch nicht.",
+      "explanation": "Ainda não bedeutet noch nicht."
     }
   ]
 }

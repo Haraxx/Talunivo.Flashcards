@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-21-obst-gemuese",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "21 · Obst und Gemüse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Orangen",
       "isVocabulary": true,
       "example": "Quero duas laranjas e uma alface.",
-      "exampleTranslation": "Ich möchte zwei Orangen und einen Kopfsalat."
+      "exampleTranslation": "Ich möchte zwei Orangen und einen Kopfsalat.",
+      "explanation": "Plural von a laranja."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Ananas",
       "isVocabulary": true,
       "example": "O abacaxi está maduro.",
-      "exampleTranslation": "Die Ananas ist reif."
+      "exampleTranslation": "Die Ananas ist reif.",
+      "explanation": "O abacaxi ist in Brasilien die übliche Bezeichnung für Ananas."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Mango",
       "isVocabulary": true,
       "example": "Gosto de manga.",
-      "exampleTranslation": "Ich mag Mango."
+      "exampleTranslation": "Ich mag Mango.",
+      "explanation": "A manga bezeichnet hier die Frucht; kann auch Ärmel bedeuten."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Tomaten",
       "isVocabulary": true,
       "example": "Estes tomates estão bonitos.",
-      "exampleTranslation": "Diese Tomaten sehen schön aus."
+      "exampleTranslation": "Diese Tomaten sehen schön aus.",
+      "explanation": "Plural von o tomate."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Kartoffeln",
       "isVocabulary": true,
       "example": "Preciso de batatas.",
-      "exampleTranslation": "Ich brauche Kartoffeln."
+      "exampleTranslation": "Ich brauche Kartoffeln.",
+      "explanation": "Plural von a batata."
     },
     {
       "id": "karte-06",
@@ -58,8 +63,9 @@
       "expression": "cebola",
       "translation": "Zwiebel",
       "isVocabulary": true,
-      "example": "Você tem cebola e alho?",
-      "exampleTranslation": "Hast du Zwiebeln und Knoblauch?"
+      "example": "Preciso de uma cebola.",
+      "exampleTranslation": "Ich brauche eine Zwiebel.",
+      "explanation": "A cebola; als Lebensmittel kann auch der Singular allgemein Zwiebeln meinen."
     },
     {
       "id": "karte-06-2",
@@ -67,8 +73,9 @@
       "expression": "alho",
       "translation": "Knoblauch",
       "isVocabulary": true,
-      "example": "Você tem cebola e alho?",
-      "exampleTranslation": "Hast du Zwiebeln und Knoblauch?"
+      "example": "Você tem alho?",
+      "exampleTranslation": "Hast du Knoblauch?",
+      "explanation": "O alho ist Knoblauch."
     },
     {
       "id": "karte-07",
@@ -77,7 +84,8 @@
       "translation": "Kopfsalat",
       "isVocabulary": true,
       "example": "Quero uma alface pequena.",
-      "exampleTranslation": "Ich möchte einen kleinen Kopfsalat."
+      "exampleTranslation": "Ich möchte einen kleinen Kopfsalat.",
+      "explanation": "A alface ist grammatisch weiblich."
     },
     {
       "id": "karte-08",
@@ -86,7 +94,8 @@
       "translation": "Karotten",
       "isVocabulary": true,
       "example": "Vou levar estas cenouras.",
-      "exampleTranslation": "Ich nehme diese Karotten."
+      "exampleTranslation": "Ich nehme diese Karotten.",
+      "explanation": "Plural von a cenoura."
     }
   ]
 }

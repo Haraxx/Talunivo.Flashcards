@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-34-einladen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "34 · Einladen und Verabreden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Kaffee trinken",
       "isVocabulary": true,
       "example": "Vamos tomar um café no sábado? Você tem tempo?",
-      "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken gehen? Hast du Zeit?"
+      "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken gehen? Hast du Zeit?",
+      "explanation": "Tomar um café ist eine häufige Einladung, einen Kaffee zu trinken."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Kino",
       "isVocabulary": true,
       "example": "Quer ir ao cinema comigo?",
-      "exampleTranslation": "Möchtest du mit mir ins Kino gehen?"
+      "exampleTranslation": "Möchtest du mit mir ins Kino gehen?",
+      "explanation": "O cinema; ir ao cinema = ins Kino gehen."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Zeit",
       "isVocabulary": true,
       "example": "Você tem tempo amanhã?",
-      "exampleTranslation": "Hast du morgen Zeit?"
+      "exampleTranslation": "Hast du morgen Zeit?",
+      "explanation": "O tempo bezeichnet hier verfügbare Zeit; auch Wetter möglich."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Ausflug",
       "isVocabulary": true,
       "example": "Que tal um passeio?",
-      "exampleTranslation": "Wie wäre es mit einem Ausflug?"
+      "exampleTranslation": "Wie wäre es mit einem Ausflug?",
+      "explanation": "O passeio kann je nach Kontext Ausflug oder Spaziergang heißen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "gute Idee",
       "isVocabulary": true,
       "example": "Boa ideia, vamos!",
-      "exampleTranslation": "Gute Idee, gehen wir!"
+      "exampleTranslation": "Gute Idee, gehen wir!",
+      "explanation": "Ideia wird ohne Akut geschrieben."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "können; dürfen",
       "isVocabulary": true,
       "example": "Hoje não posso.",
-      "exampleTranslation": "Heute kann ich nicht."
+      "exampleTranslation": "Heute kann ich nicht.",
+      "explanation": "Posso = ich kann oder darf; não posso = ich kann oder darf nicht."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Samstag",
       "isVocabulary": true,
       "example": "Pode ser no sábado?",
-      "exampleTranslation": "Geht es am Samstag?"
+      "exampleTranslation": "Geht es am Samstag?",
+      "explanation": "No sábado = am Samstag."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "abgemacht",
       "isVocabulary": true,
       "example": "Combinado, até sábado!",
-      "exampleTranslation": "Abgemacht, bis Samstag!"
+      "exampleTranslation": "Abgemacht, bis Samstag!",
+      "explanation": "Feste Zusage zu einer Verabredung."
     }
   ]
 }

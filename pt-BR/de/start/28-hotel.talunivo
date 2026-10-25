@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-28-hotel",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "28 · Ankunft im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Reservierung",
       "isVocabulary": true,
       "example": "Tenho uma reserva para duas pessoas e três noites.",
-      "exampleTranslation": "Ich habe eine Reservierung für zwei Personen und drei Nächte."
+      "exampleTranslation": "Ich habe eine Reservierung für zwei Personen und drei Nächte.",
+      "explanation": "A reserva; para duas pessoas = für zwei Personen."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Zimmer",
       "isVocabulary": true,
       "example": "Quero um quarto para duas pessoas.",
-      "exampleTranslation": "Ich möchte ein Zimmer für zwei Personen."
+      "exampleTranslation": "Ich möchte ein Zimmer für zwei Personen.",
+      "explanation": "O quarto; hier ein Hotelzimmer."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Nächte",
       "isVocabulary": true,
       "example": "Vou ficar três noites.",
-      "exampleTranslation": "Ich werde drei Nächte bleiben."
+      "exampleTranslation": "Ich werde drei Nächte bleiben.",
+      "explanation": "Plural von a noite; ficar três noites = drei Nächte bleiben."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "inbegriffen",
       "isVocabulary": true,
       "example": "O café da manhã está incluído?",
-      "exampleTranslation": "Ist das Frühstück inbegriffen?"
+      "exampleTranslation": "Ist das Frühstück inbegriffen?",
+      "explanation": "Männliche Form; weiblich incluída."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Abreise; Ausgang",
       "isVocabulary": true,
       "example": "A que horas é a saída?",
-      "exampleTranslation": "Um wie viel Uhr ist die Abreise?"
+      "exampleTranslation": "Um wie viel Uhr ist die Abreise?",
+      "explanation": "A saída; hier die Abreise beziehungsweise der Check-out, sonst auch Ausgang."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Reisepass",
       "isVocabulary": true,
       "example": "Aqui está meu passaporte.",
-      "exampleTranslation": "Hier ist mein Reisepass."
+      "exampleTranslation": "Hier ist mein Reisepass.",
+      "explanation": "O passaporte; Plural passaportes."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Schlüssel",
       "isVocabulary": true,
       "example": "Pode me dar a chave do quarto?",
-      "exampleTranslation": "Können Sie mir den Zimmerschlüssel geben?"
+      "exampleTranslation": "Können Sie mir den Zimmerschlüssel geben?",
+      "explanation": "A chave; chave do quarto = Zimmerschlüssel."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Aufzug",
       "isVocabulary": true,
       "example": "Onde fica o elevador?",
-      "exampleTranslation": "Wo ist der Aufzug?"
+      "exampleTranslation": "Wo ist der Aufzug?",
+      "explanation": "O elevador; Plural elevadores."
     }
   ]
 }

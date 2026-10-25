@@ -1,0 +1,41 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 2,
+  "packageId": "cafe-zusatz",
+  "packageVersion": 3,
+  "title": "Noch mehr im Café",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "mesa",
+      "topic": "Im Café",
+      "expression": "mesa livre",
+      "translation": "freier Tisch",
+      "isVocabulary": true,
+      "example": "Tem uma mesa livre?",
+      "exampleTranslation": "Ist ein Tisch frei?",
+      "explanation": "A mesa, Plural mesas; livre bedeutet hier frei oder unbesetzt."
+    },
+    {
+      "id": "conta",
+      "topic": "Bezahlen",
+      "expression": "conta",
+      "translation": "Rechnung",
+      "isVocabulary": true,
+      "example": "A conta, por favor.",
+      "exampleTranslation": "Die Rechnung, bitte.",
+      "explanation": "A conta, Plural contas; hier die Rechnung im Café."
+    },
+    {
+      "id": "sem-acucar",
+      "topic": "Bestellen",
+      "expression": "sem açúcar",
+      "translation": "ohne Zucker",
+      "isVocabulary": true,
+      "example": "Um café sem açúcar, por favor.",
+      "exampleTranslation": "Einen Kaffee ohne Zucker, bitte.",
+      "explanation": "Sem bedeutet ohne; o açúcar ist grammatisch männlich."
+    }
+  ]
+}

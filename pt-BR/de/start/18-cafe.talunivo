@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-18-cafe",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "18 · Im Café",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Tisch",
       "isVocabulary": true,
       "example": "Somos duas pessoas. Tem uma mesa livre?",
-      "exampleTranslation": "Wir sind zwei Personen. Ist ein Tisch frei?"
+      "exampleTranslation": "Wir sind zwei Personen. Ist ein Tisch frei?",
+      "explanation": "A mesa; livre bedeutet hier frei oder unbesetzt."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Personen",
       "isVocabulary": true,
       "example": "Somos duas pessoas.",
-      "exampleTranslation": "Wir sind zwei Personen."
+      "exampleTranslation": "Wir sind zwei Personen.",
+      "explanation": "Plural von a pessoa; duas richtet sich nach dem weiblichen Nomen."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Speisekarte",
       "isVocabulary": true,
       "example": "Posso ver o cardápio?",
-      "exampleTranslation": "Kann ich die Speisekarte sehen?"
+      "exampleTranslation": "Kann ich die Speisekarte sehen?",
+      "explanation": "O cardápio ist in Brasilien die Speisekarte."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Sandwich",
       "isVocabulary": true,
       "example": "Quero um sanduíche de queijo.",
-      "exampleTranslation": "Ich möchte ein Käsesandwich."
+      "exampleTranslation": "Ich möchte ein Käsesandwich.",
+      "explanation": "O sanduíche; de queijo bedeutet mit Käse."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "noch ein",
       "isVocabulary": true,
       "example": "Mais um café, por favor.",
-      "exampleTranslation": "Noch einen Kaffee, bitte."
+      "exampleTranslation": "Noch einen Kaffee, bitte.",
+      "explanation": "Männliche Form; vor weiblichen Nomen mais uma."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "lecker",
       "isVocabulary": true,
       "example": "Está muito gostoso.",
-      "exampleTranslation": "Das schmeckt sehr gut."
+      "exampleTranslation": "Das schmeckt sehr gut.",
+      "explanation": "Männliche Form; weiblich gostosa."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Karte (Zahlung)",
       "isVocabulary": true,
       "example": "Posso pagar com cartão?",
-      "exampleTranslation": "Kann ich mit Karte bezahlen?"
+      "exampleTranslation": "Kann ich mit Karte bezahlen?",
+      "explanation": "O cartão; hier eine Zahlungskarte."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "Rechnung",
       "isVocabulary": true,
       "example": "Pode trazer a conta?",
-      "exampleTranslation": "Kannst du die Rechnung bringen?"
+      "exampleTranslation": "Kannst du die Rechnung bringen?",
+      "explanation": "A conta bezeichnet hier die Rechnung im Café."
     }
   ]
 }

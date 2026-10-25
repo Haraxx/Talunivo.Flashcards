@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-30-tagesablauf",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "30 · Mein Tagesablauf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "aufwachen",
       "isVocabulary": true,
       "example": "Acordo às sete e almoço ao meio-dia.",
-      "exampleTranslation": "Ich wache um sieben auf und esse um zwölf Uhr mittags zu Mittag."
+      "exampleTranslation": "Ich wache um sieben auf und esse um zwölf Uhr mittags zu Mittag.",
+      "explanation": "Acordo = ich wache auf; aufstehen heißt levantar."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "aufstehen",
       "isVocabulary": true,
       "example": "Levanto cedo.",
-      "exampleTranslation": "Ich stehe früh auf."
+      "exampleTranslation": "Ich stehe früh auf.",
+      "explanation": "Levanto = ich stehe auf; reflexiv auch me levanto."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "duschen; baden",
       "isVocabulary": true,
       "example": "Tomo banho de manhã.",
-      "exampleTranslation": "Ich dusche morgens."
+      "exampleTranslation": "Ich dusche morgens.",
+      "explanation": "In Brasilien übliche Wendung für duschen oder baden."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "putzen; bürsten",
       "isVocabulary": true,
       "example": "Escovo os dentes.",
-      "exampleTranslation": "Ich putze mir die Zähne."
+      "exampleTranslation": "Ich putze mir die Zähne.",
+      "explanation": "Escovar os dentes = die Zähne putzen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "zu Mittag essen",
       "isVocabulary": true,
       "example": "Almoço ao meio-dia.",
-      "exampleTranslation": "Ich esse um zwölf Uhr mittags zu Mittag."
+      "exampleTranslation": "Ich esse um zwölf Uhr mittags zu Mittag.",
+      "explanation": "Almoço ist hier die Verbform ich esse zu Mittag."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "zurückkommen",
       "isVocabulary": true,
       "example": "Volto para casa às seis.",
-      "exampleTranslation": "Ich komme um sechs nach Hause zurück."
+      "exampleTranslation": "Ich komme um sechs nach Hause zurück.",
+      "explanation": "Volto = ich komme zurück; para casa = nach Hause."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "zu Abend essen",
       "isVocabulary": true,
       "example": "Janto com minha família.",
-      "exampleTranslation": "Ich esse mit meiner Familie zu Abend."
+      "exampleTranslation": "Ich esse mit meiner Familie zu Abend.",
+      "explanation": "Janto = ich esse zu Abend."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "schlafen",
       "isVocabulary": true,
       "example": "Vou dormir às dez da noite.",
-      "exampleTranslation": "Ich gehe um zehn Uhr abends schlafen."
+      "exampleTranslation": "Ich gehe um zehn Uhr abends schlafen.",
+      "explanation": "Vou dormir = ich gehe schlafen."
     }
   ]
 }

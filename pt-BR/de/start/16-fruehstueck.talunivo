@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-16-fruehstueck",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "16 · Frühstück",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "Brot",
       "isVocabulary": true,
       "example": "De manhã, como pão com manteiga e uma banana.",
-      "exampleTranslation": "Morgens esse ich Brot mit Butter und eine Banane."
+      "exampleTranslation": "Morgens esse ich Brot mit Butter und eine Banane.",
+      "explanation": "O pão; Plural pães. Kann im Bestellkontext auch ein Brötchen sein."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "Käse",
       "isVocabulary": true,
       "example": "Tem queijo?",
-      "exampleTranslation": "Gibt es Käse?"
+      "exampleTranslation": "Gibt es Käse?",
+      "explanation": "O queijo; com queijo = mit Käse."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Banane",
       "isVocabulary": true,
       "example": "Eu como uma banana.",
-      "exampleTranslation": "Ich esse eine Banane."
+      "exampleTranslation": "Ich esse eine Banane.",
+      "explanation": "A banana; Plural bananas."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "Eier",
       "isVocabulary": true,
       "example": "Gosto de ovos.",
-      "exampleTranslation": "Ich mag Eier."
+      "exampleTranslation": "Ich mag Eier.",
+      "explanation": "Plural von o ovo: das Ei."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Milch",
       "isVocabulary": true,
       "example": "Bebo leite de manhã.",
-      "exampleTranslation": "Ich trinke morgens Milch."
+      "exampleTranslation": "Ich trinke morgens Milch.",
+      "explanation": "O leite ist grammatisch männlich."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Frühstück",
       "isVocabulary": true,
       "example": "O café da manhã está pronto.",
-      "exampleTranslation": "Das Frühstück ist fertig."
+      "exampleTranslation": "Das Frühstück ist fertig.",
+      "explanation": "O café da manhã ist die brasilianische Bezeichnung für Frühstück."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Zucker",
       "isVocabulary": true,
       "example": "Não quero açúcar.",
-      "exampleTranslation": "Ich möchte keinen Zucker."
+      "exampleTranslation": "Ich möchte keinen Zucker.",
+      "explanation": "O açúcar ist grammatisch männlich; sem açúcar = ohne Zucker."
     },
     {
       "id": "karte-08",
@@ -76,8 +83,9 @@
       "expression": "fruta",
       "translation": "Frucht",
       "isVocabulary": true,
-      "example": "Prefiro uma fruta.",
-      "exampleTranslation": "Ich hätte lieber eine Frucht."
+      "example": "Quero comer uma fruta.",
+      "exampleTranslation": "Ich möchte ein Stück Obst essen.",
+      "explanation": "A fruta; umgangssprachlich ist auch ein Stück Obst gemeint."
     }
   ]
 }

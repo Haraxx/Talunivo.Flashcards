@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-33-freizeit",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "33 · Freizeit und Hobbys",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -14,7 +14,8 @@
       "translation": "lesen",
       "isVocabulary": true,
       "example": "No tempo livre, leio e ouço música.",
-      "exampleTranslation": "In meiner Freizeit lese ich und höre Musik."
+      "exampleTranslation": "In meiner Freizeit lese ich und höre Musik.",
+      "explanation": "Leio ist die Form ich lese."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "hören",
       "isVocabulary": true,
       "example": "Ouço música no ônibus.",
-      "exampleTranslation": "Ich höre im Bus Musik."
+      "exampleTranslation": "Ich höre im Bus Musik.",
+      "explanation": "Ouço ist die Form ich höre."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "Filme",
       "isVocabulary": true,
       "example": "Assisto a filmes em casa.",
-      "exampleTranslation": "Ich schaue zu Hause Filme."
+      "exampleTranslation": "Ich schaue zu Hause Filme.",
+      "explanation": "Plural von o filme."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "spielen (Sport)",
       "isVocabulary": true,
       "example": "Jogo futebol aos sábados.",
-      "exampleTranslation": "Ich spiele samstags Fußball."
+      "exampleTranslation": "Ich spiele samstags Fußball.",
+      "explanation": "Jogar wird für Ballspiele und Spiele verwendet; ein Instrument spielen heißt tocar."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "Spaziergang",
       "isVocabulary": true,
       "example": "Faço uma caminhada no parque.",
-      "exampleTranslation": "Ich gehe im Park spazieren."
+      "exampleTranslation": "Ich gehe im Park spazieren.",
+      "explanation": "A caminhada; fazer uma caminhada = spazieren gehen."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Fotos",
       "isVocabulary": true,
       "example": "Tiro fotos da cidade.",
-      "exampleTranslation": "Ich fotografiere die Stadt."
+      "exampleTranslation": "Ich fotografiere die Stadt.",
+      "explanation": "Plural von a foto; tirar fotos = fotografieren."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "schwimmen",
       "isVocabulary": true,
       "example": "Gosto de nadar no mar.",
-      "exampleTranslation": "Ich schwimme gern im Meer."
+      "exampleTranslation": "Ich schwimme gern im Meer.",
+      "explanation": "Nadar no mar bedeutet im Meer schwimmen."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "zeichnen",
       "isVocabulary": true,
       "example": "No tempo livre, desenho.",
-      "exampleTranslation": "In meiner Freizeit zeichne ich."
+      "exampleTranslation": "In meiner Freizeit zeichne ich.",
+      "explanation": "Desenho ist die Form ich zeichne."
     }
   ]
 }

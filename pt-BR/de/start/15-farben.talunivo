@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-15-farben",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "15 · Farben und Beschreibungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "branco",
       "translation": "weiß",
       "isVocabulary": true,
-      "example": "Quero uma camisa branca e uma bolsa preta.",
-      "exampleTranslation": "Ich möchte ein weißes Hemd und eine schwarze Tasche."
+      "example": "O carro é branco.",
+      "exampleTranslation": "Das Auto ist weiß.",
+      "explanation": "Männliche Form; weiblich branca."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "schwarz",
       "isVocabulary": true,
       "example": "O sapato é preto.",
-      "exampleTranslation": "Der Schuh ist schwarz."
+      "exampleTranslation": "Der Schuh ist schwarz.",
+      "explanation": "Männliche Form; weiblich preta."
     },
     {
       "id": "karte-03",
@@ -31,8 +33,9 @@
       "expression": "vermelho",
       "translation": "rot",
       "isVocabulary": true,
-      "example": "Quero a bolsa vermelha.",
-      "exampleTranslation": "Ich möchte die rote Tasche."
+      "example": "O vestido é vermelho.",
+      "exampleTranslation": "Das Kleid ist rot.",
+      "explanation": "Männliche Form; weiblich vermelha."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "blau",
       "isVocabulary": true,
       "example": "O céu está azul.",
-      "exampleTranslation": "Der Himmel ist blau."
+      "exampleTranslation": "Der Himmel ist blau.",
+      "explanation": "Für beide Genera gleich; Plural azuis."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "grün",
       "isVocabulary": true,
       "example": "A parede é verde.",
-      "exampleTranslation": "Die Wand ist grün."
+      "exampleTranslation": "Die Wand ist grün.",
+      "explanation": "Für beide Genera gleich; Plural verdes."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "gelb",
       "isVocabulary": true,
       "example": "O vestido é amarelo.",
-      "exampleTranslation": "Das Kleid ist gelb."
+      "exampleTranslation": "Das Kleid ist gelb.",
+      "explanation": "Männliche Form; weiblich amarela."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "neu",
       "isVocabulary": true,
       "example": "Este livro é novo.",
-      "exampleTranslation": "Dieses Buch ist neu."
+      "exampleTranslation": "Dieses Buch ist neu.",
+      "explanation": "Männliche Form; weiblich nova."
     },
     {
       "id": "karte-08",
@@ -76,8 +83,9 @@
       "expression": "grande",
       "translation": "groß",
       "isVocabulary": true,
-      "example": "A mesa é grande, mas a cadeira é pequena.",
-      "exampleTranslation": "Der Tisch ist groß, aber der Stuhl ist klein."
+      "example": "A mesa é grande.",
+      "exampleTranslation": "Der Tisch ist groß.",
+      "explanation": "Für beide Genera gleich; Plural grandes."
     },
     {
       "id": "karte-08-2",
@@ -85,8 +93,9 @@
       "expression": "pequeno",
       "translation": "klein",
       "isVocabulary": true,
-      "example": "A mesa é grande, mas a cadeira é pequena.",
-      "exampleTranslation": "Der Tisch ist groß, aber der Stuhl ist klein."
+      "example": "Meu quarto é pequeno.",
+      "exampleTranslation": "Mein Zimmer ist klein.",
+      "explanation": "Männliche Form; weiblich pequena."
     }
   ]
 }

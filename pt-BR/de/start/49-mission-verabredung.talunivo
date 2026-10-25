@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-49-mission-verabredung",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "49 · Mini-Dialog: Einen Ausflug planen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "livre",
       "translation": "frei",
       "isVocabulary": true,
-      "example": "Vamos sair às nove e nos encontrar na frente da padaria.",
-      "exampleTranslation": "Wir werden um neun losgehen und uns vor der Bäckerei treffen."
+      "example": "Você está livre amanhã?",
+      "exampleTranslation": "Hast du morgen Zeit?",
+      "explanation": "Livre bedeutet hier zeitlich frei."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "vormittags",
       "isVocabulary": true,
       "example": "Sim, estou livre de manhã.",
-      "exampleTranslation": "Ja, vormittags habe ich Zeit."
+      "exampleTranslation": "Ja, vormittags habe ich Zeit.",
+      "explanation": "De manhã kann morgens oder vormittags heißen."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "besuchen",
       "isVocabulary": true,
       "example": "Vamos visitar o parque novo?",
-      "exampleTranslation": "Wollen wir den neuen Park besuchen?"
+      "exampleTranslation": "Wollen wir den neuen Park besuchen?",
+      "explanation": "Visitar um parque = einen Park besuchen."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "losgehen",
       "isVocabulary": true,
       "example": "Claro! A que horas vamos sair?",
-      "exampleTranslation": "Klar! Um wie viel Uhr gehen wir los?"
+      "exampleTranslation": "Klar! Um wie viel Uhr gehen wir los?",
+      "explanation": "Hier losgehen; je nach Kontext auch weggehen oder ausgehen."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "neun",
       "isVocabulary": true,
       "example": "Podemos sair às nove.",
-      "exampleTranslation": "Wir können um neun losgehen."
+      "exampleTranslation": "Wir können um neun losgehen.",
+      "explanation": "Nove steht für 9; às nove = um neun Uhr."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "sich treffen",
       "isVocabulary": true,
       "example": "Onde vamos nos encontrar?",
-      "exampleTranslation": "Wo werden wir uns treffen?"
+      "exampleTranslation": "Wo werden wir uns treffen?",
+      "explanation": "Nos encontrar = uns treffen; die Grundform ist encontrar-se."
     },
     {
       "id": "karte-07",
@@ -68,7 +74,8 @@
       "translation": "Ecke",
       "isVocabulary": true,
       "example": "Na frente da padaria da esquina.",
-      "exampleTranslation": "Vor der Bäckerei an der Ecke."
+      "exampleTranslation": "Vor der Bäckerei an der Ecke.",
+      "explanation": "A esquina ist eine Straßenecke."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,8 @@
       "translation": "mitnehmen",
       "isVocabulary": true,
       "example": "Ótimo, vou levar água para nós.",
-      "exampleTranslation": "Prima, ich werde Wasser für uns mitnehmen."
+      "exampleTranslation": "Prima, ich werde Wasser für uns mitnehmen.",
+      "explanation": "Levar água = Wasser mitnehmen."
     }
   ]
 }

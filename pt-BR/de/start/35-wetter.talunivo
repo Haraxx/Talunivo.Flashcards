@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-35-wetter",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "35 · Wetter und Jahreszeiten",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,8 +13,9 @@
       "expression": "tempo",
       "translation": "Wetter",
       "isVocabulary": true,
-      "example": "Hoje está quente, mas amanhã vai chover.",
-      "exampleTranslation": "Heute ist es heiß, aber morgen wird es regnen."
+      "example": "Como está o tempo hoje?",
+      "exampleTranslation": "Wie ist das Wetter heute?",
+      "explanation": "O tempo bezeichnet hier das Wetter; auch Zeit möglich."
     },
     {
       "id": "karte-02",
@@ -23,7 +24,8 @@
       "translation": "heiß",
       "isVocabulary": true,
       "example": "Hoje está quente.",
-      "exampleTranslation": "Heute ist es heiß."
+      "exampleTranslation": "Heute ist es heiß.",
+      "explanation": "Quente ist für beide Genera gleich."
     },
     {
       "id": "karte-03",
@@ -32,7 +34,8 @@
       "translation": "kalt",
       "isVocabulary": true,
       "example": "Está fazendo frio.",
-      "exampleTranslation": "Es ist kalt."
+      "exampleTranslation": "Es ist kalt.",
+      "explanation": "Männliche Form; weiblich fria."
     },
     {
       "id": "karte-04",
@@ -41,7 +44,8 @@
       "translation": "regnen",
       "isVocabulary": true,
       "example": "Está chovendo muito.",
-      "exampleTranslation": "Es regnet stark."
+      "exampleTranslation": "Es regnet stark.",
+      "explanation": "Chovendo bezeichnet den laufenden Vorgang: es regnet."
     },
     {
       "id": "karte-05",
@@ -50,7 +54,8 @@
       "translation": "bewölkt",
       "isVocabulary": true,
       "example": "O céu está nublado.",
-      "exampleTranslation": "Der Himmel ist bewölkt."
+      "exampleTranslation": "Der Himmel ist bewölkt.",
+      "explanation": "Männliche Form; weiblich nublada."
     },
     {
       "id": "karte-06",
@@ -59,7 +64,8 @@
       "translation": "Wind",
       "isVocabulary": true,
       "example": "Tem muito vento hoje.",
-      "exampleTranslation": "Heute ist es sehr windig."
+      "exampleTranslation": "Heute ist es sehr windig.",
+      "explanation": "O vento; tem muito vento = es ist sehr windig."
     },
     {
       "id": "karte-07",
@@ -67,8 +73,9 @@
       "expression": "verão",
       "translation": "Sommer",
       "isVocabulary": true,
-      "example": "No verão, os dias são longos.",
-      "exampleTranslation": "Im Sommer sind die Tage lang."
+      "example": "No verão, gosto de ir à praia.",
+      "exampleTranslation": "Im Sommer gehe ich gern an den Strand.",
+      "explanation": "O verão; no verão = im Sommer."
     },
     {
       "id": "karte-08",
@@ -77,7 +84,28 @@
       "translation": "Winter",
       "isVocabulary": true,
       "example": "No inverno, uso um casaco.",
-      "exampleTranslation": "Im Winter trage ich einen Mantel."
+      "exampleTranslation": "Im Winter trage ich einen Mantel.",
+      "explanation": "O inverno; no inverno = im Winter."
+    },
+    {
+      "id": "karte-09",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "primavera",
+      "translation": "Frühling",
+      "isVocabulary": true,
+      "example": "Na primavera, gosto de caminhar no parque.",
+      "exampleTranslation": "Im Frühling gehe ich gern im Park spazieren.",
+      "explanation": "A primavera; na primavera = im Frühling."
+    },
+    {
+      "id": "karte-10",
+      "topic": "Wetter und Jahreszeiten",
+      "expression": "outono",
+      "translation": "Herbst",
+      "isVocabulary": true,
+      "example": "No outono, gosto de tomar chá.",
+      "exampleTranslation": "Im Herbst trinke ich gern Tee.",
+      "explanation": "O outono; no outono = im Herbst. Jahreszeiten sind regional unterschiedlich ausgeprägt."
     }
   ]
 }
