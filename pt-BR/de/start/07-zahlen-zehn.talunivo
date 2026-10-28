@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-07-zahlen-zehn",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "07 · Zahlen von null bis zehn",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "A temperatura está em zero grau.",
       "exampleTranslation": "Die Temperatur liegt bei null Grad.",
-      "explanation": "Zero steht für die Zahl 0."
+      "explanation": "Zero steht für 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer heißt 0 ebenfalls zero."
     },
     {
       "id": "karte-01-2",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Quero um café, por favor.",
       "exampleTranslation": "Ich möchte einen Kaffee, bitte.",
-      "explanation": "Um steht für 1; vor weiblichen Nomen uma."
+      "explanation": "Um steht beim Zählen für eins. Vor einem männlichen Nomen: um café; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz."
     },
     {
       "id": "karte-01-3",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Tenho dois livros.",
       "exampleTranslation": "Ich habe zwei Bücher.",
-      "explanation": "Dois steht für 2; vor weiblichen Nomen duas."
+      "explanation": "Dois steht für 2 vor männlichen Nomen: dois livros = zwei Bücher. Vor weiblichen Nomen heißt es duas, etwa duas pessoas. Tenho bedeutet ich habe."
     },
     {
       "id": "karte-02",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Tenho três canetas.",
       "exampleTranslation": "Ich habe drei Stifte.",
-      "explanation": "Três steht für 3 und trägt einen Zirkumflex."
+      "explanation": "Três steht für 3. Die Form ist bei männlichen und weiblichen Nomen gleich. Três canetas bedeutet drei Stifte; der Zirkumflex in três gehört zur Schreibweise."
     },
     {
       "id": "karte-02-2",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "São quatro pessoas.",
       "exampleTranslation": "Es sind vier Personen.",
-      "explanation": "Quatro steht für 4 und bleibt vor Nomen unverändert."
+      "explanation": "Quatro steht für 4 und verändert sich vor männlichen oder weiblichen Nomen nicht. São quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa."
     },
     {
       "id": "karte-02-3",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Quero cinco maçãs.",
       "exampleTranslation": "Ich möchte fünf Äpfel.",
-      "explanation": "Cinco steht für 5."
+      "explanation": "Cinco steht für 5. Quero cinco maçãs heißt ich möchte fünf Äpfel. Maçãs ist die Mehrzahl von maçã; die Zahl cinco bleibt unverändert."
     },
     {
       "id": "karte-03",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Tenho seis livros.",
       "exampleTranslation": "Ich habe sechs Bücher.",
-      "explanation": "Seis steht für 6; nicht mit sete verwechseln."
+      "explanation": "Seis steht für 6: seis livros = sechs Bücher. Sete steht dagegen für 7. Die Form seis bleibt vor männlichen und weiblichen Nomen gleich."
     },
     {
       "id": "karte-03-2",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "A semana tem sete dias.",
       "exampleTranslation": "Die Woche hat sieben Tage.",
-      "explanation": "Sete steht für 7."
+      "explanation": "Sete steht für 7. A semana heißt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag."
     },
     {
       "id": "karte-03-3",
@@ -95,7 +95,7 @@
       "isVocabulary": true,
       "example": "São oito reais.",
       "exampleTranslation": "Das macht acht Reais.",
-      "explanation": "Oito steht für 8."
+      "explanation": "Oito steht für 8. Bei einem Preis bedeutet São oito reais: Das macht acht Reais. Reais ist die Mehrzahl der Währung real; der Betrag ist nur ein Lernbeispiel."
     },
     {
       "id": "karte-04",
@@ -105,7 +105,7 @@
       "isVocabulary": true,
       "example": "Tenho nove moedas.",
       "exampleTranslation": "Ich habe neun Münzen.",
-      "explanation": "Nove steht für 9."
+      "explanation": "Nove steht für 9. Moedas sind Münzen; nove moedas bedeutet neun Münzen. Die Zahl verändert sich vor männlichen und weiblichen Nomen nicht."
     },
     {
       "id": "karte-04-2",
@@ -113,9 +113,9 @@
       "expression": "dez",
       "translation": "zehn",
       "isVocabulary": true,
-      "example": "Tenho dez dedos nas mãos.",
-      "exampleTranslation": "Ich habe zehn Finger an den Händen.",
-      "explanation": "Dez steht für 10."
+      "example": "Tenho dez livros.",
+      "exampleTranslation": "Ich habe zehn Bücher.",
+      "explanation": "Dez steht für 10. Tenho dez livros heißt ich habe zehn Bücher. Dez bleibt unverändert; nicht mit dois = zwei verwechseln."
     },
     {
       "id": "karte-05",
@@ -125,7 +125,7 @@
       "isVocabulary": true,
       "example": "Tem uma pessoa na sala.",
       "exampleTranslation": "Im Wohnzimmer ist eine Person.",
-      "explanation": "A pessoa ist grammatisch weiblich, unabhängig von der bezeichneten Person."
+      "explanation": "A pessoa, Plural pessoas. Das portugiesische Nomen ist grammatisch weiblich, unabhängig von der bezeichneten Person: uma pessoa, duas pessoas. Na sala bedeutet hier im Wohnzimmer."
     },
     {
       "id": "karte-06",
@@ -135,7 +135,7 @@
       "isVocabulary": true,
       "example": "Tem duas mesas livres.",
       "exampleTranslation": "Es sind zwei Tische frei.",
-      "explanation": "Weibliche Form von dois; der Genus richtet sich nach dem portugiesischen Nomen."
+      "explanation": "Duas ist die weibliche Form der Zahl 2. A mesa ist im Portugiesischen weiblich, daher duas mesas; das deutsche Wort Tisch ist dafür nicht maßgeblich. Livres bedeutet hier frei."
     },
     {
       "id": "karte-07",
@@ -145,7 +145,7 @@
       "isVocabulary": true,
       "example": "Meu irmão mora aqui.",
       "exampleTranslation": "Mein Bruder wohnt hier.",
-      "explanation": "O irmão; Plural irmãos kann auch gemischte Geschwister bezeichnen."
+      "explanation": "O irmão, Plural irmãos. Meu irmão heißt mein Bruder; mora aqui bedeutet wohnt hier. Irmãos kann je nach Kontext Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen."
     },
     {
       "id": "karte-08",
@@ -155,7 +155,7 @@
       "isVocabulary": true,
       "example": "Um pão custa um real.",
       "exampleTranslation": "Ein Brot kostet einen Real.",
-      "explanation": "O real; Plural reais. Bei Preisen: um real, dois reais."
+      "explanation": "O real ist hier die brasilianische Währung; die Mehrzahl heißt reais. Bei Preisen: um real, dois reais. Custa bedeutet kostet. Der Beispielsatz ist keine aktuelle Preisangabe."
     }
   ]
 }

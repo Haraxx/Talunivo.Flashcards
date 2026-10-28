@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-10-kalender",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "10 · Wochentage und Datum",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "segunda-feira",
       "translation": "Montag",
       "isVocabulary": true,
-      "example": "Hoje é segunda-feira, primeiro de junho.",
-      "exampleTranslation": "Heute ist Montag, der erste Juni.",
-      "explanation": "Wochentage werden kleingeschrieben; na segunda-feira = am Montag."
+      "example": "Hoje é segunda-feira.",
+      "exampleTranslation": "Heute ist Montag.",
+      "explanation": "Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje é segunda-feira nennt den Wochentag; na segunda-feira heißt am Montag."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Amanhã é terça-feira.",
       "exampleTranslation": "Morgen ist Dienstag.",
-      "explanation": "Na terça-feira = am Dienstag."
+      "explanation": "Terça-feira ist Dienstag; amanhã bedeutet morgen. Na terça-feira heißt am Dienstag. Das ç in terça und die Tilde in amanhã gehören zur Schreibweise."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "quarta-feira",
       "translation": "Mittwoch",
       "isVocabulary": true,
-      "example": "A reunião é na quarta-feira.",
-      "exampleTranslation": "Die Besprechung ist am Mittwoch.",
-      "explanation": "Na quarta-feira = am Mittwoch."
+      "example": "A aula é na quarta-feira.",
+      "exampleTranslation": "Der Unterricht ist am Mittwoch.",
+      "explanation": "Quarta-feira ist Mittwoch. Na entsteht aus em + a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Trabalho na quinta-feira.",
       "exampleTranslation": "Ich arbeite am Donnerstag.",
-      "explanation": "Na quinta-feira = am Donnerstag; kurz auch na quinta."
+      "explanation": "Quinta-feira ist Donnerstag. Trabalho heißt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebräuchlich."
     },
     {
       "id": "karte-04-2",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "A aula é na sexta-feira.",
       "exampleTranslation": "Der Unterricht ist am Freitag.",
-      "explanation": "Na sexta-feira = am Freitag; kurz auch na sexta."
+      "explanation": "Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta möglich. Nicht mit quinta-feira = Donnerstag verwechseln."
     },
     {
       "id": "karte-05",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "No sábado, vou ao parque.",
       "exampleTranslation": "Am Samstag gehe ich in den Park.",
-      "explanation": "No sábado = am Samstag."
+      "explanation": "Sábado ist Samstag und trägt einen Akut. No entsteht aus em + o: no sábado = am Samstag. Vou ao parque heißt hier ich gehe in den Park."
     },
     {
       "id": "karte-05-2",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "No domingo, fico em casa.",
       "exampleTranslation": "Am Sonntag bleibe ich zu Hause.",
-      "explanation": "No domingo = am Sonntag."
+      "explanation": "Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa heißt ich bleibe zu Hause. Für Samstag und Sonntag steht hier no, für segunda-feira bis sexta-feira na."
     },
     {
       "id": "karte-06",
@@ -83,9 +83,9 @@
       "expression": "dia",
       "translation": "Tag",
       "isVocabulary": true,
-      "example": "Que dia é hoje?",
-      "exampleTranslation": "Welches Datum haben wir heute?",
-      "explanation": "O dia ist trotz der Endung -a männlich; hier wird nach dem Datum gefragt."
+      "example": "Hoje é dia dez de maio.",
+      "exampleTranslation": "Heute ist der zehnte Mai.",
+      "explanation": "O dia, Plural dias, ist männlich. Dia dez de maio bedeutet der zehnte Mai. Que dia é hoje? kann je nach Gespräch Datum oder Wochentag erfragen; ein eindeutiger Kontext ist deshalb nötig."
     },
     {
       "id": "karte-07",
@@ -95,7 +95,7 @@
       "isVocabulary": true,
       "example": "Hoje é primeiro de maio.",
       "exampleTranslation": "Heute ist der erste Mai.",
-      "explanation": "Monatsnamen werden kleingeschrieben; primeiro de maio = erster Mai."
+      "explanation": "Maio ist Mai; portugiesische Monatsnamen werden kleingeschrieben. Primeiro de maio heißt erster Mai. Den ersten Tag eines Monats benennt man hier mit primeiro; dia dez de maio verwendet dagegen die Zahl dez."
     },
     {
       "id": "karte-08",
@@ -105,7 +105,7 @@
       "isVocabulary": true,
       "example": "Meu aniversário é em junho.",
       "exampleTranslation": "Mein Geburtstag ist im Juni.",
-      "explanation": "Em junho = im Juni; der Monat wird kleingeschrieben."
+      "explanation": "Junho ist Juni; em junho bedeutet im Juni. Meu aniversário heißt mein Geburtstag. Verwechsle junho = Juni nicht mit dem folgenden Monat julho = Juli; dieser wird hier nur zur Abgrenzung genannt."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-49-mission-verabredung",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "49 · Mini-Dialog: Einen Ausflug planen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Você está livre amanhã?",
       "exampleTranslation": "Hast du morgen Zeit?",
-      "explanation": "Livre bedeutet hier zeitlich frei."
+      "explanation": "Livre heißt hier zeitlich frei oder verfügbar. Die Form bleibt für männlichen und weiblichen Bezug gleich; im Plural heißt sie livres. Amanhã fragt nach morgen, noch ohne eine genaue Uhrzeit."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "de manhã",
       "translation": "vormittags",
       "isVocabulary": true,
-      "example": "Sim, estou livre de manhã.",
-      "exampleTranslation": "Ja, vormittags habe ich Zeit.",
-      "explanation": "De manhã kann morgens oder vormittags heißen."
+      "example": "Sim, estou livre amanhã de manhã.",
+      "exampleTranslation": "Ja, morgen Vormittag habe ich Zeit.",
+      "explanation": "De manhã bedeutet morgens oder vormittags. Amanhã de manhã heißt morgen früh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim bestätigt die verfügbare Zeit."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Vamos visitar o parque novo?",
       "exampleTranslation": "Wollen wir den neuen Park besuchen?",
-      "explanation": "Visitar um parque = einen Park besuchen."
+      "explanation": "Visitar heißt besuchen. Vamos + Infinitiv mit Frageintonation schlägt hier eine gemeinsame Handlung vor. Novo passt zum männlichen parque; der Park ist ein erfundener Gesprächsbezug, kein benannter realer Ort."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "sair",
       "translation": "losgehen",
       "isVocabulary": true,
-      "example": "Claro! A que horas vamos sair?",
-      "exampleTranslation": "Klar! Um wie viel Uhr gehen wir los?",
-      "explanation": "Hier losgehen; je nach Kontext auch weggehen oder ausgehen."
+      "example": "A que horas vamos sair?",
+      "exampleTranslation": "Um wie viel Uhr gehen wir los?",
+      "explanation": "Sair bedeutet hier losgehen oder aufbrechen. A que horas …? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen mögliche Bedeutungen von sair."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Podemos sair às nove.",
       "exampleTranslation": "Wir können um neun losgehen.",
-      "explanation": "Nove steht für 9; às nove = um neun Uhr."
+      "explanation": "Nove ist die Zahl neun; às nove bedeutet um neun Uhr. Podemos ist die Wir-Form von poder. Im Zusammenhang mit amanhã de manhã ist hier neun Uhr am Morgen gemeint; der einzelne Satz allein nennt keinen Tagesabschnitt."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Onde vamos nos encontrar?",
       "exampleTranslation": "Wo werden wir uns treffen?",
-      "explanation": "Nos encontrar = uns treffen; die Grundform ist encontrar-se."
+      "explanation": "Encontrar-se heißt hier sich treffen. Nos encontrar bedeutet im Satz uns treffen; nos bezieht sich auf wir. Onde fragt nach dem Ort. Encontrar ohne diesen gegenseitigen Bezug kann auch finden bedeuten, wie bei der Suche nach einem Gegenstand."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "esquina",
       "translation": "Ecke",
       "isVocabulary": true,
-      "example": "Na frente da padaria da esquina.",
-      "exampleTranslation": "Vor der Bäckerei an der Ecke.",
-      "explanation": "A esquina ist eine Straßenecke."
+      "example": "Vamos nos encontrar na esquina da padaria.",
+      "exampleTranslation": "Wir werden uns an der Ecke bei der Bäckerei treffen.",
+      "explanation": "A esquina, Plural esquinas, ist eine Straßenecke. Na verbindet em + a, da verbindet de + a. Na esquina da padaria nennt hier die Ecke bei der im Gespräch bekannten Bäckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "levar",
       "translation": "mitnehmen",
       "isVocabulary": true,
-      "example": "Ótimo, vou levar água para nós.",
-      "exampleTranslation": "Prima, ich werde Wasser für uns mitnehmen.",
-      "explanation": "Levar água = Wasser mitnehmen."
+      "example": "Vou levar água para nós.",
+      "exampleTranslation": "Ich werde Wasser für uns mitnehmen.",
+      "explanation": "Levar heißt hier mitnehmen. Vou levar kündigt meine Handlung an; para nós bedeutet für uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge."
     }
   ]
 }

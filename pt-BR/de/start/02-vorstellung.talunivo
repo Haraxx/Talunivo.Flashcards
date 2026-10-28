@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-02-vorstellung",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "02 · Name und Vorstellung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "nome",
       "translation": "Name",
       "isVocabulary": true,
-      "example": "Meu nome é Lucas. E o seu?",
-      "exampleTranslation": "Mein Name ist Lucas. Und deiner?",
-      "explanation": "O nome; Plural nomes."
+      "example": "Meu nome é Ana.",
+      "exampleTranslation": "Mein Name ist Ana.",
+      "explanation": "O nome, Plural nomes. Meu nome é … bedeutet mein Name ist … Ersetze Ana durch deinen Namen."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "chamar-se",
       "translation": "sich nennen; heißen",
       "isVocabulary": true,
-      "example": "Eu me chamo Lucas.",
-      "exampleTranslation": "Ich heiße Lucas.",
-      "explanation": "Eu me chamo bedeutet ich heiße; me gehört zum Verb."
+      "example": "Eu me chamo Pedro.",
+      "exampleTranslation": "Ich heiße Pedro.",
+      "explanation": "Chamar-se heißt sich nennen oder heißen. Für die eigene Vorstellung: eu me chamo … Das me gehört hier zum Verb; lerne das Muster zusammen."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Como você se chama?",
       "exampleTranslation": "Wie heißt du?",
-      "explanation": "Você steht mit der dritten Person Singular; die passende deutsche Anrede hängt vom Kontext ab."
+      "explanation": "Você wird hier mit du übersetzt und verwendet die dritte Person Singular: você se chama. Die passende deutsche Anrede hängt von der Situation ab; eine förmliche Anrede wird gesondert geübt."
     },
     {
       "id": "karte-04",
@@ -44,8 +44,8 @@
       "translation": "welcher; welche; welches",
       "isVocabulary": true,
       "example": "Qual é o seu nome?",
-      "exampleTranslation": "Wie ist dein Name?",
-      "explanation": "Bei Fragen: Qual é o seu nome? = Wie heißt du?"
+      "exampleTranslation": "Wie heißt du?",
+      "explanation": "Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual é o seu nome? ist eine übliche Frage nach dem Namen; auf Deutsch natürlich: Wie heißt du?"
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "prazer",
       "translation": "Vergnügen",
       "isVocabulary": true,
-      "example": "Prazer em conhecer você.",
-      "exampleTranslation": "Freut mich, dich kennenzulernen.",
-      "explanation": "Prazer! ist bei einer Vorstellung etwa freut mich."
+      "example": "Prazer, Ana!",
+      "exampleTranslation": "Freut mich, Ana!",
+      "explanation": "O prazer bedeutet wörtlich das Vergnügen. Bei einer Vorstellung heißt Prazer! sinngemäß freut mich. Die passende Antwort kann ebenfalls Prazer! sein."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Este é o Pedro.",
       "exampleTranslation": "Das ist Pedro.",
-      "explanation": "Männliche Form; weiblich esta."
+      "explanation": "Este ist die männliche Form, esta die weibliche. Este é o Pedro bedeutet das ist Pedro. O vor einem Personennamen kommt in Brasilien vor; der Gebrauch ist regional unterschiedlich."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "amiga",
       "translation": "Freundin",
       "isVocabulary": true,
-      "example": "Esta é a minha amiga.",
-      "exampleTranslation": "Das ist meine Freundin.",
-      "explanation": "A amiga; männlich o amigo. Kann auch eine platonische Freundin sein."
+      "example": "Esta é a minha amiga Ana.",
+      "exampleTranslation": "Das ist meine Freundin Ana.",
+      "explanation": "A amiga, Plural amigas; männlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Pode me chamar de Bia.",
       "exampleTranslation": "Du kannst mich Bia nennen.",
-      "explanation": "Chamar alguém de … bedeutet jemanden … nennen."
+      "explanation": "Chamar heißt rufen oder nennen. Chamar alguém de … bedeutet jemanden … nennen. Pode me chamar de … nennt den gewünschten Rufnamen; Eu me chamo … stellt den eigenen Namen vor."
     }
   ]
 }

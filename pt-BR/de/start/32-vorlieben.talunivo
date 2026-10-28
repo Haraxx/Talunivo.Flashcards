@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-32-vorlieben",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "32 · Was ich mag",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "música",
       "translation": "Musik",
       "isVocabulary": true,
-      "example": "Gosto de música brasileira, mas não gosto de dançar.",
-      "exampleTranslation": "Ich mag brasilianische Musik, aber ich tanze nicht gern.",
-      "explanation": "A música; brasileira ist die weibliche Form zu Brasilien."
+      "example": "Gosto de música brasileira.",
+      "exampleTranslation": "Ich mag brasilianische Musik.",
+      "explanation": "A música bedeutet Musik; Plural músicas kann einzelne Musikstücke bezeichnen. Gosto de heißt ich mag. Brasileira passt grammatisch zu música und bedeutet brasilianisch; das Beispiel nennt nur eine Vorliebe."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Gosto muito de ler.",
       "exampleTranslation": "Ich lese sehr gern.",
-      "explanation": "Gosto de ler = ich lese gern."
+      "explanation": "Ler heißt lesen. Gosto de + Infinitiv drückt aus, was ich gern tue; muito verstärkt hier zu sehr gern. Die Ich-Form von ler lautet leio und wird in Paket 33 im Alltagssatz verwendet."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Não gosto de acordar cedo.",
       "exampleTranslation": "Ich wache nicht gern früh auf.",
-      "explanation": "Cedo bedeutet früh; tarde bedeutet spät."
+      "explanation": "Cedo bedeutet früh; das Gegenteil ist tarde im Sinn von spät. Não gosto de verneint die Vorliebe. Acordar heißt aufwachen und ist nicht dasselbe wie levantar, aufstehen."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Prefiro chá a café.",
       "exampleTranslation": "Ich mag Tee lieber als Kaffee.",
-      "explanation": "Prefiro chá a café = ich bevorzuge Tee gegenüber Kaffee."
+      "explanation": "Preferir heißt bevorzugen; prefiro ist die unregelmäßige Ich-Form. Im Muster prefiro X a Y wird X bevorzugt: hier Tee gegenüber Kaffee. Das a verbindet die beiden Vergleichsgrößen."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Qual é a sua comida favorita?",
       "exampleTranslation": "Was ist dein Lieblingsessen?",
-      "explanation": "A comida; comida favorita = Lieblingsessen."
+      "explanation": "A comida bedeutet Essen oder Speise. Comida favorita heißt Lieblingsessen; favorita passt zur weiblichen Form comida. Qual é a sua …? fragt hier nach einer persönlichen Vorliebe."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Meu esporte favorito é futebol.",
       "exampleTranslation": "Mein Lieblingssport ist Fußball.",
-      "explanation": "O futebol; der Akzent liegt auf der letzten Silbe."
+      "explanation": "O futebol bedeutet Fußball. Meu esporte favorito heißt mein Lieblingssport; favorito passt zum männlichen Nomen esporte. Die Aussage ist ein erfundenes Beispiel und lässt sich mit anderen Sportarten variieren."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Também gosto de cozinhar.",
       "exampleTranslation": "Ich koche auch gern.",
-      "explanation": "Gosto de cozinhar = ich koche gern."
+      "explanation": "Cozinhar heißt kochen, also Essen zubereiten. Também bedeutet auch. Nach gosto de steht der Infinitiv cozinhar; zusammen heißt das ich koche gern. Für das Kochen von Wasser verwendet man andere Formulierungen wie ferver água."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Você gosta de dançar?",
       "exampleTranslation": "Tanzt du gern?",
-      "explanation": "Gostar de dançar = gern tanzen."
+      "explanation": "Dançar heißt tanzen. Você gosta de + Infinitiv fragt, ob die angesprochene Person etwas gern tut. Gosta gehört hier zu você, während gosto zur Ich-Form gehört."
     }
   ]
 }

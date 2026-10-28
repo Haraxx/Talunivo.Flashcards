@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-24-stadt",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "24 · Orte in der Stadt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "farmácia",
       "translation": "Apotheke",
       "isVocabulary": true,
-      "example": "A farmácia fica na esquina, perto do banco.",
-      "exampleTranslation": "Die Apotheke ist an der Ecke, in der Nähe der Bank.",
-      "explanation": "A farmácia; der Akut gehört zur Schreibweise."
+      "example": "Onde fica a farmácia?",
+      "exampleTranslation": "Wo ist die Apotheke?",
+      "explanation": "A farmácia, Plural farmácias. Onde fica …? fragt nach einem Ort. Der Akut in farmácia gehört zur Schreibweise. Die Frage nennt noch keine Öffnungszeit und keine bestimmte Apotheke."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "banco",
       "translation": "Bank",
       "isVocabulary": true,
-      "example": "Onde fica o banco?",
-      "exampleTranslation": "Wo ist die Bank?",
-      "explanation": "O banco bezeichnet hier die Bank als Geldinstitut; auch Sitzbank möglich."
+      "example": "O banco está aberto.",
+      "exampleTranslation": "Die Bank ist geöffnet.",
+      "explanation": "O banco bezeichnet in dieser Öffnungsaussage ein Geldinstitut. Está aberto heißt ist geöffnet. Banco kann in anderen Situationen auch Sitzbank heißen; der Zusammenhang entscheidet."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "A padaria fica na esquina.",
       "exampleTranslation": "Die Bäckerei ist an der Ecke.",
-      "explanation": "A padaria; Plural padarias."
+      "explanation": "A padaria, Plural padarias, ist eine Bäckerei. Na esquina bedeutet an der Ecke; na ist em + a. Fica beschreibt hier die Lage des Geschäfts."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "O mercado fica em frente à praça.",
       "exampleTranslation": "Der Markt liegt gegenüber dem Platz.",
-      "explanation": "A praça; em frente à praça = gegenüber dem Platz."
+      "explanation": "A praça, Plural praças, ist hier ein öffentlicher Platz. Em frente à praça beschreibt eine Lage gegenüber dem Platz oder vor dem Platz, je nach Situation. Mercado bedeutet Markt; à verbindet hier a + a."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "A estação está perto.",
       "exampleTranslation": "Der Bahnhof ist in der Nähe.",
-      "explanation": "A estação; Plural estações."
+      "explanation": "A estação, Plural estações. Im hier gemeinten Verkehrskontext ist ein Bahnhof oder eine Station gemeint. Está perto bedeutet ist in der Nähe. Das Wort hat außerhalb dieses Kontexts weitere Bedeutungen, etwa Jahreszeit."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "O museu está fechado hoje.",
       "exampleTranslation": "Das Museum ist heute geschlossen.",
-      "explanation": "O museu; fechado bedeutet geschlossen."
+      "explanation": "O museu, Plural museus. Fechado bedeutet geschlossen; hoje heißt heute. Der Satz beschreibt einen erfundenen Öffnungszustand im Beispiel, keine tatsächliche Öffnungszeit eines Museums."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "A praia fica longe?",
       "exampleTranslation": "Ist der Strand weit weg?",
-      "explanation": "A praia; longe bedeutet weit weg."
+      "explanation": "A praia, Plural praias, ist ein Strand. Longe bedeutet weit weg; perto bedeutet in der Nähe. Die Frage betrifft die Entfernung, nennt aber noch keine Strecke oder Reisezeit."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "parque",
       "translation": "Park",
       "isVocabulary": true,
-      "example": "Há um parque neste bairro.",
-      "exampleTranslation": "In diesem Viertel gibt es einen Park.",
-      "explanation": "O parque; neste = em este."
+      "example": "O parque fica perto.",
+      "exampleTranslation": "Der Park ist in der Nähe.",
+      "explanation": "O parque, Plural parques. Fica perto bedeutet hier liegt in der Nähe. Das bekannte Lagemuster verwendet nur den neuen Ortsnamen; eine bestimmte Richtung wird damit nicht genannt."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-13-wohnen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "13 · Zu Hause",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "casa",
       "translation": "Haus",
       "isVocabulary": true,
-      "example": "Minha casa é pequena, mas a sala é grande.",
-      "exampleTranslation": "Mein Haus ist klein, aber das Wohnzimmer ist groß.",
-      "explanation": "A casa; em casa bedeutet zu Hause."
+      "example": "Minha casa é pequena.",
+      "exampleTranslation": "Mein Haus ist klein.",
+      "explanation": "A casa, Plural casas. Minha casa bedeutet mein Haus; pequena ist die weibliche Form von klein und bezieht sich auf casa. Em casa heißt dagegen zu Hause und bezeichnet nicht zwingend ein eigenes Haus."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Meu apartamento é pequeno.",
       "exampleTranslation": "Meine Wohnung ist klein.",
-      "explanation": "O apartamento bezeichnet eine Wohnung."
+      "explanation": "O apartamento, Plural apartamentos, bezeichnet eine Wohnung. Pequeno richtet sich nach dem männlichen portugiesischen Wort apartamento, obwohl Wohnung im Deutschen weiblich ist."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "A cozinha fica aqui.",
       "exampleTranslation": "Die Küche ist hier.",
-      "explanation": "A cozinha; fica beschreibt hier die Lage."
+      "explanation": "A cozinha, Plural cozinhas. Fica beschreibt hier, wo sich ein Raum befindet. Aqui bedeutet hier. A cozinha fica aqui zeigt die Lage der Küche, nicht eine Bewegung."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "O banheiro fica ali.",
       "exampleTranslation": "Das Badezimmer ist dort.",
-      "explanation": "O banheiro; je nach Kontext Badezimmer oder Toilette."
+      "explanation": "O banheiro, Plural banheiros. Im Wohnkontext ist ein Badezimmer gemeint; bei einer Ortsfrage kann auch Toilette die passende deutsche Fassung sein. Ali bedeutet dort; fica beschreibt hier die Lage."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Meu quarto tem uma janela.",
       "exampleTranslation": "Mein Zimmer hat ein Fenster.",
-      "explanation": "O quarto; zu Hause meist Schlafzimmer, im Hotel Zimmer."
+      "explanation": "O quarto, Plural quartos. Zu Hause ist oft das Schlafzimmer gemeint; im Hotel ein Gästezimmer. Tem uma janela bedeutet hat ein Fenster. Quarto ist keine allgemeine Bezeichnung für jede Art von Raum."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "A sala é grande.",
       "exampleTranslation": "Das Wohnzimmer ist groß.",
-      "explanation": "A sala; sala de estar bezeichnet ausdrücklich das Wohnzimmer."
+      "explanation": "A sala, Plural salas. Im Beispiel zu Hause bedeutet sala Wohnzimmer; sala de estar ist die ausdrückliche Bezeichnung. In anderen Zusammenhängen kann sala auch einen anderen Raum oder Saal bezeichnen. Grande bedeutet groß."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Moro com minha família.",
       "exampleTranslation": "Ich wohne mit meiner Familie.",
-      "explanation": "A família; com minha família = mit meiner Familie."
+      "explanation": "A família, Plural famílias. Com minha família heißt mit meiner Familie. Moro aus dem Wohnortpaket bedeutet ich wohne. Der Satz beschreibt eine mögliche Wohnsituation; zum Üben kann sie erfunden sein."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "A porta está aberta.",
       "exampleTranslation": "Die Tür ist offen.",
-      "explanation": "A porta; aberta ist die weibliche Form von offen."
+      "explanation": "A porta, Plural portas. Está aberta beschreibt den Zustand ist offen. Aberta ist weiblich, weil porta weiblich ist; die männliche Form wäre aberto. Die Form bezieht sich auf die Tür, nicht auf die sprechende Person."
     }
   ]
 }

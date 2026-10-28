@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-26-bus-metro",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "26 · Bus und Metro",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Onde fica o ponto de ônibus?",
       "exampleTranslation": "Wo ist die Bushaltestelle?",
-      "explanation": "O ponto de ônibus ist die Bushaltestelle."
+      "explanation": "O ponto de ônibus ist eine Bushaltestelle; die Mehrzahl lautet pontos de ônibus. Onde fica …? ist die bekannte Ortsfrage. Ônibus bleibt auch in dieser Wortgruppe unverändert."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Este ônibus vai para o centro?",
       "exampleTranslation": "Fährt dieser Bus ins Zentrum?",
-      "explanation": "O ônibus hat im Singular und Plural dieselbe Form."
+      "explanation": "O ônibus ist ein Bus, os ônibus sind mehrere Busse; das Wort bleibt gleich. Este ônibus heißt dieser Bus. Vai para o centro fragt hier nach dem Fahrtziel ins Zentrum."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Qual linha devo pegar?",
       "exampleTranslation": "Welche Linie soll ich nehmen?",
-      "explanation": "A linha; pegar uma linha = eine Linie nehmen."
+      "explanation": "A linha, Plural linhas, bezeichnet hier eine Verkehrslinie. Devo pegar heißt in dieser Frage soll ich nehmen. Das Muster erfragt die Linie; eine konkrete Liniennummer ist noch nicht genannt."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Uma passagem, por favor.",
       "exampleTranslation": "Eine Fahrkarte, bitte.",
-      "explanation": "A passagem bezeichnet hier eine Fahrkarte."
+      "explanation": "A passagem, Plural passagens, ist hier eine Fahrkarte. Uma passt zum weiblichen Nomen. Je nach Verkehrskontext können Fahrkarte, Fahrschein oder Ticket passende deutsche Fassungen sein."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Onde posso comprar o bilhete?",
       "exampleTranslation": "Wo kann ich den Fahrschein kaufen?",
-      "explanation": "O bilhete bezeichnet hier einen Fahrschein."
+      "explanation": "O bilhete, Plural bilhetes, bezeichnet hier einen Fahrschein. Onde posso comprar …? heißt wo kann ich … kaufen? Außerhalb des Verkehrskontexts kann bilhete auch eine kurze schriftliche Nachricht bezeichnen."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Preciso descer na próxima parada.",
       "exampleTranslation": "Ich muss an der nächsten Haltestelle aussteigen.",
-      "explanation": "A parada; próxima parada = nächste Haltestelle."
+      "explanation": "A parada, Plural paradas, ist hier eine Haltestelle. Próxima parada heißt nächste Haltestelle; na ist em + a. Preciso descer bedeutet hier ich muss aussteigen, mit einem Verb direkt nach preciso."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Tenho que trocar de linha?",
       "exampleTranslation": "Muss ich die Linie wechseln?",
-      "explanation": "Trocar de linha bedeutet die Linie wechseln."
+      "explanation": "Trocar bedeutet wechseln. Trocar de linha heißt die Linie wechseln; tenho que … bedeutet hier ich muss … Die Wendung benötigt bei diesem Bezug de vor linha."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "O metrô está lotado.",
       "exampleTranslation": "Die Metro ist überfüllt.",
-      "explanation": "O metrô ist die brasilianische Schreibweise für Metro."
+      "explanation": "O metrô ist die hier gelernte brasilianische Bezeichnung und Schreibweise für Metro beziehungsweise U-Bahn. Está lotado bedeutet ist überfüllt; lotado ist männlich wegen metrô. Der Satz beschreibt eine erfundene Fahrsituation."
     }
   ]
 }

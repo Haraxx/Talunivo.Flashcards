@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-50-mission-alltag",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "50 · Abschluss: Ein Tag in Brasilien",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Meu nome é Ana. E o seu?",
       "exampleTranslation": "Mein Name ist Ana. Und deiner?",
-      "explanation": "O nome; Meu nome é … = Mein Name ist …"
+      "explanation": "O nome, Plural nomes, heißt Name. Meu nome é … nennt den eigenen Namen. E o seu? ist die verkürzte Rückfrage nach dem Namen der angesprochenen Person; Ana ist ein erfundener Beispielname und wird nicht aus dem Profil übernommen."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "aprender",
       "translation": "lernen",
       "isVocabulary": true,
-      "example": "Estou aprendendo português e preciso praticar.",
-      "exampleTranslation": "Ich lerne Portugiesisch und muss üben.",
-      "explanation": "Estou aprendendo = ich lerne gerade."
+      "example": "Estou aprendendo português.",
+      "exampleTranslation": "Ich lerne gerade Portugiesisch.",
+      "explanation": "Aprender heißt lernen; aprendendo ist das Gerundium. Estou + Gerundium beschreibt hier einen gerade laufenden Vorgang: Estou aprendendo português heißt ich lerne gerade Portugiesisch. Estudar aus Paket 42 betont gezieltes Lernen oder Studieren; beide Verben können im Sprachlernkontext passen."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "pão com queijo",
       "translation": "Brot mit Käse",
       "isVocabulary": true,
-      "example": "Quero um café e um pão com queijo.",
-      "exampleTranslation": "Ich möchte einen Kaffee und ein Brot mit Käse.",
-      "explanation": "Pão com queijo ist Brot mit Käse; pão de queijo ist ein anderes Gebäck."
+      "example": "Quero um café e um pão com queijo, por favor.",
+      "exampleTranslation": "Ich möchte bitte einen Kaffee und ein Brot mit Käse.",
+      "explanation": "Pão com queijo heißt Brot mit Käse. Com bezeichnet hier die Kombination mit Käse; pão de queijo ist dagegen ein anderes Gebäck. Quero …, por favor wiederholt das höfliche Bestellmuster, e verbindet die beiden Wünsche."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Depois vou pegar o ônibus para o centro.",
       "exampleTranslation": "Danach werde ich den Bus ins Zentrum nehmen.",
-      "explanation": "Pegar o ônibus ist in Brasilien üblich für den Bus nehmen."
+      "explanation": "Pegar heißt im Verkehrskontext ein Verkehrsmittel nehmen; pegar o ônibus bedeutet den Bus nehmen. Depois ordnet die Fahrt nach der vorherigen Handlung ein. Vou pegar kündigt die Handlung an, para o centro nennt das Ziel."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Pode me dizer onde fica o museu?",
       "exampleTranslation": "Können Sie mir sagen, wo das Museum ist?",
-      "explanation": "O museu; onde fica …? = wo ist …?"
+      "explanation": "O museu, Plural museus, heißt Museum. Onde fica …? fragt nach dem Ort. Pode me dizer …? bettet die Ortsfrage in eine höfliche Bitte ein; der Satz liefert selbst noch keine Wegbeschreibung."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "À tarde vou encontrar uma amiga no parque.",
       "exampleTranslation": "Am Nachmittag werde ich eine Freundin im Park treffen.",
-      "explanation": "À tarde bedeutet nachmittags; tarde ohne Artikel kann spät heißen."
+      "explanation": "À tarde bedeutet am Nachmittag oder nachmittags. Vou encontrar kündigt hier ein Treffen an; eine Freundin ist der direkte Personenbezug. Tarde ohne Artikel bedeutet in Cheguei tarde dagegen spät. Das Beispiel legt keine Partnerschaft fest."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Ontem fui à praia e gostei muito.",
       "exampleTranslation": "Gestern bin ich an den Strand gegangen und es hat mir sehr gefallen.",
-      "explanation": "A praia; fui à praia = ich bin an den Strand gegangen."
+      "explanation": "A praia, Plural praias, heißt Strand. Fui à praia beschreibt hier den gestrigen Besuch, gostei muito die positive Rückmeldung dazu. Ontem wechselt ausdrücklich zum Vortag; e verbindet die beiden Aussagen."
     },
     {
       "id": "karte-08",
@@ -84,8 +84,8 @@
       "translation": "sich unterhalten",
       "isVocabulary": true,
       "example": "Amanhã quero conversar mais em português.",
-      "exampleTranslation": "Morgen möchte ich mehr auf Portugiesisch sprechen.",
-      "explanation": "Conversar em português = sich auf Portugiesisch unterhalten."
+      "exampleTranslation": "Morgen möchte ich mich mehr auf Portugiesisch unterhalten.",
+      "explanation": "Conversar heißt sich unterhalten; im Portugiesischen braucht das Verb hier kein Reflexivpronomen. Em português heißt auf Portugiesisch. Amanhã verlagert den Wunsch auf morgen, mais bedeutet mehr. Das Beispiel beschreibt eine Absicht, keinen bereits erreichten Lernstand."
     }
   ]
 }

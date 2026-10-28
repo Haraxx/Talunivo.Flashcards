@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-17-getraenke",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "17 · Getränke bestellen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "água sem gás",
       "translation": "stilles Wasser",
       "isVocabulary": true,
-      "example": "Quero uma água sem gás e sem gelo.",
-      "exampleTranslation": "Ich möchte ein stilles Wasser ohne Eiswürfel.",
-      "explanation": "A água; sem gás = ohne Kohlensäure."
+      "example": "Uma água sem gás, por favor.",
+      "exampleTranslation": "Ein stilles Wasser, bitte.",
+      "explanation": "A água ist weiblich, deshalb uma água. Sem gás bedeutet ohne Kohlensäure: stilles Wasser. Sem gelo würde dagegen ohne Eiswürfel bedeuten; das sind verschiedene Zusätze."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Quero água com gás.",
       "exampleTranslation": "Ich möchte Sprudelwasser.",
-      "explanation": "Com gás bedeutet mit Kohlensäure."
+      "explanation": "Água com gás ist Wasser mit Kohlensäure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem gás wäre ohne Kohlensäure. Hier wird kein bestimmter Kohlensäuregehalt festgelegt."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Um café com leite, por favor.",
       "exampleTranslation": "Einen Kaffee mit Milch, bitte.",
-      "explanation": "Café com leite bedeutet wörtlich Kaffee mit Milch."
+      "explanation": "Café com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O café ist männlich, deshalb um café. Die Wendung allein gibt kein genaues Verhältnis von Kaffee und Milch an."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "chá",
       "translation": "Tee",
       "isVocabulary": true,
-      "example": "Você tem chá?",
-      "exampleTranslation": "Hast du Tee?",
-      "explanation": "O chá; der Akut gehört zur Schreibweise."
+      "example": "Tem chá?",
+      "exampleTranslation": "Gibt es Tee?",
+      "explanation": "O chá ist Tee; der Akut gehört zur Schreibweise. Tem chá? fragt nach der Verfügbarkeit. Eine Bestellung kann zum Beispiel mit Um chá, por favor. formuliert werden."
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "suco de laranja",
       "translation": "Orangensaft",
       "isVocabulary": true,
-      "example": "Quero um suco de laranja.",
-      "exampleTranslation": "Ich möchte einen Orangensaft.",
-      "explanation": "O suco ist die brasilianische Bezeichnung für Saft."
+      "example": "Quero um suco de laranja, por favor.",
+      "exampleTranslation": "Ich möchte einen Orangensaft, bitte.",
+      "explanation": "O suco ist die brasilianische Bezeichnung für Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum männlichen suco."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Sem gelo, por favor.",
       "exampleTranslation": "Ohne Eiswürfel, bitte.",
-      "explanation": "Gelo bedeutet Eis; bei Getränken sind hier Eiswürfel gemeint."
+      "explanation": "Gelo bedeutet Eis; bei einem Getränk sind hier Eiswürfel gemeint. Sem gelo ist ohne Eiswürfel und ergänzt eine Bestellung. Speiseeis heißt sorvete; sem gelo ist nicht dieselbe Angabe wie sem gás."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "xícara",
       "translation": "Tasse",
       "isVocabulary": true,
-      "example": "Pode ser uma xícara pequena.",
-      "exampleTranslation": "Es kann eine kleine Tasse sein.",
-      "explanation": "A xícara; Plural xícaras."
+      "example": "Uma xícara de chá, por favor.",
+      "exampleTranslation": "Eine Tasse Tee, bitte.",
+      "explanation": "A xícara, Plural xícaras. Uma xícara de chá bedeutet eine Tasse Tee. De verbindet hier das Gefäß mit dem Inhalt. Xícara ist eine Tasse; copo aus Paket 14 bezeichnet ein Trinkglas."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "para levar",
       "translation": "zum Mitnehmen",
       "isVocabulary": true,
-      "example": "Para levar, por favor.",
-      "exampleTranslation": "Zum Mitnehmen, bitte.",
-      "explanation": "Feste Wendung bei einer Bestellung zum Mitnehmen."
+      "example": "Um café para levar, por favor.",
+      "exampleTranslation": "Einen Kaffee zum Mitnehmen, bitte.",
+      "explanation": "Para levar heißt bei einer Bestellung zum Mitnehmen. Die Wendung ergänzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gefäßgröße."
     }
   ]
 }

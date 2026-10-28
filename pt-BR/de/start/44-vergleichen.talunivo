@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-44-vergleichen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "44 · Einfach vergleichen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "mais barato",
       "translation": "günstiger",
       "isVocabulary": true,
-      "example": "Este hotel é mais barato, mas fica mais longe.",
-      "exampleTranslation": "Dieses Hotel ist billiger, aber es liegt weiter weg.",
-      "explanation": "Barato ist günstig; mais barato bildet den Vergleich."
+      "example": "Este hotel é mais barato.",
+      "exampleTranslation": "Dieses Hotel ist günstiger.",
+      "explanation": "Barato heißt günstig oder billig. Mais barato bildet den Vergleich günstiger; barato passt zur männlichen Form hotel. Welches andere Hotel oder Angebot verglichen wird, ergibt sich aus dem Gespräch."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "mais caro",
       "translation": "teurer",
       "isVocabulary": true,
-      "example": "Aquele é mais caro.",
-      "exampleTranslation": "Das dort ist teurer.",
-      "explanation": "Caro ist teuer; mais caro bildet den Vergleich."
+      "example": "Aquele hotel é mais caro.",
+      "exampleTranslation": "Das Hotel dort ist teurer.",
+      "explanation": "Caro heißt teuer; mais caro heißt teurer. Aquele hotel bezeichnet das Hotel dort und gibt dem Adjektiv einen klaren Bezug. Caro passt zum männlichen Nomen hotel; der Vergleichswert ist im Gespräch vorausgesetzt."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Esta mala é maior que a minha.",
       "exampleTranslation": "Dieser Koffer ist größer als meiner.",
-      "explanation": "Maior ist die unregelmäßige Steigerung von grande."
+      "explanation": "Maior ist die unregelmäßige Steigerung von grande, groß; davor steht hier kein mais. Que bedeutet im Vergleich als. A minha bezieht sich auf die weibliche mala und meint meinen Koffer; maior selbst bleibt für beide Genera gleich."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Este quarto é menor.",
       "exampleTranslation": "Dieses Zimmer ist kleiner.",
-      "explanation": "Menor ist die unregelmäßige Steigerung von pequeno."
+      "explanation": "Menor ist die unregelmäßige Steigerung von pequeno, klein; davor steht hier kein mais. Este quarto heißt dieses Zimmer. Menor hat für männliche und weibliche Nomen dieselbe Form; das Vergleichszimmer ergibt sich aus dem Gespräch."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "A estação fica mais longe que o mercado.",
       "exampleTranslation": "Der Bahnhof ist weiter weg als der Markt.",
-      "explanation": "Longe bedeutet weit weg; mais longe = weiter weg."
+      "explanation": "Mais longe heißt weiter weg. Fica beschreibt hier die Lage; que verbindet den Vergleich mit dem Markt. Beide Entfernungen werden von demselben, im Gespräch gegebenen Ausgangspunkt betrachtet. Estação meint hier den Bahnhof."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Quero menos açúcar.",
       "exampleTranslation": "Ich möchte weniger Zucker.",
-      "explanation": "Menos bleibt unverändert, auch vor einem Nomen im Plural."
+      "explanation": "Menos bedeutet weniger und bleibt vor Nomen unverändert. Quero menos açúcar wünscht eine geringere Zuckermenge als zuvor oder als angeboten. Der Satz nennt keine genaue Menge."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Preciso de mais tempo.",
       "exampleTranslation": "Ich brauche mehr Zeit.",
-      "explanation": "Mais bleibt unverändert; nicht mit mas, aber, verwechseln."
+      "explanation": "Mais bedeutet hier mehr und bleibt unverändert. Preciso de steht vor der Nomengruppe mais tempo; tempo bedeutet in diesem Satz Zeit. Mais ist von mas zu unterscheiden, das aber bedeutet."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Este caminho é melhor.",
       "exampleTranslation": "Dieser Weg ist besser.",
-      "explanation": "Melhor ist die unregelmäßige Steigerung von bom."
+      "explanation": "Melhor ist hier die unregelmäßige Steigerung von bom, gut; davor steht kein mais. Este caminho bedeutet dieser Weg. Nach welchem Kriterium er besser ist, etwa Länge oder Bequemlichkeit, bleibt im Satz offen."
     }
   ]
 }

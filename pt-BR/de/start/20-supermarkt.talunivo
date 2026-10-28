@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-20-supermarkt",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "20 · Im Supermarkt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Onde fica o supermercado?",
       "exampleTranslation": "Wo ist der Supermarkt?",
-      "explanation": "O supermercado; Plural supermercados."
+      "explanation": "O supermercado, Plural supermercados. Onde fica …? fragt nach dem Ort und greift das bekannte Muster für Räume auf. Es wird hier der Supermarkt gesucht, nicht schon ein einzelnes Produkt."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Preciso de um litro de leite.",
       "exampleTranslation": "Ich brauche einen Liter Milch.",
-      "explanation": "O litro; um litro de leite = ein Liter Milch."
+      "explanation": "O litro, Plural litros. Um litro de leite bedeutet ein Liter Milch; de verbindet die Menge mit dem Lebensmittel. Preciso de … heißt ich brauche … Die Menge im Beispiel ist ein Liter."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Quero meio quilo de arroz.",
       "exampleTranslation": "Ich möchte ein halbes Kilo Reis.",
-      "explanation": "Quilo ist männlich, daher meio; vor weiblichen Nomen meia."
+      "explanation": "O quilo ist männlich, deshalb meio quilo: ein halbes Kilo, also 500 Gramm. Meio richtet sich nach quilo, nicht nach arroz. Bei der Uhrzeit e meia aus Paket 09 ist dagegen die weibliche hora der Bezug."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "As maçãs estão frescas?",
       "exampleTranslation": "Sind die Äpfel frisch?",
-      "explanation": "Plural von a maçã; das ã gehört zur Schreibweise."
+      "explanation": "A maçã ist ein Apfel; maçãs ist die Mehrzahl Äpfel. As, estão und frescas stehen hier passend zur weiblichen Mehrzahl. Die Frage betrifft die Frische, nicht den Preis oder die Anzahl der Äpfel."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Quanto custa este pacote?",
       "exampleTranslation": "Wie viel kostet diese Packung?",
-      "explanation": "O pacote; Plural pacotes."
+      "explanation": "O pacote, Plural pacotes. Quanto custa …? fragt nach einem Preis. Este richtet sich nach dem männlichen portugiesischen pacote. Der Satz bezieht sich auf die gezeigte Packung; ihr Inhalt oder Gewicht wird nicht genannt."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Tem uma sacola?",
       "exampleTranslation": "Gibt es eine Tüte?",
-      "explanation": "A sacola bezeichnet eine Einkaufstüte."
+      "explanation": "A sacola, Plural sacolas, bezeichnet hier eine Einkaufstüte. Tem uma sacola? fragt nach einer Tüte. Anders als bolsa aus Paket 14 steht sacola hier ausdrücklich im Einkaufskontext."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Não preciso de sacola.",
       "exampleTranslation": "Ich brauche keine Tüte.",
-      "explanation": "Preciso de leite, aber preciso comprar leite: de vor einem Nomen."
+      "explanation": "Precisar bedeutet brauchen. Vor einem Nomen steht hier de: preciso de sacola. Não verneint die Aussage. Vor einer Handlung lautet ein anderes Muster preciso comprar leite = ich muss Milch kaufen, ohne de vor comprar."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Onde fica o caixa?",
       "exampleTranslation": "Wo ist die Kasse?",
-      "explanation": "O caixa bezeichnet hier die Kasse; a caixa bedeutet die Schachtel oder eine Kassiererin."
+      "explanation": "O caixa bezeichnet hier die Kasse beziehungsweise den Kassenbereich. Trotz des deutschen Artikels die steht im Beispiel o. A caixa kann eine Schachtel oder eine Kassiererin bezeichnen; Artikel und Situation helfen, die Bedeutung zu erkennen."
     }
   ]
 }

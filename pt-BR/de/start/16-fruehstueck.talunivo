@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-16-fruehstueck",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "16 · Frühstück",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "pão",
       "translation": "Brot",
       "isVocabulary": true,
-      "example": "De manhã, como pão com manteiga e uma banana.",
-      "exampleTranslation": "Morgens esse ich Brot mit Butter und eine Banane.",
-      "explanation": "O pão; Plural pães. Kann im Bestellkontext auch ein Brötchen sein."
+      "example": "Como pão.",
+      "exampleTranslation": "Ich esse Brot.",
+      "explanation": "O pão bedeutet Brot; die Mehrzahl lautet pães. Como heißt hier ich esse. Bei einer Bestellung kann um pão je nach Angebot auch ein Brötchen meinen; der Zusammenhang entscheidet."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Tem queijo?",
       "exampleTranslation": "Gibt es Käse?",
-      "explanation": "O queijo; com queijo = mit Käse."
+      "explanation": "O queijo ist Käse. Tem queijo? fragt im brasilianischen Alltag, ob Käse da ist. Com queijo bedeutet mit Käse und lässt sich mit einem Lebensmittel verbinden, etwa pão com queijo."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Eu como uma banana.",
       "exampleTranslation": "Ich esse eine Banane.",
-      "explanation": "A banana; Plural bananas."
+      "explanation": "A banana, Plural bananas. Eu como heißt ich esse; uma passt zum weiblichen Wort banana. Uma banana bezeichnet hier eine einzelne Banane."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Gosto de ovos.",
       "exampleTranslation": "Ich mag Eier.",
-      "explanation": "Plural von o ovo: das Ei."
+      "explanation": "O ovo ist ein Ei; ovos ist die Mehrzahl Eier. Gosto de … heißt ich mag … Die Präposition de gehört zu diesem Muster. Der Beispielsatz drückt eine mögliche Vorliebe aus."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Bebo leite de manhã.",
       "exampleTranslation": "Ich trinke morgens Milch.",
-      "explanation": "O leite ist grammatisch männlich."
+      "explanation": "O leite ist im Portugiesischen männlich, obwohl Milch im Deutschen weiblich ist. Bebo heißt ich trinke; de manhã bedeutet morgens. Die Mengenangabe wäre zum Beispiel um litro de leite."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "O café da manhã está pronto.",
       "exampleTranslation": "Das Frühstück ist fertig.",
-      "explanation": "O café da manhã ist die brasilianische Bezeichnung für Frühstück."
+      "explanation": "O café da manhã ist in Brasilien das Frühstück als Mahlzeit. Die Wendung ist nicht gleichbedeutend mit einer Tasse Kaffee. Está pronto heißt hier ist fertig."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Não quero açúcar.",
       "exampleTranslation": "Ich möchte keinen Zucker.",
-      "explanation": "O açúcar ist grammatisch männlich; sem açúcar = ohne Zucker."
+      "explanation": "O açúcar ist grammatisch männlich. Não quero … heißt ich möchte kein … oder keine … Sem açúcar bedeutet ohne Zucker und ist eine kurze Ergänzung bei einer Bestellung."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Quero comer uma fruta.",
       "exampleTranslation": "Ich möchte ein Stück Obst essen.",
-      "explanation": "A fruta; umgangssprachlich ist auch ein Stück Obst gemeint."
+      "explanation": "A fruta, Plural frutas. Uma fruta ist eine einzelne Frucht; im Deutschen passt hier natürlich ein Stück Obst. Quero comer heißt ich möchte essen. Die Übersetzungen Frucht und Stück Obst können beide passen."
     }
   ]
 }

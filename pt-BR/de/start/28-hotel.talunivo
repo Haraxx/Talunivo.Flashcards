@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-28-hotel",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "28 · Ankunft im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "reserva",
       "translation": "Reservierung",
       "isVocabulary": true,
-      "example": "Tenho uma reserva para duas pessoas e três noites.",
-      "exampleTranslation": "Ich habe eine Reservierung für zwei Personen und drei Nächte.",
-      "explanation": "A reserva; para duas pessoas = für zwei Personen."
+      "example": "Tenho uma reserva.",
+      "exampleTranslation": "Ich habe eine Reservierung.",
+      "explanation": "A reserva, Plural reservas. Tenho uma reserva heißt ich habe eine Reservierung. Personen- und Nächtezahl können anschließend ergänzt werden; im kurzen Satz sind sie noch nicht angegeben."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Quero um quarto para duas pessoas.",
       "exampleTranslation": "Ich möchte ein Zimmer für zwei Personen.",
-      "explanation": "O quarto; hier ein Hotelzimmer."
+      "explanation": "O quarto, Plural quartos, ist hier ein Hotelzimmer. Para duas pessoas heißt für zwei Personen; duas richtet sich nach pessoa, nicht nach quarto. Der Satz legt noch keine Bettenart fest."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Vou ficar três noites.",
       "exampleTranslation": "Ich werde drei Nächte bleiben.",
-      "explanation": "Plural von a noite; ficar três noites = drei Nächte bleiben."
+      "explanation": "A noite ist eine Nacht; noites ist die Mehrzahl. Vou ficar heißt hier ich werde bleiben. Três noites nennt eine Dauer von drei Nächten, aber noch kein Ankunfts- oder Abreisedatum."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "O café da manhã está incluído?",
       "exampleTranslation": "Ist das Frühstück inbegriffen?",
-      "explanation": "Männliche Form; weiblich incluída."
+      "explanation": "Incluído bedeutet inbegriffen und ist hier männlich wegen o café da manhã. Die weibliche Form heißt incluída. Die Frage erkundigt sich nach einer Leistung; sie sagt noch nicht, ob das Frühstück tatsächlich enthalten ist."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "A que horas é a saída?",
       "exampleTranslation": "Um wie viel Uhr ist die Abreise?",
-      "explanation": "A saída; hier die Abreise beziehungsweise der Check-out, sonst auch Ausgang."
+      "explanation": "A saída ist hier die Abreise beziehungsweise der Check-out. A que horas …? fragt um wie viel Uhr …? In einer Ortsangabe oder auf einem Schild kann saída dagegen Ausgang bedeuten."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Aqui está meu passaporte.",
       "exampleTranslation": "Hier ist mein Reisepass.",
-      "explanation": "O passaporte; Plural passaportes."
+      "explanation": "O passaporte, Plural passaportes. Aqui está … heißt hier ist …; meu passaporte bedeutet mein Reisepass. Der Satz ist ein fiktives Gesprächsmuster und nennt keine Ausweisvorschrift."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Pode me dar a chave do quarto?",
       "exampleTranslation": "Können Sie mir den Zimmerschlüssel geben?",
-      "explanation": "A chave; chave do quarto = Zimmerschlüssel."
+      "explanation": "A chave, Plural chaves. Do quarto ist de + o quarto: des Zimmers. Pode me dar …? ist die bekannte höfliche Bitte; die Wortgruppe a chave do quarto bezeichnet den Zimmerschlüssel."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Onde fica o elevador?",
       "exampleTranslation": "Wo ist der Aufzug?",
-      "explanation": "O elevador; Plural elevadores."
+      "explanation": "O elevador, Plural elevadores, ist ein Aufzug. Onde fica …? ist das bekannte Fragemuster nach einem Ort. Die Frage sagt noch nicht, in welche Etage gefahren werden soll."
     }
   ]
 }

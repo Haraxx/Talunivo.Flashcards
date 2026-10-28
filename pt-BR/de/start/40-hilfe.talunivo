@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-40-hilfe",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "40 · Um Hilfe bitten",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Pode me ajudar, por favor?",
       "exampleTranslation": "Können Sie mir bitte helfen?",
-      "explanation": "Pode me ajudar? = Können Sie mir helfen?"
+      "explanation": "Ajudar heißt helfen. Pode me ajudar? bedeutet können Sie mir helfen?; me bezieht sich auf die sprechende Person. Por favor ergänzt die Bitte. Ajuda ist das Nomen Hilfe aus Paket 38."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Estou perdido.",
       "exampleTranslation": "Ich habe mich verlaufen.",
-      "explanation": "Männliche Form; weiblich perdida."
+      "explanation": "Perdido ist hier die männliche Form von verirrt; die weibliche lautet perdida. Estou perdido beschreibt den aktuellen Zustand. Die deutsche Übersetzung kann ich habe mich verlaufen oder ich bin verirrt lauten."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Estou perdida nesta rua.",
       "exampleTranslation": "Ich habe mich in dieser Straße verlaufen.",
-      "explanation": "Weibliche Form; männlich perdido."
+      "explanation": "Perdida ist hier die weibliche Form von verirrt; die männliche lautet perdido. Nesta verbindet em + esta und bedeutet in dieser. Beide Formen beschreiben dasselbe Befinden; die Auswahl nicht aus einem Avatar ableiten."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Perdi meu celular.",
       "exampleTranslation": "Ich habe mein Handy verloren.",
-      "explanation": "Perdi ist die Vergangenheitsform ich habe verloren."
+      "explanation": "Perder heißt verlieren; perdi ist die Ich-Form in der abgeschlossenen Vergangenheit: ich habe verloren. Meu celular heißt mein Handy. Im Unterschied zu estou perdido beschreibt der Satz hier den Verlust eines Gegenstands."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Não encontro meu passaporte.",
       "exampleTranslation": "Ich finde meinen Reisepass nicht.",
-      "explanation": "Encontro = ich finde; não encontro = ich finde nicht."
+      "explanation": "Encontrar heißt finden; encontro ist die Ich-Form im Präsens. Não verneint die Aussage, meu passaporte heißt mein Reisepass. Nichtfinden sagt noch nicht, ob der Pass verloren wurde."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Chame uma ambulância, por favor.",
       "exampleTranslation": "Rufen Sie bitte einen Krankenwagen.",
-      "explanation": "A ambulância; der Zirkumflex gehört zur Schreibweise."
+      "explanation": "A ambulância, Plural ambulâncias, heißt Krankenwagen. Chame ist hier die Aufforderungsform von chamar zur Ansprache mit você; por favor macht die Bitte ausdrücklich. Der Satz nennt keine Rufnummer und beschreibt keinen konkreten Ablauf."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Preciso de um médico.",
       "exampleTranslation": "Ich brauche einen Arzt.",
-      "explanation": "O médico; weiblich a médica."
+      "explanation": "O médico heißt Arzt; die weibliche Form ist a médica, Ärztin. Preciso de + Nomen heißt ich brauche etwas oder jemanden. Um médico benennt hier die gesuchte Person; der Satz nennt keine bestimmte Behandlung."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Estou na entrada do hotel.",
       "exampleTranslation": "Ich bin am Hoteleingang.",
-      "explanation": "A entrada; do hotel = des Hotels."
+      "explanation": "A entrada, Plural entradas, bezeichnet hier den Eingang. Na verbindet em + a, do verbindet de + o. Na entrada do hotel heißt am Eingang des Hotels. Estou nennt hier den aktuellen Standort."
     }
   ]
 }

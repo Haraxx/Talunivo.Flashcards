@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-11-familie",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "11 · Familie und Menschen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "mãe",
       "translation": "Mutter",
       "isVocabulary": true,
-      "example": "Esta é a minha mãe, e este é o meu pai.",
-      "exampleTranslation": "Das ist meine Mutter, und das ist mein Vater.",
-      "explanation": "A mãe; Plural mães."
+      "example": "Esta é a minha mãe.",
+      "exampleTranslation": "Das ist meine Mutter.",
+      "explanation": "A mãe, Plural mães. Minha mãe heißt meine Mutter; esta é … bedeutet das ist … für den hier weiblichen Bezug. Der Satz ist ein Übungsmuster und setzt keine Angabe über deine Familie voraus."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Este é o meu pai.",
       "exampleTranslation": "Das ist mein Vater.",
-      "explanation": "O pai; Plural pais."
+      "explanation": "O pai, Plural pais. Meu pai heißt mein Vater. Este ist hier die männliche Form. Die Mehrzahl pais kann je nach Kontext Väter oder Eltern bedeuten."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Tenho uma irmã.",
       "exampleTranslation": "Ich habe eine Schwester.",
-      "explanation": "A irmã; Plural irmãs."
+      "explanation": "A irmã, Plural irmãs. Tenho uma irmã bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irmã; die Tilde gehört zur Schreibweise."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Meu irmão se chama João.",
       "exampleTranslation": "Mein Bruder heißt João.",
-      "explanation": "O irmão; Plural irmãos kann auch Geschwister bezeichnen."
+      "explanation": "O irmão, Plural irmãos. Se chama bedeutet hier heißt und greift das Vorstellungsmodell auf. Irmãos kann Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Meus pais moram aqui.",
       "exampleTranslation": "Meine Eltern wohnen hier.",
-      "explanation": "Os pais bedeutet die Eltern; Singular pai = Vater."
+      "explanation": "Os pais bedeutet hier die Eltern. Meus pais heißt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch Väter bedeuten."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Minha avó mora perto.",
       "exampleTranslation": "Meine Großmutter wohnt in der Nähe.",
-      "explanation": "A avó mit Akut bezeichnet die Großmutter."
+      "explanation": "A avó mit Akut bedeutet Großmutter. Mora perto heißt wohnt in der Nähe. Vergleiche avó mit avô = Großvater; die verschiedenen Akzente unterscheiden hier die Wörter."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "avô",
       "translation": "Großvater",
       "isVocabulary": true,
-      "example": "Meu avô tem setenta anos.",
-      "exampleTranslation": "Mein Großvater ist siebzig Jahre alt.",
-      "explanation": "O avô mit Zirkumflex bezeichnet den Großvater."
+      "example": "Meu avô mora aqui.",
+      "exampleTranslation": "Mein Großvater wohnt hier.",
+      "explanation": "O avô mit Zirkumflex bedeutet Großvater. Meu avô heißt mein Großvater; mora aqui bedeutet wohnt hier. Avó mit Akut bezeichnet dagegen die Großmutter."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Você tem filhos?",
       "exampleTranslation": "Hast du Kinder?",
-      "explanation": "Os filhos kann Söhne oder Kinder bezeichnen; filhas sind Töchter."
+      "explanation": "Os filhos bezeichnet hier die Kinder einer Person, unabhängig vom Alter. Je nach Kontext kann filhos auch Söhne bedeuten; filhas sind Töchter. Gemeint ist hier das Verwandtschaftsverhältnis, nicht allgemein eine Gruppe junger Menschen."
     }
   ]
 }

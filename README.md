@@ -2,25 +2,23 @@
 
 Brazilian Portuguese (pt-BR) with German translations (de), for an introductory A0/A1 learning path.
 
-Revision 3 contains 50 starter packages with 428 vocabulary cards, plus two Café add-ons with 13 cards: 52 catalog packages and 441 cards in total. Each card has a bilingual example and a German learning note. Cards contain individual words or short expressions; full sentences belong in the examples. The numbers zero to ten, numbers eleven to nineteen, tens to one hundred, all seven weekdays and all four seasons are covered. Common vocabulary intentionally recurs across related topics and shares progress for identical expression/translation pairs.
+Revision 4 contains 50 starter packages and 428 vocabulary cards with 397 distinct expression/translation pairs. Each card has a bilingual example and a German learning note. The reviewed revision updates all examples and explanations. Three separate AI reviewers checked the full content snapshot and confirmed the corrections; this does not claim approval by a human or native-speaking teacher.
+
+The full local catalog additionally contains two Café add-ons with 13 cards: 52 packages and 441 cards total. The text add-on is version 4; the media add-on is version 3 and retains the reviewed original PNG.
 
 ## Local import
 
-Use **Pakete → Datei auswählen** and select an individual `.talunivo` file, or `talunivo-start-ptbr-50.zip` for the complete collection. Review the validated preview and confirm the import explicitly. Installed content and SQLite learning progress remain available offline. Packages with more than eight cards have several lesson parts, linked from each lesson.
+Use **Pakete → Datei auswählen** and select a `.talunivo` file or `talunivo-start-ptbr-50.zip` for the 50 starter packages. Use `talunivo-ptbr-52.zip` to import all 52 packages, including the Café add-ons. The starter ZIP intentionally contains 50 packages and its own 50-package catalog. Review the validated preview and confirm the import explicitly. Installed content and SQLite progress remain available offline. Packages with more than eight cards have several lesson parts.
 
-All 50 package IDs and all 426 vocabulary card IDs and word pairs from revision 2 are retained. Revision 3 corrects 75 bilingual examples, adds learning notes and adds the missing spring and autumn vocabulary. Format version 2 declares `isVocabulary: true`. Package version 3 is separate from the format version. Use Talunivo 1.3 or newer.
-
-Updates preserve repetition progress for identical word pairs. The app archives replaced sentence cards from version 1 rather than transferring their scores to individual new words. Downloading or previewing a package does not import it. The app catalog on the main branch supplies these revisions. Reload the catalog and explicitly confirm each update after reviewing its preview.
+All 50 package IDs and all 428 card IDs from revision 3 are retained. The only changed translation is estudar: lernen (Studium) becomes lernen; studieren. Use an app build containing the explicit estudar progress migration when upgrading package 42 from version 3. The current app source preserves its review schedule and counters; an already trained target is retained. Other identical word pairs keep their progress. Replaced sentence cards from version 1 are archived rather than transferring their scores to individual words. The package format remains version 2; package version 4 is a separate value.
 
 ## Files and validation
 
-- `catalog.json`: package metadata and SHA-256 checksums.
-- `pt-BR/de/start/*.talunivo`: UTF-8 JSON starter vocabulary packages, with 8–20 cards depending on the topic.
-- `pt-BR/de/cafe/*.talunivo`: the Café text add-on (package version 3) and illustrated pilot (package version 2, format 3).
-- `talunivo-start-ptbr-50.zip`: all 50 starter packages for a single confirmed import.
-- `pt-BR/de/start/SHA256SUMS.txt`: per-file checksums.
-- `pt-BR/de/start/README.md`: German topic guide.
+- `catalog.json`: metadata and SHA-256 checksums for each listed package.
+- `pt-BR/de/start/*.talunivo`: 50 UTF-8 JSON packages with 8–20 cards each.
+- `pt-BR/de/start/SHA256SUMS.txt`: per-package checksums.
+- `SHA256SUMS.txt`: checksums of the delivery ZIP files.
 
-In the app repository, `scripts/Review-LearningPackages.py` rebuilds this revision from the preserved source archive. `tools/Talunivo.PackageValidator` checks the actual app parser, catalog metadata, hashes and generated lessons. A separate JSON-Schema check also validates the package structure. Editorial review by Codex is complete; independent review by a native-speaking teacher and a device import remain separate steps. This is an introductory collection, not a certified A1 course.
+In the app repository, `scripts/Promote-ReviewedLearningContent.py` verifies the promoted snapshot and deterministic ZIP builds; `--apply` rebuilds local deliveries. Earlier authoring scripts describe historical revisions. `tools/Talunivo.PackageValidator` checks the actual app parser, catalog metadata, checksums and generated lessons. JSON Schema is checked separately. The old productive sources remain in `docs/content/archive/learning-content-before-revision-4.zip` in the app repository.
 
-See [revision 3 notes](REVISION-3.md) for the corrections and update behavior.
+This is an introductory collection, not a certified A1 course. A confirmed device import and final UI verification remain separate checks. Local preparation does not publish packages.

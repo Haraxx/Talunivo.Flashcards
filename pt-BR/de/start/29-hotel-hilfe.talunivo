@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-29-hotel-hilfe",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "29 · Kleine Probleme im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "ar-condicionado",
       "translation": "Klimaanlage",
       "isVocabulary": true,
-      "example": "O ar-condicionado não funciona. Posso trocar de quarto?",
-      "exampleTranslation": "Die Klimaanlage funktioniert nicht. Kann ich das Zimmer wechseln?",
-      "explanation": "O ar-condicionado; mit Bindestrich."
+      "example": "O ar-condicionado não funciona.",
+      "exampleTranslation": "Die Klimaanlage funktioniert nicht.",
+      "explanation": "O ar-condicionado ist die Klimaanlage und wird mit Bindestrich geschrieben. Não funciona heißt funktioniert nicht. Der kurze Satz benennt hier das Problem; eine weitere Bitte kann anschließend folgen."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Não tem água quente.",
       "exampleTranslation": "Es gibt kein warmes Wasser.",
-      "explanation": "A água quente; quente bleibt für beide Genera gleich."
+      "explanation": "Água quente ist hier warmes Wasser. Quente bleibt in der Einzahl bei männlichen und weiblichen Nomen gleich und kann je nach Zusammenhang auch heiß bedeuten. Não tem … heißt im brasilianischen Alltag hier es gibt kein …"
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Preciso de uma toalha limpa.",
       "exampleTranslation": "Ich brauche ein sauberes Handtuch.",
-      "explanation": "A toalha; limpa bedeutet sauber."
+      "explanation": "A toalha, Plural toalhas, ist hier ein Handtuch. Limpa heißt sauber und ist weiblich wegen toalha. Preciso de … ist das bekannte Bedarfsmuster; der Satz bittet im Hotelkontext um ein sauberes Handtuch."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Pode limpar o quarto amanhã?",
       "exampleTranslation": "Können Sie das Zimmer morgen reinigen?",
-      "explanation": "Limpar o quarto bedeutet das Zimmer reinigen."
+      "explanation": "Limpar bedeutet reinigen oder sauber machen. Pode limpar …? ist hier eine höfliche Bitte; o quarto ist das Hotelzimmer. Amanhã bedeutet morgen und nennt den gewünschten Tag, noch keine bestimmte Uhrzeit."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Perdi a chave do quarto.",
       "exampleTranslation": "Ich habe den Zimmerschlüssel verloren.",
-      "explanation": "Perdi ist Vergangenheit: ich habe verloren."
+      "explanation": "Perder bedeutet verlieren. Perdi ist hier die Vergangenheitsform ich habe verloren. A chave do quarto ist der Zimmerschlüssel aus dem vorherigen Paket; es wird ein bereits geschehenes Problem beschrieben."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Tem um cobertor extra?",
       "exampleTranslation": "Gibt es eine zusätzliche Decke?",
-      "explanation": "O cobertor bezeichnet eine wärmende Decke."
+      "explanation": "O cobertor, Plural cobertores, ist eine wärmende Decke, etwa fürs Bett. Extra bedeutet zusätzlich. Die deutsche Decke meint hier keine Zimmerdecke; die Frage betrifft ein Ausstattungsstück."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "O quarto está muito barulhento.",
       "exampleTranslation": "Das Zimmer ist sehr laut.",
-      "explanation": "Männliche Form; weiblich barulhenta."
+      "explanation": "Barulhento bedeutet hier laut beziehungsweise voller störender Geräusche. Die männliche Form richtet sich nach o quarto; weiblich heißt es barulhenta. Muito verstärkt die Beschreibung zu sehr laut."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Posso trocar de quarto?",
       "exampleTranslation": "Kann ich das Zimmer wechseln?",
-      "explanation": "Trocar de quarto bedeutet das Zimmer wechseln."
+      "explanation": "Trocar de quarto heißt das Zimmer wechseln. Vergleiche trocar de linha aus Paket 26: Das Muster trocar de … bleibt gleich, der Bezug ändert sich. Posso …? fragt hier nach der Möglichkeit eines Wechsels."
     }
   ]
 }

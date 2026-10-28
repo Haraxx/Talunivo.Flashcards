@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-03-befinden",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "03 · Befinden und Gefühle",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "hoje",
       "translation": "heute",
       "isVocabulary": true,
-      "example": "Hoje estou bem, mas um pouco cansada.",
-      "exampleTranslation": "Heute geht es mir gut, aber ich bin ein bisschen müde.",
-      "explanation": "Hoje bezeichnet den heutigen Tag."
+      "example": "Hoje estou bem.",
+      "exampleTranslation": "Heute geht es mir gut.",
+      "explanation": "Hoje bedeutet heute. Hoje estou bem heißt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es verändert seine Form nicht."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Estou bem, e você?",
       "exampleTranslation": "Mir geht es gut, und dir?",
-      "explanation": "Bem beschreibt hier das Befinden; estou bem = mir geht es gut."
+      "explanation": "Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E você? fragt zurück: und dir? Bem bleibt unverändert; die Form hängt nicht von der sprechenden Person ab."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "feliz",
       "translation": "glücklich",
       "isVocabulary": true,
-      "example": "Estou muito feliz.",
-      "exampleTranslation": "Ich bin sehr glücklich.",
-      "explanation": "Für männliche und weibliche Personen gleich; Plural felizes."
+      "example": "Estou feliz.",
+      "exampleTranslation": "Ich bin glücklich.",
+      "explanation": "Feliz bedeutet glücklich. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt felizes. Estou feliz beschreibt hier das aktuelle Gefühl."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "triste",
       "translation": "traurig",
       "isVocabulary": true,
-      "example": "Estou um pouco triste.",
-      "exampleTranslation": "Ich bin ein bisschen traurig.",
-      "explanation": "Für männliche und weibliche Personen gleich; Plural tristes."
+      "example": "Estou triste.",
+      "exampleTranslation": "Ich bin traurig.",
+      "explanation": "Triste bedeutet traurig. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt tristes. Estou triste beschreibt hier das aktuelle Gefühl."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Estou cansado.",
       "exampleTranslation": "Ich bin müde.",
-      "explanation": "Männliche Form; weiblich cansada."
+      "explanation": "Cansado ist die männliche Einzahl, cansada die weibliche. Estou cansado bedeutet ich bin müde, wenn die sprechende Person die männliche Form verwendet. Die Form wird nicht aus einem Avatar abgeleitet."
     },
     {
       "id": "karte-06",
@@ -63,9 +63,9 @@
       "expression": "cansada",
       "translation": "müde (weiblich)",
       "isVocabulary": true,
-      "example": "Estou cansada também.",
-      "exampleTranslation": "Ich bin auch müde.",
-      "explanation": "Weibliche Form; männlich cansado."
+      "example": "Estou cansada.",
+      "exampleTranslation": "Ich bin müde.",
+      "explanation": "Cansada ist die weibliche Einzahl, cansado die männliche. Estou cansada bedeutet ich bin müde, wenn die sprechende Person die weibliche Form verwendet. Beide Beispielsätze haben dieselbe deutsche Übersetzung."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Está tudo bem.",
       "exampleTranslation": "Es ist alles in Ordnung.",
-      "explanation": "Tudo bem? fragt nach dem Befinden."
+      "explanation": "Tudo bedeutet alles. Está tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut?"
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Mais ou menos.",
       "exampleTranslation": "So einigermaßen.",
-      "explanation": "Feste Wendung für eine mittlere Einschätzung."
+      "explanation": "Als Antwort auf Tudo bem? bedeutet mais ou menos so einigermaßen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungefähr bei einer Menge. Hier wird das Befinden geübt."
     }
   ]
 }

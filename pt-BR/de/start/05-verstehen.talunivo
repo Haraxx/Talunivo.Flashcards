@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-05-verstehen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "05 · Verstehen und Nachfragen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "entender",
       "translation": "verstehen",
       "isVocabulary": true,
-      "example": "Não entendi. Pode repetir mais devagar?",
-      "exampleTranslation": "Ich habe es nicht verstanden. Kannst du es langsamer wiederholen?",
-      "explanation": "Não entendi ist Vergangenheit: ich habe es nicht verstanden."
+      "example": "Não entendi.",
+      "exampleTranslation": "Ich habe es nicht verstanden.",
+      "explanation": "Entender bedeutet verstehen. Entendi ist hier die Vergangenheitsform für ich habe verstanden; não verneint sie. Não entendi heißt ich habe es nicht verstanden. Die Gegenwartsform wäre não entendo."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "devagar",
       "translation": "langsam",
       "isVocabulary": true,
-      "example": "Pode falar mais devagar?",
-      "exampleTranslation": "Kannst du langsamer sprechen?",
-      "explanation": "Mais devagar bedeutet langsamer."
+      "example": "Pode falar mais devagar, por favor?",
+      "exampleTranslation": "Kannst du bitte langsamer sprechen?",
+      "explanation": "Devagar bedeutet langsam, mais devagar langsamer. Pode falar …? heißt hier kannst du … sprechen? Die Bitte betrifft das Sprechtempo; pode repetir? bittet darum, etwas zu wiederholen."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "O que isso significa?",
       "exampleTranslation": "Was bedeutet das?",
-      "explanation": "Significa ist die Form zu isso: das bedeutet."
+      "explanation": "Significar bedeutet bedeuten. Significa ist die hier verwendete Form; isso heißt das. O que isso significa? fragt nach der Bedeutung eines Wortes, Ausdrucks oder gezeigten Zeichens."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Como se diz isso em português?",
       "exampleTranslation": "Wie sagt man das auf Portugiesisch?",
-      "explanation": "Como se diz …? = Wie sagt man …?"
+      "explanation": "Dizer bedeutet sagen. Como se diz …? heißt wie sagt man …? Isso bedeutet das, em português auf Portugiesisch. Hier wird nach einem Ausdruck gefragt, nicht nach seiner Schreibweise."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Como se escreve seu nome?",
       "exampleTranslation": "Wie schreibt man deinen Namen?",
-      "explanation": "Como se escreve …? = Wie schreibt man …?"
+      "explanation": "Escrever bedeutet schreiben. Como se escreve …? fragt nach der Schreibweise. Seu nome heißt hier dein Name. Die Frage kann mit geschriebenen Buchstaben oder einer buchstabierten Antwort beantwortet werden."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Você fala alemão?",
       "exampleTranslation": "Sprichst du Deutsch?",
-      "explanation": "Als Sprachname; dieselbe Schreibweise kann auch Deutscher bedeuten."
+      "explanation": "Alemão bezeichnet hier die deutsche Sprache. Sprachennamen werden im Portugiesischen kleingeschrieben. Você fala …? heißt sprichst du …? Die Bedeutung Deutscher ist in diesem Beispiel nicht gemeint."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Estou aprendendo português.",
       "exampleTranslation": "Ich lerne gerade Portugiesisch.",
-      "explanation": "Estou aprendendo beschreibt laufendes Lernen."
+      "explanation": "Aprender bedeutet lernen; aprendendo ist das Gerundium. Estou + Gerundium beschreibt hier den laufenden Lernprozess: Estou aprendendo português heißt ich lerne gerade Portugiesisch. Português bezeichnet die portugiesische Sprache."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Só um momento, por favor.",
       "exampleTranslation": "Nur einen Moment, bitte.",
-      "explanation": "O momento; só um momento = nur einen Moment."
+      "explanation": "O momento, Plural momentos. Só bedeutet hier nur; só um momento heißt nur einen Moment. Por favor macht daraus eine höfliche Bitte um etwas Zeit. Der Akut gehört zu só."
     }
   ]
 }

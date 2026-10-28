@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-37-koerper",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "37 · Körper und Befinden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "cabeça",
       "translation": "Kopf",
       "isVocabulary": true,
-      "example": "Estou com dor de cabeça e preciso descansar.",
-      "exampleTranslation": "Ich habe Kopfschmerzen und muss mich ausruhen.",
-      "explanation": "A cabeça; dor de cabeça = Kopfschmerzen."
+      "example": "Estou com dor de cabeça.",
+      "exampleTranslation": "Ich habe Kopfschmerzen.",
+      "explanation": "A cabeça, Plural cabeças, ist der Kopf. Dor de cabeça bedeutet Kopfschmerzen. Estou com … beschreibt hier das aktuelle Befinden; das portugiesische Muster verwendet com, die deutsche Wiedergabe haben."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Estou com dor de garganta.",
       "exampleTranslation": "Ich habe Halsschmerzen.",
-      "explanation": "A garganta bezeichnet den Hals innen beziehungsweise den Rachen."
+      "explanation": "A garganta, Plural gargantas, bezeichnet den inneren Hals beziehungsweise Rachen. Dor de garganta heißt Halsschmerzen. Das Beispiel wiederholt estou com + Beschwerde, ohne eine Ursache zu nennen."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Meu braço dói.",
       "exampleTranslation": "Mein Arm tut weh.",
-      "explanation": "O braço; Plural braços."
+      "explanation": "O braço, Plural braços, ist der Arm. Meu passt zum männlichen Nomen braço. Dói gehört zum Verb doer und bedeutet hier tut weh; der Satz beschreibt einen einzelnen Arm."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Minha perna está cansada.",
       "exampleTranslation": "Mein Bein ist müde.",
-      "explanation": "A perna; Plural pernas."
+      "explanation": "A perna, Plural pernas, heißt Bein. Minha und cansada passen zur weiblichen Form perna. Diese Formen beziehen sich auf das Bein, nicht auf das Geschlecht der sprechenden Person."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Preciso descansar os pés.",
       "exampleTranslation": "Ich muss meine Füße ausruhen.",
-      "explanation": "Plural von o pé; der Akut bleibt erhalten."
+      "explanation": "O pé heißt Fuß, os pés heißt die Füße. Der Akut bleibt im Plural erhalten. Preciso descansar heißt ich muss ausruhen; bei den eigenen Körperteilen verwendet das Portugiesische hier den Artikel os, das Deutsche meine."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Lave as mãos, por favor.",
       "exampleTranslation": "Wasch dir bitte die Hände.",
-      "explanation": "Plural von a mão; das ã bleibt erhalten."
+      "explanation": "A mão heißt Hand, as mãos heißt die Hände. Das Wort ist trotz der Endung -ão weiblich. Lave ist hier die Aufforderungsform von lavar zur Ansprache mit você; por favor macht die Bitte ausdrücklich."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Estou com dor de barriga.",
       "exampleTranslation": "Ich habe Bauchschmerzen.",
-      "explanation": "A barriga; dor de barriga = Bauchschmerzen."
+      "explanation": "A barriga, Plural barrigas, heißt Bauch. Dor de barriga bedeutet Bauchschmerzen. Das bekannte Muster estou com … beschreibt die Beschwerde; barriga bezeichnet nicht ausschließlich den Magen."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Meus olhos estão vermelhos.",
       "exampleTranslation": "Meine Augen sind rot.",
-      "explanation": "Plural von o olho."
+      "explanation": "O olho heißt Auge, os olhos heißt die Augen. Meus und vermelhos stehen wie olhos im männlichen Plural. Estão ist die Mehrzahlform zu está; der Satz beschreibt einen sichtbaren Zustand."
     }
   ]
 }

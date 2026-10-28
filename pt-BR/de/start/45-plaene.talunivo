@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-45-plaene",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "45 · Pläne für morgen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Amanhã vou trabalhar de manhã.",
       "exampleTranslation": "Morgen werde ich vormittags arbeiten.",
-      "explanation": "Vou trabalhar drückt eine zukünftige Handlung aus."
+      "explanation": "Trabalhar heißt arbeiten. Vou + Infinitiv drückt hier einen Plan der sprechenden Person aus. Amanhã bedeutet morgen, de manhã morgens oder vormittags; beides zusammen heißt morgen am Vormittag."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Vou visitar minha irmã.",
       "exampleTranslation": "Ich werde meine Schwester besuchen.",
-      "explanation": "Vou visitar = ich werde besuchen."
+      "explanation": "Visitar heißt besuchen. Vou visitar bezeichnet hier meinen geplanten Besuch; minha irmã heißt meine Schwester. Im Portugiesischen folgt die besuchte Person hier direkt auf visitar, ohne eine zusätzliche Präposition."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "comprar",
       "translation": "kaufen",
       "isVocabulary": true,
-      "example": "Vamos comprar comida.",
-      "exampleTranslation": "Wir werden Lebensmittel einkaufen.",
-      "explanation": "Vamos comprar = wir werden kaufen."
+      "example": "Amanhã vamos comprar comida.",
+      "exampleTranslation": "Morgen werden wir Lebensmittel einkaufen.",
+      "explanation": "Comprar heißt kaufen; comida bezeichnet hier Essen beziehungsweise Lebensmittel. Vamos + Infinitiv gehört zu wir. Amanhã nennt morgen als Zeitpunkt; vamos comprar kann im Gespräch auch einen gemeinsamen Vorschlag ausdrücken."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Ela vai chegar à tarde.",
       "exampleTranslation": "Sie wird am Nachmittag ankommen.",
-      "explanation": "Vai chegar = sie wird ankommen."
+      "explanation": "Chegar heißt ankommen. Vai + Infinitiv gehört hier zu ela, sie in der Einzahl. À tarde bedeutet am Nachmittag; eine genaue Uhrzeit und ein Ankunftsort werden nicht genannt."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Você vai viajar no fim de semana?",
       "exampleTranslation": "Wirst du am Wochenende verreisen?",
-      "explanation": "Vai viajar = du wirst verreisen bei você."
+      "explanation": "Viajar heißt reisen oder verreisen. Vai gehört im Satz zu você; no fim de semana bedeutet am Wochenende. Die Frage nennt weder Reiseziel noch Verkehrsmittel."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Não vou sair hoje.",
       "exampleTranslation": "Ich werde heute nicht ausgehen.",
-      "explanation": "Hier ausgehen; je nach Kontext auch weggehen oder losgehen."
+      "explanation": "Sair bedeutet hier ausgehen, je nach Zusammenhang auch weggehen oder hinausgehen. Não steht vor vou und verneint den Zukunftssatz. Hoje bedeutet heute; die Aussage nennt keine Ursache für den Plan."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "O que você vai fazer amanhã?",
       "exampleTranslation": "Was wirst du morgen machen?",
-      "explanation": "O que você vai fazer? = Was wirst du machen?"
+      "explanation": "Fazer heißt machen oder tun. O que fragt hier was, você vai fazer nach der geplanten Tätigkeit der angesprochenen Person. Amanhã bedeutet morgen; es handelt sich um eine offene Frage."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "ficar",
       "translation": "bleiben",
       "isVocabulary": true,
-      "example": "Vamos ficar em casa.",
-      "exampleTranslation": "Wir werden zu Hause bleiben.",
-      "explanation": "Vamos ficar = wir werden bleiben."
+      "example": "Amanhã vamos ficar em casa.",
+      "exampleTranslation": "Morgen werden wir zu Hause bleiben.",
+      "explanation": "Ficar heißt hier bleiben. Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause. Amanhã legt den Zeitpunkt auf morgen fest. Als Gesprächsbeitrag kann vamos auch einen Vorschlag einleiten."
     }
   ]
 }

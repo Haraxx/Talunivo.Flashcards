@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-09-uhrzeit",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "09 · Uhrzeit und Verabredungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Que horas são?",
       "exampleTranslation": "Wie spät ist es?",
-      "explanation": "A hora; Que horas são? fragt nach der Uhrzeit."
+      "explanation": "A hora, Plural horas. Que horas são? ist die feste Frage nach der Uhrzeit. Hora kann auch eine Zeitdauer von einer Stunde bezeichnen; hier geht es um die Uhrzeit."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "É uma hora.",
       "exampleTranslation": "Es ist ein Uhr.",
-      "explanation": "Bei ein Uhr: É uma hora, mit Singular."
+      "explanation": "Für ein Uhr sagt man É uma hora, mit é im Singular. Hora ist weiblich, deshalb uma. In einer anderen Satzumgebung kann uma hora eine Stunde Dauer bedeuten; hier wird ein Uhr angegeben."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "São duas horas.",
       "exampleTranslation": "Es ist zwei Uhr.",
-      "explanation": "Ab zwei Uhr: São duas horas, mit Plural."
+      "explanation": "Für zwei Uhr sagt man São duas horas, mit são im Plural. Horas ist weiblich, deshalb duas. Vergleiche É uma hora für ein Uhr mit São duas horas für zwei Uhr."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "São três e meia.",
       "exampleTranslation": "Es ist halb vier.",
-      "explanation": "Bei Uhrzeiten bedeutet e meia und eine halbe Stunde; três e meia = halb vier."
+      "explanation": "Bei Uhrzeiten bedeutet e meia eine halbe Stunde nach der genannten Stunde. Três e meia ist 3:30, auf Deutsch halb vier. Meia bezieht sich auf die weibliche hora; es heißt hier nicht meio."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "São quatro e quinze.",
       "exampleTranslation": "Es ist Viertel nach vier.",
-      "explanation": "Quatro e quinze = Viertel nach vier; fünfzehn Minuten nach vier."
+      "explanation": "Quinze ist 15. Bei São quatro e quinze sind fünfzehn Minuten nach vier gemeint: 4:15 oder Viertel nach vier. Die Zahl aus dem Preispaket wird hier für Minuten verwendet."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "São dez para as cinco.",
       "exampleTranslation": "Es ist zehn vor fünf.",
-      "explanation": "Dez para as cinco = zehn Minuten vor fünf."
+      "explanation": "Dez para as cinco bedeutet zehn Minuten vor fünf, also 4:50. Die Zielstunde steht nach para as. Dez para allein nennt noch keine vollständige Uhrzeit."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "A aula começa às oito.",
       "exampleTranslation": "Der Unterricht beginnt um acht.",
-      "explanation": "A aula; às oito = um acht Uhr."
+      "explanation": "A aula, Plural aulas. Começa bedeutet beginnt; às oito heißt um acht Uhr. Vergleiche São oito horas = Es ist acht Uhr mit às oito = um acht Uhr. Für um ein Uhr heißt es à uma."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "meio-dia",
       "translation": "Mittag; zwölf Uhr mittags",
       "isVocabulary": true,
-      "example": "Vamos nos encontrar ao meio-dia.",
-      "exampleTranslation": "Treffen wir uns um zwölf Uhr mittags.",
-      "explanation": "O meio-dia; ao meio-dia = um zwölf Uhr mittags."
+      "example": "É meio-dia.",
+      "exampleTranslation": "Es ist zwölf Uhr mittags.",
+      "explanation": "O meio-dia bezeichnet Mittag, also zwölf Uhr mittags. É meio-dia nennt die Uhrzeit. Ao meio-dia bedeutet dagegen um zwölf Uhr mittags und nennt einen Zeitpunkt für eine Handlung."
     }
   ]
 }

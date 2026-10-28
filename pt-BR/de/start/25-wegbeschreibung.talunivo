@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-25-wegbeschreibung",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "25 · Nach dem Weg fragen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Como chego ao centro?",
       "exampleTranslation": "Wie komme ich ins Zentrum?",
-      "explanation": "O centro; hier das Stadtzentrum."
+      "explanation": "O centro ist hier das Stadtzentrum. Como chego …? bedeutet wie komme ich …? Ao ist a + o; ao centro nennt das Ziel ins beziehungsweise zum Zentrum."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Siga em frente.",
       "exampleTranslation": "Gehen Sie geradeaus.",
-      "explanation": "Nach siga bedeutet em frente geradeaus; em frente a kann gegenüber bedeuten."
+      "explanation": "Siga ist hier eine höfliche Weganweisung. Em frente bedeutet in diesem Satz geradeaus. Das ist ein anderes Muster als em frente a einem Bezugspunkt, das eine Lage vor oder gegenüber etwas beschreibt."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Vire à direita.",
       "exampleTranslation": "Biegen Sie rechts ab.",
-      "explanation": "Bei einer Weganweisung: nach rechts."
+      "explanation": "Vire bedeutet hier biegen Sie ab. À direita gibt in dieser Anweisung die Richtung nach rechts an; das à gehört zur Wendung. Bei einer Lagebeschreibung kann à direita rechts gelegen bedeuten."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Vire à esquerda.",
       "exampleTranslation": "Biegen Sie links ab.",
-      "explanation": "Bei einer Weganweisung: nach links."
+      "explanation": "À esquerda bedeutet in dieser Weganweisung nach links. Vire heißt hier biegen Sie ab. Vergleiche à esquerda mit à direita = nach rechts; die Perspektive ist die der Person, die dem Weg folgt."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Atravesse a rua.",
       "exampleTranslation": "Überqueren Sie die Straße.",
-      "explanation": "A rua; atravessar bedeutet überqueren."
+      "explanation": "A rua, Plural ruas. Atravesse ist hier die Anweisung überqueren Sie. Gemeint ist ein Wechsel auf die andere Straßenseite, nicht das Weitergehen entlang der Straße."
     },
     {
       "id": "karte-06",
@@ -63,9 +63,9 @@
       "expression": "semáforo",
       "translation": "Ampel",
       "isVocabulary": true,
-      "example": "É depois do semáforo.",
-      "exampleTranslation": "Es ist hinter der Ampel.",
-      "explanation": "O semáforo; depois do = hinter beziehungsweise nach dem."
+      "example": "Vire à direita depois do semáforo.",
+      "exampleTranslation": "Biegen Sie nach der Ampel rechts ab.",
+      "explanation": "O semáforo, Plural semáforos, ist eine Ampel. Depois do bedeutet hier nach dem Passieren des Bezugspunkts; do ist de + o. Die Anweisung verbindet die bekannte Rechtsabbiegung mit der Ampel."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "ao lado",
       "translation": "daneben",
       "isVocabulary": true,
-      "example": "Fica ao lado da escola.",
-      "exampleTranslation": "Es liegt neben der Schule.",
-      "explanation": "Vor einem Bezugswort: ao lado de, neben."
+      "example": "Fica ao lado do banco.",
+      "exampleTranslation": "Es liegt neben der Bank.",
+      "explanation": "Ao lado bedeutet daneben. Mit einem genannten Bezugspunkt verwendet man ao lado de: ao lado do banco = neben der Bank. Do ist de + o. Die Angabe allein legt nicht fest, ob links oder rechts daneben gemeint ist."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Pode me mostrar no mapa?",
       "exampleTranslation": "Können Sie es mir auf der Karte zeigen?",
-      "explanation": "O mapa ist trotz der Endung -a männlich."
+      "explanation": "O mapa, Plural mapas, ist trotz -a männlich und bezeichnet hier eine geografische Karte oder einen Stadtplan. No mapa ist em + o mapa: auf der Karte. Mostrar bedeutet zeigen; gemeint ist keine Zahlungs- oder Speisekarte."
     }
   ]
 }
