@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "cafe-zusatz",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "Noch mehr im Café",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Tem uma mesa livre?",
       "exampleTranslation": "Ist ein Tisch frei?",
-      "explanation": "A mesa, Plural mesas; livre bedeutet hier frei oder unbesetzt."
+      "explanation": "A mesa livre heißt freier oder unbesetzter Tisch; der Plural lautet mesas livres. Tem …? fragt hier nach dem Vorhandensein. Frei bedeutet nicht kostenlos."
     },
     {
       "id": "conta",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "A conta, por favor.",
       "exampleTranslation": "Die Rechnung, bitte.",
-      "explanation": "A conta, Plural contas; hier die Rechnung im Café."
+      "explanation": "A conta, Plural contas, bezeichnet hier die Rechnung im Café. Por favor ergänzt die Bitte. Ein anderer Gebrauch von conta ist etwa Konto; diese Bedeutung passt hier nicht."
     },
     {
       "id": "sem-acucar",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Um café sem açúcar, por favor.",
       "exampleTranslation": "Einen Kaffee ohne Zucker, bitte.",
-      "explanation": "Sem bedeutet ohne; o açúcar ist grammatisch männlich."
+      "explanation": "Sem açúcar heißt ohne Zucker; sem ist die Präposition ohne. O açúcar ist männlich, wird in dieser Wendung aber ohne Artikel verwendet. Die Bitte nennt keine weiteren Zusätze."
     }
   ]
 }

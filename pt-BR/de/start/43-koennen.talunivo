@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-43-koennen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "43 · Können und Erlaubnis",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Você fala português?",
       "exampleTranslation": "Sprichst du Portugiesisch?",
-      "explanation": "Falar português = Portugiesisch sprechen."
+      "explanation": "Falar heißt sprechen. Fala gehört im Präsens hier zu você; português bezeichnet die Sprache und wird klein geschrieben. Die Frage betrifft Sprachkenntnisse, nennt aber noch kein bestimmtes Niveau."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Ainda não sei nadar.",
       "exampleTranslation": "Ich kann noch nicht schwimmen.",
-      "explanation": "Saber mit Infinitiv bezeichnet eine erlernte Fähigkeit; poder die Möglichkeit oder Erlaubnis."
+      "explanation": "Saber heißt wissen oder, mit Infinitiv, eine Tätigkeit können. Sei ist die Ich-Form; ainda não bedeutet noch nicht. Sei nadar beschreibt Schwimmfähigkeit. Posso nadar kann dagegen je nach Situation Möglichkeit oder Erlaubnis ausdrücken."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Você sabe cozinhar?",
       "exampleTranslation": "Kannst du kochen?",
-      "explanation": "Sabe cozinhar? = Kannst du kochen?"
+      "explanation": "Cozinhar heißt kochen im Sinn von Essen zubereiten. Sabe ist hier die Form von saber zu você. Sabe cozinhar? fragt nach der Fähigkeit, nicht danach, ob die Person gerade Zeit zum Kochen hat oder gern kocht."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Posso sentar aqui?",
       "exampleTranslation": "Darf ich mich hier hinsetzen?",
-      "explanation": "Sentar aqui = sich hier hinsetzen; auch sentar-se ist möglich."
+      "explanation": "Sentar heißt hier sich setzen; im brasilianischen Alltag ist die Form ohne Reflexivpronomen üblich. Posso sentar aqui? fragt, ob ich mich hier hinsetzen darf oder kann. Auch sentar-se ist möglich."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Pode usar meu telefone.",
       "exampleTranslation": "Du darfst mein Telefon benutzen.",
-      "explanation": "Pode usar = du darfst benutzen."
+      "explanation": "Usar heißt hier benutzen. Meu telefone bedeutet mein Telefon. Pode usar … ist in dieser Situation eine Erlaubnis oder ein Angebot; je nach Gespräch kann pode auch eine Möglichkeit ausdrücken. Usar im Apothekenpaket bezeichnet die Anwendung."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Não posso sair agora.",
       "exampleTranslation": "Ich kann jetzt nicht weggehen.",
-      "explanation": "Sair bedeutet je nach Kontext weggehen, ausgehen oder losgehen."
+      "explanation": "Sair bedeutet hier weggehen, in anderem Zusammenhang auch ausgehen oder hinausgehen. Não posso verneint eine Möglichkeit oder Erlaubnis; agora heißt jetzt. Warum die Person nicht weggehen kann, bleibt offen."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "abrir",
       "translation": "öffnen",
       "isVocabulary": true,
-      "example": "Você pode abrir isto?",
-      "exampleTranslation": "Kannst du das hier öffnen?",
-      "explanation": "Abrir isto = das hier öffnen."
+      "example": "Você pode abrir isto, por favor?",
+      "exampleTranslation": "Kannst du das hier bitte öffnen?",
+      "explanation": "Abrir heißt öffnen und ist aus Paket 31 bekannt. Isto bedeutet hier dies oder das hier; der Gegenstand ergibt sich aus der Situation. Você pode + Infinitiv kann als Bitte verwendet werden, statt nur eine Fähigkeit abzufragen."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Aqui não pode fumar.",
       "exampleTranslation": "Hier darf man nicht rauchen.",
-      "explanation": "Não pode fumar = man darf nicht rauchen."
+      "explanation": "Fumar heißt rauchen. Aqui não pode fumar drückt im brasilianischen Alltagsgebrauch hier ein Verbot aus. Die handelnde Person bleibt allgemein. Die Aussage ist ein erfundenes Sprachbeispiel, keine Auskunft über einen realen Ort."
     }
   ]
 }

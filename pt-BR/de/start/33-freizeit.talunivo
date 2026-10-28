@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-33-freizeit",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "33 · Freizeit und Hobbys",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "ler",
       "translation": "lesen",
       "isVocabulary": true,
-      "example": "No tempo livre, leio e ouço música.",
-      "exampleTranslation": "In meiner Freizeit lese ich und höre Musik.",
-      "explanation": "Leio ist die Form ich lese."
+      "example": "No tempo livre, leio.",
+      "exampleTranslation": "In meiner Freizeit lese ich.",
+      "explanation": "Ler heißt lesen; leio ist die unregelmäßige Ich-Form im Präsens. No tempo livre bedeutet in der Freizeit. Paket 32 verwendet denselben Infinitiv nach gosto de; hier steht das Verb selbst in der Ich-Form."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Ouço música no ônibus.",
       "exampleTranslation": "Ich höre im Bus Musik.",
-      "explanation": "Ouço ist die Form ich höre."
+      "explanation": "Ouvir heißt hören; ouço ist die unregelmäßige Ich-Form. Ouço música bedeutet ich höre Musik. No ônibus heißt im Bus; der Satz beschreibt einen Ort der Tätigkeit."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Assisto a filmes em casa.",
       "exampleTranslation": "Ich schaue zu Hause Filme.",
-      "explanation": "Plural von o filme."
+      "explanation": "O filme, Plural os filmes, heißt Film beziehungsweise Filme. Assisto a filmes ist hier das Muster für ich schaue Filme. Em casa bedeutet zu Hause. Im brasilianischen Alltag hört man assistir auch ohne a."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Jogo futebol aos sábados.",
       "exampleTranslation": "Ich spiele samstags Fußball.",
-      "explanation": "Jogar wird für Ballspiele und Spiele verwendet; ein Instrument spielen heißt tocar."
+      "explanation": "Jogar heißt bei Sport und Spielen spielen; jogo ist die Ich-Form. Aos sábados bedeutet samstags, also wiederholt. Ein Instrument spielen heißt tocar; jogar ist nicht auf Sport beschränkt."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Faço uma caminhada no parque.",
       "exampleTranslation": "Ich gehe im Park spazieren.",
-      "explanation": "A caminhada; fazer uma caminhada = spazieren gehen."
+      "explanation": "A caminhada, Plural caminhadas, bezeichnet hier einen Spaziergang. Faço ist die Ich-Form von fazer. Fazer uma caminhada bedeutet spazieren gehen; je nach Strecke kann caminhada auch eine Wanderung bezeichnen."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Tiro fotos da cidade.",
       "exampleTranslation": "Ich fotografiere die Stadt.",
-      "explanation": "Plural von a foto; tirar fotos = fotografieren."
+      "explanation": "A foto, Plural as fotos, heißt Foto beziehungsweise Fotos. Tirar fotos bedeutet Fotos machen; tiro ist die Ich-Form. Da cidade heißt hier von der Stadt und bezeichnet das Motiv."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Gosto de nadar no mar.",
       "exampleTranslation": "Ich schwimme gern im Meer.",
-      "explanation": "Nadar no mar bedeutet im Meer schwimmen."
+      "explanation": "Nadar heißt schwimmen. Nach gosto de steht der Infinitiv; no mar bedeutet im Meer. Das Beispiel beschreibt eine Vorliebe und gibt keine Auskunft über die Schwimmfähigkeit oder Bedingungen an einem bestimmten Ort."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "No tempo livre, desenho.",
       "exampleTranslation": "In meiner Freizeit zeichne ich.",
-      "explanation": "Desenho ist die Form ich zeichne."
+      "explanation": "Desenhar heißt zeichnen; desenho ist hier die Ich-Form im Präsens. Als Nomen bedeutet o desenho die Zeichnung. Im Beispielsatz zeigt die Satzstellung die Tätigkeit an."
     }
   ]
 }

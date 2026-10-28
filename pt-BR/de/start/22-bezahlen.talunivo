@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-22-bezahlen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "22 · Geld und Bezahlen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Quanto custa tudo?",
       "exampleTranslation": "Wie viel kostet alles zusammen?",
-      "explanation": "Tudo bezeichnet hier den gesamten Einkauf."
+      "explanation": "Tudo bedeutet alles und bezeichnet hier den gesamten Einkauf. Quanto custa tudo? fragt nach dem Gesamtbetrag, nicht nach dem Preis eines einzelnen Artikels. Dasselbe Wort steht in Tudo bem? in einem anderen Gesprächsmuster."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Posso pagar em dinheiro?",
       "exampleTranslation": "Kann ich bar bezahlen?",
-      "explanation": "O dinheiro; em dinheiro = bar."
+      "explanation": "O dinheiro bedeutet Geld; bei einer Zahlungsart ist em dinheiro bar oder mit Bargeld. Posso pagar …? fragt nach der Möglichkeit zu bezahlen. Die Frage selbst sagt noch nicht, ob diese Zahlungsart angenommen wird."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Aceita cartão de débito?",
       "exampleTranslation": "Akzeptieren Sie eine Debitkarte?",
-      "explanation": "O cartão de débito; débito trägt einen Akut."
+      "explanation": "O cartão de débito ist eine Debitkarte; der Akut gehört zu débito. Aceita …? fragt hier höflich, ob die Zahlungsart angenommen wird. Eine Kreditkarte wäre cartão de crédito und ist nicht dieselbe Bezeichnung."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Vou pagar com Pix.",
       "exampleTranslation": "Ich werde mit Pix bezahlen.",
-      "explanation": "Name eines brasilianischen Zahlungssystems."
+      "explanation": "Pix ist der Name eines brasilianischen Systems für sofortige Zahlungen. Vou pagar bedeutet ich werde bezahlen; com Pix benennt hier die Zahlungsart. Der Satz ist ein Sprachbeispiel und keine Angabe darüber, welche Zahlungsarten dir vor Ort zur Verfügung stehen."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Preciso de troco.",
       "exampleTranslation": "Ich brauche Wechselgeld.",
-      "explanation": "O troco bezeichnet Wechselgeld."
+      "explanation": "O troco ist Wechselgeld. Preciso de … heißt ich brauche … Der Satz nennt einen Bedarf, aber noch nicht den gezahlten Betrag oder die Höhe des zurückzugebenden Geldes."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Aqui estão cinquenta reais.",
       "exampleTranslation": "Hier sind fünfzig Reais.",
-      "explanation": "Plural von o real, der brasilianischen Währung."
+      "explanation": "O real ist die Einzahl der brasilianischen Währung; reais ist die Mehrzahl. Cinquenta reais sind fünfzig Reais. Aqui estão … heißt hier sind … und steht passend zur Mehrzahl."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Pode me dar o recibo?",
       "exampleTranslation": "Können Sie mir den Beleg geben?",
-      "explanation": "O recibo bezeichnet einen Zahlungsbeleg."
+      "explanation": "O recibo, Plural recibos, bezeichnet hier einen Zahlungsbeleg. Pode me dar …? ist eine höfliche Bitte: Können Sie mir … geben? Je nach Anrede kann auf Deutsch auch kannst du mir … passen."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "O valor está errado.",
       "exampleTranslation": "Der Betrag stimmt nicht.",
-      "explanation": "O valor; hier der zu zahlende Betrag."
+      "explanation": "O valor, Plural valores, ist hier der Betrag. Está errado bedeutet ist falsch oder stimmt nicht. In anderen Zusammenhängen kann valor Wert bedeuten; hier wird der angezeigte oder genannte Geldbetrag beanstandet."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-35-wetter",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "35 · Wetter und Jahreszeiten",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Como está o tempo hoje?",
       "exampleTranslation": "Wie ist das Wetter heute?",
-      "explanation": "O tempo bezeichnet hier das Wetter; auch Zeit möglich."
+      "explanation": "O tempo bedeutet in dieser Frage Wetter. Como está …? fragt hier nach dem aktuellen Zustand; hoje heißt heute. In Você tem tempo? aus Paket 34 bedeutet tempo dagegen Zeit."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Hoje está quente.",
       "exampleTranslation": "Heute ist es heiß.",
-      "explanation": "Quente ist für beide Genera gleich."
+      "explanation": "Quente heißt heiß, je nach Zusammenhang auch warm. Hoje está quente beschreibt das heutige Wetter. Quente hat dieselbe Form bei männlichen und weiblichen Nomen; die Mehrzahl lautet quentes."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Está fazendo frio.",
       "exampleTranslation": "Es ist kalt.",
-      "explanation": "Männliche Form; weiblich fria."
+      "explanation": "Frio heißt kalt. Está fazendo frio ist ein Wettermuster für es ist gerade kalt; frio steht darin unverändert. Bei einem beschriebenen Nomen passt sich das Adjektiv an: água fria heißt kaltes Wasser."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Está chovendo muito.",
       "exampleTranslation": "Es regnet stark.",
-      "explanation": "Chovendo bezeichnet den laufenden Vorgang: es regnet."
+      "explanation": "Chover heißt regnen; chovendo ist das Gerundium. Está chovendo ist hier die Verlaufsform und bedeutet es regnet gerade. Muito verstärkt zu stark oder viel. Der portugiesische Wettersatz braucht kein eigenes Wort für deutsches es."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "O céu está nublado.",
       "exampleTranslation": "Der Himmel ist bewölkt.",
-      "explanation": "Männliche Form; weiblich nublada."
+      "explanation": "Nublado heißt bewölkt und passt im Beispiel zum männlichen Nomen o céu, der Himmel. Mit einem weiblichen Nomen lautet die Form nublada. Die Aussage beschreibt den Zustand, ohne Regen zu behaupten."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Tem muito vento hoje.",
       "exampleTranslation": "Heute ist es sehr windig.",
-      "explanation": "O vento; tem muito vento = es ist sehr windig."
+      "explanation": "O vento bedeutet Wind. Tem muito vento heißt im brasilianischen Alltagsgebrauch es gibt viel Wind, idiomatisch es ist sehr windig. Muito bezieht sich hier auf das männliche Nomen vento."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "No verão, gosto de ir à praia.",
       "exampleTranslation": "Im Sommer gehe ich gern an den Strand.",
-      "explanation": "O verão; no verão = im Sommer."
+      "explanation": "O verão, Plural verões, heißt Sommer. No verão bedeutet im Sommer; ir à praia heißt an den Strand gehen. Das Beispiel nennt eine Vorliebe, keine für alle Regionen geltende Sommeraktivität."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "No inverno, uso um casaco.",
       "exampleTranslation": "Im Winter trage ich einen Mantel.",
-      "explanation": "O inverno; no inverno = im Winter."
+      "explanation": "O inverno, Plural invernos, heißt Winter; no inverno bedeutet im Winter. Uso ist hier die Ich-Form von usar im Sinn von tragen. Casaco kann je nach Kleidungsstück Mantel oder Jacke heißen."
     },
     {
       "id": "karte-09",
@@ -93,9 +93,9 @@
       "expression": "primavera",
       "translation": "Frühling",
       "isVocabulary": true,
-      "example": "Na primavera, gosto de caminhar no parque.",
-      "exampleTranslation": "Im Frühling gehe ich gern im Park spazieren.",
-      "explanation": "A primavera; na primavera = im Frühling."
+      "example": "Na primavera, caminho no parque.",
+      "exampleTranslation": "Im Frühling gehe ich im Park spazieren.",
+      "explanation": "A primavera, Plural primaveras, heißt Frühling. Na verbindet em + a und bedeutet hier im. Caminho ist im Satz die Ich-Form von caminhar, gehen oder spazieren gehen; die Tätigkeit ist ein persönliches Beispiel."
     },
     {
       "id": "karte-10",
@@ -105,7 +105,7 @@
       "isVocabulary": true,
       "example": "No outono, gosto de tomar chá.",
       "exampleTranslation": "Im Herbst trinke ich gern Tee.",
-      "explanation": "O outono; no outono = im Herbst. Jahreszeiten sind regional unterschiedlich ausgeprägt."
+      "explanation": "O outono, Plural outonos, heißt Herbst. No verbindet em + o; no outono bedeutet im Herbst. Gosto de tomar chá heißt ich trinke gern Tee. Aus den Jahreszeitennamen folgen hier keine festen Monate oder Wetterbedingungen."
     }
   ]
 }

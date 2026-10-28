@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-14-gegenstaende",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "14 · Dinge im Alltag",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "isto",
       "translation": "das hier",
       "isVocabulary": true,
-      "example": "Isto é um livro de português.",
-      "exampleTranslation": "Das hier ist ein Portugiesischbuch.",
-      "explanation": "Isto steht ohne nachfolgendes Nomen für etwas hier bei der sprechenden Person."
+      "example": "Isto é uma caneta.",
+      "exampleTranslation": "Das hier ist ein Stift.",
+      "explanation": "Isto bedeutet das hier und steht selbstständig: Isto é uma caneta. Vor einem Nomen verwendet man ein anderes Muster, zum Beispiel este livro = dieses Buch oder esta bolsa = diese Tasche. Es heißt nicht isto livro."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Isto é um livro.",
       "exampleTranslation": "Das hier ist ein Buch.",
-      "explanation": "O livro; Plural livros."
+      "explanation": "O livro, Plural livros. Isto é um livro heißt das hier ist ein Buch. Um passt zum männlichen Wort livro; für mehrere Bücher lautet die Wortgruppe livros."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Preciso de uma caneta.",
       "exampleTranslation": "Ich brauche einen Stift.",
-      "explanation": "A caneta ist ein Schreibstift, häufig ein Kugelschreiber; Bleistift heißt lápis."
+      "explanation": "A caneta, Plural canetas, bezeichnet einen Schreibstift, etwa einen Kugelschreiber. Ein Bleistift heißt lápis. Preciso de … heißt ich brauche …; die Präposition de gehört hier vor das Nomen."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Meu celular está na mesa.",
       "exampleTranslation": "Mein Handy liegt auf dem Tisch.",
-      "explanation": "O celular ist die in Brasilien übliche Bezeichnung für Handy."
+      "explanation": "O celular, Plural celulares, ist die in Brasilien übliche Bezeichnung für Handy. Na mesa bedeutet hier auf dem Tisch; na ist em + a. Está beschreibt hier den Ort, nicht ausdrücklich eine Liegeposition."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Onde estão minhas chaves?",
       "exampleTranslation": "Wo sind meine Schlüssel?",
-      "explanation": "Plural von a chave; die Schlüssel."
+      "explanation": "A chave ist ein Schlüssel; chaves ist die Mehrzahl. Onde estão …? bedeutet wo sind …? Minhas steht passend zur weiblichen Mehrzahl chaves. Die Frage bezieht sich hier auf mehrere Schlüssel."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Esta bolsa é sua?",
       "exampleTranslation": "Gehört diese Tasche dir?",
-      "explanation": "A bolsa; sua fragt hier nach dem Besitz."
+      "explanation": "A bolsa, Plural bolsas. Esta bolsa é sua? heißt gehört diese Tasche dir? Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person. Andere Bezüge von sua müssen aus dem Gespräch hervorgehen."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "O copo está vazio.",
       "exampleTranslation": "Das Glas ist leer.",
-      "explanation": "O copo ist ein Trinkglas; Material Glas heißt vidro."
+      "explanation": "O copo, Plural copos, ist hier ein Trinkglas. Das Material Glas heißt vidro. Está vazio bedeutet ist leer; vazio steht hier in der männlichen Form passend zu copo."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "A cadeira está ocupada.",
       "exampleTranslation": "Der Stuhl ist besetzt.",
-      "explanation": "A cadeira; ocupada bedeutet besetzt."
+      "explanation": "A cadeira, Plural cadeiras. Está ocupada bedeutet ist besetzt. Ocupada ist weiblich wegen des portugiesischen Wortes cadeira, obwohl Stuhl im Deutschen männlich ist."
     }
   ]
 }

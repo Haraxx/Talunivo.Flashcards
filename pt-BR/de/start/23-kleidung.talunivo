@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-23-kleidung",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "23 · Kleidung und Größen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "camiseta",
       "translation": "T-Shirt",
       "isVocabulary": true,
-      "example": "Esta camiseta está apertada. Tem um tamanho maior?",
-      "exampleTranslation": "Dieses T-Shirt ist zu eng. Gibt es eine größere Größe?",
-      "explanation": "A camiseta; nicht mit camisa, Hemd, verwechseln."
+      "example": "Esta camiseta é azul.",
+      "exampleTranslation": "Dieses T-Shirt ist blau.",
+      "explanation": "A camiseta, Plural camisetas, ist ein T-Shirt. Esta passt zum weiblichen Nomen; azul bleibt in der Einzahl unverändert. Camisa ist dagegen ein Hemd und nicht dieselbe Bezeichnung."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Preciso de uma calça.",
       "exampleTranslation": "Ich brauche eine Hose.",
-      "explanation": "A calça steht im Portugiesischen für eine Hose im Singular."
+      "explanation": "A calça, Plural calças. Uma calça steht im Portugiesischen für eine einzelne Hose, nicht für mehrere Hosen. Preciso de … ist das bereits bekannte Muster ich brauche …"
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Tem um tamanho maior?",
       "exampleTranslation": "Gibt es eine größere Größe?",
-      "explanation": "Unregelmäßige Steigerung von grande; bei beiden Genera gleich."
+      "explanation": "Maior ist die unregelmäßige Vergleichsform von grande: größer. Tamanho heißt Größe. Tem um tamanho maior? fragt nach einer größeren Ausführung; maior verändert sich hier nicht nach dem Genus."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Tem um tamanho menor?",
       "exampleTranslation": "Gibt es eine kleinere Größe?",
-      "explanation": "Unregelmäßige Steigerung von pequeno; bei beiden Genera gleich."
+      "explanation": "Menor ist die unregelmäßige Vergleichsform von pequeno: kleiner. Das Muster ist dasselbe wie bei maior, aber die Vergleichsrichtung ist umgekehrt. Eine bestimmte Größennummer wird damit nicht genannt."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Posso experimentar esta jaqueta?",
       "exampleTranslation": "Kann ich diese Jacke anprobieren?",
-      "explanation": "A jaqueta; experimentar bedeutet hier anprobieren."
+      "explanation": "A jaqueta, Plural jaquetas, ist eine Jacke. Experimentar heißt im Kleidungsgeschäft hier anprobieren. Posso …? fragt nach Erlaubnis; esta bezieht sich auf die gezeigte Jacke."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Onde fica o provador?",
       "exampleTranslation": "Wo ist die Umkleidekabine?",
-      "explanation": "O provador; hier die Umkleidekabine im Geschäft."
+      "explanation": "O provador, Plural provadores, ist hier die Umkleidekabine im Geschäft. Onde fica …? ist die bekannte Ortsfrage. Gemeint ist der Ort zum Anprobieren, nicht eine bestimmte Kleidungsgröße."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Estes sapatos estão apertados.",
       "exampleTranslation": "Diese Schuhe sind zu eng.",
-      "explanation": "Plural von o sapato."
+      "explanation": "O sapato ist ein Schuh; sapatos ist die Mehrzahl. Estes und apertados sind männliche Mehrzahlformen passend zu sapatos. Estão apertados bedeutet hier sind zu eng; eine genaue Schuhgröße wird nicht genannt."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Esta camiseta ficou boa.",
       "exampleTranslation": "Dieses T-Shirt passt gut.",
-      "explanation": "Weibliche Form von bom; bei Kleidung kann ficar boa gut passen bedeuten."
+      "explanation": "Boa ist die weibliche Form von bom und richtet sich hier nach camiseta. Ficou ist eine Vergangenheitsform von ficar; im Anprobekontext beschreibt ficou boa das Ergebnis: passt gut oder steht gut. Die passende deutsche Fassung hängt von der Situation ab."
     }
   ]
 }

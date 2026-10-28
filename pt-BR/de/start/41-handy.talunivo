@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-41-handy",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "41 · Handy und Kontakt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Qual é o seu número de telefone?",
       "exampleTranslation": "Wie lautet deine Telefonnummer?",
-      "explanation": "O número; número de telefone = Telefonnummer."
+      "explanation": "O número, Plural números, heißt hier Nummer. Número de telefone bedeutet Telefonnummer. Qual é o seu …? fragt nach der Angabe der angesprochenen Person; der Satz enthält noch keine Ziffernfolge."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "mensagem",
       "translation": "Nachricht",
       "isVocabulary": true,
-      "example": "Pode me mandar uma mensagem?",
-      "exampleTranslation": "Kannst du mir eine Nachricht schicken?",
-      "explanation": "A mensagem; mandar uma mensagem = eine Nachricht schicken."
+      "example": "Pode me mandar uma mensagem, por favor?",
+      "exampleTranslation": "Kannst du mir bitte eine Nachricht schicken?",
+      "explanation": "A mensagem, Plural mensagens, bedeutet Nachricht. Mandar uma mensagem heißt eine Nachricht schicken. Me bezieht sich hier auf die sprechende Person als Empfänger; im deutschen Satz steht mir. Ein bestimmter Nachrichtendienst wird nicht genannt."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Vou te ligar amanhã.",
       "exampleTranslation": "Ich rufe dich morgen an.",
-      "explanation": "Ligar para alguém = jemanden anrufen."
+      "explanation": "Ligar heißt im Telefonkontext anrufen. Vou + Infinitiv kündigt eine zukünftige Handlung an; te bezieht sich hier auf die angesprochene Person. Ligar para alguém heißt jemanden anrufen. Bei einem Gerät kann ligar auch einschalten bedeuten."
     },
     {
       "id": "karte-04",
@@ -44,8 +44,8 @@
       "translation": "Akku",
       "isVocabulary": true,
       "example": "Meu celular está sem bateria.",
-      "exampleTranslation": "Mein Handy hat keinen Akku mehr.",
-      "explanation": "A bateria; sem bateria = ohne Akkuladung."
+      "exampleTranslation": "Der Akku meines Handys ist leer.",
+      "explanation": "A bateria, Plural baterias, bedeutet beim Handy Akku. Estar sem bateria heißt hier keine Akkuladung mehr haben. Der Satz beschreibt einen leeren Akku und sagt nicht, dass das Bauteil im Handy fehlt."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Tem uma tomada aqui?",
       "exampleTranslation": "Gibt es hier eine Steckdose?",
-      "explanation": "A tomada bezeichnet eine Steckdose."
+      "explanation": "A tomada, Plural tomadas, ist die Steckdose. Tem …? fragt im brasilianischen Alltagsgebrauch hier nach dem Vorhandensein; aqui heißt hier. Die Frage enthält noch keine Angabe zur Nutzung der Steckdose."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Posso carregar meu celular?",
       "exampleTranslation": "Kann ich mein Handy aufladen?",
-      "explanation": "Carregar o celular = das Handy aufladen."
+      "explanation": "Carregar heißt hier aufladen; carregar o celular bedeutet das Handy aufladen. Posso ist die Ich-Form von poder. Die Frage kann je nach Situation nach einer Möglichkeit oder Erlaubnis fragen; andere Bedeutungen von carregar sind etwa tragen oder beladen."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Não tenho sinal aqui.",
       "exampleTranslation": "Ich habe hier keinen Empfang.",
-      "explanation": "O sinal; hier der Mobilfunkempfang."
+      "explanation": "O sinal, Plural sinais, heißt Signal; im Handygespräch ist hier Mobilfunkempfang gemeint. Não tenho verneint ich habe, aqui nennt den aktuellen Ort. Der Satz macht keine Aussage über eine bestimmte Netzabdeckung außerhalb der Beispielsituation."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "e-mail",
       "translation": "E-Mail",
       "isVocabulary": true,
-      "example": "Pode escrever seu endereço de e-mail?",
-      "exampleTranslation": "Kannst du deine E-Mail-Adresse aufschreiben?",
-      "explanation": "O e-mail; endereço de e-mail = E-Mail-Adresse."
+      "example": "Pode escrever seu endereço de e-mail, por favor?",
+      "exampleTranslation": "Kannst du deine E-Mail-Adresse bitte aufschreiben?",
+      "explanation": "O e-mail, Plural e-mails, bezeichnet eine E-Mail. Endereço de e-mail ist die E-Mail-Adresse; danach wird hier gefragt. Pode escrever …? bittet um das Aufschreiben, nicht um das Versenden einer Nachricht."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-39-apotheke",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "39 · In der Apotheke",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Quero falar com o farmacêutico.",
       "exampleTranslation": "Ich möchte mit dem Apotheker sprechen.",
-      "explanation": "O farmacêutico; weiblich a farmacêutica."
+      "explanation": "O farmacêutico heißt Apotheker; die weibliche Form lautet a farmacêutica. Falar com heißt mit jemandem sprechen. Quero falar com … nennt hier den Wunsch nach einer Ansprechperson."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Estou procurando uma farmácia aberta.",
       "exampleTranslation": "Ich suche eine geöffnete Apotheke.",
-      "explanation": "A farmácia; aberta bedeutet geöffnet."
+      "explanation": "A farmácia, Plural farmácias, bedeutet Apotheke. Estou procurando heißt ich suche gerade. Aberta ist die weibliche Form von aberto und passt zu farmácia; die Suche bestätigt keine tatsächlichen Öffnungszeiten."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Tenho alergia a amendoim.",
       "exampleTranslation": "Ich bin gegen Erdnüsse allergisch.",
-      "explanation": "A alergia; ter alergia a … = gegen … allergisch sein."
+      "explanation": "A alergia, Plural alergias, bedeutet Allergie. Tenho alergia a … heißt ich bin gegen … allergisch. Amendoim bezeichnet hier Erdnüsse als Lebensmittel; die Aussage ist ein erfundenes Gesprächsbeispiel."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Tenho uma receita médica.",
       "exampleTranslation": "Ich habe ein ärztliches Rezept.",
-      "explanation": "A receita médica bezeichnet ein ärztliches Rezept, kein Kochrezept."
+      "explanation": "A receita médica, Plural receitas médicas, ist das ärztliche Rezept. Médica beschreibt hier das weibliche Nomen receita und bezeichnet nicht eine Ärztin. Receita allein kann in anderem Kontext auch Kochrezept heißen."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Este remédio precisa de receita?",
       "exampleTranslation": "Ist dieses Medikament rezeptpflichtig?",
-      "explanation": "O remédio; hier ein Medikament, keine Empfehlung für eine bestimmte Behandlung."
+      "explanation": "O remédio, Plural remédios, heißt hier Medikament. Este remédio bedeutet dieses Medikament. Precisa de receita? fragt, ob ein Rezept nötig ist; die Karte gibt darauf keine Antwort und nennt kein Präparat."
     },
     {
       "id": "karte-06",
@@ -63,9 +63,9 @@
       "expression": "usar",
       "translation": "anwenden; benutzen",
       "isVocabulary": true,
-      "example": "Pode explicar como usar?",
-      "exampleTranslation": "Können Sie erklären, wie man es anwendet?",
-      "explanation": "Como usar = wie man etwas anwendet; hier eine sprachliche Bitte um Erklärung."
+      "example": "Pode explicar como usar, por favor?",
+      "exampleTranslation": "Können Sie bitte erklären, wie man es anwendet?",
+      "explanation": "Usar bedeutet anwenden oder benutzen. Pode explicar …? bittet hier um eine Erklärung, como usar heißt wie man etwas anwendet. Das Objekt ergibt sich aus dem Gespräch; die Karte enthält selbst keine Anwendungsschritte."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "instruções",
       "translation": "Anweisungen",
       "isVocabulary": true,
-      "example": "Pode escrever as instruções?",
-      "exampleTranslation": "Können Sie die Anweisungen aufschreiben?",
-      "explanation": "Plural von a instrução."
+      "example": "Pode escrever as instruções, por favor?",
+      "exampleTranslation": "Können Sie die Anweisungen bitte aufschreiben?",
+      "explanation": "A instrução heißt Anweisung, as instruções heißt die Anweisungen. Pode escrever …? bittet um das Aufschreiben. Die Karte lehrt das Erfragen schriftlicher Angaben, nicht deren medizinischen Inhalt."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Não entendi a orientação.",
       "exampleTranslation": "Ich habe die Auskunft nicht verstanden.",
-      "explanation": "A orientação; hier Erklärung oder Anleitung zur Anwendung."
+      "explanation": "A orientação, Plural orientações, bedeutet hier Auskunft, Erklärung oder Anleitung. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit: ich habe nicht verstanden. Der Satz macht Klärungsbedarf deutlich."
     }
   ]
 }

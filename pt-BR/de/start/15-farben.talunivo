@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-15-farben",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "15 · Farben und Beschreibungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "branco",
       "translation": "weiß",
       "isVocabulary": true,
-      "example": "O carro é branco.",
-      "exampleTranslation": "Das Auto ist weiß.",
-      "explanation": "Männliche Form; weiblich branca."
+      "example": "O livro é branco.",
+      "exampleTranslation": "Das Buch ist weiß.",
+      "explanation": "Branco bedeutet weiß und ist die männliche Einzahl, passend zu o livro. Bei einem weiblichen Nomen heißt es branca, zum Beispiel a casa é branca. Beschrieben wird jeweils ein bestimmter Gegenstand."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "preto",
       "translation": "schwarz",
       "isVocabulary": true,
-      "example": "O sapato é preto.",
-      "exampleTranslation": "Der Schuh ist schwarz.",
-      "explanation": "Männliche Form; weiblich preta."
+      "example": "O celular é preto.",
+      "exampleTranslation": "Das Handy ist schwarz.",
+      "explanation": "Preto bedeutet schwarz und steht hier in der männlichen Einzahl wegen o celular. Die weibliche Form ist preta, zum Beispiel a bolsa é preta. Entscheidend ist das portugiesische Nomen."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "vermelho",
       "translation": "rot",
       "isVocabulary": true,
-      "example": "O vestido é vermelho.",
-      "exampleTranslation": "Das Kleid ist rot.",
-      "explanation": "Männliche Form; weiblich vermelha."
+      "example": "O copo é vermelho.",
+      "exampleTranslation": "Das Glas ist rot.",
+      "explanation": "Vermelho bedeutet rot und ist die männliche Einzahl, passend zu o copo. Bei einem weiblichen Nomen heißt es vermelha, zum Beispiel a porta é vermelha. Die Form beschreibt den Gegenstand."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "azul",
       "translation": "blau",
       "isVocabulary": true,
-      "example": "O céu está azul.",
-      "exampleTranslation": "Der Himmel ist blau.",
-      "explanation": "Für beide Genera gleich; Plural azuis."
+      "example": "O livro é azul.",
+      "exampleTranslation": "Das Buch ist blau.",
+      "explanation": "Azul bedeutet blau und bleibt in der Einzahl bei beiden Genera gleich: o livro é azul, a bolsa é azul. Die Mehrzahl heißt azuis, zum Beispiel livros azuis = blaue Bücher."
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "verde",
       "translation": "grün",
       "isVocabulary": true,
-      "example": "A parede é verde.",
-      "exampleTranslation": "Die Wand ist grün.",
-      "explanation": "Für beide Genera gleich; Plural verdes."
+      "example": "A porta é verde.",
+      "exampleTranslation": "Die Tür ist grün.",
+      "explanation": "Verde bedeutet grün und bleibt in der Einzahl bei männlichen und weiblichen Nomen gleich. A porta é verde heißt die Tür ist grün. Die Mehrzahl lautet verdes, zum Beispiel portas verdes = grüne Türen."
     },
     {
       "id": "karte-06",
@@ -63,9 +63,9 @@
       "expression": "amarelo",
       "translation": "gelb",
       "isVocabulary": true,
-      "example": "O vestido é amarelo.",
-      "exampleTranslation": "Das Kleid ist gelb.",
-      "explanation": "Männliche Form; weiblich amarela."
+      "example": "O copo é amarelo.",
+      "exampleTranslation": "Das Glas ist gelb.",
+      "explanation": "Amarelo bedeutet gelb und ist die männliche Einzahl wegen o copo. Die weibliche Form heißt amarela, zum Beispiel a bolsa é amarela. Der Satz beschreibt ein einzelnes Glas, keine allgemeine Materialfarbe."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Este livro é novo.",
       "exampleTranslation": "Dieses Buch ist neu.",
-      "explanation": "Männliche Form; weiblich nova."
+      "explanation": "Novo bedeutet beim Buch neu. Die weibliche Form lautet nova, zum Beispiel uma casa nova. In anderen Zusammenhängen kann novo auch jung bedeuten; hier wird die Gegenstandsbedeutung neu geübt."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "grande",
       "translation": "groß",
       "isVocabulary": true,
-      "example": "A mesa é grande.",
-      "exampleTranslation": "Der Tisch ist groß.",
-      "explanation": "Für beide Genera gleich; Plural grandes."
+      "example": "A casa é grande.",
+      "exampleTranslation": "Das Haus ist groß.",
+      "explanation": "Grande bedeutet groß und hat in der Einzahl für beide Genera dieselbe Form: a casa é grande, o quarto é grande. Die Mehrzahl heißt grandes. Eine Beschreibung als groß hängt vom jeweiligen Vergleich ab."
     },
     {
       "id": "karte-08-2",
@@ -95,7 +95,7 @@
       "isVocabulary": true,
       "example": "Meu quarto é pequeno.",
       "exampleTranslation": "Mein Zimmer ist klein.",
-      "explanation": "Männliche Form; weiblich pequena."
+      "explanation": "Pequeno bedeutet klein und ist männlich wegen o quarto. Die weibliche Form ist pequena, zum Beispiel minha casa é pequena. Die Form richtet sich nach dem portugiesischen Gegenstandswort, nicht nach dem deutschen Zimmer."
     }
   ]
 }

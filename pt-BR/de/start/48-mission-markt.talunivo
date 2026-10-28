@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-48-mission-markt",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "48 · Mini-Dialog: Auf dem Markt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "bananas",
       "translation": "Bananen",
       "isVocabulary": true,
-      "example": "Bom dia! Quero meio quilo de bananas, por favor.",
-      "exampleTranslation": "Guten Morgen! Ich möchte bitte ein halbes Kilo Bananen.",
-      "explanation": "Plural von a banana."
+      "example": "Quero meio quilo de bananas, por favor.",
+      "exampleTranslation": "Ich möchte bitte ein halbes Kilo Bananen.",
+      "explanation": "A banana heißt Banane, as bananas die Bananen. Meio quilo de bananas bezeichnet ein halbes Kilo Bananen. Quero …, por favor ist hier die höfliche Bestellung; die Begrüßung steht auf einer eigenen Karte."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "maduras",
       "translation": "reif (weiblich, Mehrzahl)",
       "isVocabulary": true,
-      "example": "Sim, estas estão bem maduras.",
-      "exampleTranslation": "Ja, diese hier sind schön reif.",
-      "explanation": "Weiblicher Plural von maduro; passend zu bananas."
+      "example": "Estas bananas estão maduras.",
+      "exampleTranslation": "Diese Bananen sind reif.",
+      "explanation": "Maduras ist der weibliche Plural von maduro, reif, und passt zu bananas. Auch estas steht im weiblichen Plural; estão ist die Mehrzahlform von está. Die Aussage beschreibt die angebotenen Früchte in der erfundenen Situation."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "quilo",
       "translation": "Kilo",
       "isVocabulary": true,
-      "example": "Quanto custa o quilo?",
-      "exampleTranslation": "Wie viel kostet das Kilo?",
-      "explanation": "O quilo; meio quilo = ein halbes Kilo."
+      "example": "Quanto custa o quilo de bananas?",
+      "exampleTranslation": "Wie viel kostet ein Kilo Bananen?",
+      "explanation": "O quilo, Plural quilos, bedeutet Kilo. Quanto custa o quilo de …? fragt nach dem Preis für ein Kilo der genannten Ware. Der Gesamtpreis einer anderen Menge ist damit noch nicht genannt."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "O quilo custa oito reais.",
       "exampleTranslation": "Das Kilo kostet acht Reais.",
-      "explanation": "Oito steht für 8; bei Preisen gefolgt von reais."
+      "explanation": "Oito ist die Zahl acht und bleibt unverändert. Reais ist der Plural von real. Die Antwort bezieht sich auf ein ganzes Kilo; sie nennt nicht den Gesamtpreis eines halben Kilos. Der Preis ist nur ein Lehrbeispiel."
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "meio",
       "translation": "halb",
       "isVocabulary": true,
-      "example": "Então quero meio quilo.",
-      "exampleTranslation": "Dann möchte ich ein halbes Kilo.",
-      "explanation": "Männliche Form; weiblich meia. Hier passend zu quilo."
+      "example": "Meio quilo, por favor.",
+      "exampleTranslation": "Ein halbes Kilo, bitte.",
+      "explanation": "Meio bedeutet hier halb und passt zur männlichen Form quilo. Bei einer weiblichen Mengenbezeichnung steht meia, etwa meia hora, eine halbe Stunde. Die kurze Bestellung setzt voraus, dass die Ware im Gespräch bereits feststeht."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Quer mais alguma coisa?",
       "exampleTranslation": "Möchten Sie sonst noch etwas?",
-      "explanation": "Mais alguma coisa? = Sonst noch etwas?"
+      "explanation": "Alguma coisa bedeutet etwas. Mais alguma coisa? fragt in diesem Verkaufsgespräch nach einem zusätzlichen Wunsch. Quer bezieht sich hier auf die Kundschaft; die Frage legt keine bestimmte weitere Ware fest."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Só isso, obrigado.",
       "exampleTranslation": "Das ist alles, danke.",
-      "explanation": "Só isso = nur das beziehungsweise das ist alles."
+      "explanation": "Só bedeutet hier nur; só isso heißt nur das oder das ist alles. Obrigado ist die männliche Form des Dankes, obrigada die weibliche. Die Variante richtet sich in der gelehrten Standardform nach der dankenden Person."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "bom dia",
       "translation": "guten Morgen",
       "isVocabulary": true,
-      "example": "Bom dia! Quanto custa o quilo de bananas?",
-      "exampleTranslation": "Guten Morgen! Wie viel kostet ein Kilo Bananen?",
-      "explanation": "Bom dia! als Gruß: guten Morgen; um bom dia in einem Wunsch: einen schönen Tag."
+      "example": "Bom dia! Tem bananas?",
+      "exampleTranslation": "Guten Morgen! Gibt es Bananen?",
+      "explanation": "Bom dia! ist hier die morgendliche Begrüßung. Tem bananas? fragt im brasilianischen Alltagsgebrauch, ob Bananen vorhanden sind. Der Gruß eröffnet die Marktsituation; einen schönen Tag wünschen kann man etwa mit Tenha um bom dia! ausdrücken."
     }
   ]
 }

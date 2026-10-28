@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-12-alter-beruf",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "12 · Alter und Beruf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Quantos anos você tem?",
       "exampleTranslation": "Wie alt bist du?",
-      "explanation": "Männlicher Plural zu quanto; weiblich quantas."
+      "explanation": "Quantos heißt wie viele bei männlichen Nomen in der Mehrzahl: quantos anos. Anos bedeutet Jahre. Die ganze Frage fragt nach dem Alter; die Form quantos richtet sich nach anos, nicht nach der angesprochenen Person."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Tenho vinte e cinco anos.",
       "exampleTranslation": "Ich bin fünfundzwanzig Jahre alt.",
-      "explanation": "O ano, os anos; Alter wird mit ter ausgedrückt: tenho … anos."
+      "explanation": "O ano, Plural anos. Für das Alter verwendet man ter = haben: tenho … anos, auf Deutsch ich bin … Jahre alt. Vinte e cinco ist 25. Die Beispielzahl ist frei gewählt und keine Angabe über dich."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Sou estudante.",
       "exampleTranslation": "Ich bin Student.",
-      "explanation": "O estudante oder a estudante; je nach Kontext auch Schüler oder Schülerin."
+      "explanation": "O estudante oder a estudante; das Wort bleibt gleich. Sou estudante kann ich bin Student oder Studentin bedeuten. Je nach Bildungskontext kann auch Schüler oder Schülerin gemeint sein; der portugiesische Satz allein legt das nicht fest."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Ela é professora.",
       "exampleTranslation": "Sie ist Lehrerin.",
-      "explanation": "A professora; männlich o professor."
+      "explanation": "A professora, Plural professoras; männlich o professor. Ela heißt sie. Ela é professora nennt hier einen Beruf; nach é steht in diesem einfachen Berufsmodell kein unbestimmter Artikel."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Ele é médico.",
       "exampleTranslation": "Er ist Arzt.",
-      "explanation": "O médico; weiblich a médica."
+      "explanation": "O médico, Plural médicos; weiblich a médica. Ele heißt er. Ele é médico nennt hier einen Beruf. Der Akut in médico gehört zur Schreibweise; aus dem Satz folgt kein bestimmter Arbeitsort."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Trabalho num escritório.",
       "exampleTranslation": "Ich arbeite in einem Büro.",
-      "explanation": "O escritório; num = em um."
+      "explanation": "O escritório, Plural escritórios. Num ist em um: in einem. Trabalho bedeutet hier ich arbeite. Der Satz nennt ein Büro als Arbeitsort, aber keinen bestimmten Beruf."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Onde você trabalha?",
       "exampleTranslation": "Wo arbeitest du?",
-      "explanation": "Trabalho = ich arbeite; trabalha = du arbeitest bei você."
+      "explanation": "Trabalhar bedeutet arbeiten. Trabalho = ich arbeite; bei você heißt es trabalha. Onde você trabalha? fragt nach dem Arbeitsort. Eine Antwort ist zum Beispiel Trabalho num escritório."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Ainda não trabalho.",
       "exampleTranslation": "Ich arbeite noch nicht.",
-      "explanation": "Ainda não bedeutet noch nicht."
+      "explanation": "Ainda bedeutet hier noch. Zusammen mit não entsteht noch nicht: Ainda não trabalho. Das ist eine Zeitangabe zum Arbeiten; sie sagt nichts über den Grund oder die Lebenssituation aus."
     }
   ]
 }

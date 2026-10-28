@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-34-einladen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "34 · Einladen und Verabreden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "tomar café",
       "translation": "Kaffee trinken",
       "isVocabulary": true,
-      "example": "Vamos tomar um café no sábado? Você tem tempo?",
-      "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken gehen? Hast du Zeit?",
-      "explanation": "Tomar um café ist eine häufige Einladung, einen Kaffee zu trinken."
+      "example": "Vamos tomar um café no sábado?",
+      "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken?",
+      "explanation": "Tomar café heißt Kaffee trinken. Vamos + Infinitiv mit Fragezeichen ist hier ein gemeinsamer Vorschlag. Um café bezeichnet einen Kaffee; no sábado heißt am Samstag. Ort und Uhrzeit sind noch offen."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Quer ir ao cinema comigo?",
       "exampleTranslation": "Möchtest du mit mir ins Kino gehen?",
-      "explanation": "O cinema; ir ao cinema = ins Kino gehen."
+      "explanation": "O cinema, Plural cinemas, bedeutet Kino. Ir ao cinema heißt ins Kino gehen; ao verbindet a + o. Quer fragt hier nach dem Wunsch der angesprochenen Person, comigo bedeutet mit mir."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Você tem tempo amanhã?",
       "exampleTranslation": "Hast du morgen Zeit?",
-      "explanation": "O tempo bezeichnet hier verfügbare Zeit; auch Wetter möglich."
+      "explanation": "O tempo bedeutet hier verfügbare Zeit. Ter tempo heißt Zeit haben; tem gehört im Satz zu você. Amanhã heißt morgen. In der Wetterfrage Como está o tempo? hat dasselbe Wort eine andere Bedeutung."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Que tal um passeio?",
       "exampleTranslation": "Wie wäre es mit einem Ausflug?",
-      "explanation": "O passeio kann je nach Kontext Ausflug oder Spaziergang heißen."
+      "explanation": "O passeio, Plural passeios, kann Ausflug oder Spaziergang bedeuten. Que tal …? schlägt etwas vor: Wie wäre es mit …? Ohne Ziel oder Strecke legt der Satz die Art des Ausflugs nicht genauer fest."
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "boa ideia",
       "translation": "gute Idee",
       "isVocabulary": true,
-      "example": "Boa ideia, vamos!",
-      "exampleTranslation": "Gute Idee, gehen wir!",
-      "explanation": "Ideia wird ohne Akut geschrieben."
+      "example": "Boa ideia!",
+      "exampleTranslation": "Gute Idee!",
+      "explanation": "A ideia, Plural ideias, ist die Idee. Boa ist die weibliche Form von bom und passt zu ideia. Boa ideia! bewertet einen Vorschlag positiv; konkrete Uhrzeit und Ort sind damit noch nicht vereinbart. Ideia wird ohne Akut geschrieben."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Hoje não posso.",
       "exampleTranslation": "Heute kann ich nicht.",
-      "explanation": "Posso = ich kann oder darf; não posso = ich kann oder darf nicht."
+      "explanation": "Poder heißt können oder dürfen; posso ist die Ich-Form. Hoje não posso lehnt hier wegen fehlender Möglichkeit für heute ab. Der Satz nennt keinen Grund; ein Verbot folgt daraus nicht automatisch."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Pode ser no sábado?",
       "exampleTranslation": "Geht es am Samstag?",
-      "explanation": "No sábado = am Samstag."
+      "explanation": "O sábado ist der Samstag; Wochentage schreibt man portugiesisch klein. No sábado nennt hier einen bestimmten Samstag. Pode ser …? fragt, ob ein Vorschlag passt; aos sábados heißt dagegen regelmäßig samstags."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Combinado, até sábado!",
       "exampleTranslation": "Abgemacht, bis Samstag!",
-      "explanation": "Feste Zusage zu einer Verabredung."
+      "explanation": "Combinado! ist hier eine feste Bestätigung im Sinn von abgemacht oder vereinbart. Até sábado! heißt bis Samstag. Die Bestätigung bezieht sich auf eine vorherige Absprache; der Satz selbst nennt keine Uhrzeit."
     }
   ]
 }

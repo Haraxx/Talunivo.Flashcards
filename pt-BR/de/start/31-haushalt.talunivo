@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-31-haushalt",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "31 · Im Haushalt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "louça",
       "translation": "Geschirr",
       "isVocabulary": true,
-      "example": "Depois do almoço, lavo a louça.",
-      "exampleTranslation": "Nach dem Mittagessen spüle ich das Geschirr.",
-      "explanation": "A louça; lavar a louça = das Geschirr spülen."
+      "example": "Lavo a louça depois do almoço.",
+      "exampleTranslation": "Ich spüle nach dem Mittagessen das Geschirr.",
+      "explanation": "A louça bezeichnet hier das Geschirr als Gesamtheit. Lavar a louça heißt das Geschirr spülen; lavo ist die Ich-Form von lavar. Depois do almoço bedeutet nach dem Mittagessen."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Preciso lavar a roupa.",
       "exampleTranslation": "Ich muss die Wäsche waschen.",
-      "explanation": "A roupa; lavar a roupa = die Wäsche waschen."
+      "explanation": "A roupa bedeutet Kleidung oder, beim Waschen, Wäsche. Preciso lavar heißt ich muss waschen: Nach preciso folgt hier der Infinitiv. Für einzelne Kleidungsstücke kann man peças de roupa sagen."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Vou arrumar a cama.",
       "exampleTranslation": "Ich werde das Bett machen.",
-      "explanation": "A cama; arrumar a cama = das Bett machen."
+      "explanation": "A cama, Plural camas, ist das Bett. Arrumar a cama bedeutet das Bett machen. Vou + Infinitiv kündigt hier eine beabsichtigte Handlung an."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "fechar",
       "translation": "schließen",
       "isVocabulary": true,
-      "example": "Pode fechar a janela?",
-      "exampleTranslation": "Kannst du das Fenster schließen?",
-      "explanation": "Fechar ist das Gegenteil von abrir."
+      "example": "Pode fechar a janela, por favor?",
+      "exampleTranslation": "Kannst du bitte das Fenster schließen?",
+      "explanation": "Fechar heißt schließen. A janela ist das Fenster. Pode + Infinitiv fragt hier höflich nach einer Handlung; por favor ergänzt die Bitte. Das Gegenteil von fechar ist abrir."
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "abrir",
       "translation": "öffnen",
       "isVocabulary": true,
-      "example": "Pode abrir a porta?",
-      "exampleTranslation": "Kannst du die Tür öffnen?",
-      "explanation": "Abrir ist das Gegenteil von fechar."
+      "example": "Pode abrir a porta, por favor?",
+      "exampleTranslation": "Kannst du bitte die Tür öffnen?",
+      "explanation": "Abrir heißt öffnen; a porta ist die Tür. Pode abrir …? ist eine Bitte, etwas zu öffnen. Fechar bedeutet dagegen schließen. Das Verb bleibt nach pode im Infinitiv."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "A luz está acesa.",
       "exampleTranslation": "Das Licht ist an.",
-      "explanation": "A luz; acesa bedeutet eingeschaltet."
+      "explanation": "A luz, Plural luzes, bedeutet Licht. Acesa heißt hier an oder eingeschaltet und passt zur weiblichen Form luz. Está beschreibt den aktuellen Zustand."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Apague a luz, por favor.",
       "exampleTranslation": "Mach bitte das Licht aus.",
-      "explanation": "Bei Licht: apagar a luz = das Licht ausschalten."
+      "explanation": "Apagar a luz heißt das Licht ausschalten. Apague ist hier die Aufforderungsform zur Ansprache mit você. Apagar kann in anderem Kontext löschen bedeuten; für Geräte wird häufig desligar verwendet."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "O lixo fica lá fora.",
       "exampleTranslation": "Der Müll ist draußen.",
-      "explanation": "O lixo; lá fora = draußen."
+      "explanation": "O lixo bezeichnet Müll als Sammelbegriff. Fica nennt hier den Ort; lá fora bedeutet dort draußen. Der Satz sagt, wo der Müll ist, und fordert nicht zum Hinaustragen auf."
     }
   ]
 }

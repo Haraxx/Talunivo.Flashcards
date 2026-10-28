@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-19-restaurant",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "19 · Im Restaurant",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "mesa",
       "translation": "Tisch",
       "isVocabulary": true,
-      "example": "Tem uma mesa para dois?",
-      "exampleTranslation": "Ist ein Tisch für zwei frei?",
-      "explanation": "A mesa; para dois = für zwei Personen."
+      "example": "Tem uma mesa para duas pessoas?",
+      "exampleTranslation": "Ist ein Tisch für zwei Personen frei?",
+      "explanation": "A mesa, Plural mesas. Para duas pessoas bedeutet für zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verkürzte Tischfrage para dois ist ebenfalls gebräuchlich."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Qual é o prato do dia?",
       "exampleTranslation": "Was ist das Tagesgericht?",
-      "explanation": "O prato do dia bedeutet das Tagesgericht."
+      "explanation": "O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de + o; do dia heißt hier des Tages."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Quero arroz, por favor.",
       "exampleTranslation": "Ich möchte Reis, bitte.",
-      "explanation": "O arroz wird als Stoffname meist im Singular verwendet."
+      "explanation": "O arroz bezeichnet hier Reis als Lebensmittel und steht im Singular. Quero arroz, por favor ist eine einfache Bestellung. Der Satz legt noch keine genaue Portionsgröße fest."
     },
     {
       "id": "karte-03-2",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "O feijão está gostoso.",
       "exampleTranslation": "Die Bohnen sind lecker.",
-      "explanation": "O feijão bezeichnet Bohnen als Lebensmittel; einzelne Bohnen: feijões."
+      "explanation": "O feijão bezeichnet hier Bohnen als Lebensmittel oder Gericht. Im Portugiesischen steht der Ausdruck im Singular, die deutsche Übersetzung im Plural. Einzelne Bohnenkörner kann man als grãos de feijão benennen; feijões kann auch verschiedene Bohnensorten bezeichnen."
     },
     {
       "id": "karte-04",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "O peixe vem com arroz?",
       "exampleTranslation": "Wird der Fisch mit Reis serviert?",
-      "explanation": "O peixe; Plural peixes."
+      "explanation": "O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis."
     },
     {
       "id": "karte-04-2",
@@ -63,9 +63,9 @@
       "expression": "salada",
       "translation": "Salat",
       "isVocabulary": true,
-      "example": "Quero uma salada pequena.",
-      "exampleTranslation": "Ich möchte einen kleinen Salat.",
-      "explanation": "A salada bezeichnet einen Salat als Gericht."
+      "example": "Quero uma salada pequena, por favor.",
+      "exampleTranslation": "Ich möchte einen kleinen Salat, bitte.",
+      "explanation": "A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen männlich ist. Por favor ergänzt die höfliche Bitte."
     },
     {
       "id": "karte-05",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Não como carne.",
       "exampleTranslation": "Ich esse kein Fleisch.",
-      "explanation": "A carne; não como = ich esse nicht."
+      "explanation": "A carne ist Fleisch. Como heißt hier ich esse; não verneint die Aussage. Der Satz nennt eine mögliche Essenswahl, ohne einen Grund oder eine bestimmte Ernährung des Nutzers vorauszusetzen."
     },
     {
       "id": "karte-06",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Este prato tem amendoim?",
       "exampleTranslation": "Enthält dieses Gericht Erdnüsse?",
-      "explanation": "O amendoim wird als Lebensmittel häufig im Singular verwendet."
+      "explanation": "O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato heißt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet natürlich Erdnüsse."
     },
     {
       "id": "karte-07",
@@ -95,7 +95,7 @@
       "isVocabulary": true,
       "example": "Sem pimenta, por favor.",
       "exampleTranslation": "Ohne Chili, bitte.",
-      "explanation": "A pimenta bezeichnet hier Chili; schwarzer Pfeffer heißt pimenta-do-reino."
+      "explanation": "A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer heißt ausdrücklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere Übersetzungen möglich."
     },
     {
       "id": "karte-08",
@@ -105,7 +105,7 @@
       "isVocabulary": true,
       "example": "Podemos dividir a conta?",
       "exampleTranslation": "Können wir die Rechnung teilen?",
-      "explanation": "Dividir a conta bedeutet die Rechnung teilen."
+      "explanation": "Dividir heißt teilen. Podemos bedeutet können wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt."
     }
   ]
 }

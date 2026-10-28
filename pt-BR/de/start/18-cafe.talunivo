@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-18-cafe",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "18 · Im Café",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "mesa",
       "translation": "Tisch",
       "isVocabulary": true,
-      "example": "Somos duas pessoas. Tem uma mesa livre?",
-      "exampleTranslation": "Wir sind zwei Personen. Ist ein Tisch frei?",
-      "explanation": "A mesa; livre bedeutet hier frei oder unbesetzt."
+      "example": "Tem uma mesa livre?",
+      "exampleTranslation": "Ist ein Tisch frei?",
+      "explanation": "A mesa, Plural mesas. Tem uma mesa livre? fragt im brasilianischen Alltag nach einem freien Tisch. Livre bedeutet hier frei oder unbesetzt."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "pessoas",
       "translation": "Personen",
       "isVocabulary": true,
-      "example": "Somos duas pessoas.",
-      "exampleTranslation": "Wir sind zwei Personen.",
-      "explanation": "Plural von a pessoa; duas richtet sich nach dem weiblichen Nomen."
+      "example": "Uma mesa para duas pessoas, por favor.",
+      "exampleTranslation": "Einen Tisch für zwei Personen, bitte.",
+      "explanation": "A pessoa, Plural pessoas. Das Wort ist grammatisch weiblich, unabhängig von den Personen. Daher duas pessoas; vor einem männlichen Nomen heißt es dois."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "cardápio",
       "translation": "Speisekarte",
       "isVocabulary": true,
-      "example": "Posso ver o cardápio?",
-      "exampleTranslation": "Kann ich die Speisekarte sehen?",
-      "explanation": "O cardápio ist in Brasilien die Speisekarte."
+      "example": "Posso ver o cardápio, por favor?",
+      "exampleTranslation": "Kann ich bitte die Speisekarte sehen?",
+      "explanation": "O cardápio, Plural cardápios, ist in Brasilien die Speisekarte. Posso ver …? bedeutet kann ich … sehen? Por favor macht die Bitte ausdrücklich höflich."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "sanduíche",
       "translation": "Sandwich",
       "isVocabulary": true,
-      "example": "Quero um sanduíche de queijo.",
-      "exampleTranslation": "Ich möchte ein Käsesandwich.",
-      "explanation": "O sanduíche; de queijo bedeutet mit Käse."
+      "example": "Quero um sanduíche de queijo, por favor.",
+      "exampleTranslation": "Ich möchte ein Käsesandwich, bitte.",
+      "explanation": "O sanduíche, Plural sanduíches. De queijo bedeutet hier mit Käse. Quero … wird bei einer Bestellung als ich möchte … verwendet; por favor ergänzt die höfliche Bitte."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Mais um café, por favor.",
       "exampleTranslation": "Noch einen Kaffee, bitte.",
-      "explanation": "Männliche Form; vor weiblichen Nomen mais uma."
+      "explanation": "Mais um bedeutet noch ein vor einem männlichen Nomen: mais um café. Vor einem weiblichen Nomen: mais uma água. Es geht jeweils um eine zusätzliche Bestellung."
     },
     {
       "id": "karte-06",
@@ -63,9 +63,9 @@
       "expression": "gostoso",
       "translation": "lecker",
       "isVocabulary": true,
-      "example": "Está muito gostoso.",
-      "exampleTranslation": "Das schmeckt sehr gut.",
-      "explanation": "Männliche Form; weiblich gostosa."
+      "example": "O sanduíche está gostoso.",
+      "exampleTranslation": "Das Sandwich schmeckt gut.",
+      "explanation": "Gostoso bedeutet lecker oder wohlschmeckend. Die Form richtet sich nach dem Lebensmittel: o sanduíche está gostoso; weiblich a comida está gostosa. Nicht nach der Person, die spricht."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Posso pagar com cartão?",
       "exampleTranslation": "Kann ich mit Karte bezahlen?",
-      "explanation": "O cartão; hier eine Zahlungskarte."
+      "explanation": "O cartão, Plural cartões. Hier ist eine Zahlungskarte gemeint. Pagar com cartão bedeutet mit Karte bezahlen; die konkrete Kartenart wird damit noch nicht festgelegt."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "conta",
       "translation": "Rechnung",
       "isVocabulary": true,
-      "example": "Pode trazer a conta?",
-      "exampleTranslation": "Kannst du die Rechnung bringen?",
-      "explanation": "A conta bezeichnet hier die Rechnung im Café."
+      "example": "A conta, por favor.",
+      "exampleTranslation": "Die Rechnung, bitte.",
+      "explanation": "A conta, Plural contas. Im Café bezeichnet conta hier die Rechnung. A conta, por favor ist eine kurze höfliche Bitte; sie bedeutet noch nicht, dass schon bezahlt wurde."
     }
   ]
 }

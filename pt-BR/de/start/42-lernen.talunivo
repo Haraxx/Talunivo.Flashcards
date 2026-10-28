@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-42-lernen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "42 · Lernen und Üben",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -11,11 +11,11 @@
       "id": "karte-01",
       "topic": "Lernen und Üben",
       "expression": "estudar",
-      "translation": "lernen (Studium)",
+      "translation": "lernen; studieren",
       "isVocabulary": true,
       "example": "Estudo português todos os dias.",
       "exampleTranslation": "Ich lerne jeden Tag Portugiesisch.",
-      "explanation": "Estudar bezeichnet gezieltes Lernen oder Studieren, auch außerhalb einer Hochschule."
+      "explanation": "Estudar heißt gezielt lernen oder studieren, auch in der Schule und außerhalb einer Hochschule. Estudo ist die Ich-Form im Präsens. Todos os dias bedeutet jeden Tag."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Tenho uma pergunta.",
       "exampleTranslation": "Ich habe eine Frage.",
-      "explanation": "A pergunta; ter uma pergunta = eine Frage haben."
+      "explanation": "A pergunta, Plural perguntas, heißt Frage. Tenho ist die Ich-Form von ter, haben. Tenho uma pergunta kündigt an, dass eine Frage folgt; es ist noch nicht die eigentliche Frage."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "exemplo",
       "translation": "Beispiel",
       "isVocabulary": true,
-      "example": "Pode dar um exemplo?",
-      "exampleTranslation": "Kannst du ein Beispiel geben?",
-      "explanation": "O exemplo; dar um exemplo = ein Beispiel geben."
+      "example": "Pode dar um exemplo, por favor?",
+      "exampleTranslation": "Kannst du bitte ein Beispiel geben?",
+      "explanation": "O exemplo, Plural exemplos, ist das Beispiel. Dar um exemplo bedeutet ein Beispiel geben. Pode dar …? bittet hier um eine Handlung; por favor macht die Bitte ausdrücklich."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Esta palavra é nova para mim.",
       "exampleTranslation": "Dieses Wort ist neu für mich.",
-      "explanation": "A palavra; Plural palavras."
+      "explanation": "A palavra, Plural palavras, bedeutet Wort. Esta und nova passen zur weiblichen Form palavra. Para mim heißt für mich: Die Aussage betrifft den eigenen Kenntnisstand, nicht das Alter des Wortes."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Como se pronuncia esta palavra?",
       "exampleTranslation": "Wie spricht man dieses Wort aus?",
-      "explanation": "Como se pronuncia …? = Wie spricht man … aus?"
+      "explanation": "Pronunciar heißt aussprechen. Como se pronuncia …? ist hier das Muster Wie spricht man … aus? Esta palavra bezeichnet dieses Wort. Die Frage nennt noch keine konkrete Aussprache oder Bewertung."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Preciso praticar mais.",
       "exampleTranslation": "Ich muss mehr üben.",
-      "explanation": "Praticar bedeutet üben; mais bedeutet hier mehr."
+      "explanation": "Praticar heißt hier üben. Nach preciso steht der Infinitiv ohne de; mais bedeutet in diesem Satz mehr. Praticar beschreibt das aktive Üben, während estudar gezieltes Lernen oder Studieren bezeichnet; beide Tätigkeiten können sich überschneiden."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Vou tentar de novo.",
       "exampleTranslation": "Ich werde es noch einmal versuchen.",
-      "explanation": "Feste Wendung für noch einmal oder erneut."
+      "explanation": "De novo ist die feste Wendung noch einmal oder erneut. Vou tentar kündigt einen Versuch an; tentar heißt versuchen. Das deutsche es ergibt sich aus dem Gespräch und braucht hier im Portugiesischen kein eigenes Objektwort."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Agora eu entendi.",
       "exampleTranslation": "Jetzt habe ich es verstanden.",
-      "explanation": "Entendi = ich habe verstanden; entende = du verstehst bei você."
+      "explanation": "Entender heißt verstehen; entendi ist die Ich-Form in der abgeschlossenen Vergangenheit. Agora bedeutet jetzt. Eu ist das ausdrücklich genannte Subjekt ich; daraus allein folgt keine besondere Betonung. Im Gegensatz zu não entendi bestätigt der Satz das Verständnis."
     }
   ]
 }

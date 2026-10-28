@@ -1,4 +1,4 @@
 *.talunivo -text
 *.json -text
-*.md text eol=lf
-*.txt text eol=lf
+*.md -text whitespace=cr-at-eol
+*.txt -text whitespace=cr-at-eol

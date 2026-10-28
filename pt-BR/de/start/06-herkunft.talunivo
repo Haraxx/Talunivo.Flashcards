@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-06-herkunft",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "06 · Herkunft und Wohnort",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "De onde você é?",
       "exampleTranslation": "Woher kommst du?",
-      "explanation": "De onde bedeutet woher; onde allein bedeutet wo."
+      "explanation": "Onde allein bedeutet wo. De onde bedeutet woher; De onde você é? fragt hier nach der Herkunft. Onde você mora? fragt dagegen nach dem Wohnort."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Eu sou da Alemanha.",
       "exampleTranslation": "Ich komme aus Deutschland.",
-      "explanation": "A Alemanha; da Alemanha = aus Deutschland."
+      "explanation": "A Alemanha ist Deutschland. Da entsteht aus de + a: da Alemanha = aus Deutschland. Eu sou da Alemanha nennt hier die Herkunft, nicht automatisch den aktuellen Wohnort."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "Brasil",
       "translation": "Brasilien",
       "isVocabulary": true,
-      "example": "Ela é do Brasil.",
-      "exampleTranslation": "Sie kommt aus Brasilien.",
-      "explanation": "O Brasil; do Brasil = aus Brasilien."
+      "example": "Eu sou do Brasil.",
+      "exampleTranslation": "Ich komme aus Brasilien.",
+      "explanation": "O Brasil ist Brasilien. Do entsteht aus de + o: do Brasil = aus Brasilien. Vergleiche da Alemanha mit do Brasil; der Artikel des Landes ist verschieden."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Sou alemão.",
       "exampleTranslation": "Ich bin Deutscher.",
-      "explanation": "Bezeichnung einer männlichen Person; weiblich alemã."
+      "explanation": "Hier bezeichnet alemão einen Deutschen; die weibliche Form ist alemã. Sou alemão heißt ich bin Deutscher. In Você fala alemão? aus Paket 05 bezeichnet alemão dagegen die Sprache Deutsch."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Sou brasileira.",
       "exampleTranslation": "Ich bin Brasilianerin.",
-      "explanation": "Bezeichnung einer weiblichen Person; männlich brasileiro."
+      "explanation": "Brasileira bezeichnet hier eine Brasilianerin; die männliche Form ist brasileiro. Sou brasileira nennt eine Nationalität. Wohnort und Herkunft können davon verschieden sein."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Onde você mora?",
       "exampleTranslation": "Wo wohnst du?",
-      "explanation": "Moro = ich wohne; mora = du wohnst bei você."
+      "explanation": "Morar bedeutet wohnen. Bei você heißt es mora: Onde você mora? = Wo wohnst du? Die Antwort kann mit Moro em … beginnen: Ich wohne in …"
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Moro em Berlim.",
       "exampleTranslation": "Ich wohne in Berlin.",
-      "explanation": "Bei diesem Städtenamen: em Berlim, ohne Artikel."
+      "explanation": "Berlim heißt Berlin. Für diesen Städtenamen sagt man em Berlim, ohne Artikel. Moro em Berlim ist ein Muster für den Wohnort; die Herkunft wird damit nicht festgelegt."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Moro numa cidade pequena.",
       "exampleTranslation": "Ich wohne in einer kleinen Stadt.",
-      "explanation": "A cidade; Plural cidades."
+      "explanation": "A cidade, Plural cidades. Numa ist em uma: in einer. Pequena bedeutet klein und bezieht sich hier auf das weibliche Wort cidade. Moro numa cidade pequena beschreibt den Wohnort."
     }
   ]
 }

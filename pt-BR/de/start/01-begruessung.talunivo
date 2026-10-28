@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-01-begruessung",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "01 · Begrüßung und Abschied",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "oi",
       "translation": "hallo",
       "isVocabulary": true,
-      "example": "Oi, Ana! Tudo bem?",
-      "exampleTranslation": "Hallo, Ana! Alles gut?",
-      "explanation": "Informelle Begrüßung."
+      "example": "Oi, Ana!",
+      "exampleTranslation": "Hallo, Ana!",
+      "explanation": "Informelle Begrüßung. Olá bedeutet ebenfalls hallo; beide können bei einer lockeren Begegnung passen."
     },
     {
       "id": "karte-02",
@@ -23,9 +23,9 @@
       "expression": "olá",
       "translation": "hallo",
       "isVocabulary": true,
-      "example": "Olá, tudo bem?",
-      "exampleTranslation": "Hallo, alles gut?",
-      "explanation": "Neutrale Begrüßung."
+      "example": "Olá, Pedro!",
+      "exampleTranslation": "Hallo, Pedro!",
+      "explanation": "Begrüßung wie hallo. Oi ist ebenfalls möglich; die beiden Wörter sind keine gegensätzlichen Bedeutungen."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "bom dia",
       "translation": "guten Morgen",
       "isVocabulary": true,
-      "example": "Bom dia!",
-      "exampleTranslation": "Guten Morgen!",
-      "explanation": "Begrüßung am Morgen."
+      "example": "Bom dia, Ana!",
+      "exampleTranslation": "Guten Morgen, Ana!",
+      "explanation": "Begrüßung am Morgen. Bom dia ist eine feste Wendung; lerne die beiden Wörter zusammen."
     },
     {
       "id": "karte-04",
@@ -43,9 +43,9 @@
       "expression": "boa tarde",
       "translation": "guten Tag",
       "isVocabulary": true,
-      "example": "Boa tarde!",
-      "exampleTranslation": "Guten Tag!",
-      "explanation": "Begrüßung am Nachmittag; auf Deutsch meist guten Tag."
+      "example": "Boa tarde, Pedro!",
+      "exampleTranslation": "Guten Tag, Pedro!",
+      "explanation": "Begrüßung am Nachmittag. Im Deutschen sagt man dafür meist guten Tag. Die Tageszeit entscheidet über die Wahl des Grußes."
     },
     {
       "id": "karte-05",
@@ -53,9 +53,9 @@
       "expression": "boa noite",
       "translation": "guten Abend; gute Nacht",
       "isVocabulary": true,
-      "example": "Boa noite!",
-      "exampleTranslation": "Guten Abend!",
-      "explanation": "Am Abend zur Begrüßung und beim Abschied auch gute Nacht."
+      "example": "Boa noite, Ana!",
+      "exampleTranslation": "Guten Abend, Ana!",
+      "explanation": "Zur Begrüßung am Abend: guten Abend. Beim Abschied zur Nacht: gute Nacht. Ohne Situation sind beide Übersetzungen möglich."
     },
     {
       "id": "karte-06",
@@ -63,9 +63,9 @@
       "expression": "até amanhã",
       "translation": "bis morgen",
       "isVocabulary": true,
-      "example": "Até amanhã!",
-      "exampleTranslation": "Bis morgen!",
-      "explanation": "Até bedeutet bis; amanhã bedeutet morgen."
+      "example": "Tchau, Ana! Até amanhã!",
+      "exampleTranslation": "Tschüss, Ana! Bis morgen!",
+      "explanation": "Até amanhã ist ein Abschied mit Blick auf den nächsten Tag: até = bis, amanhã = morgen. Der Akut in até und die Tilde in amanhã gehören zum Wort."
     },
     {
       "id": "karte-07",
@@ -73,9 +73,9 @@
       "expression": "mais tarde",
       "translation": "später",
       "isVocabulary": true,
-      "example": "Até mais tarde!",
-      "exampleTranslation": "Bis später!",
-      "explanation": "Até mais tarde bedeutet bis später."
+      "example": "Até mais tarde, Pedro!",
+      "exampleTranslation": "Bis später, Pedro!",
+      "explanation": "Mais tarde bedeutet später und ist allein noch kein Abschiedsgruß. Até mais tarde bedeutet bis später."
     },
     {
       "id": "karte-08",
@@ -83,9 +83,9 @@
       "expression": "tchau",
       "translation": "tschüss",
       "isVocabulary": true,
-      "example": "Tchau, até logo!",
-      "exampleTranslation": "Tschüss, bis bald!",
-      "explanation": "Informeller Abschiedsgruß."
+      "example": "Tchau, Pedro!",
+      "exampleTranslation": "Tschüss, Pedro!",
+      "explanation": "Informeller Abschiedsgruß. Tchau verabschiedet; oi und olá begrüßen. Die Schreibweise beginnt mit tch."
     }
   ]
 }

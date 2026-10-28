@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-47-gespraech",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "47 · Kleine Gespräche verbinden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,7 @@
       "isVocabulary": true,
       "example": "Quero sair, mas estou cansada.",
       "exampleTranslation": "Ich möchte ausgehen, aber ich bin müde.",
-      "explanation": "Mas verbindet einen Gegensatz; nicht mit mais, mehr, verwechseln."
+      "explanation": "Mas bedeutet aber und verbindet hier einen Wunsch mit einem entgegenstehenden Zustand. Nicht mit mais, mehr, verwechseln. Cansada ist die weibliche Form, cansado die männliche; beide ergeben denselben deutschen Satz."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Gosto de chá e de suco.",
       "exampleTranslation": "Ich mag Tee und Saft.",
-      "explanation": "E verbindet Wörter oder Satzteile: und."
+      "explanation": "E bedeutet und. Gosto de verlangt im gelehrten Muster de; im Beispiel wird de vor suco wiederholt. Der Satz nennt beide Getränke als Vorlieben und bietet keine Auswahl zwischen ihnen an."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Você quer água ou café?",
       "exampleTranslation": "Möchtest du Wasser oder Kaffee?",
-      "explanation": "Ou bietet eine Alternative: oder."
+      "explanation": "Ou bedeutet oder und stellt hier Wasser und Kaffee zur Auswahl. Quer gehört zu você. Der Satz fragt nach einem Wunsch; er gibt nicht vor, welches Getränk die Person wählen muss."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Estou cansada porque trabalhei muito.",
       "exampleTranslation": "Ich bin müde, weil ich viel gearbeitet habe.",
-      "explanation": "Porque nennt einen Grund; por que in einer Frage bedeutet warum."
+      "explanation": "Porque bedeutet hier weil und leitet den Grund ein. Trabalhei ist die vergangene Ich-Form von trabalhar; muito heißt hier viel. Cansada ist die weibliche Form, cansado die männliche. Por que am Anfang einer direkten Frage bedeutet dagegen warum."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Primeiro vou comer.",
       "exampleTranslation": "Zuerst werde ich essen.",
-      "explanation": "Primeiro leitet den ersten Schritt ein."
+      "explanation": "Primeiro heißt hier zuerst und ordnet eine Handlung als ersten Schritt ein. Vou comer kündigt an, dass ich essen werde. In diesem Gebrauch als Reihenfolgewort bleibt primeiro unverändert."
     },
     {
       "id": "karte-05-2",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Depois vou sair.",
       "exampleTranslation": "Danach werde ich ausgehen.",
-      "explanation": "Depois bezeichnet einen späteren Schritt."
+      "explanation": "Depois bedeutet hier danach. Nach dem Essen aus der vorherigen Karte folgt in der Beispielsituation das Ausgehen. Vou sair kündigt die Handlung an; eine genaue Zeitspanne zwischen den Schritten ist nicht genannt."
     },
     {
       "id": "karte-06",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Se chover, vou ficar em casa.",
       "exampleTranslation": "Wenn es regnet, werde ich zu Hause bleiben.",
-      "explanation": "Se leitet hier eine Bedingung ein: wenn."
+      "explanation": "Se leitet hier eine Bedingung ein: wenn oder falls. Se chover bedeutet falls es regnet; chover ist hier der Futur-Konjunktiv und sieht genauso aus wie der Infinitiv regnen. Vou ficar em casa nennt den Plan für diesen Fall."
     },
     {
       "id": "karte-07",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Não sei, mas posso perguntar.",
       "exampleTranslation": "Ich weiß es nicht, aber ich kann fragen.",
-      "explanation": "Posso perguntar = ich kann fragen."
+      "explanation": "Perguntar heißt fragen. Não sei bedeutet ich weiß es nicht; mas verbindet damit ich kann fragen. Nach posso steht der Infinitiv perguntar. Der Satz sagt noch nicht, wen oder wonach die Person fragen wird."
     },
     {
       "id": "karte-08",
@@ -95,7 +95,7 @@
       "isVocabulary": true,
       "example": "Acho que sim.",
       "exampleTranslation": "Ich glaube schon.",
-      "explanation": "Acho que … bedeutet ich glaube beziehungsweise finde, dass …"
+      "explanation": "Achar heißt hier glauben oder der Meinung sein; acho ist die Ich-Form. Acho que sim drückt eine Einschätzung aus, keine völlig sichere Bestätigung. Achar kann auch einen Gegenstand finden bedeuten; diese Lesart passt hier nicht."
     }
   ]
 }

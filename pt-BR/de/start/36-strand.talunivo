@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-36-strand",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "36 · Strand und Ausflug",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "praia",
       "translation": "Strand",
       "isVocabulary": true,
-      "example": "Vamos à praia. Leve água e protetor solar.",
-      "exampleTranslation": "Gehen wir an den Strand. Nimm Wasser und Sonnencreme mit.",
-      "explanation": "A praia; à praia = an den Strand."
+      "example": "Vamos à praia?",
+      "exampleTranslation": "Wollen wir an den Strand gehen?",
+      "explanation": "A praia, Plural praias, heißt Strand. À verbindet a + a; à praia bezeichnet hier das Ziel an den Strand. Vamos …? ist mit Frageintonation ein gemeinsamer Vorschlag."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Preciso de protetor solar.",
       "exampleTranslation": "Ich brauche Sonnencreme.",
-      "explanation": "O protetor solar bezeichnet ein Sonnenschutzmittel."
+      "explanation": "O protetor solar, Plural protetores solares, bezeichnet ein Sonnenschutzmittel. Sonnencreme ist hier die deutsche Wiedergabe. Preciso de + Nomen heißt ich brauche etwas; der Satz nennt weder Produkt noch Anwendung."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "chapéu",
       "translation": "Hut",
       "isVocabulary": true,
-      "example": "Leve água e um chapéu.",
-      "exampleTranslation": "Nimm Wasser und einen Hut mit.",
-      "explanation": "O chapéu; der Akut gehört zur Schreibweise."
+      "example": "Leve um chapéu, por favor.",
+      "exampleTranslation": "Nimm bitte einen Hut mit.",
+      "explanation": "O chapéu, Plural chapéus, ist der Hut. Leve ist hier die Aufforderungsform von levar zur Ansprache mit você: nimm mit. Der Akut gehört auch im Plural zur Schreibweise."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Onde posso alugar um guarda-sol?",
       "exampleTranslation": "Wo kann ich einen Sonnenschirm mieten?",
-      "explanation": "O guarda-sol ist männlich und wird mit Bindestrich geschrieben."
+      "explanation": "O guarda-sol heißt Sonnenschirm; die Mehrzahl lautet guarda-sóis. Posso alugar bedeutet ich kann mieten, onde fragt nach dem Ort. Die Frage nennt noch keinen tatsächlichen Anbieter oder Preis."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "O mar está calmo hoje.",
       "exampleTranslation": "Das Meer ist heute ruhig.",
-      "explanation": "O mar; calmo bedeutet ruhig."
+      "explanation": "O mar, Plural mares, heißt Meer. Calmo passt zur männlichen Form mar und bedeutet ruhig. Está beschreibt hier den Zustand heute; ruhig ist sprachlich nicht gleichbedeutend mit sicher."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "É seguro nadar aqui?",
       "exampleTranslation": "Ist es sicher, hier zu schwimmen?",
-      "explanation": "Hier eine Frage nach Sicherheit, keine Aussage über einen konkreten Badeort."
+      "explanation": "Seguro bedeutet hier sicher. Im Muster é seguro + Infinitiv wird eine Handlung beurteilt; nadar heißt schwimmen, aqui hier. Das Beispiel ist eine Frage und enthält keine Antwort über einen bestimmten Ort."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Vou ficar na sombra.",
       "exampleTranslation": "Ich werde im Schatten bleiben.",
-      "explanation": "A sombra; na sombra = im Schatten."
+      "explanation": "A sombra, Plural sombras, bedeutet Schatten. Na verbindet em + a; na sombra heißt im Schatten. Vou ficar kündigt hier an: ich werde bleiben."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Vamos voltar antes de escurecer.",
       "exampleTranslation": "Kehren wir zurück, bevor es dunkel wird.",
-      "explanation": "Antes de escurecer bedeutet bevor es dunkel wird."
+      "explanation": "Escurecer heißt hier dunkel werden. Antes de + Infinitiv nennt ein Ereignis, vor dem etwas geschieht. Vamos voltar ist hier ein Vorschlag zur Rückkehr; der Satz nennt keine genaue Uhrzeit."
     }
   ]
 }

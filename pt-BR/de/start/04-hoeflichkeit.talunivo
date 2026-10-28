@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-04-hoeflichkeit",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "04 · Bitte, danke, Entschuldigung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "por favor",
       "translation": "bitte",
       "isVocabulary": true,
-      "example": "Por favor, entre e sente-se aqui.",
-      "exampleTranslation": "Bitte komm herein und setz dich hierhin.",
-      "explanation": "Höfliche Bitte, häufig am Satzende."
+      "example": "Um café, por favor.",
+      "exampleTranslation": "Einen Kaffee, bitte.",
+      "explanation": "Por favor ergänzt eine Bitte oder Bestellung: um café = einen Kaffee. Hier bedeutet bitte eine höfliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Muito obrigado!",
       "exampleTranslation": "Vielen Dank!",
-      "explanation": "Die Form richtet sich nach der dankenden Person."
+      "explanation": "Obrigado ist die männliche Standardform des Dankes, obrigada die weibliche. Die Form richtet sich nach der dankenden Person, nicht nach der Person, der gedankt wird. Muito verstärkt den Dank: vielen Dank."
     },
     {
       "id": "karte-03",
@@ -33,9 +33,9 @@
       "expression": "obrigada",
       "translation": "danke (weibliche Sprecherin)",
       "isVocabulary": true,
-      "example": "Muito obrigada pela ajuda.",
-      "exampleTranslation": "Vielen Dank für die Hilfe.",
-      "explanation": "Die Form richtet sich nach der dankenden Person."
+      "example": "Muito obrigada!",
+      "exampleTranslation": "Vielen Dank!",
+      "explanation": "Obrigada ist die weibliche Standardform des Dankes, obrigado die männliche. Entscheidend ist die dankende Person. In muito obrigada bleibt muito unverändert; es verstärkt hier den Dank."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "De nada!",
       "exampleTranslation": "Gern geschehen!",
-      "explanation": "Antwort auf einen Dank."
+      "explanation": "De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. Für eine Bitte verwendet man por favor."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Com licença, posso passar?",
       "exampleTranslation": "Entschuldigung, darf ich vorbei?",
-      "explanation": "Zum Vorbeigehen oder Unterbrechen um Erlaubnis bitten."
+      "explanation": "Com licença bittet hier höflich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Desculpe pelo atraso.",
       "exampleTranslation": "Entschuldige die Verspätung.",
-      "explanation": "Entschuldigung für einen Fehler oder eine Verspätung."
+      "explanation": "Desculpe bittet um Entschuldigung. Pelo atraso bedeutet für die Verspätung. Hier entschuldigt sich jemand für etwas Geschehenes; com licença wird im vorherigen Beispiel vor dem Vorbeigehen verwendet."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Não tem problema.",
       "exampleTranslation": "Das ist kein Problem.",
-      "explanation": "O problema ist trotz der Endung -a männlich."
+      "explanation": "O problema, Plural problemas, ist trotz der Endung -a männlich. Não tem problema ist im brasilianischen Alltag eine übliche Reaktion: Das ist kein Problem oder kein Problem."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Pode repetir, por favor?",
       "exampleTranslation": "Kannst du das bitte wiederholen?",
-      "explanation": "Pode repetir? ist eine höfliche Bitte um Wiederholung."
+      "explanation": "Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine höfliche Bitte, etwas noch einmal zu sagen. Die Wendung lässt sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht."
     }
   ]
 }

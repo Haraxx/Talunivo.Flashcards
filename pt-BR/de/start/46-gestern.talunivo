@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-46-gestern",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "46 · Von gestern erzählen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "ontem",
       "translation": "gestern",
       "isVocabulary": true,
-      "example": "Ontem fui ao mercado e comprei pão.",
-      "exampleTranslation": "Gestern bin ich auf den Markt gegangen und habe Brot gekauft.",
-      "explanation": "Ontem bezeichnet den Tag vor heute."
+      "example": "Ontem fui ao mercado.",
+      "exampleTranslation": "Gestern bin ich auf den Markt gegangen.",
+      "explanation": "Ontem heißt gestern, also am Tag vor heute. Fui ist hier die Ich-Form von ir in der abgeschlossenen Vergangenheit. Ao verbindet a + o; ao mercado nennt das Ziel. Der Satz allein legt kein Verkehrsmittel fest."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Tomei café com uma amiga.",
       "exampleTranslation": "Ich habe mit einer Freundin Kaffee getrunken.",
-      "explanation": "A amiga; hier eine Freundin, ohne Festlegung auf eine Partnerschaft."
+      "explanation": "A amiga, Plural amigas, heißt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar café bedeutet Kaffee trinken. Com uma amiga heißt mit einer Freundin und legt keine Partnerschaft fest."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Comprei pão e queijo.",
       "exampleTranslation": "Ich habe Brot und Käse gekauft.",
-      "explanation": "Comprei ist Vergangenheit: ich habe gekauft."
+      "explanation": "Comprar heißt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. Pão e queijo bedeutet Brot und Käse. Dasselbe Verb wird in Paket 45 mit vamos comprar für einen gemeinsamen Plan verwendet."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Estudei português por dez minutos.",
       "exampleTranslation": "Ich habe zehn Minuten Portugiesisch gelernt.",
-      "explanation": "Plural von o minuto; por dez minutos = zehn Minuten lang."
+      "explanation": "O minuto heißt Minute, os minutos die Minuten. Por dez minutos nennt eine Dauer von zehn Minuten, keine Uhrzeit. Estudei ist die vergangene Ich-Form von estudar, gezielt lernen oder studieren."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Gostei muito do passeio.",
       "exampleTranslation": "Der Ausflug hat mir sehr gefallen.",
-      "explanation": "O passeio; gostei do passeio = der Ausflug hat mir gefallen."
+      "explanation": "O passeio, Plural passeios, heißt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de + o. Muito verstärkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Cheguei tarde em casa.",
       "exampleTranslation": "Ich bin spät nach Hause gekommen.",
-      "explanation": "Tarde bedeutet hier spät; a tarde als Nomen bedeutet der Nachmittag."
+      "explanation": "Tarde bedeutet hier spät. A tarde ist dagegen das Nomen Nachmittag; à tarde heißt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Não entendi a pergunta.",
       "exampleTranslation": "Ich habe die Frage nicht verstanden.",
-      "explanation": "A pergunta; não entendi = ich habe nicht verstanden."
+      "explanation": "A pergunta, Plural perguntas, heißt Frage. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verständnis einer bereits gestellten Frage."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Foi um dia bom.",
       "exampleTranslation": "Es war ein guter Tag.",
-      "explanation": "Männliche Form; weiblich boa."
+      "explanation": "Bom ist die männliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a männlich; deshalb heißt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erzählenden Person."
     }
   ]
 }

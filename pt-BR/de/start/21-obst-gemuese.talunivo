@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-21-obst-gemuese",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "21 · Obst und Gemüse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "laranjas",
       "translation": "Orangen",
       "isVocabulary": true,
-      "example": "Quero duas laranjas e uma alface.",
-      "exampleTranslation": "Ich möchte zwei Orangen und einen Kopfsalat.",
-      "explanation": "Plural von a laranja."
+      "example": "Quero duas laranjas.",
+      "exampleTranslation": "Ich möchte zwei Orangen.",
+      "explanation": "A laranja ist eine Orange; laranjas ist die Mehrzahl. Duas richtet sich nach dem weiblichen portugiesischen Nomen. Quero duas laranjas nennt hier genau zwei Orangen."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "O abacaxi está maduro.",
       "exampleTranslation": "Die Ananas ist reif.",
-      "explanation": "O abacaxi ist in Brasilien die übliche Bezeichnung für Ananas."
+      "explanation": "O abacaxi, Plural abacaxis, ist in Brasilien die übliche Bezeichnung für Ananas. Maduro bedeutet hier reif und ist männlich wegen abacaxi, obwohl Ananas im Deutschen weiblich ist."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Gosto de manga.",
       "exampleTranslation": "Ich mag Mango.",
-      "explanation": "A manga bezeichnet hier die Frucht; kann auch Ärmel bedeuten."
+      "explanation": "A manga, Plural mangas, ist hier die Frucht Mango. Gosto de … bedeutet ich mag … In einem Kleidungskontext kann manga dagegen Ärmel bedeuten; hier wird eine Vorliebe für Obst ausgedrückt."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Estes tomates estão bonitos.",
       "exampleTranslation": "Diese Tomaten sehen schön aus.",
-      "explanation": "Plural von o tomate."
+      "explanation": "O tomate ist eine Tomate; tomates ist die Mehrzahl. Estes und bonitos sind männliche Mehrzahlformen wegen tomates. Die Beschreibung betrifft hier das Aussehen, nicht automatisch Geschmack oder Qualität."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Preciso de batatas.",
       "exampleTranslation": "Ich brauche Kartoffeln.",
-      "explanation": "Plural von a batata."
+      "explanation": "A batata ist eine Kartoffel; batatas ist die Mehrzahl. Preciso de … heißt ich brauche … Der Satz nennt Kartoffeln allgemein, aber noch keine bestimmte Anzahl oder Gewichtsmenge."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Preciso de uma cebola.",
       "exampleTranslation": "Ich brauche eine Zwiebel.",
-      "explanation": "A cebola; als Lebensmittel kann auch der Singular allgemein Zwiebeln meinen."
+      "explanation": "A cebola, Plural cebolas. Uma cebola bezeichnet eine einzelne Zwiebel. Ohne Mengenwort kann cebola in einem Lebensmittelzusammenhang auch Zwiebeln allgemein meinen; hier legt uma die Einzelmenge fest."
     },
     {
       "id": "karte-06-2",
@@ -73,9 +73,9 @@
       "expression": "alho",
       "translation": "Knoblauch",
       "isVocabulary": true,
-      "example": "Você tem alho?",
-      "exampleTranslation": "Hast du Knoblauch?",
-      "explanation": "O alho ist Knoblauch."
+      "example": "Tem alho?",
+      "exampleTranslation": "Gibt es Knoblauch?",
+      "explanation": "O alho ist Knoblauch. Tem alho? fragt im Einkaufskontext nach der Verfügbarkeit. Das Wort bezeichnet hier das Lebensmittel; eine bestimmte Anzahl an Knollen oder Zehen wird nicht genannt."
     },
     {
       "id": "karte-07",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Quero uma alface pequena.",
       "exampleTranslation": "Ich möchte einen kleinen Kopfsalat.",
-      "explanation": "A alface ist grammatisch weiblich."
+      "explanation": "A alface ist grammatisch weiblich; deshalb uma und pequena. Gemeint ist hier ein Kopfsalat als Pflanze. Salada aus Paket 19 bezeichnet dagegen einen Salat als Gericht."
     },
     {
       "id": "karte-08",
@@ -95,7 +95,7 @@
       "isVocabulary": true,
       "example": "Vou levar estas cenouras.",
       "exampleTranslation": "Ich nehme diese Karotten.",
-      "explanation": "Plural von a cenoura."
+      "explanation": "A cenoura ist eine Karotte; cenouras ist die Mehrzahl. Vou levar … bedeutet beim Einkaufen hier ich nehme … Estas passt zur weiblichen Mehrzahl. Die Aussage wählt die gezeigten Karotten aus."
     }
   ]
 }

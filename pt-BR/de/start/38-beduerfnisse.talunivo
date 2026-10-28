@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "start-ptbr-38-beduerfnisse",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "38 · Hunger, Durst und Bedürfnisse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -13,9 +13,9 @@
       "expression": "fome",
       "translation": "Hunger",
       "isVocabulary": true,
-      "example": "Estou com fome. Quero comer.",
-      "exampleTranslation": "Ich habe Hunger. Ich möchte etwas essen.",
-      "explanation": "A fome; estar com fome = Hunger haben."
+      "example": "Estou com fome.",
+      "exampleTranslation": "Ich habe Hunger.",
+      "explanation": "A fome bedeutet Hunger. Estou com fome heißt ich habe Hunger; im Portugiesischen steht hier estar com + Nomen. Der Satz nennt das Bedürfnis, ohne bereits eine Speise zu bestellen."
     },
     {
       "id": "karte-02",
@@ -25,7 +25,7 @@
       "isVocabulary": true,
       "example": "Estou com sede.",
       "exampleTranslation": "Ich habe Durst.",
-      "explanation": "A sede; estar com sede = Durst haben."
+      "explanation": "A sede bedeutet hier Durst. Estou com sede verwendet dasselbe Muster wie estou com fome. Durst benennt ein Bedürfnis; ein bestimmtes Getränk wird erst in einer weiteren Bitte genannt."
     },
     {
       "id": "karte-03",
@@ -35,7 +35,7 @@
       "isVocabulary": true,
       "example": "Preciso beber água.",
       "exampleTranslation": "Ich muss Wasser trinken.",
-      "explanation": "Beber água = Wasser trinken."
+      "explanation": "Beber heißt trinken. Preciso beber água bedeutet ich muss Wasser trinken: Nach preciso folgt hier der Infinitiv ohne de. Mit einem Nomen heißt es dagegen preciso de água, ich brauche Wasser."
     },
     {
       "id": "karte-04",
@@ -45,7 +45,7 @@
       "isVocabulary": true,
       "example": "Quero descansar um pouco.",
       "exampleTranslation": "Ich möchte mich ein bisschen ausruhen.",
-      "explanation": "Quero descansar = ich möchte mich ausruhen."
+      "explanation": "Descansar heißt sich ausruhen; im portugiesischen Beispiel ist kein Reflexivpronomen nötig. Quero + Infinitiv drückt einen Wunsch aus, um pouco bedeutet ein bisschen. Der Satz enthält keine Empfehlung zur Behandlung."
     },
     {
       "id": "karte-05",
@@ -55,7 +55,7 @@
       "isVocabulary": true,
       "example": "Preciso ir ao banheiro.",
       "exampleTranslation": "Ich muss auf die Toilette.",
-      "explanation": "O banheiro bezeichnet hier die Toilette."
+      "explanation": "O banheiro, Plural banheiros, bezeichnet ein Badezimmer oder eine Toilette. Ir ao banheiro bedeutet hier auf die Toilette gehen; ao verbindet a + o. Preciso ir nennt eine nötige Handlung."
     },
     {
       "id": "karte-06",
@@ -65,7 +65,7 @@
       "isVocabulary": true,
       "example": "Estou com sono.",
       "exampleTranslation": "Ich bin schläfrig.",
-      "explanation": "O sono; estar com sono = schläfrig oder müde sein."
+      "explanation": "O sono bedeutet Schlaf oder, im Muster estar com sono, Schläfrigkeit. Estou com sono heißt ich bin schläfrig oder ich bin müde im Sinn von schlafen wollen. Cansado/cansada bezeichnet dagegen eher Müdigkeit oder Erschöpfung."
     },
     {
       "id": "karte-07",
@@ -75,7 +75,7 @@
       "isVocabulary": true,
       "example": "Preciso de ajuda agora.",
       "exampleTranslation": "Ich brauche jetzt Hilfe.",
-      "explanation": "A ajuda; precisar de ajuda = Hilfe brauchen."
+      "explanation": "A ajuda bedeutet Hilfe. Preciso de ajuda verwendet de vor dem Nomen; agora bedeutet jetzt. Das zugehörige Verb heißt ajudar, helfen, und wird in Paket 40 als direkte Bitte verwendet."
     },
     {
       "id": "karte-08",
@@ -85,7 +85,7 @@
       "isVocabulary": true,
       "example": "Quero ficar sozinho um momento.",
       "exampleTranslation": "Ich möchte einen Moment allein sein.",
-      "explanation": "Männliche Form; weiblich sozinha."
+      "explanation": "Sozinho ist die männliche Form von allein; die weibliche lautet sozinha. Quero ficar … um momento bedeutet ich möchte einen Moment … sein. Beide Formen ergeben denselben deutschen Satz; die Auswahl nicht aus einem Avatar ableiten."
     }
   ]
 }
