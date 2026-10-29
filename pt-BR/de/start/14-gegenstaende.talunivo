@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-14-gegenstaende",
-  "packageVersion": 4,
-  "title": "14 · Dinge im Alltag",
+  "packageVersion": 6,
+  "title": "14 \u00B7 Dinge im Alltag",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Dinge im Alltag",
       "expression": "isto",
       "translation": "das hier",
-      "isVocabulary": true,
-      "example": "Isto é uma caneta.",
+      "example": "Isto \u00E9 uma caneta.",
       "exampleTranslation": "Das hier ist ein Stift.",
-      "explanation": "Isto bedeutet das hier und steht selbstständig: Isto é uma caneta. Vor einem Nomen verwendet man ein anderes Muster, zum Beispiel este livro = dieses Buch oder esta bolsa = diese Tasche. Es heißt nicht isto livro."
+      "explanation": "Isto bedeutet das hier und steht selbstst\u00E4ndig: Isto \u00E9 uma caneta. Vor einem Nomen verwendet man ein anderes Muster, zum Beispiel este livro = dieses Buch oder esta bolsa = diese Tasche. Es hei\u00DFt nicht isto livro.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Dinge im Alltag",
       "expression": "livro",
       "translation": "Buch",
-      "isVocabulary": true,
-      "example": "Isto é um livro.",
+      "example": "Isto \u00E9 um livro.",
       "exampleTranslation": "Das hier ist ein Buch.",
-      "explanation": "O livro, Plural livros. Isto é um livro heißt das hier ist ein Buch. Um passt zum männlichen Wort livro; für mehrere Bücher lautet die Wortgruppe livros."
+      "explanation": "O livro, Plural livros. Isto \u00E9 um livro hei\u00DFt das hier ist ein Buch. Um passt zum m\u00E4nnlichen Wort livro; f\u00FCr mehrere B\u00FCcher lautet die Wortgruppe livros.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Dinge im Alltag",
       "expression": "caneta",
       "translation": "Stift",
-      "isVocabulary": true,
       "example": "Preciso de uma caneta.",
       "exampleTranslation": "Ich brauche einen Stift.",
-      "explanation": "A caneta, Plural canetas, bezeichnet einen Schreibstift, etwa einen Kugelschreiber. Ein Bleistift heißt lápis. Preciso de … heißt ich brauche …; die Präposition de gehört hier vor das Nomen."
+      "explanation": "A caneta, Plural canetas, bezeichnet einen Schreibstift, etwa einen Kugelschreiber. Ein Bleistift hei\u00DFt l\u00E1pis. Preciso de \u2026 hei\u00DFt ich brauche \u2026; die Pr\u00E4position de geh\u00F6rt hier vor das Nomen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Dinge im Alltag",
       "expression": "celular",
       "translation": "Handy",
-      "isVocabulary": true,
-      "example": "Meu celular está na mesa.",
+      "example": "Meu celular est\u00E1 na mesa.",
       "exampleTranslation": "Mein Handy liegt auf dem Tisch.",
-      "explanation": "O celular, Plural celulares, ist die in Brasilien übliche Bezeichnung für Handy. Na mesa bedeutet hier auf dem Tisch; na ist em + a. Está beschreibt hier den Ort, nicht ausdrücklich eine Liegeposition."
+      "explanation": "O celular, Plural celulares, ist die in Brasilien \u00FCbliche Bezeichnung f\u00FCr Handy. Na mesa bedeutet hier auf dem Tisch; na ist em \u002B a. Est\u00E1 beschreibt hier den Ort, nicht ausdr\u00FCcklich eine Liegeposition.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Dinge im Alltag",
       "expression": "chaves",
-      "translation": "Schlüssel",
-      "isVocabulary": true,
-      "example": "Onde estão minhas chaves?",
-      "exampleTranslation": "Wo sind meine Schlüssel?",
-      "explanation": "A chave ist ein Schlüssel; chaves ist die Mehrzahl. Onde estão …? bedeutet wo sind …? Minhas steht passend zur weiblichen Mehrzahl chaves. Die Frage bezieht sich hier auf mehrere Schlüssel."
+      "translation": "Schl\u00FCssel",
+      "example": "Onde est\u00E3o minhas chaves?",
+      "exampleTranslation": "Wo sind meine Schl\u00FCssel?",
+      "explanation": "A chave ist ein Schl\u00FCssel; chaves ist die Mehrzahl. Onde est\u00E3o \u2026? bedeutet wo sind \u2026? Minhas steht passend zur weiblichen Mehrzahl chaves. Die Frage bezieht sich hier auf mehrere Schl\u00FCssel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Dinge im Alltag",
       "expression": "bolsa",
       "translation": "Tasche",
-      "isVocabulary": true,
-      "example": "Esta bolsa é sua?",
-      "exampleTranslation": "Gehört diese Tasche dir?",
-      "explanation": "A bolsa, Plural bolsas. Esta bolsa é sua? heißt gehört diese Tasche dir? Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person. Andere Bezüge von sua müssen aus dem Gespräch hervorgehen."
+      "example": "Esta bolsa \u00E9 sua?",
+      "exampleTranslation": "Geh\u00F6rt diese Tasche dir?",
+      "explanation": "A bolsa, Plural bolsas. Esta bolsa \u00E9 sua? hei\u00DFt geh\u00F6rt diese Tasche dir? Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person. Andere Bez\u00FCge von sua m\u00FCssen aus dem Gespr\u00E4ch hervorgehen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Dinge im Alltag",
       "expression": "copo",
       "translation": "Glas",
-      "isVocabulary": true,
-      "example": "O copo está vazio.",
+      "example": "O copo est\u00E1 vazio.",
       "exampleTranslation": "Das Glas ist leer.",
-      "explanation": "O copo, Plural copos, ist hier ein Trinkglas. Das Material Glas heißt vidro. Está vazio bedeutet ist leer; vazio steht hier in der männlichen Form passend zu copo."
+      "explanation": "O copo, Plural copos, ist hier ein Trinkglas. Das Material Glas hei\u00DFt vidro. Est\u00E1 vazio bedeutet ist leer; vazio steht hier in der m\u00E4nnlichen Form passend zu copo.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Dinge im Alltag",
       "expression": "cadeira",
       "translation": "Stuhl",
-      "isVocabulary": true,
-      "example": "A cadeira está ocupada.",
+      "example": "A cadeira est\u00E1 ocupada.",
       "exampleTranslation": "Der Stuhl ist besetzt.",
-      "explanation": "A cadeira, Plural cadeiras. Está ocupada bedeutet ist besetzt. Ocupada ist weiblich wegen des portugiesischen Wortes cadeira, obwohl Stuhl im Deutschen männlich ist."
+      "explanation": "A cadeira, Plural cadeiras. Est\u00E1 ocupada bedeutet ist besetzt. Ocupada ist weiblich wegen des portugiesischen Wortes cadeira, obwohl Stuhl im Deutschen m\u00E4nnlich ist.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Alltagsgegenst\u00E4nde benennen und nach ihrem Ort oder ihrer Zugeh\u00F6rigkeit fragen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Buch: \u201EIsto \u00E9 um ____.\u201C",
+        "explanation": "Livro bedeutet Buch. Um steht passend zum m\u00E4nnlichen Nomen livro.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "livro"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Schreibstift aus diesem Paket: \u201EPreciso de uma ____.\u201C",
+        "explanation": "Caneta ist ein Schreibstift, zum Beispiel ein Kugelschreiber. Ein Bleistift hei\u00DFt l\u00E1pis.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "caneta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "isto \u2014 das hier. Isto bedeutet das hier und steht selbstst\u00E4ndig: Isto \u00E9 uma caneta. Vor einem Nomen verwendet man ein anderes Muster, zum Beispiel este livro = dieses Buch oder esta bolsa = diese Tasche. Es hei\u00DFt nicht isto livro. Isto \u00E9 uma caneta. \u2014 Das hier ist ein Stift.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Handy"
+          },
+          {
+            "id": "answer",
+            "text": "das hier"
+          },
+          {
+            "id": "d1",
+            "text": "Stuhl"
+          },
+          {
+            "id": "d2",
+            "text": "Buch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "isto",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eisto\u201C?",
+        "explanation": "isto \u2014 das hier. Isto bedeutet das hier und steht selbstst\u00E4ndig: Isto \u00E9 uma caneta. Vor einem Nomen verwendet man ein anderes Muster, zum Beispiel este livro = dieses Buch oder esta bolsa = diese Tasche. Es hei\u00DFt nicht isto livro. Isto \u00E9 uma caneta. \u2014 Das hier ist ein Stift.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Schl\u00FCssel"
+          },
+          {
+            "id": "d1",
+            "text": "Stuhl"
+          },
+          {
+            "id": "answer",
+            "text": "das hier"
+          },
+          {
+            "id": "d4",
+            "text": "Tasche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "celular \u2014 Handy. O celular, Plural celulares, ist die in Brasilien \u00FCbliche Bezeichnung f\u00FCr Handy. Na mesa bedeutet hier auf dem Tisch; na ist em \u002B a. Est\u00E1 beschreibt hier den Ort, nicht ausdr\u00FCcklich eine Liegeposition. Meu celular est\u00E1 na mesa. \u2014 Mein Handy liegt auf dem Tisch.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Stift"
+          },
+          {
+            "id": "answer",
+            "text": "Handy"
+          },
+          {
+            "id": "d1",
+            "text": "Stuhl"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00FCssel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "celular",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecelular\u201C?",
+        "explanation": "celular \u2014 Handy. O celular, Plural celulares, ist die in Brasilien \u00FCbliche Bezeichnung f\u00FCr Handy. Na mesa bedeutet hier auf dem Tisch; na ist em \u002B a. Est\u00E1 beschreibt hier den Ort, nicht ausdr\u00FCcklich eine Liegeposition. Meu celular est\u00E1 na mesa. \u2014 Mein Handy liegt auf dem Tisch.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Stift"
+          },
+          {
+            "id": "answer",
+            "text": "Handy"
+          },
+          {
+            "id": "d2",
+            "text": "Buch"
+          },
+          {
+            "id": "d1",
+            "text": "Stuhl"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "chaves \u2014 Schl\u00FCssel. A chave ist ein Schl\u00FCssel; chaves ist die Mehrzahl. Onde est\u00E3o \u2026? bedeutet wo sind \u2026? Minhas steht passend zur weiblichen Mehrzahl chaves. Die Frage bezieht sich hier auf mehrere Schl\u00FCssel. Onde est\u00E3o minhas chaves? \u2014 Wo sind meine Schl\u00FCssel?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Tasche"
+          },
+          {
+            "id": "d0",
+            "text": "Stuhl"
+          },
+          {
+            "id": "answer",
+            "text": "Schl\u00FCssel"
+          },
+          {
+            "id": "d2",
+            "text": "Handy"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "chaves",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Echaves\u201C?",
+        "explanation": "chaves \u2014 Schl\u00FCssel. A chave ist ein Schl\u00FCssel; chaves ist die Mehrzahl. Onde est\u00E3o \u2026? bedeutet wo sind \u2026? Minhas steht passend zur weiblichen Mehrzahl chaves. Die Frage bezieht sich hier auf mehrere Schl\u00FCssel. Onde est\u00E3o minhas chaves? \u2014 Wo sind meine Schl\u00FCssel?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Glas"
+          },
+          {
+            "id": "d2",
+            "text": "Handy"
+          },
+          {
+            "id": "answer",
+            "text": "Schl\u00FCssel"
+          },
+          {
+            "id": "d1",
+            "text": "Buch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "bolsa \u2014 Tasche. A bolsa, Plural bolsas. Esta bolsa \u00E9 sua? hei\u00DFt geh\u00F6rt diese Tasche dir? Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person. Andere Bez\u00FCge von sua m\u00FCssen aus dem Gespr\u00E4ch hervorgehen. Esta bolsa \u00E9 sua? \u2014 Geh\u00F6rt diese Tasche dir?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tasche"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00FCssel"
+          },
+          {
+            "id": "d4",
+            "text": "das hier"
+          },
+          {
+            "id": "d3",
+            "text": "Handy"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "bolsa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebolsa\u201C?",
+        "explanation": "bolsa \u2014 Tasche. A bolsa, Plural bolsas. Esta bolsa \u00E9 sua? hei\u00DFt geh\u00F6rt diese Tasche dir? Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person. Andere Bez\u00FCge von sua m\u00FCssen aus dem Gespr\u00E4ch hervorgehen. Esta bolsa \u00E9 sua? \u2014 Geh\u00F6rt diese Tasche dir?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Schl\u00FCssel"
+          },
+          {
+            "id": "answer",
+            "text": "Tasche"
+          },
+          {
+            "id": "d5",
+            "text": "Glas"
+          },
+          {
+            "id": "d4",
+            "text": "das hier"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO copo est\u00E1 vazio.\u201C",
+        "explanation": "copo \u2014 Glas. O copo, Plural copos, ist hier ein Trinkglas. Das Material Glas hei\u00DFt vidro. Est\u00E1 vazio bedeutet ist leer; vazio steht hier in der m\u00E4nnlichen Form passend zu copo. O copo est\u00E1 vazio. \u2014 Das Glas ist leer.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Handy"
+          },
+          {
+            "id": "d1",
+            "text": "Stuhl"
+          },
+          {
+            "id": "d5",
+            "text": "Tasche"
+          },
+          {
+            "id": "answer",
+            "text": "Glas"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "copo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecopo\u201C in diesem Beispiel? \u201EO copo est\u00E1 vazio.\u201C",
+        "explanation": "copo \u2014 Glas. O copo, Plural copos, ist hier ein Trinkglas. Das Material Glas hei\u00DFt vidro. Est\u00E1 vazio bedeutet ist leer; vazio steht hier in der m\u00E4nnlichen Form passend zu copo. O copo est\u00E1 vazio. \u2014 Das Glas ist leer.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Stuhl"
+          },
+          {
+            "id": "d5",
+            "text": "Tasche"
+          },
+          {
+            "id": "answer",
+            "text": "Glas"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00FCssel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cadeira \u2014 Stuhl. A cadeira, Plural cadeiras. Est\u00E1 ocupada bedeutet ist besetzt. Ocupada ist weiblich wegen des portugiesischen Wortes cadeira, obwohl Stuhl im Deutschen m\u00E4nnlich ist. A cadeira est\u00E1 ocupada. \u2014 Der Stuhl ist besetzt.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Handy"
+          },
+          {
+            "id": "d1",
+            "text": "Buch"
+          },
+          {
+            "id": "d4",
+            "text": "Tasche"
+          },
+          {
+            "id": "answer",
+            "text": "Stuhl"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cadeira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecadeira\u201C?",
+        "explanation": "cadeira \u2014 Stuhl. A cadeira, Plural cadeiras. Est\u00E1 ocupada bedeutet ist besetzt. Ocupada ist weiblich wegen des portugiesischen Wortes cadeira, obwohl Stuhl im Deutschen m\u00E4nnlich ist. A cadeira est\u00E1 ocupada. \u2014 Der Stuhl ist besetzt.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Stuhl"
+          },
+          {
+            "id": "d3",
+            "text": "das hier"
+          },
+          {
+            "id": "d4",
+            "text": "Tasche"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00FCssel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche gelernte Aussage bedeutet \u201EDas hier ist ein Stift\u201C?",
+        "explanation": "Isto steht hier selbstst\u00E4ndig f\u00FCr das hier. Vor einem Nomen verwendet man zum Beispiel este livro oder esta bolsa.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Isto \u00E9 uma cadeira."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Esta caneta \u00E9 sua?"
+          },
+          {
+            "id": "answer",
+            "text": "Isto \u00E9 uma caneta."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Isto \u00E9 um livro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Edas hier\u201C?",
+        "explanation": "isto \u2014 das hier. Isto bedeutet das hier und steht selbstst\u00E4ndig: Isto \u00E9 uma caneta. Vor einem Nomen verwendet man ein anderes Muster, zum Beispiel este livro = dieses Buch oder esta bolsa = diese Tasche. Es hei\u00DFt nicht isto livro. Isto \u00E9 uma caneta. \u2014 Das hier ist ein Stift.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "livro"
+          },
+          {
+            "id": "answer",
+            "text": "isto"
+          },
+          {
+            "id": "d1",
+            "text": "cadeira"
+          },
+          {
+            "id": "d6",
+            "text": "caneta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EMein Handy ist auf dem Tisch\u201C?",
+        "explanation": "Celular ist im brasilianischen Portugiesisch Handy. Na mesa bedeutet hier auf dem Tisch.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Meu celular est\u00E1 na bolsa."
+          },
+          {
+            "id": "answer",
+            "text": "Meu celular est\u00E1 na mesa."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Minha bolsa est\u00E1 na mesa."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meu livro est\u00E1 na mesa."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EHandy\u201C?",
+        "explanation": "celular \u2014 Handy. O celular, Plural celulares, ist die in Brasilien \u00FCbliche Bezeichnung f\u00FCr Handy. Na mesa bedeutet hier auf dem Tisch; na ist em \u002B a. Est\u00E1 beschreibt hier den Ort, nicht ausdr\u00FCcklich eine Liegeposition. Meu celular est\u00E1 na mesa. \u2014 Mein Handy liegt auf dem Tisch.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "livro"
+          },
+          {
+            "id": "d0",
+            "text": "chaves"
+          },
+          {
+            "id": "answer",
+            "text": "celular"
+          },
+          {
+            "id": "d1",
+            "text": "cadeira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst mehrere eigene Schl\u00FCssel. Welche Frage passt?",
+        "explanation": "Chaves ist die Mehrzahl von chave. Est\u00E3o und minhas stehen passend zur Mehrzahl.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde est\u00E1 meu celular?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde est\u00E3o minhas chaves?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde est\u00E1 minha bolsa?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde est\u00E3o meus livros?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESchl\u00FCssel\u201C?",
+        "explanation": "chaves \u2014 Schl\u00FCssel. A chave ist ein Schl\u00FCssel; chaves ist die Mehrzahl. Onde est\u00E3o \u2026? bedeutet wo sind \u2026? Minhas steht passend zur weiblichen Mehrzahl chaves. Die Frage bezieht sich hier auf mehrere Schl\u00FCssel. Onde est\u00E3o minhas chaves? \u2014 Wo sind meine Schl\u00FCssel?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "chaves"
+          },
+          {
+            "id": "d6",
+            "text": "caneta"
+          },
+          {
+            "id": "d4",
+            "text": "bolsa"
+          },
+          {
+            "id": "d3",
+            "text": "isto"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt, ob diese Tasche dir geh\u00F6rt?",
+        "explanation": "Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Este livro \u00E9 seu?"
+          },
+          {
+            "id": "answer",
+            "text": "Esta bolsa \u00E9 sua?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde est\u00E1 esta bolsa?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Esta bolsa \u00E9 grande?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ETasche\u201C?",
+        "explanation": "bolsa \u2014 Tasche. A bolsa, Plural bolsas. Esta bolsa \u00E9 sua? hei\u00DFt geh\u00F6rt diese Tasche dir? Sua ist hier weiblich wegen bolsa, nicht wegen der angesprochenen Person. Andere Bez\u00FCge von sua m\u00FCssen aus dem Gespr\u00E4ch hervorgehen. Esta bolsa \u00E9 sua? \u2014 Geh\u00F6rt diese Tasche dir?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "chaves"
+          },
+          {
+            "id": "d4",
+            "text": "isto"
+          },
+          {
+            "id": "d6",
+            "text": "caneta"
+          },
+          {
+            "id": "answer",
+            "text": "bolsa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein leeres Trinkglas?",
+        "explanation": "Copo ist hier ein Trinkglas, vazio bedeutet leer. Das Material Glas hei\u00DFt vidro.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O copo \u00E9 verde."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O copo est\u00E1 cheio."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A bolsa est\u00E1 vazia."
+          },
+          {
+            "id": "answer",
+            "text": "O copo est\u00E1 vazio."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EGlas\u201C? Gemeint ist: ein Trinkglas als Gef\u00E4\u00DF, nicht das Material Glas.",
+        "explanation": "copo \u2014 Glas. O copo, Plural copos, ist hier ein Trinkglas. Das Material Glas hei\u00DFt vidro. Est\u00E1 vazio bedeutet ist leer; vazio steht hier in der m\u00E4nnlichen Form passend zu copo. O copo est\u00E1 vazio. \u2014 Das Glas ist leer.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "celular"
+          },
+          {
+            "id": "answer",
+            "text": "copo"
+          },
+          {
+            "id": "d1",
+            "text": "cadeira"
+          },
+          {
+            "id": "d5",
+            "text": "bolsa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass der Stuhl besetzt ist?",
+        "explanation": "Cadeira ist im Portugiesischen weiblich. Deshalb hei\u00DFt die Form hier ocupada.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "A cadeira \u00E9 pequena."
+          },
+          {
+            "id": "answer",
+            "text": "A cadeira est\u00E1 ocupada."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A cadeira est\u00E1 livre."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A mesa est\u00E1 ocupada."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EStuhl\u201C?",
+        "explanation": "cadeira \u2014 Stuhl. A cadeira, Plural cadeiras. Est\u00E1 ocupada bedeutet ist besetzt. Ocupada ist weiblich wegen des portugiesischen Wortes cadeira, obwohl Stuhl im Deutschen m\u00E4nnlich ist. A cadeira est\u00E1 ocupada. \u2014 Der Stuhl ist besetzt.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "copo"
+          },
+          {
+            "id": "d4",
+            "text": "bolsa"
+          },
+          {
+            "id": "d2",
+            "text": "celular"
+          },
+          {
+            "id": "answer",
+            "text": "cadeira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

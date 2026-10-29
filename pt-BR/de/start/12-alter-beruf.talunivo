@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-12-alter-beruf",
-  "packageVersion": 4,
-  "title": "12 · Alter und Beruf",
+  "packageVersion": 6,
+  "title": "12 \u00B7 Alter und Beruf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -11,81 +11,926 @@
       "id": "karte-01",
       "topic": "Alter und Beruf",
       "expression": "quantos",
-      "translation": "wie viele (männlich)",
-      "isVocabulary": true,
-      "example": "Quantos anos você tem?",
+      "translation": "wie viele (m\u00E4nnlich)",
+      "example": "Quantos anos voc\u00EA tem?",
       "exampleTranslation": "Wie alt bist du?",
-      "explanation": "Quantos heißt wie viele bei männlichen Nomen in der Mehrzahl: quantos anos. Anos bedeutet Jahre. Die ganze Frage fragt nach dem Alter; die Form quantos richtet sich nach anos, nicht nach der angesprochenen Person."
+      "explanation": "Quantos hei\u00DFt wie viele bei m\u00E4nnlichen Nomen in der Mehrzahl: quantos anos. Anos bedeutet Jahre. Die ganze Frage fragt nach dem Alter; die Form quantos richtet sich nach anos, nicht nach der angesprochenen Person.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Alter und Beruf",
       "expression": "anos",
       "translation": "Jahre",
-      "isVocabulary": true,
       "example": "Tenho vinte e cinco anos.",
-      "exampleTranslation": "Ich bin fünfundzwanzig Jahre alt.",
-      "explanation": "O ano, Plural anos. Für das Alter verwendet man ter = haben: tenho … anos, auf Deutsch ich bin … Jahre alt. Vinte e cinco ist 25. Die Beispielzahl ist frei gewählt und keine Angabe über dich."
+      "exampleTranslation": "Ich bin f\u00FCnfundzwanzig Jahre alt.",
+      "explanation": "O ano, Plural anos. F\u00FCr das Alter verwendet man ter = haben: tenho \u2026 anos, auf Deutsch ich bin \u2026 Jahre alt. Vinte e cinco ist 25. Die Beispielzahl ist frei gew\u00E4hlt und keine Angabe \u00FCber dich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Alter und Beruf",
       "expression": "estudante",
       "translation": "Student; Studentin",
-      "isVocabulary": true,
       "example": "Sou estudante.",
       "exampleTranslation": "Ich bin Student.",
-      "explanation": "O estudante oder a estudante; das Wort bleibt gleich. Sou estudante kann ich bin Student oder Studentin bedeuten. Je nach Bildungskontext kann auch Schüler oder Schülerin gemeint sein; der portugiesische Satz allein legt das nicht fest."
+      "explanation": "O estudante oder a estudante; das Wort bleibt gleich. Sou estudante kann ich bin Student oder Studentin bedeuten. Je nach Bildungskontext kann auch Sch\u00FCler oder Sch\u00FClerin gemeint sein; der portugiesische Satz allein legt das nicht fest.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Alter und Beruf",
       "expression": "professora",
       "translation": "Lehrerin",
-      "isVocabulary": true,
-      "example": "Ela é professora.",
+      "example": "Ela \u00E9 professora.",
       "exampleTranslation": "Sie ist Lehrerin.",
-      "explanation": "A professora, Plural professoras; männlich o professor. Ela heißt sie. Ela é professora nennt hier einen Beruf; nach é steht in diesem einfachen Berufsmodell kein unbestimmter Artikel."
+      "explanation": "A professora, Plural professoras; m\u00E4nnlich o professor. Ela hei\u00DFt sie. Ela \u00E9 professora nennt hier einen Beruf; nach \u00E9 steht in diesem einfachen Berufsmodell kein unbestimmter Artikel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Alter und Beruf",
-      "expression": "médico",
+      "expression": "m\u00E9dico",
       "translation": "Arzt",
-      "isVocabulary": true,
-      "example": "Ele é médico.",
+      "example": "Ele \u00E9 m\u00E9dico.",
       "exampleTranslation": "Er ist Arzt.",
-      "explanation": "O médico, Plural médicos; weiblich a médica. Ele heißt er. Ele é médico nennt hier einen Beruf. Der Akut in médico gehört zur Schreibweise; aus dem Satz folgt kein bestimmter Arbeitsort."
+      "explanation": "O m\u00E9dico, Plural m\u00E9dicos; weiblich a m\u00E9dica. Ele hei\u00DFt er. Ele \u00E9 m\u00E9dico nennt hier einen Beruf. Der Akut in m\u00E9dico geh\u00F6rt zur Schreibweise; aus dem Satz folgt kein bestimmter Arbeitsort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Alter und Beruf",
-      "expression": "escritório",
-      "translation": "Büro",
-      "isVocabulary": true,
-      "example": "Trabalho num escritório.",
-      "exampleTranslation": "Ich arbeite in einem Büro.",
-      "explanation": "O escritório, Plural escritórios. Num ist em um: in einem. Trabalho bedeutet hier ich arbeite. Der Satz nennt ein Büro als Arbeitsort, aber keinen bestimmten Beruf."
+      "expression": "escrit\u00F3rio",
+      "translation": "B\u00FCro",
+      "example": "Trabalho num escrit\u00F3rio.",
+      "exampleTranslation": "Ich arbeite in einem B\u00FCro.",
+      "explanation": "O escrit\u00F3rio, Plural escrit\u00F3rios. Num ist em um: in einem. Trabalho bedeutet hier ich arbeite. Der Satz nennt ein B\u00FCro als Arbeitsort, aber keinen bestimmten Beruf.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Alter und Beruf",
       "expression": "trabalhar",
       "translation": "arbeiten",
-      "isVocabulary": true,
-      "example": "Onde você trabalha?",
+      "example": "Onde voc\u00EA trabalha?",
       "exampleTranslation": "Wo arbeitest du?",
-      "explanation": "Trabalhar bedeutet arbeiten. Trabalho = ich arbeite; bei você heißt es trabalha. Onde você trabalha? fragt nach dem Arbeitsort. Eine Antwort ist zum Beispiel Trabalho num escritório."
+      "explanation": "Trabalhar bedeutet arbeiten. Trabalho = ich arbeite; bei voc\u00EA hei\u00DFt es trabalha. Onde voc\u00EA trabalha? fragt nach dem Arbeitsort. Eine Antwort ist zum Beispiel Trabalho num escrit\u00F3rio.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Alter und Beruf",
       "expression": "ainda",
       "translation": "noch",
-      "isVocabulary": true,
-      "example": "Ainda não trabalho.",
+      "example": "Ainda n\u00E3o trabalho.",
       "exampleTranslation": "Ich arbeite noch nicht.",
-      "explanation": "Ainda bedeutet hier noch. Zusammen mit não entsteht noch nicht: Ainda não trabalho. Das ist eine Zeitangabe zum Arbeiten; sie sagt nichts über den Grund oder die Lebenssituation aus."
+      "explanation": "Ainda bedeutet hier noch. Zusammen mit n\u00E3o entsteht noch nicht: Ainda n\u00E3o trabalho. Das ist eine Zeitangabe zum Arbeiten; sie sagt nichts \u00FCber den Grund oder die Lebenssituation aus.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Nach dem Alter fragen und einfache Angaben zu Alter, Beruf und Arbeitsort verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte m\u00E4nnliche Pluralform f\u00FCr \u201Ewie viele\u201C passend zu anos: \u201E____ anos voc\u00EA tem?\u201C",
+        "explanation": "Quantos richtet sich nach dem m\u00E4nnlichen Plural anos, nicht nach der angesprochenen Person.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quantos"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr Jahre: \u201ETenho vinte e cinco ____.\u201C",
+        "explanation": "Anos ist die Mehrzahl von ano. F\u00FCr das Alter sagt man im Portugiesischen tenho \u2026 anos.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "anos"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ESou estudante.\u201C",
+        "explanation": "estudante \u2014 Student; Studentin. O estudante oder a estudante; das Wort bleibt gleich. Sou estudante kann ich bin Student oder Studentin bedeuten. Je nach Bildungskontext kann auch Sch\u00FCler oder Sch\u00FClerin gemeint sein; der portugiesische Satz allein legt das nicht fest. Sou estudante. \u2014 Ich bin Student.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Jahre"
+          },
+          {
+            "id": "answer",
+            "text": "Student; Studentin"
+          },
+          {
+            "id": "d2",
+            "text": "arbeiten"
+          },
+          {
+            "id": "d4",
+            "text": "Arzt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "estudante",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eestudante\u201C in diesem Beispiel? \u201ESou estudante.\u201C",
+        "explanation": "estudante \u2014 Student; Studentin. O estudante oder a estudante; das Wort bleibt gleich. Sou estudante kann ich bin Student oder Studentin bedeuten. Je nach Bildungskontext kann auch Sch\u00FCler oder Sch\u00FClerin gemeint sein; der portugiesische Satz allein legt das nicht fest. Sou estudante. \u2014 Ich bin Student.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "B\u00FCro"
+          },
+          {
+            "id": "d2",
+            "text": "arbeiten"
+          },
+          {
+            "id": "answer",
+            "text": "Student; Studentin"
+          },
+          {
+            "id": "d6",
+            "text": "wie viele (m\u00E4nnlich)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "professora \u2014 Lehrerin. A professora, Plural professoras; m\u00E4nnlich o professor. Ela hei\u00DFt sie. Ela \u00E9 professora nennt hier einen Beruf; nach \u00E9 steht in diesem einfachen Berufsmodell kein unbestimmter Artikel. Ela \u00E9 professora. \u2014 Sie ist Lehrerin.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Jahre"
+          },
+          {
+            "id": "answer",
+            "text": "Lehrerin"
+          },
+          {
+            "id": "d6",
+            "text": "wie viele (m\u00E4nnlich)"
+          },
+          {
+            "id": "d2",
+            "text": "noch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "professora",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eprofessora\u201C?",
+        "explanation": "professora \u2014 Lehrerin. A professora, Plural professoras; m\u00E4nnlich o professor. Ela hei\u00DFt sie. Ela \u00E9 professora nennt hier einen Beruf; nach \u00E9 steht in diesem einfachen Berufsmodell kein unbestimmter Artikel. Ela \u00E9 professora. \u2014 Sie ist Lehrerin.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Lehrerin"
+          },
+          {
+            "id": "d3",
+            "text": "Arzt"
+          },
+          {
+            "id": "d4",
+            "text": "Jahre"
+          },
+          {
+            "id": "d0",
+            "text": "B\u00FCro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "m\u00E9dico \u2014 Arzt. O m\u00E9dico, Plural m\u00E9dicos; weiblich a m\u00E9dica. Ele hei\u00DFt er. Ele \u00E9 m\u00E9dico nennt hier einen Beruf. Der Akut in m\u00E9dico geh\u00F6rt zur Schreibweise; aus dem Satz folgt kein bestimmter Arbeitsort. Ele \u00E9 m\u00E9dico. \u2014 Er ist Arzt.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "finden"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "answer",
+            "text": "Arzt"
+          },
+          {
+            "id": "d3",
+            "text": "verirrt (m\u00E4nnlich)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "m\u00E9dico",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Em\u00E9dico\u201C?",
+        "explanation": "m\u00E9dico \u2014 Arzt. O m\u00E9dico, Plural m\u00E9dicos; weiblich a m\u00E9dica. Ele hei\u00DFt er. Ele \u00E9 m\u00E9dico nennt hier einen Beruf. Der Akut in m\u00E9dico geh\u00F6rt zur Schreibweise; aus dem Satz folgt kein bestimmter Arbeitsort. Ele \u00E9 m\u00E9dico. \u2014 Er ist Arzt.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "noch"
+          },
+          {
+            "id": "answer",
+            "text": "Arzt"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "d4",
+            "text": "finden"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "escrit\u00F3rio \u2014 B\u00FCro. O escrit\u00F3rio, Plural escrit\u00F3rios. Num ist em um: in einem. Trabalho bedeutet hier ich arbeite. Der Satz nennt ein B\u00FCro als Arbeitsort, aber keinen bestimmten Beruf. Trabalho num escrit\u00F3rio. \u2014 Ich arbeite in einem B\u00FCro.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Jahre"
+          },
+          {
+            "id": "d0",
+            "text": "Lehrerin"
+          },
+          {
+            "id": "answer",
+            "text": "B\u00FCro"
+          },
+          {
+            "id": "d2",
+            "text": "noch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "escrit\u00F3rio",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eescrit\u00F3rio\u201C?",
+        "explanation": "escrit\u00F3rio \u2014 B\u00FCro. O escrit\u00F3rio, Plural escrit\u00F3rios. Num ist em um: in einem. Trabalho bedeutet hier ich arbeite. Der Satz nennt ein B\u00FCro als Arbeitsort, aber keinen bestimmten Beruf. Trabalho num escrit\u00F3rio. \u2014 Ich arbeite in einem B\u00FCro.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Jahre"
+          },
+          {
+            "id": "answer",
+            "text": "B\u00FCro"
+          },
+          {
+            "id": "d3",
+            "text": "Arzt"
+          },
+          {
+            "id": "d0",
+            "text": "Lehrerin"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "trabalhar \u2014 arbeiten. Trabalhar bedeutet arbeiten. Trabalho = ich arbeite; bei voc\u00EA hei\u00DFt es trabalha. Onde voc\u00EA trabalha? fragt nach dem Arbeitsort. Eine Antwort ist zum Beispiel Trabalho num escrit\u00F3rio. Onde voc\u00EA trabalha? \u2014 Wo arbeitest du?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "arbeiten"
+          },
+          {
+            "id": "d6",
+            "text": "Arzt"
+          },
+          {
+            "id": "d0",
+            "text": "kaufen"
+          },
+          {
+            "id": "d7",
+            "text": "Jahre"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "trabalhar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etrabalhar\u201C?",
+        "explanation": "trabalhar \u2014 arbeiten. Trabalhar bedeutet arbeiten. Trabalho = ich arbeite; bei voc\u00EA hei\u00DFt es trabalha. Onde voc\u00EA trabalha? fragt nach dem Arbeitsort. Eine Antwort ist zum Beispiel Trabalho num escrit\u00F3rio. Onde voc\u00EA trabalha? \u2014 Wo arbeitest du?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "arbeiten"
+          },
+          {
+            "id": "d4",
+            "text": "noch"
+          },
+          {
+            "id": "d1",
+            "text": "B\u00FCro"
+          },
+          {
+            "id": "d8",
+            "text": "bleiben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ainda \u2014 noch. Ainda bedeutet hier noch. Zusammen mit n\u00E3o entsteht noch nicht: Ainda n\u00E3o trabalho. Das ist eine Zeitangabe zum Arbeiten; sie sagt nichts \u00FCber den Grund oder die Lebenssituation aus. Ainda n\u00E3o trabalho. \u2014 Ich arbeite noch nicht.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Arzt"
+          },
+          {
+            "id": "answer",
+            "text": "noch"
+          },
+          {
+            "id": "d1",
+            "text": "Lehrerin"
+          },
+          {
+            "id": "d2",
+            "text": "arbeiten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ainda",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eainda\u201C?",
+        "explanation": "ainda \u2014 noch. Ainda bedeutet hier noch. Zusammen mit n\u00E3o entsteht noch nicht: Ainda n\u00E3o trabalho. Das ist eine Zeitangabe zum Arbeiten; sie sagt nichts \u00FCber den Grund oder die Lebenssituation aus. Ainda n\u00E3o trabalho. \u2014 Ich arbeite noch nicht.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "B\u00FCro"
+          },
+          {
+            "id": "d3",
+            "text": "Arzt"
+          },
+          {
+            "id": "d5",
+            "text": "Student; Studentin"
+          },
+          {
+            "id": "answer",
+            "text": "noch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du studierst an einer Hochschule. Welche Aussage hei\u00DFt hier \u201EIch bin Student oder Studentin\u201C?",
+        "explanation": "Estudante kann Student oder Studentin bedeuten; im Schulkontext auch Sch\u00FCler oder Sch\u00FClerin. Die Aufgabe nennt ausdr\u00FCcklich eine Hochschule.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Sou m\u00E9dico."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ainda n\u00E3o trabalho."
+          },
+          {
+            "id": "answer",
+            "text": "Sou estudante."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Sou professora."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EStudent; Studentin\u201C? Gemeint ist: eine studierende Person an einer Hochschule.",
+        "explanation": "estudante \u2014 Student; Studentin. O estudante oder a estudante; das Wort bleibt gleich. Sou estudante kann ich bin Student oder Studentin bedeuten. Je nach Bildungskontext kann auch Sch\u00FCler oder Sch\u00FClerin gemeint sein; der portugiesische Satz allein legt das nicht fest. Sou estudante. \u2014 Ich bin Student.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "anos"
+          },
+          {
+            "id": "d4",
+            "text": "m\u00E9dico"
+          },
+          {
+            "id": "d0",
+            "text": "escrit\u00F3rio"
+          },
+          {
+            "id": "answer",
+            "text": "estudante"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt ausdr\u00FCcklich eine Lehrerin?",
+        "explanation": "Professora ist die weibliche Berufsbezeichnung Lehrerin; ela bedeutet sie.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Ela \u00E9 estudante."
+          },
+          {
+            "id": "answer",
+            "text": "Ela \u00E9 professora."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ele \u00E9 m\u00E9dico."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Ele \u00E9 professor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ELehrerin\u201C?",
+        "explanation": "professora \u2014 Lehrerin. A professora, Plural professoras; m\u00E4nnlich o professor. Ela hei\u00DFt sie. Ela \u00E9 professora nennt hier einen Beruf; nach \u00E9 steht in diesem einfachen Berufsmodell kein unbestimmter Artikel. Ela \u00E9 professora. \u2014 Sie ist Lehrerin.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "ainda"
+          },
+          {
+            "id": "d4",
+            "text": "anos"
+          },
+          {
+            "id": "d6",
+            "text": "quantos"
+          },
+          {
+            "id": "answer",
+            "text": "professora"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt ausdr\u00FCcklich einen Arzt in der m\u00E4nnlichen Form?",
+        "explanation": "M\u00E9dico ist die m\u00E4nnliche Form, m\u00E9dica die weibliche. Aus dem Beruf folgt kein bestimmter Arbeitsort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Ele \u00E9 professor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Ela \u00E9 m\u00E9dica."
+          },
+          {
+            "id": "answer",
+            "text": "Ele \u00E9 m\u00E9dico."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ele \u00E9 estudante."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EArzt\u201C?",
+        "explanation": "m\u00E9dico \u2014 Arzt. O m\u00E9dico, Plural m\u00E9dicos; weiblich a m\u00E9dica. Ele hei\u00DFt er. Ele \u00E9 m\u00E9dico nennt hier einen Beruf. Der Akut in m\u00E9dico geh\u00F6rt zur Schreibweise; aus dem Satz folgt kein bestimmter Arbeitsort. Ele \u00E9 m\u00E9dico. \u2014 Er ist Arzt.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "encontrar"
+          },
+          {
+            "id": "d0",
+            "text": "entrada"
+          },
+          {
+            "id": "answer",
+            "text": "m\u00E9dico"
+          },
+          {
+            "id": "d6",
+            "text": "perder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EOnde voc\u00EA trabalha?\u201C \u2013 Welche Antwort nennt ein B\u00FCro als deinen Arbeitsort?",
+        "explanation": "Escrit\u00F3rio bedeutet B\u00FCro. Num ist em um. Die Aussage nennt einen Ort, keinen bestimmten Beruf.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Moro num apartamento."
+          },
+          {
+            "id": "answer",
+            "text": "Trabalho num escrit\u00F3rio."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Trabalho numa escola."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ainda n\u00E3o trabalho."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EB\u00FCro\u201C?",
+        "explanation": "escrit\u00F3rio \u2014 B\u00FCro. O escrit\u00F3rio, Plural escrit\u00F3rios. Num ist em um: in einem. Trabalho bedeutet hier ich arbeite. Der Satz nennt ein B\u00FCro als Arbeitsort, aber keinen bestimmten Beruf. Trabalho num escrit\u00F3rio. \u2014 Ich arbeite in einem B\u00FCro.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "escrit\u00F3rio"
+          },
+          {
+            "id": "d4",
+            "text": "anos"
+          },
+          {
+            "id": "d1",
+            "text": "trabalhar"
+          },
+          {
+            "id": "d0",
+            "text": "professora"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest nach dem Arbeitsort fragen. Welche Frage passt?",
+        "explanation": "Trabalha ist die Form von trabalhar bei voc\u00EA. Die anderen Fragen betreffen Wohnort, Alter und Namen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Onde voc\u00EA mora?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Como voc\u00EA se chama?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quantos anos voc\u00EA tem?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde voc\u00EA trabalha?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Earbeiten\u201C?",
+        "explanation": "trabalhar \u2014 arbeiten. Trabalhar bedeutet arbeiten. Trabalho = ich arbeite; bei voc\u00EA hei\u00DFt es trabalha. Onde voc\u00EA trabalha? fragt nach dem Arbeitsort. Eine Antwort ist zum Beispiel Trabalho num escrit\u00F3rio. Onde voc\u00EA trabalha? \u2014 Wo arbeitest du?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "trabalhar"
+          },
+          {
+            "id": "d5",
+            "text": "chegar"
+          },
+          {
+            "id": "d10",
+            "text": "visitar"
+          },
+          {
+            "id": "d1",
+            "text": "escrit\u00F3rio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EVoc\u00EA j\u00E1 trabalha?\u201C \u2013 Welche Antwort bedeutet \u201EIch arbeite noch nicht\u201C?",
+        "explanation": "Ainda n\u00E3o bedeutet noch nicht. Der Satz erkl\u00E4rt nicht, warum die Person noch nicht arbeitet.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ainda n\u00E3o trabalho."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Trabalho num escrit\u00F3rio."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o moro aqui."
+          },
+          {
+            "id": "wrong-0",
+            "text": "J\u00E1 trabalho."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Enoch\u201C?",
+        "explanation": "ainda \u2014 noch. Ainda bedeutet hier noch. Zusammen mit n\u00E3o entsteht noch nicht: Ainda n\u00E3o trabalho. Das ist eine Zeitangabe zum Arbeiten; sie sagt nichts \u00FCber den Grund oder die Lebenssituation aus. Ainda n\u00E3o trabalho. \u2014 Ich arbeite noch nicht.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "quantos"
+          },
+          {
+            "id": "answer",
+            "text": "ainda"
+          },
+          {
+            "id": "d3",
+            "text": "m\u00E9dico"
+          },
+          {
+            "id": "d2",
+            "text": "trabalhar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

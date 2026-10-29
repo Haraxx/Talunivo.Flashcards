@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-38-beduerfnisse",
-  "packageVersion": 4,
-  "title": "38 · Hunger, Durst und Bedürfnisse",
+  "packageVersion": 6,
+  "title": "38 \u00B7 Hunger, Durst und Bed\u00FCrfnisse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "fome",
       "translation": "Hunger",
-      "isVocabulary": true,
       "example": "Estou com fome.",
       "exampleTranslation": "Ich habe Hunger.",
-      "explanation": "A fome bedeutet Hunger. Estou com fome heißt ich habe Hunger; im Portugiesischen steht hier estar com + Nomen. Der Satz nennt das Bedürfnis, ohne bereits eine Speise zu bestellen."
+      "explanation": "A fome bedeutet Hunger. Estou com fome hei\u00DFt ich habe Hunger; im Portugiesischen steht hier estar com \u002B Nomen. Der Satz nennt das Bed\u00FCrfnis, ohne bereits eine Speise zu bestellen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "sede",
       "translation": "Durst",
-      "isVocabulary": true,
       "example": "Estou com sede.",
       "exampleTranslation": "Ich habe Durst.",
-      "explanation": "A sede bedeutet hier Durst. Estou com sede verwendet dasselbe Muster wie estou com fome. Durst benennt ein Bedürfnis; ein bestimmtes Getränk wird erst in einer weiteren Bitte genannt."
+      "explanation": "A sede bedeutet hier Durst. Estou com sede verwendet dasselbe Muster wie estou com fome. Durst benennt ein Bed\u00FCrfnis; ein bestimmtes Getr\u00E4nk wird erst in einer weiteren Bitte genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "beber",
       "translation": "trinken",
-      "isVocabulary": true,
-      "example": "Preciso beber água.",
+      "example": "Preciso beber \u00E1gua.",
       "exampleTranslation": "Ich muss Wasser trinken.",
-      "explanation": "Beber heißt trinken. Preciso beber água bedeutet ich muss Wasser trinken: Nach preciso folgt hier der Infinitiv ohne de. Mit einem Nomen heißt es dagegen preciso de água, ich brauche Wasser."
+      "explanation": "Beber hei\u00DFt trinken. Preciso beber \u00E1gua bedeutet ich muss Wasser trinken: Nach preciso folgt hier der Infinitiv ohne de. Mit einem Nomen hei\u00DFt es dagegen preciso de \u00E1gua, ich brauche Wasser.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "descansar",
       "translation": "sich ausruhen",
-      "isVocabulary": true,
       "example": "Quero descansar um pouco.",
-      "exampleTranslation": "Ich möchte mich ein bisschen ausruhen.",
-      "explanation": "Descansar heißt sich ausruhen; im portugiesischen Beispiel ist kein Reflexivpronomen nötig. Quero + Infinitiv drückt einen Wunsch aus, um pouco bedeutet ein bisschen. Der Satz enthält keine Empfehlung zur Behandlung."
+      "exampleTranslation": "Ich m\u00F6chte mich ein bisschen ausruhen.",
+      "explanation": "Descansar hei\u00DFt sich ausruhen; im portugiesischen Beispiel ist kein Reflexivpronomen n\u00F6tig. Quero \u002B Infinitiv dr\u00FCckt einen Wunsch aus, um pouco bedeutet ein bisschen. Der Satz enth\u00E4lt keine Empfehlung zur Behandlung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "banheiro",
       "translation": "Toilette; Badezimmer",
-      "isVocabulary": true,
       "example": "Preciso ir ao banheiro.",
       "exampleTranslation": "Ich muss auf die Toilette.",
-      "explanation": "O banheiro, Plural banheiros, bezeichnet ein Badezimmer oder eine Toilette. Ir ao banheiro bedeutet hier auf die Toilette gehen; ao verbindet a + o. Preciso ir nennt eine nötige Handlung."
+      "explanation": "O banheiro, Plural banheiros, bezeichnet ein Badezimmer oder eine Toilette. Ir ao banheiro bedeutet hier auf die Toilette gehen; ao verbindet a \u002B o. Preciso ir nennt eine n\u00F6tige Handlung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "sono",
-      "translation": "Schläfrigkeit",
-      "isVocabulary": true,
+      "translation": "Schl\u00E4frigkeit",
       "example": "Estou com sono.",
-      "exampleTranslation": "Ich bin schläfrig.",
-      "explanation": "O sono bedeutet Schlaf oder, im Muster estar com sono, Schläfrigkeit. Estou com sono heißt ich bin schläfrig oder ich bin müde im Sinn von schlafen wollen. Cansado/cansada bezeichnet dagegen eher Müdigkeit oder Erschöpfung."
+      "exampleTranslation": "Ich bin schl\u00E4frig.",
+      "explanation": "O sono bedeutet Schlaf oder, im Muster estar com sono, Schl\u00E4frigkeit. Estou com sono hei\u00DFt ich bin schl\u00E4frig oder ich bin m\u00FCde im Sinn von schlafen wollen. Cansado/cansada bezeichnet dagegen eher M\u00FCdigkeit oder Ersch\u00F6pfung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "ajuda",
       "translation": "Hilfe",
-      "isVocabulary": true,
       "example": "Preciso de ajuda agora.",
       "exampleTranslation": "Ich brauche jetzt Hilfe.",
-      "explanation": "A ajuda bedeutet Hilfe. Preciso de ajuda verwendet de vor dem Nomen; agora bedeutet jetzt. Das zugehörige Verb heißt ajudar, helfen, und wird in Paket 40 als direkte Bitte verwendet."
+      "explanation": "A ajuda bedeutet Hilfe. Preciso de ajuda verwendet de vor dem Nomen; agora bedeutet jetzt. Das zugeh\u00F6rige Verb hei\u00DFt ajudar, helfen, und wird in Paket 40 als direkte Bitte verwendet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Hunger, Durst und Bedürfnisse",
+      "topic": "Hunger, Durst und Bed\u00FCrfnisse",
       "expression": "sozinho",
-      "translation": "allein (männlich)",
-      "isVocabulary": true,
+      "translation": "allein (m\u00E4nnlich)",
       "example": "Quero ficar sozinho um momento.",
-      "exampleTranslation": "Ich möchte einen Moment allein sein.",
-      "explanation": "Sozinho ist die männliche Form von allein; die weibliche lautet sozinha. Quero ficar … um momento bedeutet ich möchte einen Moment … sein. Beide Formen ergeben denselben deutschen Satz; die Auswahl nicht aus einem Avatar ableiten."
+      "exampleTranslation": "Ich m\u00F6chte einen Moment allein sein.",
+      "explanation": "Sozinho ist die m\u00E4nnliche Form von allein; die weibliche lautet sozinha. Quero ficar \u2026 um momento bedeutet ich m\u00F6chte einen Moment \u2026 sein. Beide Formen ergeben denselben deutschen Satz; die Auswahl nicht aus einem Avatar ableiten.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Grundlegende Bed\u00FCrfnisse wie Hunger, Durst oder Ruhe ausdr\u00FCcken und verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Hunger: \u201EEstou com ____.\u201C",
+        "explanation": "Fome bedeutet Hunger. Estou com fome hei\u00DFt Ich habe Hunger.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "fome"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Durst: \u201EEstou com ____.\u201C",
+        "explanation": "Sede bedeutet in diesem Muster Durst. Ein Getr\u00E4nk wird noch nicht genannt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "sede"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "beber \u2014 trinken. Beber hei\u00DFt trinken. Preciso beber \u00E1gua bedeutet ich muss Wasser trinken: Nach preciso folgt hier der Infinitiv ohne de. Mit einem Nomen hei\u00DFt es dagegen preciso de \u00E1gua, ich brauche Wasser. Preciso beber \u00E1gua. \u2014 Ich muss Wasser trinken.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Hunger"
+          },
+          {
+            "id": "answer",
+            "text": "trinken"
+          },
+          {
+            "id": "d1",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "d2",
+            "text": "Hilfe"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "beber",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebeber\u201C?",
+        "explanation": "beber \u2014 trinken. Beber hei\u00DFt trinken. Preciso beber \u00E1gua bedeutet ich muss Wasser trinken: Nach preciso folgt hier der Infinitiv ohne de. Mit einem Nomen hei\u00DFt es dagegen preciso de \u00E1gua, ich brauche Wasser. Preciso beber \u00E1gua. \u2014 Ich muss Wasser trinken.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Schl\u00E4frigkeit"
+          },
+          {
+            "id": "d1",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "answer",
+            "text": "trinken"
+          },
+          {
+            "id": "d4",
+            "text": "Durst"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "descansar \u2014 sich ausruhen. Descansar hei\u00DFt sich ausruhen; im portugiesischen Beispiel ist kein Reflexivpronomen n\u00F6tig. Quero \u002B Infinitiv dr\u00FCckt einen Wunsch aus, um pouco bedeutet ein bisschen. Der Satz enth\u00E4lt keine Empfehlung zur Behandlung. Quero descansar um pouco. \u2014 Ich m\u00F6chte mich ein bisschen ausruhen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Hunger"
+          },
+          {
+            "id": "d1",
+            "text": "Hilfe"
+          },
+          {
+            "id": "d4",
+            "text": "Durst"
+          },
+          {
+            "id": "answer",
+            "text": "sich ausruhen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "descansar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edescansar\u201C?",
+        "explanation": "descansar \u2014 sich ausruhen. Descansar hei\u00DFt sich ausruhen; im portugiesischen Beispiel ist kein Reflexivpronomen n\u00F6tig. Quero \u002B Infinitiv dr\u00FCckt einen Wunsch aus, um pouco bedeutet ein bisschen. Der Satz enth\u00E4lt keine Empfehlung zur Behandlung. Quero descansar um pouco. \u2014 Ich m\u00F6chte mich ein bisschen ausruhen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "d3",
+            "text": "trinken"
+          },
+          {
+            "id": "d4",
+            "text": "Durst"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00E4frigkeit"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "banheiro \u2014 Toilette; Badezimmer. O banheiro, Plural banheiros, bezeichnet ein Badezimmer oder eine Toilette. Ir ao banheiro bedeutet hier auf die Toilette gehen; ao verbindet a \u002B o. Preciso ir nennt eine n\u00F6tige Handlung. Preciso ir ao banheiro. \u2014 Ich muss auf die Toilette.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Hunger"
+          },
+          {
+            "id": "d1",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "d5",
+            "text": "Durst"
+          },
+          {
+            "id": "answer",
+            "text": "Toilette; Badezimmer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "banheiro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebanheiro\u201C?",
+        "explanation": "banheiro \u2014 Toilette; Badezimmer. O banheiro, Plural banheiros, bezeichnet ein Badezimmer oder eine Toilette. Ir ao banheiro bedeutet hier auf die Toilette gehen; ao verbindet a \u002B o. Preciso ir nennt eine n\u00F6tige Handlung. Preciso ir ao banheiro. \u2014 Ich muss auf die Toilette.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "d5",
+            "text": "Durst"
+          },
+          {
+            "id": "answer",
+            "text": "Toilette; Badezimmer"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00E4frigkeit"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstou com sono.\u201C",
+        "explanation": "sono \u2014 Schl\u00E4frigkeit. O sono bedeutet Schlaf oder, im Muster estar com sono, Schl\u00E4frigkeit. Estou com sono hei\u00DFt ich bin schl\u00E4frig oder ich bin m\u00FCde im Sinn von schlafen wollen. Cansado/cansada bezeichnet dagegen eher M\u00FCdigkeit oder Ersch\u00F6pfung. Estou com sono. \u2014 Ich bin schl\u00E4frig.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Durst"
+          },
+          {
+            "id": "d0",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "answer",
+            "text": "Schl\u00E4frigkeit"
+          },
+          {
+            "id": "d2",
+            "text": "Hunger"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sono",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esono\u201C in diesem Beispiel? \u201EEstou com sono.\u201C",
+        "explanation": "sono \u2014 Schl\u00E4frigkeit. O sono bedeutet Schlaf oder, im Muster estar com sono, Schl\u00E4frigkeit. Estou com sono hei\u00DFt ich bin schl\u00E4frig oder ich bin m\u00FCde im Sinn von schlafen wollen. Cansado/cansada bezeichnet dagegen eher M\u00FCdigkeit oder Ersch\u00F6pfung. Estou com sono. \u2014 Ich bin schl\u00E4frig.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "allein (m\u00E4nnlich)"
+          },
+          {
+            "id": "d2",
+            "text": "Hunger"
+          },
+          {
+            "id": "answer",
+            "text": "Schl\u00E4frigkeit"
+          },
+          {
+            "id": "d1",
+            "text": "Hilfe"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ajuda \u2014 Hilfe. A ajuda bedeutet Hilfe. Preciso de ajuda verwendet de vor dem Nomen; agora bedeutet jetzt. Das zugeh\u00F6rige Verb hei\u00DFt ajudar, helfen, und wird in Paket 40 als direkte Bitte verwendet. Preciso de ajuda agora. \u2014 Ich brauche jetzt Hilfe.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Toilette; Badezimmer"
+          },
+          {
+            "id": "answer",
+            "text": "Hilfe"
+          },
+          {
+            "id": "d1",
+            "text": "sich ausruhen"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00E4frigkeit"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ajuda",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eajuda\u201C?",
+        "explanation": "ajuda \u2014 Hilfe. A ajuda bedeutet Hilfe. Preciso de ajuda verwendet de vor dem Nomen; agora bedeutet jetzt. Das zugeh\u00F6rige Verb hei\u00DFt ajudar, helfen, und wird in Paket 40 als direkte Bitte verwendet. Preciso de ajuda agora. \u2014 Ich brauche jetzt Hilfe.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Toilette; Badezimmer"
+          },
+          {
+            "id": "answer",
+            "text": "Hilfe"
+          },
+          {
+            "id": "d2",
+            "text": "Hunger"
+          },
+          {
+            "id": "d1",
+            "text": "sich ausruhen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuero ficar sozinho um momento.\u201C",
+        "explanation": "sozinho \u2014 allein (m\u00E4nnlich). Sozinho ist die m\u00E4nnliche Form von allein; die weibliche lautet sozinha. Quero ficar \u2026 um momento bedeutet ich m\u00F6chte einen Moment \u2026 sein. Beide Formen ergeben denselben deutschen Satz; die Auswahl nicht aus einem Avatar ableiten. Quero ficar sozinho um momento. \u2014 Ich m\u00F6chte einen Moment allein sein.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "allein (m\u00E4nnlich)"
+          },
+          {
+            "id": "d0",
+            "text": "Schl\u00E4frigkeit"
+          },
+          {
+            "id": "d4",
+            "text": "trinken"
+          },
+          {
+            "id": "d3",
+            "text": "Hunger"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sozinho",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esozinho\u201C in diesem Beispiel? \u201EQuero ficar sozinho um momento.\u201C",
+        "explanation": "sozinho \u2014 allein (m\u00E4nnlich). Sozinho ist die m\u00E4nnliche Form von allein; die weibliche lautet sozinha. Quero ficar \u2026 um momento bedeutet ich m\u00F6chte einen Moment \u2026 sein. Beide Formen ergeben denselben deutschen Satz; die Auswahl nicht aus einem Avatar ableiten. Quero ficar sozinho um momento. \u2014 Ich m\u00F6chte einen Moment allein sein.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Schl\u00E4frigkeit"
+          },
+          {
+            "id": "answer",
+            "text": "allein (m\u00E4nnlich)"
+          },
+          {
+            "id": "d5",
+            "text": "Durst"
+          },
+          {
+            "id": "d4",
+            "text": "trinken"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du Wasser trinken musst?",
+        "explanation": "Preciso beber \u00E1gua verwendet preciso \u002B Infinitiv. Der Satz benennt das Bed\u00FCrfnis, ohne de vor beber.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quero beber leite."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero descansar um pouco."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso beber \u00E1gua."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso comer um p\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Etrinken\u201C?",
+        "explanation": "beber \u2014 trinken. Beber hei\u00DFt trinken. Preciso beber \u00E1gua bedeutet ich muss Wasser trinken: Nach preciso folgt hier der Infinitiv ohne de. Mit einem Nomen hei\u00DFt es dagegen preciso de \u00E1gua, ich brauche Wasser. Preciso beber \u00E1gua. \u2014 Ich muss Wasser trinken.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "ajuda"
+          },
+          {
+            "id": "answer",
+            "text": "beber"
+          },
+          {
+            "id": "d1",
+            "text": "descansar"
+          },
+          {
+            "id": "d6",
+            "text": "banheiro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage \u00E4u\u00DFert den Wunsch, dich ein bisschen auszuruhen?",
+        "explanation": "Descansar hei\u00DFt sich ausruhen. Um pouco bedeutet ein bisschen; ein portugiesisches Reflexivpronomen ist hier nicht n\u00F6tig.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Preciso ir ao banheiro."
+          },
+          {
+            "id": "answer",
+            "text": "Quero descansar um pouco."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quero nadar um pouco."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero comer um p\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esich ausruhen\u201C?",
+        "explanation": "descansar \u2014 sich ausruhen. Descansar hei\u00DFt sich ausruhen; im portugiesischen Beispiel ist kein Reflexivpronomen n\u00F6tig. Quero \u002B Infinitiv dr\u00FCckt einen Wunsch aus, um pouco bedeutet ein bisschen. Der Satz enth\u00E4lt keine Empfehlung zur Behandlung. Quero descansar um pouco. \u2014 Ich m\u00F6chte mich ein bisschen ausruhen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "sozinho"
+          },
+          {
+            "id": "d4",
+            "text": "sede"
+          },
+          {
+            "id": "d2",
+            "text": "fome"
+          },
+          {
+            "id": "answer",
+            "text": "descansar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass du zur Toilette gehen musst?",
+        "explanation": "Preciso ir ao banheiro hei\u00DFt Ich muss zur Toilette gehen. Die Ortsfrage Onde fica o banheiro? fragt nur nach dem Ort.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Preciso beber \u00E1gua."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o banheiro?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero descansar um pouco."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso ir ao banheiro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EToilette; Badezimmer\u201C?",
+        "explanation": "banheiro \u2014 Toilette; Badezimmer. O banheiro, Plural banheiros, bezeichnet ein Badezimmer oder eine Toilette. Ir ao banheiro bedeutet hier auf die Toilette gehen; ao verbindet a \u002B o. Preciso ir nennt eine n\u00F6tige Handlung. Preciso ir ao banheiro. \u2014 Ich muss auf die Toilette.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "fome"
+          },
+          {
+            "id": "answer",
+            "text": "banheiro"
+          },
+          {
+            "id": "d1",
+            "text": "descansar"
+          },
+          {
+            "id": "d5",
+            "text": "sede"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EComo voc\u00EA est\u00E1 se sentindo?\u201C \u2013 Welche Antwort dr\u00FCckt Schl\u00E4frigkeit aus?",
+        "explanation": "Estou com sono hei\u00DFt Ich bin schl\u00E4frig. Die anderen Antworten nennen Hunger, Durst oder Gl\u00FCck.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Estou com sede."
+          },
+          {
+            "id": "answer",
+            "text": "Estou com sono."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estou com fome."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estou feliz."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201ESchl\u00E4frigkeit\u201C? Zusammenhang: bei einer Beschreibung des Befindens vor dem Zubettgehen.",
+        "explanation": "sono \u2014 Schl\u00E4frigkeit. O sono bedeutet Schlaf oder, im Muster estar com sono, Schl\u00E4frigkeit. Estou com sono hei\u00DFt ich bin schl\u00E4frig oder ich bin m\u00FCde im Sinn von schlafen wollen. Cansado/cansada bezeichnet dagegen eher M\u00FCdigkeit oder Ersch\u00F6pfung. Estou com sono. \u2014 Ich bin schl\u00E4frig.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sono"
+          },
+          {
+            "id": "d6",
+            "text": "banheiro"
+          },
+          {
+            "id": "d4",
+            "text": "sede"
+          },
+          {
+            "id": "d3",
+            "text": "beber"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du jetzt Hilfe brauchst?",
+        "explanation": "Ajuda ist das Nomen Hilfe, agora bedeutet jetzt. Ajudar ist dagegen das Verb helfen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Preciso de \u00E1gua agora."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso de ajuda agora."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Posso ajudar amanh\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso de ajuda amanh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EHilfe\u201C?",
+        "explanation": "ajuda \u2014 Hilfe. A ajuda bedeutet Hilfe. Preciso de ajuda verwendet de vor dem Nomen; agora bedeutet jetzt. Das zugeh\u00F6rige Verb hei\u00DFt ajudar, helfen, und wird in Paket 40 als direkte Bitte verwendet. Preciso de ajuda agora. \u2014 Ich brauche jetzt Hilfe.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "fome"
+          },
+          {
+            "id": "d0",
+            "text": "sono"
+          },
+          {
+            "id": "answer",
+            "text": "ajuda"
+          },
+          {
+            "id": "d1",
+            "text": "descansar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage verwendet die gelernte m\u00E4nnliche Form und sagt, dass du einen Moment allein sein m\u00F6chtest?",
+        "explanation": "Sozinho ist die ausdr\u00FCcklich gefragte m\u00E4nnliche Form. Sozinha w\u00E4re weiblich; die Vorgabe wird nicht aus einem Avatar abgeleitet.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Quero ficar sozinha um momento."
+          },
+          {
+            "id": "answer",
+            "text": "Quero ficar sozinho um momento."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero conversar um momento."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero ficar com minha fam\u00EDlia."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eallein (m\u00E4nnlich)\u201C? Zusammenhang: als gelernte m\u00E4nnliche Form in einer Bitte um einen Moment f\u00FCr sich.",
+        "explanation": "sozinho \u2014 allein (m\u00E4nnlich). Sozinho ist die m\u00E4nnliche Form von allein; die weibliche lautet sozinha. Quero ficar \u2026 um momento bedeutet ich m\u00F6chte einen Moment \u2026 sein. Beide Formen ergeben denselben deutschen Satz; die Auswahl nicht aus einem Avatar ableiten. Quero ficar sozinho um momento. \u2014 Ich m\u00F6chte einen Moment allein sein.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "sono"
+          },
+          {
+            "id": "d4",
+            "text": "beber"
+          },
+          {
+            "id": "d6",
+            "text": "banheiro"
+          },
+          {
+            "id": "answer",
+            "text": "sozinho"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

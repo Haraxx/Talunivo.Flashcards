@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-37-koerper",
-  "packageVersion": 4,
-  "title": "37 · Körper und Befinden",
+  "packageVersion": 6,
+  "title": "37 \u00B7 K\u00F6rper und Befinden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Körper und Befinden",
-      "expression": "cabeça",
+      "topic": "K\u00F6rper und Befinden",
+      "expression": "cabe\u00E7a",
       "translation": "Kopf",
-      "isVocabulary": true,
-      "example": "Estou com dor de cabeça.",
+      "example": "Estou com dor de cabe\u00E7a.",
       "exampleTranslation": "Ich habe Kopfschmerzen.",
-      "explanation": "A cabeça, Plural cabeças, ist der Kopf. Dor de cabeça bedeutet Kopfschmerzen. Estou com … beschreibt hier das aktuelle Befinden; das portugiesische Muster verwendet com, die deutsche Wiedergabe haben."
+      "explanation": "A cabe\u00E7a, Plural cabe\u00E7as, ist der Kopf. Dor de cabe\u00E7a bedeutet Kopfschmerzen. Estou com \u2026 beschreibt hier das aktuelle Befinden; das portugiesische Muster verwendet com, die deutsche Wiedergabe haben.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Körper und Befinden",
+      "topic": "K\u00F6rper und Befinden",
       "expression": "garganta",
       "translation": "Hals; Rachen",
-      "isVocabulary": true,
       "example": "Estou com dor de garganta.",
       "exampleTranslation": "Ich habe Halsschmerzen.",
-      "explanation": "A garganta, Plural gargantas, bezeichnet den inneren Hals beziehungsweise Rachen. Dor de garganta heißt Halsschmerzen. Das Beispiel wiederholt estou com + Beschwerde, ohne eine Ursache zu nennen."
+      "explanation": "A garganta, Plural gargantas, bezeichnet den inneren Hals beziehungsweise Rachen. Dor de garganta hei\u00DFt Halsschmerzen. Das Beispiel wiederholt estou com \u002B Beschwerde, ohne eine Ursache zu nennen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Körper und Befinden",
-      "expression": "braço",
+      "topic": "K\u00F6rper und Befinden",
+      "expression": "bra\u00E7o",
       "translation": "Arm",
-      "isVocabulary": true,
-      "example": "Meu braço dói.",
+      "example": "Meu bra\u00E7o d\u00F3i.",
       "exampleTranslation": "Mein Arm tut weh.",
-      "explanation": "O braço, Plural braços, ist der Arm. Meu passt zum männlichen Nomen braço. Dói gehört zum Verb doer und bedeutet hier tut weh; der Satz beschreibt einen einzelnen Arm."
+      "explanation": "O bra\u00E7o, Plural bra\u00E7os, ist der Arm. Meu passt zum m\u00E4nnlichen Nomen bra\u00E7o. D\u00F3i geh\u00F6rt zum Verb doer und bedeutet hier tut weh; der Satz beschreibt einen einzelnen Arm.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Körper und Befinden",
+      "topic": "K\u00F6rper und Befinden",
       "expression": "perna",
       "translation": "Bein",
-      "isVocabulary": true,
-      "example": "Minha perna está cansada.",
-      "exampleTranslation": "Mein Bein ist müde.",
-      "explanation": "A perna, Plural pernas, heißt Bein. Minha und cansada passen zur weiblichen Form perna. Diese Formen beziehen sich auf das Bein, nicht auf das Geschlecht der sprechenden Person."
+      "example": "Minha perna est\u00E1 cansada.",
+      "exampleTranslation": "Mein Bein ist m\u00FCde.",
+      "explanation": "A perna, Plural pernas, hei\u00DFt Bein. Minha und cansada passen zur weiblichen Form perna. Diese Formen beziehen sich auf das Bein, nicht auf das Geschlecht der sprechenden Person.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Körper und Befinden",
-      "expression": "pés",
-      "translation": "Füße",
-      "isVocabulary": true,
-      "example": "Preciso descansar os pés.",
-      "exampleTranslation": "Ich muss meine Füße ausruhen.",
-      "explanation": "O pé heißt Fuß, os pés heißt die Füße. Der Akut bleibt im Plural erhalten. Preciso descansar heißt ich muss ausruhen; bei den eigenen Körperteilen verwendet das Portugiesische hier den Artikel os, das Deutsche meine."
+      "topic": "K\u00F6rper und Befinden",
+      "expression": "p\u00E9s",
+      "translation": "F\u00FC\u00DFe",
+      "example": "Preciso descansar os p\u00E9s.",
+      "exampleTranslation": "Ich muss meine F\u00FC\u00DFe ausruhen.",
+      "explanation": "O p\u00E9 hei\u00DFt Fu\u00DF, os p\u00E9s hei\u00DFt die F\u00FC\u00DFe. Der Akut bleibt im Plural erhalten. Preciso descansar hei\u00DFt ich muss ausruhen; bei den eigenen K\u00F6rperteilen verwendet das Portugiesische hier den Artikel os, das Deutsche meine.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Körper und Befinden",
-      "expression": "mãos",
-      "translation": "Hände",
-      "isVocabulary": true,
-      "example": "Lave as mãos, por favor.",
-      "exampleTranslation": "Wasch dir bitte die Hände.",
-      "explanation": "A mão heißt Hand, as mãos heißt die Hände. Das Wort ist trotz der Endung -ão weiblich. Lave ist hier die Aufforderungsform von lavar zur Ansprache mit você; por favor macht die Bitte ausdrücklich."
+      "topic": "K\u00F6rper und Befinden",
+      "expression": "m\u00E3os",
+      "translation": "H\u00E4nde",
+      "example": "Lave as m\u00E3os, por favor.",
+      "exampleTranslation": "Wasch dir bitte die H\u00E4nde.",
+      "explanation": "A m\u00E3o hei\u00DFt Hand, as m\u00E3os hei\u00DFt die H\u00E4nde. Das Wort ist trotz der Endung -\u00E3o weiblich. Lave ist hier die Aufforderungsform von lavar zur Ansprache mit voc\u00EA; por favor macht die Bitte ausdr\u00FCcklich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Körper und Befinden",
+      "topic": "K\u00F6rper und Befinden",
       "expression": "barriga",
       "translation": "Bauch",
-      "isVocabulary": true,
       "example": "Estou com dor de barriga.",
       "exampleTranslation": "Ich habe Bauchschmerzen.",
-      "explanation": "A barriga, Plural barrigas, heißt Bauch. Dor de barriga bedeutet Bauchschmerzen. Das bekannte Muster estou com … beschreibt die Beschwerde; barriga bezeichnet nicht ausschließlich den Magen."
+      "explanation": "A barriga, Plural barrigas, hei\u00DFt Bauch. Dor de barriga bedeutet Bauchschmerzen. Das bekannte Muster estou com \u2026 beschreibt die Beschwerde; barriga bezeichnet nicht ausschlie\u00DFlich den Magen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Körper und Befinden",
+      "topic": "K\u00F6rper und Befinden",
       "expression": "olhos",
       "translation": "Augen",
-      "isVocabulary": true,
-      "example": "Meus olhos estão vermelhos.",
+      "example": "Meus olhos est\u00E3o vermelhos.",
       "exampleTranslation": "Meine Augen sind rot.",
-      "explanation": "O olho heißt Auge, os olhos heißt die Augen. Meus und vermelhos stehen wie olhos im männlichen Plural. Estão ist die Mehrzahlform zu está; der Satz beschreibt einen sichtbaren Zustand."
+      "explanation": "O olho hei\u00DFt Auge, os olhos hei\u00DFt die Augen. Meus und vermelhos stehen wie olhos im m\u00E4nnlichen Plural. Est\u00E3o ist die Mehrzahlform zu est\u00E1; der Satz beschreibt einen sichtbaren Zustand.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "K\u00F6rperteile benennen und ihre gelernten Einzahl- und Mehrzahlformen unterscheiden.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr F\u00FC\u00DFe: \u201EPreciso descansar os ____.\u201C",
+        "explanation": "P\u00E9s ist die Mehrzahl von p\u00E9. Der Akut bleibt erhalten.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "p\u00E9s"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr H\u00E4nde: \u201ELave as ____, por favor.\u201C",
+        "explanation": "M\u00E3os ist die Mehrzahl von m\u00E3o. Das Wort ist weiblich; die Tilde geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "m\u00E3os"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cabe\u00E7a \u2014 Kopf. A cabe\u00E7a, Plural cabe\u00E7as, ist der Kopf. Dor de cabe\u00E7a bedeutet Kopfschmerzen. Estou com \u2026 beschreibt hier das aktuelle Befinden; das portugiesische Muster verwendet com, die deutsche Wiedergabe haben. Estou com dor de cabe\u00E7a. \u2014 Ich habe Kopfschmerzen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Bauch"
+          },
+          {
+            "id": "answer",
+            "text": "Kopf"
+          },
+          {
+            "id": "d1",
+            "text": "Arm"
+          },
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cabe\u00E7a",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecabe\u00E7a\u201C?",
+        "explanation": "cabe\u00E7a \u2014 Kopf. A cabe\u00E7a, Plural cabe\u00E7as, ist der Kopf. Dor de cabe\u00E7a bedeutet Kopfschmerzen. Estou com \u2026 beschreibt hier das aktuelle Befinden; das portugiesische Muster verwendet com, die deutsche Wiedergabe haben. Estou com dor de cabe\u00E7a. \u2014 Ich habe Kopfschmerzen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Bauch"
+          },
+          {
+            "id": "answer",
+            "text": "Kopf"
+          },
+          {
+            "id": "d2",
+            "text": "Bein"
+          },
+          {
+            "id": "d1",
+            "text": "Arm"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstou com dor de garganta.\u201C",
+        "explanation": "garganta \u2014 Hals; Rachen. A garganta, Plural gargantas, bezeichnet den inneren Hals beziehungsweise Rachen. Dor de garganta hei\u00DFt Halsschmerzen. Das Beispiel wiederholt estou com \u002B Beschwerde, ohne eine Ursache zu nennen. Estou com dor de garganta. \u2014 Ich habe Halsschmerzen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hals; Rachen"
+          },
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          },
+          {
+            "id": "d4",
+            "text": "Augen"
+          },
+          {
+            "id": "d3",
+            "text": "Kopf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "garganta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Egarganta\u201C in diesem Beispiel? \u201EEstou com dor de garganta.\u201C",
+        "explanation": "garganta \u2014 Hals; Rachen. A garganta, Plural gargantas, bezeichnet den inneren Hals beziehungsweise Rachen. Dor de garganta hei\u00DFt Halsschmerzen. Das Beispiel wiederholt estou com \u002B Beschwerde, ohne eine Ursache zu nennen. Estou com dor de garganta. \u2014 Ich habe Halsschmerzen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          },
+          {
+            "id": "answer",
+            "text": "Hals; Rachen"
+          },
+          {
+            "id": "d5",
+            "text": "F\u00FC\u00DFe"
+          },
+          {
+            "id": "d4",
+            "text": "Augen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "bra\u00E7o \u2014 Arm. O bra\u00E7o, Plural bra\u00E7os, ist der Arm. Meu passt zum m\u00E4nnlichen Nomen bra\u00E7o. D\u00F3i geh\u00F6rt zum Verb doer und bedeutet hier tut weh; der Satz beschreibt einen einzelnen Arm. Meu bra\u00E7o d\u00F3i. \u2014 Mein Arm tut weh.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "F\u00FC\u00DFe"
+          },
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          },
+          {
+            "id": "answer",
+            "text": "Arm"
+          },
+          {
+            "id": "d2",
+            "text": "Kopf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "bra\u00E7o",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebra\u00E7o\u201C?",
+        "explanation": "bra\u00E7o \u2014 Arm. O bra\u00E7o, Plural bra\u00E7os, ist der Arm. Meu passt zum m\u00E4nnlichen Nomen bra\u00E7o. D\u00F3i geh\u00F6rt zum Verb doer und bedeutet hier tut weh; der Satz beschreibt einen einzelnen Arm. Meu bra\u00E7o d\u00F3i. \u2014 Mein Arm tut weh.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Hals; Rachen"
+          },
+          {
+            "id": "d2",
+            "text": "Kopf"
+          },
+          {
+            "id": "answer",
+            "text": "Arm"
+          },
+          {
+            "id": "d1",
+            "text": "Bein"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "perna \u2014 Bein. A perna, Plural pernas, hei\u00DFt Bein. Minha und cansada passen zur weiblichen Form perna. Diese Formen beziehen sich auf das Bein, nicht auf das Geschlecht der sprechenden Person. Minha perna est\u00E1 cansada. \u2014 Mein Bein ist m\u00FCde.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Kopf"
+          },
+          {
+            "id": "d1",
+            "text": "Arm"
+          },
+          {
+            "id": "d4",
+            "text": "F\u00FC\u00DFe"
+          },
+          {
+            "id": "answer",
+            "text": "Bein"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "perna",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eperna\u201C?",
+        "explanation": "perna \u2014 Bein. A perna, Plural pernas, hei\u00DFt Bein. Minha und cansada passen zur weiblichen Form perna. Diese Formen beziehen sich auf das Bein, nicht auf das Geschlecht der sprechenden Person. Minha perna est\u00E1 cansada. \u2014 Mein Bein ist m\u00FCde.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Bein"
+          },
+          {
+            "id": "d3",
+            "text": "Augen"
+          },
+          {
+            "id": "d4",
+            "text": "F\u00FC\u00DFe"
+          },
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstou com dor de barriga.\u201C",
+        "explanation": "barriga \u2014 Bauch. A barriga, Plural barrigas, hei\u00DFt Bauch. Dor de barriga bedeutet Bauchschmerzen. Das bekannte Muster estou com \u2026 beschreibt die Beschwerde; barriga bezeichnet nicht ausschlie\u00DFlich den Magen. Estou com dor de barriga. \u2014 Ich habe Bauchschmerzen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Kopf"
+          },
+          {
+            "id": "d1",
+            "text": "Arm"
+          },
+          {
+            "id": "d5",
+            "text": "F\u00FC\u00DFe"
+          },
+          {
+            "id": "answer",
+            "text": "Bauch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "barriga",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebarriga\u201C in diesem Beispiel? \u201EEstou com dor de barriga.\u201C",
+        "explanation": "barriga \u2014 Bauch. A barriga, Plural barrigas, hei\u00DFt Bauch. Dor de barriga bedeutet Bauchschmerzen. Das bekannte Muster estou com \u2026 beschreibt die Beschwerde; barriga bezeichnet nicht ausschlie\u00DFlich den Magen. Estou com dor de barriga. \u2014 Ich habe Bauchschmerzen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Arm"
+          },
+          {
+            "id": "d5",
+            "text": "F\u00FC\u00DFe"
+          },
+          {
+            "id": "answer",
+            "text": "Bauch"
+          },
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "olhos \u2014 Augen. O olho hei\u00DFt Auge, os olhos hei\u00DFt die Augen. Meus und vermelhos stehen wie olhos im m\u00E4nnlichen Plural. Est\u00E3o ist die Mehrzahlform zu est\u00E1; der Satz beschreibt einen sichtbaren Zustand. Meus olhos est\u00E3o vermelhos. \u2014 Meine Augen sind rot.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Kopf"
+          },
+          {
+            "id": "answer",
+            "text": "Augen"
+          },
+          {
+            "id": "d1",
+            "text": "Arm"
+          },
+          {
+            "id": "d2",
+            "text": "Bein"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "olhos",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eolhos\u201C?",
+        "explanation": "olhos \u2014 Augen. O olho hei\u00DFt Auge, os olhos hei\u00DFt die Augen. Meus und vermelhos stehen wie olhos im m\u00E4nnlichen Plural. Est\u00E3o ist die Mehrzahlform zu est\u00E1; der Satz beschreibt einen sichtbaren Zustand. Meus olhos est\u00E3o vermelhos. \u2014 Meine Augen sind rot.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "H\u00E4nde"
+          },
+          {
+            "id": "d1",
+            "text": "Arm"
+          },
+          {
+            "id": "answer",
+            "text": "Augen"
+          },
+          {
+            "id": "d4",
+            "text": "F\u00FC\u00DFe"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du Kopfschmerzen hast?",
+        "explanation": "Dor de cabe\u00E7a bedeutet Kopfschmerzen. Das Muster estou com beschreibt hier das aktuelle Befinden.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Estou com dor de garganta."
+          },
+          {
+            "id": "answer",
+            "text": "Estou com dor de cabe\u00E7a."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Meu bra\u00E7o d\u00F3i."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estou com dor de barriga."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKopf\u201C?",
+        "explanation": "cabe\u00E7a \u2014 Kopf. A cabe\u00E7a, Plural cabe\u00E7as, ist der Kopf. Dor de cabe\u00E7a bedeutet Kopfschmerzen. Estou com \u2026 beschreibt hier das aktuelle Befinden; das portugiesische Muster verwendet com, die deutsche Wiedergabe haben. Estou com dor de cabe\u00E7a. \u2014 Ich habe Kopfschmerzen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "perna"
+          },
+          {
+            "id": "d0",
+            "text": "m\u00E3os"
+          },
+          {
+            "id": "answer",
+            "text": "cabe\u00E7a"
+          },
+          {
+            "id": "d1",
+            "text": "bra\u00E7o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du Halsschmerzen hast?",
+        "explanation": "Garganta bezeichnet den inneren Hals oder Rachen. Dor de garganta hei\u00DFt Halsschmerzen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Estou com dor de cabe\u00E7a."
+          },
+          {
+            "id": "answer",
+            "text": "Estou com dor de garganta."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estou com dor de barriga."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Minha perna est\u00E1 cansada."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EHals; Rachen\u201C? Zusammenhang: bei einer Aussage \u00FCber Beschwerden.",
+        "explanation": "garganta \u2014 Hals; Rachen. A garganta, Plural gargantas, bezeichnet den inneren Hals beziehungsweise Rachen. Dor de garganta hei\u00DFt Halsschmerzen. Das Beispiel wiederholt estou com \u002B Beschwerde, ohne eine Ursache zu nennen. Estou com dor de garganta. \u2014 Ich habe Halsschmerzen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "m\u00E3os"
+          },
+          {
+            "id": "d4",
+            "text": "olhos"
+          },
+          {
+            "id": "d6",
+            "text": "barriga"
+          },
+          {
+            "id": "answer",
+            "text": "garganta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass dein Arm wehtut?",
+        "explanation": "Meu bra\u00E7o d\u00F3i beschreibt einen einzelnen Arm. D\u00F3i hei\u00DFt hier tut weh.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Meus olhos est\u00E3o cansados."
+          },
+          {
+            "id": "answer",
+            "text": "Meu bra\u00E7o d\u00F3i."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Minha perna d\u00F3i."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estou com dor de garganta."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EArm\u201C?",
+        "explanation": "bra\u00E7o \u2014 Arm. O bra\u00E7o, Plural bra\u00E7os, ist der Arm. Meu passt zum m\u00E4nnlichen Nomen bra\u00E7o. D\u00F3i geh\u00F6rt zum Verb doer und bedeutet hier tut weh; der Satz beschreibt einen einzelnen Arm. Meu bra\u00E7o d\u00F3i. \u2014 Mein Arm tut weh.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "bra\u00E7o"
+          },
+          {
+            "id": "d6",
+            "text": "barriga"
+          },
+          {
+            "id": "d4",
+            "text": "p\u00E9s"
+          },
+          {
+            "id": "d3",
+            "text": "olhos"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt dein Bein als m\u00FCde?",
+        "explanation": "Minha und cansada beziehen sich auf das weibliche Nomen perna. Sie nennen nicht das Geschlecht der sprechenden Person.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Estou cansada."
+          },
+          {
+            "id": "answer",
+            "text": "Minha perna est\u00E1 cansada."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meu bra\u00E7o est\u00E1 cansado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Minha perna d\u00F3i."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBein\u201C?",
+        "explanation": "perna \u2014 Bein. A perna, Plural pernas, hei\u00DFt Bein. Minha und cansada passen zur weiblichen Form perna. Diese Formen beziehen sich auf das Bein, nicht auf das Geschlecht der sprechenden Person. Minha perna est\u00E1 cansada. \u2014 Mein Bein ist m\u00FCde.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "garganta"
+          },
+          {
+            "id": "d4",
+            "text": "p\u00E9s"
+          },
+          {
+            "id": "d2",
+            "text": "cabe\u00E7a"
+          },
+          {
+            "id": "answer",
+            "text": "perna"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du Bauchschmerzen hast?",
+        "explanation": "Barriga hei\u00DFt Bauch. Der Satz nennt eine Beschwerde, ohne deren Ursache zu bestimmen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Meu bra\u00E7o d\u00F3i."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estou com dor de garganta."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estou com dor de cabe\u00E7a."
+          },
+          {
+            "id": "answer",
+            "text": "Estou com dor de barriga."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EBauch\u201C? Zusammenhang: bei einer Aussage \u00FCber Beschwerden.",
+        "explanation": "barriga \u2014 Bauch. A barriga, Plural barrigas, hei\u00DFt Bauch. Dor de barriga bedeutet Bauchschmerzen. Das bekannte Muster estou com \u2026 beschreibt die Beschwerde; barriga bezeichnet nicht ausschlie\u00DFlich den Magen. Estou com dor de barriga. \u2014 Ich habe Bauchschmerzen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "cabe\u00E7a"
+          },
+          {
+            "id": "answer",
+            "text": "barriga"
+          },
+          {
+            "id": "d1",
+            "text": "bra\u00E7o"
+          },
+          {
+            "id": "d5",
+            "text": "p\u00E9s"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt deine Augen als rot?",
+        "explanation": "Olhos ist die Mehrzahl Augen. Meus und vermelhos passen zum m\u00E4nnlichen Plural.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Meus p\u00E9s est\u00E3o cansados."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Minha perna est\u00E1 vermelha."
+          },
+          {
+            "id": "answer",
+            "text": "Meus olhos est\u00E3o vermelhos."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meus olhos est\u00E3o cansados."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EAugen\u201C?",
+        "explanation": "olhos \u2014 Augen. O olho hei\u00DFt Auge, os olhos hei\u00DFt die Augen. Meus und vermelhos stehen wie olhos im m\u00E4nnlichen Plural. Est\u00E3o ist die Mehrzahlform zu est\u00E1; der Satz beschreibt einen sichtbaren Zustand. Meus olhos est\u00E3o vermelhos. \u2014 Meine Augen sind rot.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "perna"
+          },
+          {
+            "id": "answer",
+            "text": "olhos"
+          },
+          {
+            "id": "d1",
+            "text": "bra\u00E7o"
+          },
+          {
+            "id": "d6",
+            "text": "barriga"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

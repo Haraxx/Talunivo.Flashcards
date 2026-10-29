@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-30-tagesablauf",
-  "packageVersion": 4,
-  "title": "30 · Mein Tagesablauf",
+  "packageVersion": 6,
+  "title": "30 \u00B7 Mein Tagesablauf",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Mein Tagesablauf",
       "expression": "acordar",
       "translation": "aufwachen",
-      "isVocabulary": true,
-      "example": "Acordo às sete.",
+      "example": "Acordo \u00E0s sete.",
       "exampleTranslation": "Ich wache um sieben auf.",
-      "explanation": "Acordar bedeutet aufwachen; acordo heißt ich wache auf. Às sete ist um sieben Uhr. Aufstehen ist eine andere Tätigkeit und heißt hier levantar; beides muss nicht gleichzeitig geschehen."
+      "explanation": "Acordar bedeutet aufwachen; acordo hei\u00DFt ich wache auf. \u00C0s sete ist um sieben Uhr. Aufstehen ist eine andere T\u00E4tigkeit und hei\u00DFt hier levantar; beides muss nicht gleichzeitig geschehen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Mein Tagesablauf",
       "expression": "levantar",
       "translation": "aufstehen",
-      "isVocabulary": true,
       "example": "Levanto cedo.",
-      "exampleTranslation": "Ich stehe früh auf.",
-      "explanation": "Levantar bedeutet im Tagesablauf hier aufstehen; levanto heißt ich stehe auf. Cedo bedeutet früh. Auch Me levanto cedo. ist eine mögliche Formulierung; sie soll nicht allein wegen me als falsch bewertet werden."
+      "exampleTranslation": "Ich stehe fr\u00FCh auf.",
+      "explanation": "Levantar bedeutet im Tagesablauf hier aufstehen; levanto hei\u00DFt ich stehe auf. Cedo bedeutet fr\u00FCh. Auch Me levanto cedo. ist eine m\u00F6gliche Formulierung; sie soll nicht allein wegen me als falsch bewertet werden.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Mein Tagesablauf",
       "expression": "tomar banho",
       "translation": "duschen; baden",
-      "isVocabulary": true,
-      "example": "Tomo banho de manhã.",
+      "example": "Tomo banho de manh\u00E3.",
       "exampleTranslation": "Ich dusche morgens.",
-      "explanation": "Tomar banho ist in Brasilien eine übliche Wendung für duschen oder baden. Tomo banho heißt hier ich dusche; de manhã bedeutet morgens. Ohne genaueren Zusammenhang kann auch ich bade eine passende deutsche Deutung sein."
+      "explanation": "Tomar banho ist in Brasilien eine \u00FCbliche Wendung f\u00FCr duschen oder baden. Tomo banho hei\u00DFt hier ich dusche; de manh\u00E3 bedeutet morgens. Ohne genaueren Zusammenhang kann auch ich bade eine passende deutsche Deutung sein.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Mein Tagesablauf",
       "expression": "escovar",
-      "translation": "putzen; bürsten",
-      "isVocabulary": true,
+      "translation": "putzen; b\u00FCrsten",
       "example": "Escovo os dentes.",
-      "exampleTranslation": "Ich putze mir die Zähne.",
-      "explanation": "Escovar bedeutet bürsten beziehungsweise mit einer Bürste putzen. Escovo heißt ich putze hier; os dentes sind die Zähne. Escovar os dentes ist die feste Verbindung die Zähne putzen."
+      "exampleTranslation": "Ich putze mir die Z\u00E4hne.",
+      "explanation": "Escovar bedeutet b\u00FCrsten beziehungsweise mit einer B\u00FCrste putzen. Escovo hei\u00DFt ich putze hier; os dentes sind die Z\u00E4hne. Escovar os dentes ist die feste Verbindung die Z\u00E4hne putzen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Mein Tagesablauf",
-      "expression": "almoçar",
+      "expression": "almo\u00E7ar",
       "translation": "zu Mittag essen",
-      "isVocabulary": true,
-      "example": "Almoço ao meio-dia.",
-      "exampleTranslation": "Ich esse um zwölf Uhr mittags zu Mittag.",
-      "explanation": "Almoçar bedeutet zu Mittag essen. Almoço ist hier die Verbform ich esse zu Mittag; o almoço wäre das Mittagessen als Nomen. Ao meio-dia bedeutet um zwölf Uhr mittags und greift die bekannte Zeitangabe auf."
+      "example": "Almo\u00E7o ao meio-dia.",
+      "exampleTranslation": "Ich esse um zw\u00F6lf Uhr mittags zu Mittag.",
+      "explanation": "Almo\u00E7ar bedeutet zu Mittag essen. Almo\u00E7o ist hier die Verbform ich esse zu Mittag; o almo\u00E7o w\u00E4re das Mittagessen als Nomen. Ao meio-dia bedeutet um zw\u00F6lf Uhr mittags und greift die bekannte Zeitangabe auf.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Mein Tagesablauf",
       "expression": "voltar",
-      "translation": "zurückkommen",
-      "isVocabulary": true,
-      "example": "Volto para casa às seis.",
-      "exampleTranslation": "Ich komme um sechs nach Hause zurück.",
-      "explanation": "Voltar bedeutet zurückkommen; volto heißt ich komme zurück. Para casa ist nach Hause, às seis um sechs Uhr. Ohne weiteren Tageszusatz legt die Uhrzeit allein nicht fest, ob morgens oder abends gemeint ist."
+      "translation": "zur\u00FCckkommen",
+      "example": "Volto para casa \u00E0s seis.",
+      "exampleTranslation": "Ich komme um sechs nach Hause zur\u00FCck.",
+      "explanation": "Voltar bedeutet zur\u00FCckkommen; volto hei\u00DFt ich komme zur\u00FCck. Para casa ist nach Hause, \u00E0s seis um sechs Uhr. Ohne weiteren Tageszusatz legt die Uhrzeit allein nicht fest, ob morgens oder abends gemeint ist.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Mein Tagesablauf",
       "expression": "jantar",
       "translation": "zu Abend essen",
-      "isVocabulary": true,
-      "example": "Janto com minha família.",
+      "example": "Janto com minha fam\u00EDlia.",
       "exampleTranslation": "Ich esse mit meiner Familie zu Abend.",
-      "explanation": "Jantar bedeutet zu Abend essen; janto heißt ich esse zu Abend. Com minha família ist mit meiner Familie. Der Satz beschreibt eine mögliche, frei erfundene Routine und setzt kein bestimmtes Zusammenleben voraus."
+      "explanation": "Jantar bedeutet zu Abend essen; janto hei\u00DFt ich esse zu Abend. Com minha fam\u00EDlia ist mit meiner Familie. Der Satz beschreibt eine m\u00F6gliche, frei erfundene Routine und setzt kein bestimmtes Zusammenleben voraus.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Mein Tagesablauf",
       "expression": "dormir",
       "translation": "schlafen",
-      "isVocabulary": true,
-      "example": "Vou dormir às dez da noite.",
+      "example": "Vou dormir \u00E0s dez da noite.",
       "exampleTranslation": "Ich gehe um zehn Uhr abends schlafen.",
-      "explanation": "Dormir bedeutet schlafen. Vou dormir heißt hier ich gehe schlafen. Às dez da noite ist um zehn Uhr abends, also 22 Uhr; der Zusatz da noite macht die Tageshälfte ausdrücklich klar."
+      "explanation": "Dormir bedeutet schlafen. Vou dormir hei\u00DFt hier ich gehe schlafen. \u00C0s dez da noite ist um zehn Uhr abends, also 22 Uhr; der Zusatz da noite macht die Tagesh\u00E4lfte ausdr\u00FCcklich klar.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache T\u00E4tigkeiten im Tagesablauf benennen und zeitlich einordnen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Grundform des Verbs f\u00FCr aufwachen aus diesem Paket, ohne Personalpronomen.",
+        "explanation": "Acordar hei\u00DFt aufwachen. Die Ich-Form acordo ist hier nicht gefragt; levantar hei\u00DFt aufstehen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "acordar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Grundform des Verbs f\u00FCr aufstehen im Tagesablauf aus diesem Paket, ohne Reflexiv- oder Personalpronomen.",
+        "explanation": "Die gelernte Grundform ist levantar. Levantar-se ist ebenfalls gebr\u00E4uchlich; hier wird ausdr\u00FCcklich die gelernte Form ohne Reflexivpronomen abgerufen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "levantar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tomar banho \u2014 duschen; baden. Tomar banho ist in Brasilien eine \u00FCbliche Wendung f\u00FCr duschen oder baden. Tomo banho hei\u00DFt hier ich dusche; de manh\u00E3 bedeutet morgens. Ohne genaueren Zusammenhang kann auch ich bade eine passende deutsche Deutung sein. Tomo banho de manh\u00E3. \u2014 Ich dusche morgens.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "duschen; baden"
+          },
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          },
+          {
+            "id": "d4",
+            "text": "zu Mittag essen"
+          },
+          {
+            "id": "d3",
+            "text": "putzen; b\u00FCrsten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tomar banho",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etomar banho\u201C?",
+        "explanation": "tomar banho \u2014 duschen; baden. Tomar banho ist in Brasilien eine \u00FCbliche Wendung f\u00FCr duschen oder baden. Tomo banho hei\u00DFt hier ich dusche; de manh\u00E3 bedeutet morgens. Ohne genaueren Zusammenhang kann auch ich bade eine passende deutsche Deutung sein. Tomo banho de manh\u00E3. \u2014 Ich dusche morgens.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          },
+          {
+            "id": "answer",
+            "text": "duschen; baden"
+          },
+          {
+            "id": "d5",
+            "text": "schlafen"
+          },
+          {
+            "id": "d4",
+            "text": "zu Mittag essen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEscovo os dentes.\u201C",
+        "explanation": "escovar \u2014 putzen; b\u00FCrsten. Escovar bedeutet b\u00FCrsten beziehungsweise mit einer B\u00FCrste putzen. Escovo hei\u00DFt ich putze hier; os dentes sind die Z\u00E4hne. Escovar os dentes ist die feste Verbindung die Z\u00E4hne putzen. Escovo os dentes. \u2014 Ich putze mir die Z\u00E4hne.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "aufstehen"
+          },
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d4",
+            "text": "schlafen"
+          },
+          {
+            "id": "answer",
+            "text": "putzen; b\u00FCrsten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "escovar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eescovar\u201C in diesem Beispiel? \u201EEscovo os dentes.\u201C",
+        "explanation": "escovar \u2014 putzen; b\u00FCrsten. Escovar bedeutet b\u00FCrsten beziehungsweise mit einer B\u00FCrste putzen. Escovo hei\u00DFt ich putze hier; os dentes sind die Z\u00E4hne. Escovar os dentes ist die feste Verbindung die Z\u00E4hne putzen. Escovo os dentes. \u2014 Ich putze mir die Z\u00E4hne.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "putzen; b\u00FCrsten"
+          },
+          {
+            "id": "d3",
+            "text": "zu Mittag essen"
+          },
+          {
+            "id": "d4",
+            "text": "schlafen"
+          },
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "almo\u00E7ar \u2014 zu Mittag essen. Almo\u00E7ar bedeutet zu Mittag essen. Almo\u00E7o ist hier die Verbform ich esse zu Mittag; o almo\u00E7o w\u00E4re das Mittagessen als Nomen. Ao meio-dia bedeutet um zw\u00F6lf Uhr mittags und greift die bekannte Zeitangabe auf. Almo\u00E7o ao meio-dia. \u2014 Ich esse um zw\u00F6lf Uhr mittags zu Mittag.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "zur\u00FCckkommen"
+          },
+          {
+            "id": "answer",
+            "text": "zu Mittag essen"
+          },
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "almo\u00E7ar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ealmo\u00E7ar\u201C?",
+        "explanation": "almo\u00E7ar \u2014 zu Mittag essen. Almo\u00E7ar bedeutet zu Mittag essen. Almo\u00E7o ist hier die Verbform ich esse zu Mittag; o almo\u00E7o w\u00E4re das Mittagessen als Nomen. Ao meio-dia bedeutet um zw\u00F6lf Uhr mittags und greift die bekannte Zeitangabe auf. Almo\u00E7o ao meio-dia. \u2014 Ich esse um zw\u00F6lf Uhr mittags zu Mittag.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "zur\u00FCckkommen"
+          },
+          {
+            "id": "answer",
+            "text": "zu Mittag essen"
+          },
+          {
+            "id": "d2",
+            "text": "aufstehen"
+          },
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "voltar \u2014 zur\u00FCckkommen. Voltar bedeutet zur\u00FCckkommen; volto hei\u00DFt ich komme zur\u00FCck. Para casa ist nach Hause, \u00E0s seis um sechs Uhr. Ohne weiteren Tageszusatz legt die Uhrzeit allein nicht fest, ob morgens oder abends gemeint ist. Volto para casa \u00E0s seis. \u2014 Ich komme um sechs nach Hause zur\u00FCck.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "putzen; b\u00FCrsten"
+          },
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d5",
+            "text": "schlafen"
+          },
+          {
+            "id": "answer",
+            "text": "zur\u00FCckkommen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "voltar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Evoltar\u201C?",
+        "explanation": "voltar \u2014 zur\u00FCckkommen. Voltar bedeutet zur\u00FCckkommen; volto hei\u00DFt ich komme zur\u00FCck. Para casa ist nach Hause, \u00E0s seis um sechs Uhr. Ohne weiteren Tageszusatz legt die Uhrzeit allein nicht fest, ob morgens oder abends gemeint ist. Volto para casa \u00E0s seis. \u2014 Ich komme um sechs nach Hause zur\u00FCck.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d5",
+            "text": "schlafen"
+          },
+          {
+            "id": "answer",
+            "text": "zur\u00FCckkommen"
+          },
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "jantar \u2014 zu Abend essen. Jantar bedeutet zu Abend essen; janto hei\u00DFt ich esse zu Abend. Com minha fam\u00EDlia ist mit meiner Familie. Der Satz beschreibt eine m\u00F6gliche, frei erfundene Routine und setzt kein bestimmtes Zusammenleben voraus. Janto com minha fam\u00EDlia. \u2014 Ich esse mit meiner Familie zu Abend.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "schlafen"
+          },
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          },
+          {
+            "id": "answer",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d2",
+            "text": "putzen; b\u00FCrsten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "jantar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ejantar\u201C?",
+        "explanation": "jantar \u2014 zu Abend essen. Jantar bedeutet zu Abend essen; janto hei\u00DFt ich esse zu Abend. Com minha fam\u00EDlia ist mit meiner Familie. Der Satz beschreibt eine m\u00F6gliche, frei erfundene Routine und setzt kein bestimmtes Zusammenleben voraus. Janto com minha fam\u00EDlia. \u2014 Ich esse mit meiner Familie zu Abend.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "duschen; baden"
+          },
+          {
+            "id": "d2",
+            "text": "putzen; b\u00FCrsten"
+          },
+          {
+            "id": "answer",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d1",
+            "text": "aufstehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dormir \u2014 schlafen. Dormir bedeutet schlafen. Vou dormir hei\u00DFt hier ich gehe schlafen. \u00C0s dez da noite ist um zehn Uhr abends, also 22 Uhr; der Zusatz da noite macht die Tagesh\u00E4lfte ausdr\u00FCcklich klar. Vou dormir \u00E0s dez da noite. \u2014 Ich gehe um zehn Uhr abends schlafen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "putzen; b\u00FCrsten"
+          },
+          {
+            "id": "answer",
+            "text": "schlafen"
+          },
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "d2",
+            "text": "aufstehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dormir",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edormir\u201C?",
+        "explanation": "dormir \u2014 schlafen. Dormir bedeutet schlafen. Vou dormir hei\u00DFt hier ich gehe schlafen. \u00C0s dez da noite ist um zehn Uhr abends, also 22 Uhr; der Zusatz da noite macht die Tagesh\u00E4lfte ausdr\u00FCcklich klar. Vou dormir \u00E0s dez da noite. \u2014 Ich gehe um zehn Uhr abends schlafen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "aufwachen"
+          },
+          {
+            "id": "d1",
+            "text": "zu Abend essen"
+          },
+          {
+            "id": "answer",
+            "text": "schlafen"
+          },
+          {
+            "id": "d4",
+            "text": "zu Mittag essen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eduschen; baden\u201C?",
+        "explanation": "tomar banho \u2014 duschen; baden. Tomar banho ist in Brasilien eine \u00FCbliche Wendung f\u00FCr duschen oder baden. Tomo banho hei\u00DFt hier ich dusche; de manh\u00E3 bedeutet morgens. Ohne genaueren Zusammenhang kann auch ich bade eine passende deutsche Deutung sein. Tomo banho de manh\u00E3. \u2014 Ich dusche morgens.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "acordar"
+          },
+          {
+            "id": "d4",
+            "text": "almo\u00E7ar"
+          },
+          {
+            "id": "d6",
+            "text": "voltar"
+          },
+          {
+            "id": "answer",
+            "text": "tomar banho"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du morgens duschst oder badest?",
+        "explanation": "Tomar banho kann duschen oder baden bedeuten. De manh\u00E3 nennt den Morgen; beides wird als Bedeutung ber\u00FCcksichtigt.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Tomo banho \u00E0 noite."
+          },
+          {
+            "id": "answer",
+            "text": "Tomo banho de manh\u00E3."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Escovo os dentes."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Almo\u00E7o ao meio-dia."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eputzen; b\u00FCrsten\u201C? Zusammenhang: bei der Zahnpflege.",
+        "explanation": "escovar \u2014 putzen; b\u00FCrsten. Escovar bedeutet b\u00FCrsten beziehungsweise mit einer B\u00FCrste putzen. Escovo hei\u00DFt ich putze hier; os dentes sind die Z\u00E4hne. Escovar os dentes ist die feste Verbindung die Z\u00E4hne putzen. Escovo os dentes. \u2014 Ich putze mir die Z\u00E4hne.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "tomar banho"
+          },
+          {
+            "id": "d4",
+            "text": "dormir"
+          },
+          {
+            "id": "d2",
+            "text": "levantar"
+          },
+          {
+            "id": "answer",
+            "text": "escovar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt das Z\u00E4hneputzen?",
+        "explanation": "Escovar os dentes hei\u00DFt die Z\u00E4hne putzen. Escovo ist hier die Ich-Form des Verbs.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Vou arrumar a cama."
+          },
+          {
+            "id": "answer",
+            "text": "Escovo os dentes."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Lavo a roupa."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tomo banho de manh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezu Mittag essen\u201C?",
+        "explanation": "almo\u00E7ar \u2014 zu Mittag essen. Almo\u00E7ar bedeutet zu Mittag essen. Almo\u00E7o ist hier die Verbform ich esse zu Mittag; o almo\u00E7o w\u00E4re das Mittagessen als Nomen. Ao meio-dia bedeutet um zw\u00F6lf Uhr mittags und greift die bekannte Zeitangabe auf. Almo\u00E7o ao meio-dia. \u2014 Ich esse um zw\u00F6lf Uhr mittags zu Mittag.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "levantar"
+          },
+          {
+            "id": "d0",
+            "text": "acordar"
+          },
+          {
+            "id": "answer",
+            "text": "almo\u00E7ar"
+          },
+          {
+            "id": "d1",
+            "text": "jantar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt ausdr\u00FCcklich das Mittagessen um zw\u00F6lf Uhr mittags?",
+        "explanation": "Almo\u00E7o ist hier die Verbform ich esse zu Mittag. Ao meio-dia bedeutet um zw\u00F6lf Uhr mittags.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Almo\u00E7o \u00E0 uma da tarde."
+          },
+          {
+            "id": "answer",
+            "text": "Almo\u00E7o ao meio-dia."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tomo banho de manh\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Janto \u00E0 noite."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezur\u00FCckkommen\u201C?",
+        "explanation": "voltar \u2014 zur\u00FCckkommen. Voltar bedeutet zur\u00FCckkommen; volto hei\u00DFt ich komme zur\u00FCck. Para casa ist nach Hause, \u00E0s seis um sechs Uhr. Ohne weiteren Tageszusatz legt die Uhrzeit allein nicht fest, ob morgens oder abends gemeint ist. Volto para casa \u00E0s seis. \u2014 Ich komme um sechs nach Hause zur\u00FCck.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "escovar"
+          },
+          {
+            "id": "answer",
+            "text": "voltar"
+          },
+          {
+            "id": "d1",
+            "text": "jantar"
+          },
+          {
+            "id": "d5",
+            "text": "dormir"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du um sechs nach Hause zur\u00FCckkommst?",
+        "explanation": "Volto para casa hei\u00DFt ich komme nach Hause zur\u00FCck. \u00C0s seis legt ohne weiteren Zusatz nicht morgens oder abends fest.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Vou dormir \u00E0s seis."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Volto para casa \u00E0s sete."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vou para o hotel \u00E0s seis."
+          },
+          {
+            "id": "answer",
+            "text": "Volto para casa \u00E0s seis."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezu Abend essen\u201C?",
+        "explanation": "jantar \u2014 zu Abend essen. Jantar bedeutet zu Abend essen; janto hei\u00DFt ich esse zu Abend. Com minha fam\u00EDlia ist mit meiner Familie. Der Satz beschreibt eine m\u00F6gliche, frei erfundene Routine und setzt kein bestimmtes Zusammenleben voraus. Janto com minha fam\u00EDlia. \u2014 Ich esse mit meiner Familie zu Abend.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "jantar"
+          },
+          {
+            "id": "d6",
+            "text": "voltar"
+          },
+          {
+            "id": "d4",
+            "text": "dormir"
+          },
+          {
+            "id": "d3",
+            "text": "almo\u00E7ar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201ECom quem voc\u00EA janta?\u201C \u2013 Welche Antwort nennt deine Familie beim Abendessen?",
+        "explanation": "Janto hei\u00DFt ich esse zu Abend. Com minha fam\u00EDlia nennt die Familie; die Routine darf erfunden sein.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Almo\u00E7o com minha fam\u00EDlia."
+          },
+          {
+            "id": "answer",
+            "text": "Janto com minha fam\u00EDlia."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Janto sozinho."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Janto com meus amigos."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eschlafen\u201C?",
+        "explanation": "dormir \u2014 schlafen. Dormir bedeutet schlafen. Vou dormir hei\u00DFt hier ich gehe schlafen. \u00C0s dez da noite ist um zehn Uhr abends, also 22 Uhr; der Zusatz da noite macht die Tagesh\u00E4lfte ausdr\u00FCcklich klar. Vou dormir \u00E0s dez da noite. \u2014 Ich gehe um zehn Uhr abends schlafen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "levantar"
+          },
+          {
+            "id": "answer",
+            "text": "dormir"
+          },
+          {
+            "id": "d1",
+            "text": "jantar"
+          },
+          {
+            "id": "d6",
+            "text": "voltar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du um 22 Uhr schlafen gehst?",
+        "explanation": "\u00C0s dez da noite bedeutet zehn Uhr abends, also 22 Uhr. Vou dormir hei\u00DFt hier ich gehe schlafen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou dormir \u00E0s nove da noite."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Acordo \u00E0s dez da noite."
+          },
+          {
+            "id": "answer",
+            "text": "Vou dormir \u00E0s dez da noite."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou dormir \u00E0s dez da manh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

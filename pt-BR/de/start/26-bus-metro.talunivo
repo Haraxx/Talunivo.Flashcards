@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-26-bus-metro",
-  "packageVersion": 4,
-  "title": "26 · Bus und Metro",
+  "packageVersion": 6,
+  "title": "26 \u00B7 Bus und Metro",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Bus und Metro",
-      "expression": "ponto de ônibus",
+      "expression": "ponto de \u00F4nibus",
       "translation": "Bushaltestelle",
-      "isVocabulary": true,
-      "example": "Onde fica o ponto de ônibus?",
+      "example": "Onde fica o ponto de \u00F4nibus?",
       "exampleTranslation": "Wo ist die Bushaltestelle?",
-      "explanation": "O ponto de ônibus ist eine Bushaltestelle; die Mehrzahl lautet pontos de ônibus. Onde fica …? ist die bekannte Ortsfrage. Ônibus bleibt auch in dieser Wortgruppe unverändert."
+      "explanation": "O ponto de \u00F4nibus ist eine Bushaltestelle; die Mehrzahl lautet pontos de \u00F4nibus. Onde fica \u2026? ist die bekannte Ortsfrage. \u00D4nibus bleibt auch in dieser Wortgruppe unver\u00E4ndert.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Bus und Metro",
-      "expression": "ônibus",
+      "expression": "\u00F4nibus",
       "translation": "Bus",
-      "isVocabulary": true,
-      "example": "Este ônibus vai para o centro?",
-      "exampleTranslation": "Fährt dieser Bus ins Zentrum?",
-      "explanation": "O ônibus ist ein Bus, os ônibus sind mehrere Busse; das Wort bleibt gleich. Este ônibus heißt dieser Bus. Vai para o centro fragt hier nach dem Fahrtziel ins Zentrum."
+      "example": "Este \u00F4nibus vai para o centro?",
+      "exampleTranslation": "F\u00E4hrt dieser Bus ins Zentrum?",
+      "explanation": "O \u00F4nibus ist ein Bus, os \u00F4nibus sind mehrere Busse; das Wort bleibt gleich. Este \u00F4nibus hei\u00DFt dieser Bus. Vai para o centro fragt hier nach dem Fahrtziel ins Zentrum.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Bus und Metro",
       "expression": "linha",
       "translation": "Linie",
-      "isVocabulary": true,
       "example": "Qual linha devo pegar?",
       "exampleTranslation": "Welche Linie soll ich nehmen?",
-      "explanation": "A linha, Plural linhas, bezeichnet hier eine Verkehrslinie. Devo pegar heißt in dieser Frage soll ich nehmen. Das Muster erfragt die Linie; eine konkrete Liniennummer ist noch nicht genannt."
+      "explanation": "A linha, Plural linhas, bezeichnet hier eine Verkehrslinie. Devo pegar hei\u00DFt in dieser Frage soll ich nehmen. Das Muster erfragt die Linie; eine konkrete Liniennummer ist noch nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Bus und Metro",
       "expression": "passagem",
       "translation": "Fahrkarte",
-      "isVocabulary": true,
       "example": "Uma passagem, por favor.",
       "exampleTranslation": "Eine Fahrkarte, bitte.",
-      "explanation": "A passagem, Plural passagens, ist hier eine Fahrkarte. Uma passt zum weiblichen Nomen. Je nach Verkehrskontext können Fahrkarte, Fahrschein oder Ticket passende deutsche Fassungen sein."
+      "explanation": "A passagem, Plural passagens, ist hier eine Fahrkarte. Uma passt zum weiblichen Nomen. Je nach Verkehrskontext k\u00F6nnen Fahrkarte, Fahrschein oder Ticket passende deutsche Fassungen sein.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Bus und Metro",
       "expression": "bilhete",
       "translation": "Fahrschein",
-      "isVocabulary": true,
       "example": "Onde posso comprar o bilhete?",
       "exampleTranslation": "Wo kann ich den Fahrschein kaufen?",
-      "explanation": "O bilhete, Plural bilhetes, bezeichnet hier einen Fahrschein. Onde posso comprar …? heißt wo kann ich … kaufen? Außerhalb des Verkehrskontexts kann bilhete auch eine kurze schriftliche Nachricht bezeichnen."
+      "explanation": "O bilhete, Plural bilhetes, bezeichnet hier einen Fahrschein. Onde posso comprar \u2026? hei\u00DFt wo kann ich \u2026 kaufen? Au\u00DFerhalb des Verkehrskontexts kann bilhete auch eine kurze schriftliche Nachricht bezeichnen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Bus und Metro",
       "expression": "parada",
       "translation": "Haltestelle",
-      "isVocabulary": true,
-      "example": "Preciso descer na próxima parada.",
-      "exampleTranslation": "Ich muss an der nächsten Haltestelle aussteigen.",
-      "explanation": "A parada, Plural paradas, ist hier eine Haltestelle. Próxima parada heißt nächste Haltestelle; na ist em + a. Preciso descer bedeutet hier ich muss aussteigen, mit einem Verb direkt nach preciso."
+      "example": "Preciso descer na pr\u00F3xima parada.",
+      "exampleTranslation": "Ich muss an der n\u00E4chsten Haltestelle aussteigen.",
+      "explanation": "A parada, Plural paradas, ist hier eine Haltestelle. Pr\u00F3xima parada hei\u00DFt n\u00E4chste Haltestelle; na ist em \u002B a. Preciso descer bedeutet hier ich muss aussteigen, mit einem Verb direkt nach preciso.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Bus und Metro",
       "expression": "trocar",
       "translation": "wechseln",
-      "isVocabulary": true,
       "example": "Tenho que trocar de linha?",
       "exampleTranslation": "Muss ich die Linie wechseln?",
-      "explanation": "Trocar bedeutet wechseln. Trocar de linha heißt die Linie wechseln; tenho que … bedeutet hier ich muss … Die Wendung benötigt bei diesem Bezug de vor linha."
+      "explanation": "Trocar bedeutet wechseln. Trocar de linha hei\u00DFt die Linie wechseln; tenho que \u2026 bedeutet hier ich muss \u2026 Die Wendung ben\u00F6tigt bei diesem Bezug de vor linha.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Bus und Metro",
-      "expression": "metrô",
+      "expression": "metr\u00F4",
       "translation": "Metro",
-      "isVocabulary": true,
-      "example": "O metrô está lotado.",
-      "exampleTranslation": "Die Metro ist überfüllt.",
-      "explanation": "O metrô ist die hier gelernte brasilianische Bezeichnung und Schreibweise für Metro beziehungsweise U-Bahn. Está lotado bedeutet ist überfüllt; lotado ist männlich wegen metrô. Der Satz beschreibt eine erfundene Fahrsituation."
+      "example": "O metr\u00F4 est\u00E1 lotado.",
+      "exampleTranslation": "Die Metro ist \u00FCberf\u00FCllt.",
+      "explanation": "O metr\u00F4 ist die hier gelernte brasilianische Bezeichnung und Schreibweise f\u00FCr Metro beziehungsweise U-Bahn. Est\u00E1 lotado bedeutet ist \u00FCberf\u00FCllt; lotado ist m\u00E4nnlich wegen metr\u00F4. Der Satz beschreibt eine erfundene Fahrsituation.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Nach Fahrkarten, Linien und Haltestellen fragen und einfache Angaben zum Umsteigen verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Bus: \u201EEste ____ vai para o centro?\u201C",
+        "explanation": "\u00D4nibus bleibt auch im Plural gleich. Der Zirkumflex geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "\u00F4nibus"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte brasilianische Bezeichnung f\u00FCr Metro als ein Wort: \u201EO ____ est\u00E1 lotado.\u201C",
+        "explanation": "Metr\u00F4 ist die hier gelernte brasilianische Form. Der Zirkumflex geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "metr\u00F4"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ponto de \u00F4nibus \u2014 Bushaltestelle. O ponto de \u00F4nibus ist eine Bushaltestelle; die Mehrzahl lautet pontos de \u00F4nibus. Onde fica \u2026? ist die bekannte Ortsfrage. \u00D4nibus bleibt auch in dieser Wortgruppe unver\u00E4ndert. Onde fica o ponto de \u00F4nibus? \u2014 Wo ist die Bushaltestelle?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Linie"
+          },
+          {
+            "id": "d3",
+            "text": "Fahrkarte"
+          },
+          {
+            "id": "answer",
+            "text": "Bushaltestelle"
+          },
+          {
+            "id": "d1",
+            "text": "Metro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ponto de \u00F4nibus",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eponto de \u00F4nibus\u201C?",
+        "explanation": "ponto de \u00F4nibus \u2014 Bushaltestelle. O ponto de \u00F4nibus ist eine Bushaltestelle; die Mehrzahl lautet pontos de \u00F4nibus. Onde fica \u2026? ist die bekannte Ortsfrage. \u00D4nibus bleibt auch in dieser Wortgruppe unver\u00E4ndert. Onde fica o ponto de \u00F4nibus? \u2014 Wo ist die Bushaltestelle?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Fahrkarte"
+          },
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "answer",
+            "text": "Bushaltestelle"
+          },
+          {
+            "id": "d0",
+            "text": "Bus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQual linha devo pegar?\u201C",
+        "explanation": "linha \u2014 Linie. A linha, Plural linhas, bezeichnet hier eine Verkehrslinie. Devo pegar hei\u00DFt in dieser Frage soll ich nehmen. Das Muster erfragt die Linie; eine konkrete Liniennummer ist noch nicht genannt. Qual linha devo pegar? \u2014 Welche Linie soll ich nehmen?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Bushaltestelle"
+          },
+          {
+            "id": "d6",
+            "text": "wechseln"
+          },
+          {
+            "id": "answer",
+            "text": "Linie"
+          },
+          {
+            "id": "d2",
+            "text": "Fahrkarte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "linha",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Elinha\u201C in diesem Beispiel? \u201EQual linha devo pegar?\u201C",
+        "explanation": "linha \u2014 Linie. A linha, Plural linhas, bezeichnet hier eine Verkehrslinie. Devo pegar hei\u00DFt in dieser Frage soll ich nehmen. Das Muster erfragt die Linie; eine konkrete Liniennummer ist noch nicht genannt. Qual linha devo pegar? \u2014 Welche Linie soll ich nehmen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Linie"
+          },
+          {
+            "id": "d1",
+            "text": "Metro"
+          },
+          {
+            "id": "d5",
+            "text": "Haltestelle"
+          },
+          {
+            "id": "d4",
+            "text": "Bushaltestelle"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EUma passagem, por favor.\u201C",
+        "explanation": "passagem \u2014 Fahrkarte. A passagem, Plural passagens, ist hier eine Fahrkarte. Uma passt zum weiblichen Nomen. Je nach Verkehrskontext k\u00F6nnen Fahrkarte, Fahrschein oder Ticket passende deutsche Fassungen sein. Uma passagem, por favor. \u2014 Eine Fahrkarte, bitte.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Bushaltestelle"
+          },
+          {
+            "id": "d0",
+            "text": "Bus"
+          },
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "answer",
+            "text": "Fahrkarte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "passagem",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epassagem\u201C in diesem Beispiel? \u201EUma passagem, por favor.\u201C",
+        "explanation": "passagem \u2014 Fahrkarte. A passagem, Plural passagens, ist hier eine Fahrkarte. Uma passt zum weiblichen Nomen. Je nach Verkehrskontext k\u00F6nnen Fahrkarte, Fahrschein oder Ticket passende deutsche Fassungen sein. Uma passagem, por favor. \u2014 Eine Fahrkarte, bitte.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Bus"
+          },
+          {
+            "id": "answer",
+            "text": "Fahrkarte"
+          },
+          {
+            "id": "d3",
+            "text": "Bushaltestelle"
+          },
+          {
+            "id": "d5",
+            "text": "wechseln"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EOnde posso comprar o bilhete?\u201C",
+        "explanation": "bilhete \u2014 Fahrschein. O bilhete, Plural bilhetes, bezeichnet hier einen Fahrschein. Onde posso comprar \u2026? hei\u00DFt wo kann ich \u2026 kaufen? Au\u00DFerhalb des Verkehrskontexts kann bilhete auch eine kurze schriftliche Nachricht bezeichnen. Onde posso comprar o bilhete? \u2014 Wo kann ich den Fahrschein kaufen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Bus"
+          },
+          {
+            "id": "d1",
+            "text": "Metro"
+          },
+          {
+            "id": "answer",
+            "text": "Fahrschein"
+          },
+          {
+            "id": "d4",
+            "text": "Haltestelle"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "bilhete",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebilhete\u201C in diesem Beispiel? \u201EOnde posso comprar o bilhete?\u201C",
+        "explanation": "bilhete \u2014 Fahrschein. O bilhete, Plural bilhetes, bezeichnet hier einen Fahrschein. Onde posso comprar \u2026? hei\u00DFt wo kann ich \u2026 kaufen? Au\u00DFerhalb des Verkehrskontexts kann bilhete auch eine kurze schriftliche Nachricht bezeichnen. Onde posso comprar o bilhete? \u2014 Wo kann ich den Fahrschein kaufen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Bus"
+          },
+          {
+            "id": "d4",
+            "text": "Haltestelle"
+          },
+          {
+            "id": "answer",
+            "text": "Fahrschein"
+          },
+          {
+            "id": "d3",
+            "text": "Bushaltestelle"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPreciso descer na pr\u00F3xima parada.\u201C",
+        "explanation": "parada \u2014 Haltestelle. A parada, Plural paradas, ist hier eine Haltestelle. Pr\u00F3xima parada hei\u00DFt n\u00E4chste Haltestelle; na ist em \u002B a. Preciso descer bedeutet hier ich muss aussteigen, mit einem Verb direkt nach preciso. Preciso descer na pr\u00F3xima parada. \u2014 Ich muss an der n\u00E4chsten Haltestelle aussteigen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Haltestelle"
+          },
+          {
+            "id": "d4",
+            "text": "Fahrschein"
+          },
+          {
+            "id": "d3",
+            "text": "Fahrkarte"
+          },
+          {
+            "id": "d0",
+            "text": "Bus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "parada",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eparada\u201C in diesem Beispiel? \u201EPreciso descer na pr\u00F3xima parada.\u201C",
+        "explanation": "parada \u2014 Haltestelle. A parada, Plural paradas, ist hier eine Haltestelle. Pr\u00F3xima parada hei\u00DFt n\u00E4chste Haltestelle; na ist em \u002B a. Preciso descer bedeutet hier ich muss aussteigen, mit einem Verb direkt nach preciso. Preciso descer na pr\u00F3xima parada. \u2014 Ich muss an der n\u00E4chsten Haltestelle aussteigen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "d2",
+            "text": "Linie"
+          },
+          {
+            "id": "d3",
+            "text": "Fahrkarte"
+          },
+          {
+            "id": "answer",
+            "text": "Haltestelle"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ETenho que trocar de linha?\u201C",
+        "explanation": "trocar \u2014 wechseln. Trocar bedeutet wechseln. Trocar de linha hei\u00DFt die Linie wechseln; tenho que \u2026 bedeutet hier ich muss \u2026 Die Wendung ben\u00F6tigt bei diesem Bezug de vor linha. Tenho que trocar de linha? \u2014 Muss ich die Linie wechseln?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "wechseln"
+          },
+          {
+            "id": "d4",
+            "text": "verlieren"
+          },
+          {
+            "id": "d11",
+            "text": "warmes Wasser"
+          },
+          {
+            "id": "d8",
+            "text": "Decke"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "trocar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etrocar\u201C in diesem Beispiel? \u201ETenho que trocar de linha?\u201C",
+        "explanation": "trocar \u2014 wechseln. Trocar bedeutet wechseln. Trocar de linha hei\u00DFt die Linie wechseln; tenho que \u2026 bedeutet hier ich muss \u2026 Die Wendung ben\u00F6tigt bei diesem Bezug de vor linha. Tenho que trocar de linha? \u2014 Muss ich die Linie wechseln?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "wechseln"
+          },
+          {
+            "id": "d4",
+            "text": "verlieren"
+          },
+          {
+            "id": "d8",
+            "text": "Decke"
+          },
+          {
+            "id": "d0",
+            "text": "Bus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBushaltestelle\u201C?",
+        "explanation": "ponto de \u00F4nibus \u2014 Bushaltestelle. O ponto de \u00F4nibus ist eine Bushaltestelle; die Mehrzahl lautet pontos de \u00F4nibus. Onde fica \u2026? ist die bekannte Ortsfrage. \u00D4nibus bleibt auch in dieser Wortgruppe unver\u00E4ndert. Onde fica o ponto de \u00F4nibus? \u2014 Wo ist die Bushaltestelle?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "linha"
+          },
+          {
+            "id": "answer",
+            "text": "ponto de \u00F4nibus"
+          },
+          {
+            "id": "d5",
+            "text": "trocar"
+          },
+          {
+            "id": "d4",
+            "text": "bilhete"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst die Bushaltestelle. Welche Frage passt?",
+        "explanation": "Ponto de \u00F4nibus ist eine Bushaltestelle. Onde fica? fragt nach ihrem Ort.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o provador?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o hotel?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o elevador?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde fica o ponto de \u00F4nibus?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201ELinie\u201C? Zusammenhang: bei einer Frage zur Auswahl von Bus oder Metro.",
+        "explanation": "linha \u2014 Linie. A linha, Plural linhas, bezeichnet hier eine Verkehrslinie. Devo pegar hei\u00DFt in dieser Frage soll ich nehmen. Das Muster erfragt die Linie; eine konkrete Liniennummer ist noch nicht genannt. Qual linha devo pegar? \u2014 Welche Linie soll ich nehmen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "bilhete"
+          },
+          {
+            "id": "d0",
+            "text": "\u00F4nibus"
+          },
+          {
+            "id": "answer",
+            "text": "linha"
+          },
+          {
+            "id": "d1",
+            "text": "metr\u00F4"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich danach, welche Verkehrslinie du nehmen sollst?",
+        "explanation": "Qual linha devo pegar? fragt nach der passenden Linie, noch nicht nach einem bestimmten Fahrschein.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O metr\u00F4 est\u00E1 lotado?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quanto custa a passagem?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o hotel?"
+          },
+          {
+            "id": "answer",
+            "text": "Qual linha devo pegar?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFahrkarte\u201C? Zusammenhang: beim Reisen mit \u00F6ffentlichen Verkehrsmitteln.",
+        "explanation": "passagem \u2014 Fahrkarte. A passagem, Plural passagens, ist hier eine Fahrkarte. Uma passt zum weiblichen Nomen. Je nach Verkehrskontext k\u00F6nnen Fahrkarte, Fahrschein oder Ticket passende deutsche Fassungen sein. Uma passagem, por favor. \u2014 Eine Fahrkarte, bitte.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "ponto de \u00F4nibus"
+          },
+          {
+            "id": "answer",
+            "text": "passagem"
+          },
+          {
+            "id": "d2",
+            "text": "linha"
+          },
+          {
+            "id": "d4",
+            "text": "parada"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bestellst genau eine Fahrkarte. Welche gelernte Bitte passt?",
+        "explanation": "Uma passagem verlangt eine Fahrkarte. Bilhete kann ebenfalls einen Fahrschein bezeichnen und ist hier keine falsche Alternative.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o ponto de \u00F4nibus?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Duas passagens, por favor."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho que trocar de linha?"
+          },
+          {
+            "id": "answer",
+            "text": "Uma passagem, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFahrschein\u201C? Zusammenhang: beim Reisen mit \u00F6ffentlichen Verkehrsmitteln.",
+        "explanation": "bilhete \u2014 Fahrschein. O bilhete, Plural bilhetes, bezeichnet hier einen Fahrschein. Onde posso comprar \u2026? hei\u00DFt wo kann ich \u2026 kaufen? Au\u00DFerhalb des Verkehrskontexts kann bilhete auch eine kurze schriftliche Nachricht bezeichnen. Onde posso comprar o bilhete? \u2014 Wo kann ich den Fahrschein kaufen?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "parada"
+          },
+          {
+            "id": "answer",
+            "text": "bilhete"
+          },
+          {
+            "id": "d0",
+            "text": "\u00F4nibus"
+          },
+          {
+            "id": "d3",
+            "text": "ponto de \u00F4nibus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Mit welcher Frage erkundigst du dich danach, wo du den Fahrschein kaufen kannst?",
+        "explanation": "Onde posso comprar? fragt, wo man etwas kaufen kann. Bilhete bezeichnet hier den Fahrschein.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Tenho que trocar de linha?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quanto custa o bilhete?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde posso comprar o bilhete?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o hotel?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EHaltestelle\u201C? Zusammenhang: bei einer Fahrt mit \u00F6ffentlichen Verkehrsmitteln.",
+        "explanation": "parada \u2014 Haltestelle. A parada, Plural paradas, ist hier eine Haltestelle. Pr\u00F3xima parada hei\u00DFt n\u00E4chste Haltestelle; na ist em \u002B a. Preciso descer bedeutet hier ich muss aussteigen, mit einem Verb direkt nach preciso. Preciso descer na pr\u00F3xima parada. \u2014 Ich muss an der n\u00E4chsten Haltestelle aussteigen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "passagem"
+          },
+          {
+            "id": "answer",
+            "text": "parada"
+          },
+          {
+            "id": "d2",
+            "text": "linha"
+          },
+          {
+            "id": "d1",
+            "text": "metr\u00F4"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du an der n\u00E4chsten Haltestelle aussteigen musst?",
+        "explanation": "Pr\u00F3xima parada hei\u00DFt n\u00E4chste Haltestelle. Preciso descer bedeutet hier ich muss aussteigen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O metr\u00F4 est\u00E1 lotado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero ir para o hotel."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso descer na \u00FAltima parada."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso descer na pr\u00F3xima parada."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ewechseln\u201C? Zusammenhang: bei einer Frage zu einer anderen Verkehrslinie.",
+        "explanation": "trocar \u2014 wechseln. Trocar bedeutet wechseln. Trocar de linha hei\u00DFt die Linie wechseln; tenho que \u2026 bedeutet hier ich muss \u2026 Die Wendung ben\u00F6tigt bei diesem Bezug de vor linha. Tenho que trocar de linha? \u2014 Muss ich die Linie wechseln?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "trocar"
+          },
+          {
+            "id": "d10",
+            "text": "ponto de \u00F4nibus"
+          },
+          {
+            "id": "d3",
+            "text": "linha"
+          },
+          {
+            "id": "d1",
+            "text": "limpar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich, ob du die Verkehrslinie wechseln musst?",
+        "explanation": "Trocar de linha hei\u00DFt die Linie wechseln. Trocar de quarto bezieht sich dagegen auf ein Zimmer.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tenho que trocar de linha?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Posso trocar de quarto?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho que comprar uma passagem?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o ponto de \u00F4nibus?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

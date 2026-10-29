@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-01-begruessung",
-  "packageVersion": 4,
-  "title": "01 · Begrüßung und Abschied",
+  "packageVersion": 5,
+  "title": "01 \u00B7 Begr\u00FC\u00DFung und Abschied",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Begrüßung und Abschied",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
       "expression": "oi",
       "translation": "hallo",
-      "isVocabulary": true,
       "example": "Oi, Ana!",
       "exampleTranslation": "Hallo, Ana!",
-      "explanation": "Informelle Begrüßung. Olá bedeutet ebenfalls hallo; beide können bei einer lockeren Begegnung passen."
+      "explanation": "Informelle Begr\u00FC\u00DFung. Ol\u00E1 bedeutet ebenfalls hallo; beide k\u00F6nnen bei einer lockeren Begegnung passen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Begrüßung und Abschied",
-      "expression": "olá",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
+      "expression": "ol\u00E1",
       "translation": "hallo",
-      "isVocabulary": true,
-      "example": "Olá, Pedro!",
+      "example": "Ol\u00E1, Pedro!",
       "exampleTranslation": "Hallo, Pedro!",
-      "explanation": "Begrüßung wie hallo. Oi ist ebenfalls möglich; die beiden Wörter sind keine gegensätzlichen Bedeutungen."
+      "explanation": "Begr\u00FC\u00DFung wie hallo. Oi ist ebenfalls m\u00F6glich; die beiden W\u00F6rter sind keine gegens\u00E4tzlichen Bedeutungen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Begrüßung und Abschied",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
       "expression": "bom dia",
       "translation": "guten Morgen",
-      "isVocabulary": true,
       "example": "Bom dia, Ana!",
       "exampleTranslation": "Guten Morgen, Ana!",
-      "explanation": "Begrüßung am Morgen. Bom dia ist eine feste Wendung; lerne die beiden Wörter zusammen."
+      "explanation": "Begr\u00FC\u00DFung am Morgen. Bom dia ist eine feste Wendung; lerne die beiden W\u00F6rter zusammen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Begrüßung und Abschied",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
       "expression": "boa tarde",
       "translation": "guten Tag",
-      "isVocabulary": true,
       "example": "Boa tarde, Pedro!",
       "exampleTranslation": "Guten Tag, Pedro!",
-      "explanation": "Begrüßung am Nachmittag. Im Deutschen sagt man dafür meist guten Tag. Die Tageszeit entscheidet über die Wahl des Grußes."
+      "explanation": "Begr\u00FC\u00DFung am Nachmittag. Im Deutschen sagt man daf\u00FCr meist guten Tag. Die Tageszeit entscheidet \u00FCber die Wahl des Gru\u00DFes.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Begrüßung und Abschied",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
       "expression": "boa noite",
       "translation": "guten Abend; gute Nacht",
-      "isVocabulary": true,
       "example": "Boa noite, Ana!",
       "exampleTranslation": "Guten Abend, Ana!",
-      "explanation": "Zur Begrüßung am Abend: guten Abend. Beim Abschied zur Nacht: gute Nacht. Ohne Situation sind beide Übersetzungen möglich."
+      "explanation": "Zur Begr\u00FC\u00DFung am Abend: guten Abend. Beim Abschied zur Nacht: gute Nacht. Ohne Situation sind beide \u00DCbersetzungen m\u00F6glich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Begrüßung und Abschied",
-      "expression": "até amanhã",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
+      "expression": "at\u00E9 amanh\u00E3",
       "translation": "bis morgen",
-      "isVocabulary": true,
-      "example": "Tchau, Ana! Até amanhã!",
-      "exampleTranslation": "Tschüss, Ana! Bis morgen!",
-      "explanation": "Até amanhã ist ein Abschied mit Blick auf den nächsten Tag: até = bis, amanhã = morgen. Der Akut in até und die Tilde in amanhã gehören zum Wort."
+      "example": "Tchau, Ana! At\u00E9 amanh\u00E3!",
+      "exampleTranslation": "Tsch\u00FCss, Ana! Bis morgen!",
+      "explanation": "At\u00E9 amanh\u00E3 ist ein Abschied mit Blick auf den n\u00E4chsten Tag: at\u00E9 = bis, amanh\u00E3 = morgen. Der Akut in at\u00E9 und die Tilde in amanh\u00E3 geh\u00F6ren zum Wort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Begrüßung und Abschied",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
       "expression": "mais tarde",
-      "translation": "später",
-      "isVocabulary": true,
-      "example": "Até mais tarde, Pedro!",
-      "exampleTranslation": "Bis später, Pedro!",
-      "explanation": "Mais tarde bedeutet später und ist allein noch kein Abschiedsgruß. Até mais tarde bedeutet bis später."
+      "translation": "sp\u00E4ter",
+      "example": "At\u00E9 mais tarde, Pedro!",
+      "exampleTranslation": "Bis sp\u00E4ter, Pedro!",
+      "explanation": "Mais tarde bedeutet sp\u00E4ter und ist allein noch kein Abschiedsgru\u00DF. At\u00E9 mais tarde bedeutet bis sp\u00E4ter.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Begrüßung und Abschied",
+      "topic": "Begr\u00FC\u00DFung und Abschied",
       "expression": "tchau",
-      "translation": "tschüss",
-      "isVocabulary": true,
+      "translation": "tsch\u00FCss",
       "example": "Tchau, Pedro!",
-      "exampleTranslation": "Tschüss, Pedro!",
-      "explanation": "Informeller Abschiedsgruß. Tchau verabschiedet; oi und olá begrüßen. Die Schreibweise beginnt mit tch."
+      "exampleTranslation": "Tsch\u00FCss, Pedro!",
+      "explanation": "Informeller Abschiedsgru\u00DF. Tchau verabschiedet; oi und ol\u00E1 begr\u00FC\u00DFen. Die Schreibweise beginnt mit tch.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Passende Begr\u00FC\u00DFungen und Abschiedsformeln im Tagesablauf verstehen und verwenden.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze den \u00FCblichen Gru\u00DF am Nachmittag mit einem Wort: \u201EBoa ____!\u201C",
+        "explanation": "Boa tarde ist der \u00FCbliche Gru\u00DF am Nachmittag. Tarde hei\u00DFt hier Nachmittag, nicht sp\u00E4t. Der Gru\u00DF steht im Singular; bom dia ist der Morgengru\u00DF.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "tarde"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze mit dem gelernten Ausdruck f\u00FCr \u201Esp\u00E4ter\u201C aus diesem Paket (zwei W\u00F6rter): \u201EAt\u00E9 ____, Pedro!\u201C",
+        "explanation": "Die Aufgabe fragt nach dem gelernten Ausdruck mais tarde: At\u00E9 mais tarde bedeutet bis sp\u00E4ter. Andere Formulierungen k\u00F6nnen in freien Gespr\u00E4chen ebenfalls passen; hier wird diese Wendung abgerufen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "mais tarde"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "oi \u2014 hallo. Informelle Begr\u00FC\u00DFung. Ol\u00E1 bedeutet ebenfalls hallo; beide k\u00F6nnen bei einer lockeren Begegnung passen. Oi, Ana! \u2014 Hallo, Ana!",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Guten Morgen!"
+          },
+          {
+            "id": "d3",
+            "text": "bis morgen"
+          },
+          {
+            "id": "answer",
+            "text": "hallo"
+          },
+          {
+            "id": "d7",
+            "text": "sp\u00E4ter"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "oi",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eoi\u201C?",
+        "explanation": "oi \u2014 hallo. Informelle Begr\u00FC\u00DFung. Ol\u00E1 bedeutet ebenfalls hallo; beide k\u00F6nnen bei einer lockeren Begegnung passen. Oi, Ana! \u2014 Hallo, Ana!",
+        "options": [
+          {
+            "id": "d3",
+            "text": "bis morgen"
+          },
+          {
+            "id": "d0",
+            "text": "Alles gut, danke. (m\u00E4nnlicher Sprecher)"
+          },
+          {
+            "id": "d5",
+            "text": "guten Tag"
+          },
+          {
+            "id": "answer",
+            "text": "hallo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ol\u00E1 \u2014 hallo. Begr\u00FC\u00DFung wie hallo. Oi ist ebenfalls m\u00F6glich; die beiden W\u00F6rter sind keine gegens\u00E4tzlichen Bedeutungen. Ol\u00E1, Pedro! \u2014 Hallo, Pedro!",
+        "options": [
+          {
+            "id": "d6",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "d1",
+            "text": "Guten Morgen!"
+          },
+          {
+            "id": "d7",
+            "text": "sp\u00E4ter"
+          },
+          {
+            "id": "answer",
+            "text": "hallo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ol\u00E1",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eol\u00E1\u201C?",
+        "explanation": "ol\u00E1 \u2014 hallo. Begr\u00FC\u00DFung wie hallo. Oi ist ebenfalls m\u00F6glich; die beiden W\u00F6rter sind keine gegens\u00E4tzlichen Bedeutungen. Ol\u00E1, Pedro! \u2014 Hallo, Pedro!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "hallo"
+          },
+          {
+            "id": "d6",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "d4",
+            "text": "tsch\u00FCss"
+          },
+          {
+            "id": "d1",
+            "text": "Guten Morgen!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "bom dia \u2014 guten Morgen. Begr\u00FC\u00DFung am Morgen. Bom dia ist eine feste Wendung; lerne die beiden W\u00F6rter zusammen. Bom dia, Ana! \u2014 Guten Morgen, Ana!",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Hallo!"
+          },
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          },
+          {
+            "id": "answer",
+            "text": "guten Morgen"
+          },
+          {
+            "id": "d8",
+            "text": "Alles gut?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "bom dia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebom dia\u201C?",
+        "explanation": "bom dia \u2014 guten Morgen. Begr\u00FC\u00DFung am Morgen. Bom dia ist eine feste Wendung; lerne die beiden W\u00F6rter zusammen. Bom dia, Ana! \u2014 Guten Morgen, Ana!",
+        "options": [
+          {
+            "id": "d4",
+            "text": "etwas"
+          },
+          {
+            "id": "answer",
+            "text": "guten Morgen"
+          },
+          {
+            "id": "d5",
+            "text": "Kilo"
+          },
+          {
+            "id": "d1",
+            "text": "nur"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "Welche Tageszeit nennt der geh\u00F6rte Gru\u00DF?",
+        "explanation": "Bom dia ist der Gru\u00DF am Morgen. Boa tarde geh\u00F6rt zum Nachmittag; boa noite zum Abend oder zur Nacht.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "die Nacht"
+          },
+          {
+            "id": "answer",
+            "text": "der Morgen"
+          },
+          {
+            "id": "wrong-0",
+            "text": "der Nachmittag"
+          },
+          {
+            "id": "wrong-1",
+            "text": "der Abend"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "Bom dia, Ana!",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "boa noite \u2014 guten Abend; gute Nacht. Zur Begr\u00FC\u00DFung am Abend: guten Abend. Beim Abschied zur Nacht: gute Nacht. Ohne Situation sind beide \u00DCbersetzungen m\u00F6glich. Boa noite, Ana! \u2014 Guten Abend, Ana!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "d4",
+            "text": "bis morgen"
+          },
+          {
+            "id": "d5",
+            "text": "tsch\u00FCss"
+          },
+          {
+            "id": "d1",
+            "text": "Guten Morgen!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "boa noite",
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eboa noite\u201C?",
+        "explanation": "boa noite \u2014 guten Abend; gute Nacht. Zur Begr\u00FC\u00DFung am Abend: guten Abend. Beim Abschied zur Nacht: gute Nacht. Ohne Situation sind beide \u00DCbersetzungen m\u00F6glich. Boa noite, Ana! \u2014 Guten Abend, Ana!",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Alles gut?"
+          },
+          {
+            "id": "d2",
+            "text": "Hallo!"
+          },
+          {
+            "id": "answer",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "d5",
+            "text": "tsch\u00FCss"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "at\u00E9 amanh\u00E3 \u2014 bis morgen. At\u00E9 amanh\u00E3 ist ein Abschied mit Blick auf den n\u00E4chsten Tag: at\u00E9 = bis, amanh\u00E3 = morgen. Der Akut in at\u00E9 und die Tilde in amanh\u00E3 geh\u00F6ren zum Wort. Tchau, Ana! At\u00E9 amanh\u00E3! \u2014 Tsch\u00FCss, Ana! Bis morgen!",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Bis sp\u00E4ter!"
+          },
+          {
+            "id": "d3",
+            "text": "guten Tag"
+          },
+          {
+            "id": "d4",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "answer",
+            "text": "bis morgen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "at\u00E9 amanh\u00E3",
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eat\u00E9 amanh\u00E3\u201C?",
+        "explanation": "at\u00E9 amanh\u00E3 \u2014 bis morgen. At\u00E9 amanh\u00E3 ist ein Abschied mit Blick auf den n\u00E4chsten Tag: at\u00E9 = bis, amanh\u00E3 = morgen. Der Akut in at\u00E9 und die Tilde in amanh\u00E3 geh\u00F6ren zum Wort. Tchau, Ana! At\u00E9 amanh\u00E3! \u2014 Tsch\u00FCss, Ana! Bis morgen!",
+        "options": [
+          {
+            "id": "d4",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "d3",
+            "text": "guten Tag"
+          },
+          {
+            "id": "d6",
+            "text": "sp\u00E4ter"
+          },
+          {
+            "id": "answer",
+            "text": "bis morgen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tchau \u2014 tsch\u00FCss. Informeller Abschiedsgru\u00DF. Tchau verabschiedet; oi und ol\u00E1 begr\u00FC\u00DFen. Die Schreibweise beginnt mit tch. Tchau, Pedro! \u2014 Tsch\u00FCss, Pedro!",
+        "options": [
+          {
+            "id": "d3",
+            "text": "guten Tag"
+          },
+          {
+            "id": "d5",
+            "text": "guten Morgen"
+          },
+          {
+            "id": "d4",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "answer",
+            "text": "tsch\u00FCss"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tchau",
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etchau\u201C?",
+        "explanation": "tchau \u2014 tsch\u00FCss. Informeller Abschiedsgru\u00DF. Tchau verabschiedet; oi und ol\u00E1 begr\u00FC\u00DFen. Die Schreibweise beginnt mit tch. Tchau, Pedro! \u2014 Tsch\u00FCss, Pedro!",
+        "options": [
+          {
+            "id": "d4",
+            "text": "guten Abend; gute Nacht"
+          },
+          {
+            "id": "answer",
+            "text": "tsch\u00FCss"
+          },
+          {
+            "id": "d3",
+            "text": "guten Tag"
+          },
+          {
+            "id": "d0",
+            "text": "Bis sp\u00E4ter!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ehallo\u201C?",
+        "explanation": "oi \u2014 hallo. Informelle Begr\u00FC\u00DFung. Ol\u00E1 bedeutet ebenfalls hallo; beide k\u00F6nnen bei einer lockeren Begegnung passen. Oi, Ana! \u2014 Hallo, Ana!",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Tudo bem?"
+          },
+          {
+            "id": "d7",
+            "text": "mais tarde"
+          },
+          {
+            "id": "d4",
+            "text": "tchau"
+          },
+          {
+            "id": "answer",
+            "text": "oi"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du begr\u00FC\u00DFt Ana ganz informell. Welche Aussage hei\u00DFt genau \u201EHallo, Ana!\u201C?",
+        "explanation": "Oi ist ein informeller Gru\u00DF. Tchau verabschiedet; at\u00E9 amanh\u00E3 hei\u00DFt bis morgen; boa noite geh\u00F6rt zum Abend oder zur Nacht.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "At\u00E9 amanh\u00E3, Ana!"
+          },
+          {
+            "id": "answer",
+            "text": "Oi, Ana!"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tchau, Ana!"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Boa noite, Ana!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ehallo\u201C?",
+        "explanation": "ol\u00E1 \u2014 hallo. Begr\u00FC\u00DFung wie hallo. Oi ist ebenfalls m\u00F6glich; die beiden W\u00F6rter sind keine gegens\u00E4tzlichen Bedeutungen. Ol\u00E1, Pedro! \u2014 Hallo, Pedro!",
+        "options": [
+          {
+            "id": "d3",
+            "text": "at\u00E9 amanh\u00E3"
+          },
+          {
+            "id": "d5",
+            "text": "boa tarde"
+          },
+          {
+            "id": "answer",
+            "text": "ol\u00E1"
+          },
+          {
+            "id": "d0",
+            "text": "Tudo bem, obrigado."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "Pedro sagt \u201EOl\u00E1!\u201C. Welche Antwort begr\u00FC\u00DFt ihn ebenfalls?",
+        "explanation": "Ol\u00E1 begr\u00FC\u00DFt jemanden. Die anderen Antworten verabschieden sich. Oi w\u00E4re auch ein g\u00FCltiger Gru\u00DF und steht deshalb nicht als falsche Antwort zur Auswahl.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "At\u00E9 amanh\u00E3, Pedro!"
+          },
+          {
+            "id": "wrong-2",
+            "text": "At\u00E9 mais tarde, Pedro!"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tchau, Pedro!"
+          },
+          {
+            "id": "answer",
+            "text": "Ol\u00E1, Pedro!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eguten Morgen\u201C?",
+        "explanation": "bom dia \u2014 guten Morgen. Begr\u00FC\u00DFung am Morgen. Bom dia ist eine feste Wendung; lerne die beiden W\u00F6rter zusammen. Bom dia, Ana! \u2014 Guten Morgen, Ana!",
+        "options": [
+          {
+            "id": "d11",
+            "text": "oito"
+          },
+          {
+            "id": "d7",
+            "text": "Oi!"
+          },
+          {
+            "id": "answer",
+            "text": "bom dia"
+          },
+          {
+            "id": "d10",
+            "text": "ol\u00E1"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eguten Abend; gute Nacht\u201C?",
+        "explanation": "boa noite \u2014 guten Abend; gute Nacht. Zur Begr\u00FC\u00DFung am Abend: guten Abend. Beim Abschied zur Nacht: gute Nacht. Ohne Situation sind beide \u00DCbersetzungen m\u00F6glich. Boa noite, Ana! \u2014 Guten Abend, Ana!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "boa noite"
+          },
+          {
+            "id": "d3",
+            "text": "Tudo bem?"
+          },
+          {
+            "id": "d7",
+            "text": "boa tarde"
+          },
+          {
+            "id": "d6",
+            "text": "tchau"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du kommst am Abend an. Welcher Gru\u00DF passt zur Tageszeit?",
+        "explanation": "Boa noite kann am Abend begr\u00FC\u00DFen und beim Abschied auch gute Nacht bedeuten. Der konkrete Zeitpunkt macht den Gru\u00DF eindeutig.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Boa tarde!"
+          },
+          {
+            "id": "wrong-2",
+            "text": "At\u00E9 amanh\u00E3!"
+          },
+          {
+            "id": "answer",
+            "text": "Boa noite!"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Bom dia!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ebis morgen\u201C?",
+        "explanation": "at\u00E9 amanh\u00E3 \u2014 bis morgen. At\u00E9 amanh\u00E3 ist ein Abschied mit Blick auf den n\u00E4chsten Tag: at\u00E9 = bis, amanh\u00E3 = morgen. Der Akut in at\u00E9 und die Tilde in amanh\u00E3 geh\u00F6ren zum Wort. Tchau, Ana! At\u00E9 amanh\u00E3! \u2014 Tsch\u00FCss, Ana! Bis morgen!",
+        "options": [
+          {
+            "id": "d3",
+            "text": "oi"
+          },
+          {
+            "id": "d4",
+            "text": "boa tarde"
+          },
+          {
+            "id": "answer",
+            "text": "at\u00E9 amanh\u00E3"
+          },
+          {
+            "id": "d1",
+            "text": "Tchau!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "Ana sagt zum Abschied \u201EAt\u00E9 amanh\u00E3!\u201C. Welche Antwort meint ebenfalls bis morgen?",
+        "explanation": "At\u00E9 amanh\u00E3 bezieht sich auf den n\u00E4chsten Tag. At\u00E9 mais tarde meint bis sp\u00E4ter, ohne morgen zu sagen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Bom dia, Ana!"
+          },
+          {
+            "id": "wrong-1",
+            "text": "At\u00E9 mais tarde, Ana!"
+          },
+          {
+            "id": "answer",
+            "text": "At\u00E9 amanh\u00E3, Ana!"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ol\u00E1, Ana!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Etsch\u00FCss\u201C?",
+        "explanation": "tchau \u2014 tsch\u00FCss. Informeller Abschiedsgru\u00DF. Tchau verabschiedet; oi und ol\u00E1 begr\u00FC\u00DFen. Die Schreibweise beginnt mit tch. Tchau, Pedro! \u2014 Tsch\u00FCss, Pedro!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "tchau"
+          },
+          {
+            "id": "d1",
+            "text": "at\u00E9 amanh\u00E3"
+          },
+          {
+            "id": "d7",
+            "text": "mais tarde"
+          },
+          {
+            "id": "d0",
+            "text": "At\u00E9 depois!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher Ausdruck hei\u00DFt kurz und informell \u201Etsch\u00FCss\u201C?",
+        "explanation": "Tchau verabschiedet. Ol\u00E1, oi und bom dia begr\u00FC\u00DFen jemanden.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Bom dia!"
+          },
+          {
+            "id": "answer",
+            "text": "Tchau!"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Ol\u00E1!"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Oi!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

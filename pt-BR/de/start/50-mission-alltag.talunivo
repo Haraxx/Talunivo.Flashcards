@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-50-mission-alltag",
-  "packageVersion": 4,
-  "title": "50 · Abschluss: Ein Tag in Brasilien",
+  "packageVersion": 6,
+  "title": "50 \u00B7 Abschluss: Ein Tag in Brasilien",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Abschluss: Ein Tag in Brasilien",
       "expression": "nome",
       "translation": "Name",
-      "isVocabulary": true,
-      "example": "Meu nome é Ana. E o seu?",
+      "example": "Meu nome \u00E9 Ana. E o seu?",
       "exampleTranslation": "Mein Name ist Ana. Und deiner?",
-      "explanation": "O nome, Plural nomes, heißt Name. Meu nome é … nennt den eigenen Namen. E o seu? ist die verkürzte Rückfrage nach dem Namen der angesprochenen Person; Ana ist ein erfundener Beispielname und wird nicht aus dem Profil übernommen."
+      "explanation": "O nome, Plural nomes, hei\u00DFt Name. Meu nome \u00E9 \u2026 nennt den eigenen Namen. E o seu? ist die verk\u00FCrzte R\u00FCckfrage nach dem Namen der angesprochenen Person; Ana ist ein erfundener Beispielname und wird nicht aus dem Profil \u00FCbernommen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Abschluss: Ein Tag in Brasilien",
       "expression": "aprender",
       "translation": "lernen",
-      "isVocabulary": true,
-      "example": "Estou aprendendo português.",
+      "example": "Estou aprendendo portugu\u00EAs.",
       "exampleTranslation": "Ich lerne gerade Portugiesisch.",
-      "explanation": "Aprender heißt lernen; aprendendo ist das Gerundium. Estou + Gerundium beschreibt hier einen gerade laufenden Vorgang: Estou aprendendo português heißt ich lerne gerade Portugiesisch. Estudar aus Paket 42 betont gezieltes Lernen oder Studieren; beide Verben können im Sprachlernkontext passen."
+      "explanation": "Aprender hei\u00DFt lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier einen gerade laufenden Vorgang: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Estudar aus Paket 42 betont gezieltes Lernen oder Studieren; beide Verben k\u00F6nnen im Sprachlernkontext passen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Abschluss: Ein Tag in Brasilien",
-      "expression": "pão com queijo",
-      "translation": "Brot mit Käse",
-      "isVocabulary": true,
-      "example": "Quero um café e um pão com queijo, por favor.",
-      "exampleTranslation": "Ich möchte bitte einen Kaffee und ein Brot mit Käse.",
-      "explanation": "Pão com queijo heißt Brot mit Käse. Com bezeichnet hier die Kombination mit Käse; pão de queijo ist dagegen ein anderes Gebäck. Quero …, por favor wiederholt das höfliche Bestellmuster, e verbindet die beiden Wünsche."
+      "expression": "p\u00E3o com queijo",
+      "translation": "Brot mit K\u00E4se",
+      "example": "Quero um caf\u00E9 e um p\u00E3o com queijo, por favor.",
+      "exampleTranslation": "Ich m\u00F6chte bitte einen Kaffee und ein Brot mit K\u00E4se.",
+      "explanation": "P\u00E3o com queijo hei\u00DFt Brot mit K\u00E4se. Com bezeichnet hier die Kombination mit K\u00E4se; p\u00E3o de queijo ist dagegen ein anderes Geb\u00E4ck. Quero \u2026, por favor wiederholt das h\u00F6fliche Bestellmuster, e verbindet die beiden W\u00FCnsche.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Abschluss: Ein Tag in Brasilien",
       "expression": "pegar",
       "translation": "nehmen (Verkehrsmittel)",
-      "isVocabulary": true,
-      "example": "Depois vou pegar o ônibus para o centro.",
+      "example": "Depois vou pegar o \u00F4nibus para o centro.",
       "exampleTranslation": "Danach werde ich den Bus ins Zentrum nehmen.",
-      "explanation": "Pegar heißt im Verkehrskontext ein Verkehrsmittel nehmen; pegar o ônibus bedeutet den Bus nehmen. Depois ordnet die Fahrt nach der vorherigen Handlung ein. Vou pegar kündigt die Handlung an, para o centro nennt das Ziel."
+      "explanation": "Pegar hei\u00DFt im Verkehrskontext ein Verkehrsmittel nehmen; pegar o \u00F4nibus bedeutet den Bus nehmen. Depois ordnet die Fahrt nach der vorherigen Handlung ein. Vou pegar k\u00FCndigt die Handlung an, para o centro nennt das Ziel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Abschluss: Ein Tag in Brasilien",
       "expression": "museu",
       "translation": "Museum",
-      "isVocabulary": true,
       "example": "Pode me dizer onde fica o museu?",
-      "exampleTranslation": "Können Sie mir sagen, wo das Museum ist?",
-      "explanation": "O museu, Plural museus, heißt Museum. Onde fica …? fragt nach dem Ort. Pode me dizer …? bettet die Ortsfrage in eine höfliche Bitte ein; der Satz liefert selbst noch keine Wegbeschreibung."
+      "exampleTranslation": "K\u00F6nnen Sie mir sagen, wo das Museum ist?",
+      "explanation": "O museu, Plural museus, hei\u00DFt Museum. Onde fica \u2026? fragt nach dem Ort. Pode me dizer \u2026? bettet die Ortsfrage in eine h\u00F6fliche Bitte ein; der Satz liefert selbst noch keine Wegbeschreibung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Abschluss: Ein Tag in Brasilien",
-      "expression": "à tarde",
+      "expression": "\u00E0 tarde",
       "translation": "nachmittags",
-      "isVocabulary": true,
-      "example": "À tarde vou encontrar uma amiga no parque.",
+      "example": "\u00C0 tarde vou encontrar uma amiga no parque.",
       "exampleTranslation": "Am Nachmittag werde ich eine Freundin im Park treffen.",
-      "explanation": "À tarde bedeutet am Nachmittag oder nachmittags. Vou encontrar kündigt hier ein Treffen an; eine Freundin ist der direkte Personenbezug. Tarde ohne Artikel bedeutet in Cheguei tarde dagegen spät. Das Beispiel legt keine Partnerschaft fest."
+      "explanation": "\u00C0 tarde bedeutet am Nachmittag oder nachmittags. Vou encontrar k\u00FCndigt hier ein Treffen an; eine Freundin ist der direkte Personenbezug. Tarde ohne Artikel bedeutet in Cheguei tarde dagegen sp\u00E4t. Das Beispiel legt keine Partnerschaft fest.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Abschluss: Ein Tag in Brasilien",
       "expression": "praia",
       "translation": "Strand",
-      "isVocabulary": true,
-      "example": "Ontem fui à praia e gostei muito.",
+      "example": "Ontem fui \u00E0 praia e gostei muito.",
       "exampleTranslation": "Gestern bin ich an den Strand gegangen und es hat mir sehr gefallen.",
-      "explanation": "A praia, Plural praias, heißt Strand. Fui à praia beschreibt hier den gestrigen Besuch, gostei muito die positive Rückmeldung dazu. Ontem wechselt ausdrücklich zum Vortag; e verbindet die beiden Aussagen."
+      "explanation": "A praia, Plural praias, hei\u00DFt Strand. Fui \u00E0 praia beschreibt hier den gestrigen Besuch, gostei muito die positive R\u00FCckmeldung dazu. Ontem wechselt ausdr\u00FCcklich zum Vortag; e verbindet die beiden Aussagen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Abschluss: Ein Tag in Brasilien",
       "expression": "conversar",
       "translation": "sich unterhalten",
-      "isVocabulary": true,
-      "example": "Amanhã quero conversar mais em português.",
-      "exampleTranslation": "Morgen möchte ich mich mehr auf Portugiesisch unterhalten.",
-      "explanation": "Conversar heißt sich unterhalten; im Portugiesischen braucht das Verb hier kein Reflexivpronomen. Em português heißt auf Portugiesisch. Amanhã verlagert den Wunsch auf morgen, mais bedeutet mehr. Das Beispiel beschreibt eine Absicht, keinen bereits erreichten Lernstand."
+      "example": "Amanh\u00E3 quero conversar mais em portugu\u00EAs.",
+      "exampleTranslation": "Morgen m\u00F6chte ich mich mehr auf Portugiesisch unterhalten.",
+      "explanation": "Conversar hei\u00DFt sich unterhalten; im Portugiesischen braucht das Verb hier kein Reflexivpronomen. Em portugu\u00EAs hei\u00DFt auf Portugiesisch. Amanh\u00E3 verlagert den Wunsch auf morgen, mais bedeutet mehr. Das Beispiel beschreibt eine Absicht, keinen bereits erreichten Lernstand.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Angaben zu Begegnungen, Essen und Unternehmungen an einem Tag in Brasilien verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Singularnomen f\u00FCr Name: \u201EMeu ____ \u00E9 Ana. E o seu?\u201C",
+        "explanation": "Nome hei\u00DFt Name. Ana ist ein erfundener Beispielname und wird nicht aus dem Profil \u00FCbernommen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "nome"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Zweiwort-Wendung f\u00FCr nachmittags mit dem vorgesehenen Gravis: \u201E____ vou encontrar uma amiga no parque.\u201C",
+        "explanation": "\u00C0 tarde hei\u00DFt am Nachmittag. Tarde allein bedeutet in Cheguei tarde dagegen sp\u00E4t; die Wendungen werden nicht gleichgesetzt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "\u00E0 tarde"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstou aprendendo portugu\u00EAs.\u201C",
+        "explanation": "aprender \u2014 lernen. Aprender hei\u00DFt lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier einen gerade laufenden Vorgang: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Estudar aus Paket 42 betont gezieltes Lernen oder Studieren; beide Verben k\u00F6nnen im Sprachlernkontext passen. Estou aprendendo portugu\u00EAs. \u2014 Ich lerne gerade Portugiesisch.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "lernen"
+          },
+          {
+            "id": "d4",
+            "text": "langsam"
+          },
+          {
+            "id": "d11",
+            "text": "Museum"
+          },
+          {
+            "id": "d8",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "aprender",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eaprender\u201C in diesem Beispiel? \u201EEstou aprendendo portugu\u00EAs.\u201C",
+        "explanation": "aprender \u2014 lernen. Aprender hei\u00DFt lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier einen gerade laufenden Vorgang: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Estudar aus Paket 42 betont gezieltes Lernen oder Studieren; beide Verben k\u00F6nnen im Sprachlernkontext passen. Estou aprendendo portugu\u00EAs. \u2014 Ich lerne gerade Portugiesisch.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Deutsch (Sprache)"
+          },
+          {
+            "id": "d6",
+            "text": "Moment"
+          },
+          {
+            "id": "d9",
+            "text": "nachmittags"
+          },
+          {
+            "id": "answer",
+            "text": "lernen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "p\u00E3o com queijo \u2014 Brot mit K\u00E4se. P\u00E3o com queijo hei\u00DFt Brot mit K\u00E4se. Com bezeichnet hier die Kombination mit K\u00E4se; p\u00E3o de queijo ist dagegen ein anderes Geb\u00E4ck. Quero \u2026, por favor wiederholt das h\u00F6fliche Bestellmuster, e verbindet die beiden W\u00FCnsche. Quero um caf\u00E9 e um p\u00E3o com queijo, por favor. \u2014 Ich m\u00F6chte bitte einen Kaffee und ein Brot mit K\u00E4se.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "nachmittags"
+          },
+          {
+            "id": "answer",
+            "text": "Brot mit K\u00E4se"
+          },
+          {
+            "id": "d1",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d2",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "p\u00E3o com queijo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ep\u00E3o com queijo\u201C?",
+        "explanation": "p\u00E3o com queijo \u2014 Brot mit K\u00E4se. P\u00E3o com queijo hei\u00DFt Brot mit K\u00E4se. Com bezeichnet hier die Kombination mit K\u00E4se; p\u00E3o de queijo ist dagegen ein anderes Geb\u00E4ck. Quero \u2026, por favor wiederholt das h\u00F6fliche Bestellmuster, e verbindet die beiden W\u00FCnsche. Quero um caf\u00E9 e um p\u00E3o com queijo, por favor. \u2014 Ich m\u00F6chte bitte einen Kaffee und ein Brot mit K\u00E4se.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "d1",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "answer",
+            "text": "Brot mit K\u00E4se"
+          },
+          {
+            "id": "d4",
+            "text": "Museum"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EDepois vou pegar o \u00F4nibus para o centro.\u201C",
+        "explanation": "pegar \u2014 nehmen (Verkehrsmittel). Pegar hei\u00DFt im Verkehrskontext ein Verkehrsmittel nehmen; pegar o \u00F4nibus bedeutet den Bus nehmen. Depois ordnet die Fahrt nach der vorherigen Handlung ein. Vou pegar k\u00FCndigt die Handlung an, para o centro nennt das Ziel. Depois vou pegar o \u00F4nibus para o centro. \u2014 Danach werde ich den Bus ins Zentrum nehmen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Name"
+          },
+          {
+            "id": "answer",
+            "text": "nehmen (Verkehrsmittel)"
+          },
+          {
+            "id": "d1",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "pegar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epegar\u201C in diesem Beispiel? \u201EDepois vou pegar o \u00F4nibus para o centro.\u201C",
+        "explanation": "pegar \u2014 nehmen (Verkehrsmittel). Pegar hei\u00DFt im Verkehrskontext ein Verkehrsmittel nehmen; pegar o \u00F4nibus bedeutet den Bus nehmen. Depois ordnet die Fahrt nach der vorherigen Handlung ein. Vou pegar k\u00FCndigt die Handlung an, para o centro nennt das Ziel. Depois vou pegar o \u00F4nibus para o centro. \u2014 Danach werde ich den Bus ins Zentrum nehmen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d4",
+            "text": "Museum"
+          },
+          {
+            "id": "d3",
+            "text": "Brot mit K\u00E4se"
+          },
+          {
+            "id": "answer",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "museu \u2014 Museum. O museu, Plural museus, hei\u00DFt Museum. Onde fica \u2026? fragt nach dem Ort. Pode me dizer \u2026? bettet die Ortsfrage in eine h\u00F6fliche Bitte ein; der Satz liefert selbst noch keine Wegbeschreibung. Pode me dizer onde fica o museu? \u2014 K\u00F6nnen Sie mir sagen, wo das Museum ist?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "answer",
+            "text": "Museum"
+          },
+          {
+            "id": "d3",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "museu",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emuseu\u201C?",
+        "explanation": "museu \u2014 Museum. O museu, Plural museus, hei\u00DFt Museum. Onde fica \u2026? fragt nach dem Ort. Pode me dizer \u2026? bettet die Ortsfrage in eine h\u00F6fliche Bitte ein; der Satz liefert selbst noch keine Wegbeschreibung. Pode me dizer onde fica o museu? \u2014 K\u00F6nnen Sie mir sagen, wo das Museum ist?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "d11",
+            "text": "lernen"
+          },
+          {
+            "id": "answer",
+            "text": "Museum"
+          },
+          {
+            "id": "d5",
+            "text": "nachmittags"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EOntem fui \u00E0 praia e gostei muito.\u201C",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, hei\u00DFt Strand. Fui \u00E0 praia beschreibt hier den gestrigen Besuch, gostei muito die positive R\u00FCckmeldung dazu. Ontem wechselt ausdr\u00FCcklich zum Vortag; e verbindet die beiden Aussagen. Ontem fui \u00E0 praia e gostei muito. \u2014 Gestern bin ich an den Strand gegangen und es hat mir sehr gefallen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "d3",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d4",
+            "text": "nehmen (Verkehrsmittel)"
+          },
+          {
+            "id": "answer",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "praia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epraia\u201C in diesem Beispiel? \u201EOntem fui \u00E0 praia e gostei muito.\u201C",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, hei\u00DFt Strand. Fui \u00E0 praia beschreibt hier den gestrigen Besuch, gostei muito die positive R\u00FCckmeldung dazu. Ontem wechselt ausdr\u00FCcklich zum Vortag; e verbindet die beiden Aussagen. Ontem fui \u00E0 praia e gostei muito. \u2014 Gestern bin ich an den Strand gegangen und es hat mir sehr gefallen.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "Bank"
+          },
+          {
+            "id": "answer",
+            "text": "Strand"
+          },
+          {
+            "id": "d4",
+            "text": "nehmen (Verkehrsmittel)"
+          },
+          {
+            "id": "d6",
+            "text": "Schatten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "conversar \u2014 sich unterhalten. Conversar hei\u00DFt sich unterhalten; im Portugiesischen braucht das Verb hier kein Reflexivpronomen. Em portugu\u00EAs hei\u00DFt auf Portugiesisch. Amanh\u00E3 verlagert den Wunsch auf morgen, mais bedeutet mehr. Das Beispiel beschreibt eine Absicht, keinen bereits erreichten Lernstand. Amanh\u00E3 quero conversar mais em portugu\u00EAs. \u2014 Morgen m\u00F6chte ich mich mehr auf Portugiesisch unterhalten.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Museum"
+          },
+          {
+            "id": "answer",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d6",
+            "text": "Name"
+          },
+          {
+            "id": "d2",
+            "text": "nachmittags"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "conversar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Econversar\u201C?",
+        "explanation": "conversar \u2014 sich unterhalten. Conversar hei\u00DFt sich unterhalten; im Portugiesischen braucht das Verb hier kein Reflexivpronomen. Em portugu\u00EAs hei\u00DFt auf Portugiesisch. Amanh\u00E3 verlagert den Wunsch auf morgen, mais bedeutet mehr. Das Beispiel beschreibt eine Absicht, keinen bereits erreichten Lernstand. Amanh\u00E3 quero conversar mais em portugu\u00EAs. \u2014 Morgen m\u00F6chte ich mich mehr auf Portugiesisch unterhalten.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "answer",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d6",
+            "text": "Name"
+          },
+          {
+            "id": "d1",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Elernen\u201C? Zusammenhang: bei einer Aussage \u00FCber den laufenden Umgang mit Portugiesisch.",
+        "explanation": "aprender \u2014 lernen. Aprender hei\u00DFt lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier einen gerade laufenden Vorgang: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Estudar aus Paket 42 betont gezieltes Lernen oder Studieren; beide Verben k\u00F6nnen im Sprachlernkontext passen. Estou aprendendo portugu\u00EAs. \u2014 Ich lerne gerade Portugiesisch.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "\u00E0 tarde"
+          },
+          {
+            "id": "d5",
+            "text": "escrever"
+          },
+          {
+            "id": "d2",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "aprender"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du gerade Portugiesisch lernst?",
+        "explanation": "Estou aprendendo beschreibt hier einen laufenden Lernvorgang. Estudar und aprender k\u00F6nnen sich im Sprachlernkontext \u00FCberschneiden.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Estou aprendendo alem\u00E3o."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o entendo portugu\u00EAs."
+          },
+          {
+            "id": "answer",
+            "text": "Estou aprendendo portugu\u00EAs."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou aprender portugu\u00EAs amanh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBrot mit K\u00E4se\u201C?",
+        "explanation": "p\u00E3o com queijo \u2014 Brot mit K\u00E4se. P\u00E3o com queijo hei\u00DFt Brot mit K\u00E4se. Com bezeichnet hier die Kombination mit K\u00E4se; p\u00E3o de queijo ist dagegen ein anderes Geb\u00E4ck. Quero \u2026, por favor wiederholt das h\u00F6fliche Bestellmuster, e verbindet die beiden W\u00FCnsche. Quero um caf\u00E9 e um p\u00E3o com queijo, por favor. \u2014 Ich m\u00F6chte bitte einen Kaffee und ein Brot mit K\u00E4se.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "nome"
+          },
+          {
+            "id": "d0",
+            "text": "praia"
+          },
+          {
+            "id": "d2",
+            "text": "pegar"
+          },
+          {
+            "id": "answer",
+            "text": "p\u00E3o com queijo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Bestellung verlangt einen Kaffee und ein Brot mit K\u00E4se?",
+        "explanation": "P\u00E3o com queijo hei\u00DFt Brot mit K\u00E4se. P\u00E3o de queijo bezeichnet ein anderes Geb\u00E4ck; die beiden Wendungen werden nicht gleichgesetzt.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quero um ch\u00E1 e um p\u00E3o com queijo, por favor."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero um caf\u00E9 e um p\u00E3o sem queijo, por favor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quero um caf\u00E9 e um p\u00E3o de queijo, por favor."
+          },
+          {
+            "id": "answer",
+            "text": "Quero um caf\u00E9 e um p\u00E3o com queijo, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Enehmen (Verkehrsmittel)\u201C? Zusammenhang: bei einer geplanten Fahrt mit einem Verkehrsmittel.",
+        "explanation": "pegar \u2014 nehmen (Verkehrsmittel). Pegar hei\u00DFt im Verkehrskontext ein Verkehrsmittel nehmen; pegar o \u00F4nibus bedeutet den Bus nehmen. Depois ordnet die Fahrt nach der vorherigen Handlung ein. Vou pegar k\u00FCndigt die Handlung an, para o centro nennt das Ziel. Depois vou pegar o \u00F4nibus para o centro. \u2014 Danach werde ich den Bus ins Zentrum nehmen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "aprender"
+          },
+          {
+            "id": "d6",
+            "text": "nome"
+          },
+          {
+            "id": "d3",
+            "text": "p\u00E3o com queijo"
+          },
+          {
+            "id": "answer",
+            "text": "pegar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage k\u00FCndigt an, dass du danach den Bus ins Zentrum nehmen wirst?",
+        "explanation": "Depois ordnet die Handlung danach ein. Pegar o \u00F4nibus hei\u00DFt hier den Bus nehmen; para o centro nennt das Ziel.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Antes vou pegar o \u00F4nibus para o centro."
+          },
+          {
+            "id": "answer",
+            "text": "Depois vou pegar o \u00F4nibus para o centro."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Depois vou pegar o \u00F4nibus para a praia."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Depois vou pegar o metr\u00F4 para o centro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMuseum\u201C?",
+        "explanation": "museu \u2014 Museum. O museu, Plural museus, hei\u00DFt Museum. Onde fica \u2026? fragt nach dem Ort. Pode me dizer \u2026? bettet die Ortsfrage in eine h\u00F6fliche Bitte ein; der Satz liefert selbst noch keine Wegbeschreibung. Pode me dizer onde fica o museu? \u2014 K\u00F6nnen Sie mir sagen, wo das Museum ist?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "pegar"
+          },
+          {
+            "id": "d10",
+            "text": "farm\u00E1cia"
+          },
+          {
+            "id": "answer",
+            "text": "museu"
+          },
+          {
+            "id": "d7",
+            "text": "banco"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EEm que posso ajudar?\u201C \u2013 Welche h\u00F6fliche Frage erkundigt sich nach dem Ort des Museums?",
+        "explanation": "Pode me dizer onde fica o museu? bettet die Ortsfrage in eine h\u00F6fliche Bitte ein. Die Frage gibt selbst noch keine Wegbeschreibung.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Pode me dar o recibo?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode me dizer quanto custa o bilhete?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode me dizer onde fica o banco?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode me dizer onde fica o museu?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EStrand\u201C? Zusammenhang: bei einer Erz\u00E4hlung \u00FCber gestern.",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, hei\u00DFt Strand. Fui \u00E0 praia beschreibt hier den gestrigen Besuch, gostei muito die positive R\u00FCckmeldung dazu. Ontem wechselt ausdr\u00FCcklich zum Vortag; e verbindet die beiden Aussagen. Ontem fui \u00E0 praia e gostei muito. \u2014 Gestern bin ich an den Strand gegangen und es hat mir sehr gefallen.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "pegar"
+          },
+          {
+            "id": "d0",
+            "text": "parque"
+          },
+          {
+            "id": "answer",
+            "text": "praia"
+          },
+          {
+            "id": "d1",
+            "text": "guarda-sol"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage berichtet von einem gestrigen Strandbesuch und sagt, dass er dir sehr gefallen hat?",
+        "explanation": "Ontem nennt gestern. Fui und gostei stehen hier in der Vergangenheit; gostei muito ist die positive R\u00FCckmeldung.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Ontem fui ao museu e gostei muito."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ontem fui \u00E0 praia e n\u00E3o gostei."
+          },
+          {
+            "id": "answer",
+            "text": "Ontem fui \u00E0 praia e gostei muito."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Amanh\u00E3 vou \u00E0 praia."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esich unterhalten\u201C?",
+        "explanation": "conversar \u2014 sich unterhalten. Conversar hei\u00DFt sich unterhalten; im Portugiesischen braucht das Verb hier kein Reflexivpronomen. Em portugu\u00EAs hei\u00DFt auf Portugiesisch. Amanh\u00E3 verlagert den Wunsch auf morgen, mais bedeutet mehr. Das Beispiel beschreibt eine Absicht, keinen bereits erreichten Lernstand. Amanh\u00E3 quero conversar mais em portugu\u00EAs. \u2014 Morgen m\u00F6chte ich mich mehr auf Portugiesisch unterhalten.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "conversar"
+          },
+          {
+            "id": "d1",
+            "text": "pegar"
+          },
+          {
+            "id": "d5",
+            "text": "aprender"
+          },
+          {
+            "id": "d4",
+            "text": "museu"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt deinen Wunsch, dich morgen mehr auf Portugiesisch zu unterhalten?",
+        "explanation": "Amanh\u00E3 verlagert den Wunsch auf morgen. Mais bedeutet mehr; die Absicht best\u00E4tigt noch keinen erreichten Lernstand.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Amanh\u00E3 quero conversar menos em portugu\u00EAs."
+          },
+          {
+            "id": "answer",
+            "text": "Amanh\u00E3 quero conversar mais em portugu\u00EAs."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Amanh\u00E3 quero conversar mais em alem\u00E3o."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Hoje quero conversar mais em portugu\u00EAs."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

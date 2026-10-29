@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-22-bezahlen",
-  "packageVersion": 4,
-  "title": "22 · Geld und Bezahlen",
+  "packageVersion": 6,
+  "title": "22 \u00B7 Geld und Bezahlen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Geld und Bezahlen",
       "expression": "tudo",
       "translation": "alles",
-      "isVocabulary": true,
       "example": "Quanto custa tudo?",
       "exampleTranslation": "Wie viel kostet alles zusammen?",
-      "explanation": "Tudo bedeutet alles und bezeichnet hier den gesamten Einkauf. Quanto custa tudo? fragt nach dem Gesamtbetrag, nicht nach dem Preis eines einzelnen Artikels. Dasselbe Wort steht in Tudo bem? in einem anderen Gesprächsmuster."
+      "explanation": "Tudo bedeutet alles und bezeichnet hier den gesamten Einkauf. Quanto custa tudo? fragt nach dem Gesamtbetrag, nicht nach dem Preis eines einzelnen Artikels. Dasselbe Wort steht in Tudo bem? in einem anderen Gespr\u00E4chsmuster.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Geld und Bezahlen",
       "expression": "dinheiro",
       "translation": "Bargeld; Geld",
-      "isVocabulary": true,
       "example": "Posso pagar em dinheiro?",
       "exampleTranslation": "Kann ich bar bezahlen?",
-      "explanation": "O dinheiro bedeutet Geld; bei einer Zahlungsart ist em dinheiro bar oder mit Bargeld. Posso pagar …? fragt nach der Möglichkeit zu bezahlen. Die Frage selbst sagt noch nicht, ob diese Zahlungsart angenommen wird."
+      "explanation": "O dinheiro bedeutet Geld; bei einer Zahlungsart ist em dinheiro bar oder mit Bargeld. Posso pagar \u2026? fragt nach der M\u00F6glichkeit zu bezahlen. Die Frage selbst sagt noch nicht, ob diese Zahlungsart angenommen wird.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Geld und Bezahlen",
-      "expression": "cartão de débito",
+      "expression": "cart\u00E3o de d\u00E9bito",
       "translation": "Debitkarte",
-      "isVocabulary": true,
-      "example": "Aceita cartão de débito?",
+      "example": "Aceita cart\u00E3o de d\u00E9bito?",
       "exampleTranslation": "Akzeptieren Sie eine Debitkarte?",
-      "explanation": "O cartão de débito ist eine Debitkarte; der Akut gehört zu débito. Aceita …? fragt hier höflich, ob die Zahlungsart angenommen wird. Eine Kreditkarte wäre cartão de crédito und ist nicht dieselbe Bezeichnung."
+      "explanation": "O cart\u00E3o de d\u00E9bito ist eine Debitkarte; der Akut geh\u00F6rt zu d\u00E9bito. Aceita \u2026? fragt hier h\u00F6flich, ob die Zahlungsart angenommen wird. Eine Kreditkarte w\u00E4re cart\u00E3o de cr\u00E9dito und ist nicht dieselbe Bezeichnung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Geld und Bezahlen",
       "expression": "Pix",
       "translation": "Pix (brasilianisches Bezahlsystem)",
-      "isVocabulary": true,
       "example": "Vou pagar com Pix.",
       "exampleTranslation": "Ich werde mit Pix bezahlen.",
-      "explanation": "Pix ist der Name eines brasilianischen Systems für sofortige Zahlungen. Vou pagar bedeutet ich werde bezahlen; com Pix benennt hier die Zahlungsart. Der Satz ist ein Sprachbeispiel und keine Angabe darüber, welche Zahlungsarten dir vor Ort zur Verfügung stehen."
+      "explanation": "Pix ist der Name eines brasilianischen Systems f\u00FCr sofortige Zahlungen. Vou pagar bedeutet ich werde bezahlen; com Pix benennt hier die Zahlungsart. Der Satz ist ein Sprachbeispiel und keine Angabe dar\u00FCber, welche Zahlungsarten dir vor Ort zur Verf\u00FCgung stehen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Geld und Bezahlen",
       "expression": "troco",
       "translation": "Wechselgeld",
-      "isVocabulary": true,
       "example": "Preciso de troco.",
       "exampleTranslation": "Ich brauche Wechselgeld.",
-      "explanation": "O troco ist Wechselgeld. Preciso de … heißt ich brauche … Der Satz nennt einen Bedarf, aber noch nicht den gezahlten Betrag oder die Höhe des zurückzugebenden Geldes."
+      "explanation": "O troco ist Wechselgeld. Preciso de \u2026 hei\u00DFt ich brauche \u2026 Der Satz nennt einen Bedarf, aber noch nicht den gezahlten Betrag oder die H\u00F6he des zur\u00FCckzugebenden Geldes.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Geld und Bezahlen",
       "expression": "reais",
       "translation": "Reais (Mehrzahl von Real)",
-      "isVocabulary": true,
-      "example": "Aqui estão cinquenta reais.",
-      "exampleTranslation": "Hier sind fünfzig Reais.",
-      "explanation": "O real ist die Einzahl der brasilianischen Währung; reais ist die Mehrzahl. Cinquenta reais sind fünfzig Reais. Aqui estão … heißt hier sind … und steht passend zur Mehrzahl."
+      "example": "Aqui est\u00E3o cinquenta reais.",
+      "exampleTranslation": "Hier sind f\u00FCnfzig Reais.",
+      "explanation": "O real ist die Einzahl der brasilianischen W\u00E4hrung; reais ist die Mehrzahl. Cinquenta reais sind f\u00FCnfzig Reais. Aqui est\u00E3o \u2026 hei\u00DFt hier sind \u2026 und steht passend zur Mehrzahl.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Geld und Bezahlen",
       "expression": "recibo",
       "translation": "Beleg",
-      "isVocabulary": true,
       "example": "Pode me dar o recibo?",
-      "exampleTranslation": "Können Sie mir den Beleg geben?",
-      "explanation": "O recibo, Plural recibos, bezeichnet hier einen Zahlungsbeleg. Pode me dar …? ist eine höfliche Bitte: Können Sie mir … geben? Je nach Anrede kann auf Deutsch auch kannst du mir … passen."
+      "exampleTranslation": "K\u00F6nnen Sie mir den Beleg geben?",
+      "explanation": "O recibo, Plural recibos, bezeichnet hier einen Zahlungsbeleg. Pode me dar \u2026? ist eine h\u00F6fliche Bitte: K\u00F6nnen Sie mir \u2026 geben? Je nach Anrede kann auf Deutsch auch kannst du mir \u2026 passen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Geld und Bezahlen",
       "expression": "valor",
       "translation": "Betrag",
-      "isVocabulary": true,
-      "example": "O valor está errado.",
+      "example": "O valor est\u00E1 errado.",
       "exampleTranslation": "Der Betrag stimmt nicht.",
-      "explanation": "O valor, Plural valores, ist hier der Betrag. Está errado bedeutet ist falsch oder stimmt nicht. In anderen Zusammenhängen kann valor Wert bedeuten; hier wird der angezeigte oder genannte Geldbetrag beanstandet."
+      "explanation": "O valor, Plural valores, ist hier der Betrag. Est\u00E1 errado bedeutet ist falsch oder stimmt nicht. In anderen Zusammenh\u00E4ngen kann valor Wert bedeuten; hier wird der angezeigte oder genannte Geldbetrag beanstandet.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Nach dem Betrag fragen, Zahlungsarten nennen und um Wechselgeld oder einen Beleg bitten.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Wechselgeld: \u201EPreciso de ____.\u201C",
+        "explanation": "Troco bezeichnet hier Wechselgeld.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "troco"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Beleg aus diesem Paket: \u201EPode me dar o ____?\u201C",
+        "explanation": "Recibo ist hier ein Zahlungsbeleg.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "recibo"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tudo \u2014 alles. Tudo bedeutet alles und bezeichnet hier den gesamten Einkauf. Quanto custa tudo? fragt nach dem Gesamtbetrag, nicht nach dem Preis eines einzelnen Artikels. Dasselbe Wort steht in Tudo bem? in einem anderen Gespr\u00E4chsmuster. Quanto custa tudo? \u2014 Wie viel kostet alles zusammen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "alles"
+          },
+          {
+            "id": "d6",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "d0",
+            "text": "Debitkarte"
+          },
+          {
+            "id": "d7",
+            "text": "gl\u00FCcklich"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tudo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etudo\u201C?",
+        "explanation": "tudo \u2014 alles. Tudo bedeutet alles und bezeichnet hier den gesamten Einkauf. Quanto custa tudo? fragt nach dem Gesamtbetrag, nicht nach dem Preis eines einzelnen Artikels. Dasselbe Wort steht in Tudo bem? in einem anderen Gespr\u00E4chsmuster. Quanto custa tudo? \u2014 Wie viel kostet alles zusammen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "alles"
+          },
+          {
+            "id": "d4",
+            "text": "Reais (Mehrzahl von Real)"
+          },
+          {
+            "id": "d1",
+            "text": "Betrag"
+          },
+          {
+            "id": "d8",
+            "text": "so einigerma\u00DFen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPosso pagar em dinheiro?\u201C",
+        "explanation": "dinheiro \u2014 Bargeld; Geld. O dinheiro bedeutet Geld; bei einer Zahlungsart ist em dinheiro bar oder mit Bargeld. Posso pagar \u2026? fragt nach der M\u00F6glichkeit zu bezahlen. Die Frage selbst sagt noch nicht, ob diese Zahlungsart angenommen wird. Posso pagar em dinheiro? \u2014 Kann ich bar bezahlen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Bargeld; Geld"
+          },
+          {
+            "id": "d5",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "d3",
+            "text": "Beleg"
+          },
+          {
+            "id": "d0",
+            "text": "Debitkarte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dinheiro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edinheiro\u201C in diesem Beispiel? \u201EPosso pagar em dinheiro?\u201C",
+        "explanation": "dinheiro \u2014 Bargeld; Geld. O dinheiro bedeutet Geld; bei einer Zahlungsart ist em dinheiro bar oder mit Bargeld. Posso pagar \u2026? fragt nach der M\u00F6glichkeit zu bezahlen. Die Frage selbst sagt noch nicht, ob diese Zahlungsart angenommen wird. Posso pagar em dinheiro? \u2014 Kann ich bar bezahlen?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "alles"
+          },
+          {
+            "id": "answer",
+            "text": "Bargeld; Geld"
+          },
+          {
+            "id": "d5",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "d0",
+            "text": "Debitkarte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cart\u00E3o de d\u00E9bito \u2014 Debitkarte. O cart\u00E3o de d\u00E9bito ist eine Debitkarte; der Akut geh\u00F6rt zu d\u00E9bito. Aceita \u2026? fragt hier h\u00F6flich, ob die Zahlungsart angenommen wird. Eine Kreditkarte w\u00E4re cart\u00E3o de cr\u00E9dito und ist nicht dieselbe Bezeichnung. Aceita cart\u00E3o de d\u00E9bito? \u2014 Akzeptieren Sie eine Debitkarte?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Betrag"
+          },
+          {
+            "id": "answer",
+            "text": "Debitkarte"
+          },
+          {
+            "id": "d2",
+            "text": "Beleg"
+          },
+          {
+            "id": "d6",
+            "text": "alles"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cart\u00E3o de d\u00E9bito",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecart\u00E3o de d\u00E9bito\u201C?",
+        "explanation": "cart\u00E3o de d\u00E9bito \u2014 Debitkarte. O cart\u00E3o de d\u00E9bito ist eine Debitkarte; der Akut geh\u00F6rt zu d\u00E9bito. Aceita \u2026? fragt hier h\u00F6flich, ob die Zahlungsart angenommen wird. Eine Kreditkarte w\u00E4re cart\u00E3o de cr\u00E9dito und ist nicht dieselbe Bezeichnung. Aceita cart\u00E3o de d\u00E9bito? \u2014 Akzeptieren Sie eine Debitkarte?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Debitkarte"
+          },
+          {
+            "id": "d3",
+            "text": "Reais (Mehrzahl von Real)"
+          },
+          {
+            "id": "d6",
+            "text": "alles"
+          },
+          {
+            "id": "d2",
+            "text": "Beleg"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "Pix \u2014 Pix (brasilianisches Bezahlsystem). Pix ist der Name eines brasilianischen Systems f\u00FCr sofortige Zahlungen. Vou pagar bedeutet ich werde bezahlen; com Pix benennt hier die Zahlungsart. Der Satz ist ein Sprachbeispiel und keine Angabe dar\u00FCber, welche Zahlungsarten dir vor Ort zur Verf\u00FCgung stehen. Vou pagar com Pix. \u2014 Ich werde mit Pix bezahlen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Bargeld; Geld"
+          },
+          {
+            "id": "answer",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "d2",
+            "text": "Wechselgeld"
+          },
+          {
+            "id": "d4",
+            "text": "Reais (Mehrzahl von Real)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "Pix",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201EPix\u201C?",
+        "explanation": "Pix \u2014 Pix (brasilianisches Bezahlsystem). Pix ist der Name eines brasilianischen Systems f\u00FCr sofortige Zahlungen. Vou pagar bedeutet ich werde bezahlen; com Pix benennt hier die Zahlungsart. Der Satz ist ein Sprachbeispiel und keine Angabe dar\u00FCber, welche Zahlungsarten dir vor Ort zur Verf\u00FCgung stehen. Vou pagar com Pix. \u2014 Ich werde mit Pix bezahlen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Debitkarte"
+          },
+          {
+            "id": "answer",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "d6",
+            "text": "alles"
+          },
+          {
+            "id": "d4",
+            "text": "Reais (Mehrzahl von Real)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "reais \u2014 Reais (Mehrzahl von Real). O real ist die Einzahl der brasilianischen W\u00E4hrung; reais ist die Mehrzahl. Cinquenta reais sind f\u00FCnfzig Reais. Aqui est\u00E3o \u2026 hei\u00DFt hier sind \u2026 und steht passend zur Mehrzahl. Aqui est\u00E3o cinquenta reais. \u2014 Hier sind f\u00FCnfzig Reais.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Beleg"
+          },
+          {
+            "id": "answer",
+            "text": "Reais (Mehrzahl von Real)"
+          },
+          {
+            "id": "d1",
+            "text": "Betrag"
+          },
+          {
+            "id": "d2",
+            "text": "Wechselgeld"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "reais",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ereais\u201C?",
+        "explanation": "reais \u2014 Reais (Mehrzahl von Real). O real ist die Einzahl der brasilianischen W\u00E4hrung; reais ist die Mehrzahl. Cinquenta reais sind f\u00FCnfzig Reais. Aqui est\u00E3o \u2026 hei\u00DFt hier sind \u2026 und steht passend zur Mehrzahl. Aqui est\u00E3o cinquenta reais. \u2014 Hier sind f\u00FCnfzig Reais.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Debitkarte"
+          },
+          {
+            "id": "d3",
+            "text": "Beleg"
+          },
+          {
+            "id": "d5",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "answer",
+            "text": "Reais (Mehrzahl von Real)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO valor est\u00E1 errado.\u201C",
+        "explanation": "valor \u2014 Betrag. O valor, Plural valores, ist hier der Betrag. Est\u00E1 errado bedeutet ist falsch oder stimmt nicht. In anderen Zusammenh\u00E4ngen kann valor Wert bedeuten; hier wird der angezeigte oder genannte Geldbetrag beanstandet. O valor est\u00E1 errado. \u2014 Der Betrag stimmt nicht.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Bargeld; Geld"
+          },
+          {
+            "id": "d5",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "answer",
+            "text": "Betrag"
+          },
+          {
+            "id": "d2",
+            "text": "Beleg"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "valor",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Evalor\u201C in diesem Beispiel? \u201EO valor est\u00E1 errado.\u201C",
+        "explanation": "valor \u2014 Betrag. O valor, Plural valores, ist hier der Betrag. Est\u00E1 errado bedeutet ist falsch oder stimmt nicht. In anderen Zusammenh\u00E4ngen kann valor Wert bedeuten; hier wird der angezeigte oder genannte Geldbetrag beanstandet. O valor est\u00E1 errado. \u2014 Der Betrag stimmt nicht.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Pix (brasilianisches Bezahlsystem)"
+          },
+          {
+            "id": "answer",
+            "text": "Betrag"
+          },
+          {
+            "id": "d0",
+            "text": "Debitkarte"
+          },
+          {
+            "id": "d3",
+            "text": "Reais (Mehrzahl von Real)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich nach dem Gesamtpreis des Einkaufs?",
+        "explanation": "Tudo bedeutet alles. Hier geht es um den Gesamtpreis.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Aceita cart\u00E3o de d\u00E9bito?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quanto custa este pacote?"
+          },
+          {
+            "id": "answer",
+            "text": "Quanto custa tudo?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o caixa?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ealles\u201C?",
+        "explanation": "tudo \u2014 alles. Tudo bedeutet alles und bezeichnet hier den gesamten Einkauf. Quanto custa tudo? fragt nach dem Gesamtbetrag, nicht nach dem Preis eines einzelnen Artikels. Dasselbe Wort steht in Tudo bem? in einem anderen Gespr\u00E4chsmuster. Quanto custa tudo? \u2014 Wie viel kostet alles zusammen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "recibo"
+          },
+          {
+            "id": "d9",
+            "text": "cansada"
+          },
+          {
+            "id": "d2",
+            "text": "troco"
+          },
+          {
+            "id": "answer",
+            "text": "tudo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst, ob Barzahlung m\u00F6glich ist. Welche Frage passt?",
+        "explanation": "Pagar em dinheiro hei\u00DFt bar bezahlen. Die Frage verspricht keine Annahme von Bargeld.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode me dar o recibo?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso pagar com cart\u00E3o?"
+          },
+          {
+            "id": "answer",
+            "text": "Posso pagar em dinheiro?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quanto custa tudo?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EBargeld; Geld\u201C? Gemeint ist: Bargeld beim Bezahlen.",
+        "explanation": "dinheiro \u2014 Bargeld; Geld. O dinheiro bedeutet Geld; bei einer Zahlungsart ist em dinheiro bar oder mit Bargeld. Posso pagar \u2026? fragt nach der M\u00F6glichkeit zu bezahlen. Die Frage selbst sagt noch nicht, ob diese Zahlungsart angenommen wird. Posso pagar em dinheiro? \u2014 Kann ich bar bezahlen?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Pix"
+          },
+          {
+            "id": "answer",
+            "text": "dinheiro"
+          },
+          {
+            "id": "d0",
+            "text": "cart\u00E3o de d\u00E9bito"
+          },
+          {
+            "id": "d2",
+            "text": "troco"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt ausdr\u00FCcklich nach Zahlung mit Debitkarte?",
+        "explanation": "Cart\u00E3o de d\u00E9bito bedeutet Debitkarte, cart\u00E3o de cr\u00E9dito Kreditkarte.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Posso pagar em dinheiro?"
+          },
+          {
+            "id": "answer",
+            "text": "Aceita cart\u00E3o de d\u00E9bito?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Aceita cart\u00E3o de cr\u00E9dito?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode me dar o recibo?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EDebitkarte\u201C?",
+        "explanation": "cart\u00E3o de d\u00E9bito \u2014 Debitkarte. O cart\u00E3o de d\u00E9bito ist eine Debitkarte; der Akut geh\u00F6rt zu d\u00E9bito. Aceita \u2026? fragt hier h\u00F6flich, ob die Zahlungsart angenommen wird. Eine Kreditkarte w\u00E4re cart\u00E3o de cr\u00E9dito und ist nicht dieselbe Bezeichnung. Aceita cart\u00E3o de d\u00E9bito? \u2014 Akzeptieren Sie eine Debitkarte?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "cart\u00E3o de d\u00E9bito"
+          },
+          {
+            "id": "d6",
+            "text": "tudo"
+          },
+          {
+            "id": "d4",
+            "text": "dinheiro"
+          },
+          {
+            "id": "d3",
+            "text": "reais"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EComo voc\u00EA vai pagar?\u201C \u2013 Welche Antwort nennt Pix als Zahlungsweise?",
+        "explanation": "Die Antwort nennt die beabsichtigte Zahlungsweise im \u00DCbungsgespr\u00E4ch.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou pagar com cart\u00E3o de d\u00E9bito."
+          },
+          {
+            "id": "answer",
+            "text": "Vou pagar com Pix."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de troco."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou pagar em dinheiro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EPix (brasilianisches Bezahlsystem)\u201C?",
+        "explanation": "Pix \u2014 Pix (brasilianisches Bezahlsystem). Pix ist der Name eines brasilianischen Systems f\u00FCr sofortige Zahlungen. Vou pagar bedeutet ich werde bezahlen; com Pix benennt hier die Zahlungsart. Der Satz ist ein Sprachbeispiel und keine Angabe dar\u00FCber, welche Zahlungsarten dir vor Ort zur Verf\u00FCgung stehen. Vou pagar com Pix. \u2014 Ich werde mit Pix bezahlen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "troco"
+          },
+          {
+            "id": "d6",
+            "text": "tudo"
+          },
+          {
+            "id": "d5",
+            "text": "dinheiro"
+          },
+          {
+            "id": "answer",
+            "text": "Pix"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage \u00FCbergibt ausdr\u00FCcklich f\u00FCnfzig Reais?",
+        "explanation": "Cinquenta hei\u00DFt f\u00FCnfzig. Reais ist die Mehrzahl der W\u00E4hrungseinheit real.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Aqui est\u00E3o cinco reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Aqui est\u00E3o cem reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Aqui est\u00E3o quinze reais."
+          },
+          {
+            "id": "answer",
+            "text": "Aqui est\u00E3o cinquenta reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EReais (Mehrzahl von Real)\u201C?",
+        "explanation": "reais \u2014 Reais (Mehrzahl von Real). O real ist die Einzahl der brasilianischen W\u00E4hrung; reais ist die Mehrzahl. Cinquenta reais sind f\u00FCnfzig Reais. Aqui est\u00E3o \u2026 hei\u00DFt hier sind \u2026 und steht passend zur Mehrzahl. Aqui est\u00E3o cinquenta reais. \u2014 Hier sind f\u00FCnfzig Reais.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Pix"
+          },
+          {
+            "id": "d4",
+            "text": "dinheiro"
+          },
+          {
+            "id": "d2",
+            "text": "troco"
+          },
+          {
+            "id": "answer",
+            "text": "reais"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass der zu zahlende Betrag falsch ist?",
+        "explanation": "Valor bezeichnet hier den Geldbetrag. Errado bedeutet falsch.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Preciso de troco."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O valor est\u00E1 certo."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O banco est\u00E1 fechado."
+          },
+          {
+            "id": "answer",
+            "text": "O valor est\u00E1 errado."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EBetrag\u201C? Gemeint ist: der zu zahlende Geldbetrag.",
+        "explanation": "valor \u2014 Betrag. O valor, Plural valores, ist hier der Betrag. Est\u00E1 errado bedeutet ist falsch oder stimmt nicht. In anderen Zusammenh\u00E4ngen kann valor Wert bedeuten; hier wird der angezeigte oder genannte Geldbetrag beanstandet. O valor est\u00E1 errado. \u2014 Der Betrag stimmt nicht.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "cart\u00E3o de d\u00E9bito"
+          },
+          {
+            "id": "d6",
+            "text": "tudo"
+          },
+          {
+            "id": "answer",
+            "text": "valor"
+          },
+          {
+            "id": "d2",
+            "text": "recibo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-27-taxi",
-  "packageVersion": 4,
-  "title": "27 · Mit dem Taxi unterwegs",
+  "packageVersion": 6,
+  "title": "27 \u00B7 Mit dem Taxi unterwegs",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Mit dem Taxi unterwegs",
-      "expression": "endereço",
+      "expression": "endere\u00E7o",
       "translation": "Adresse",
-      "isVocabulary": true,
-      "example": "Tenho o endereço aqui.",
+      "example": "Tenho o endere\u00E7o aqui.",
       "exampleTranslation": "Ich habe die Adresse hier.",
-      "explanation": "O endereço, Plural endereços, ist eine Adresse. Tenho … aqui heißt ich habe … hier. Der Buchstabe ç wird wie ein stimmloses s gesprochen. Im Übungssatz muss keine echte persönliche Adresse genannt werden."
+      "explanation": "O endere\u00E7o, Plural endere\u00E7os, ist eine Adresse. Tenho \u2026 aqui hei\u00DFt ich habe \u2026 hier. Der Buchstabe \u00E7 wird wie ein stimmloses s gesprochen. Im \u00DCbungssatz muss keine echte pers\u00F6nliche Adresse genannt werden.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Mit dem Taxi unterwegs",
       "expression": "hotel",
       "translation": "Hotel",
-      "isVocabulary": true,
       "example": "Quero ir para o hotel.",
-      "exampleTranslation": "Ich möchte zum Hotel fahren.",
-      "explanation": "O hotel, Plural hotéis. Para o hotel bedeutet zum Hotel; quero ir heißt ich möchte gehen oder fahren. Im Taxikontext passt auf Deutsch fahren. Der Satz nennt noch kein bestimmtes Hotel."
+      "exampleTranslation": "Ich m\u00F6chte zum Hotel fahren.",
+      "explanation": "O hotel, Plural hot\u00E9is. Para o hotel bedeutet zum Hotel; quero ir hei\u00DFt ich m\u00F6chte gehen oder fahren. Im Taxikontext passt auf Deutsch fahren. Der Satz nennt noch kein bestimmtes Hotel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Mit dem Taxi unterwegs",
       "expression": "corrida",
       "translation": "Fahrt (Taxi)",
-      "isVocabulary": true,
       "example": "Quanto fica a corrida?",
       "exampleTranslation": "Wie viel kostet die Fahrt?",
-      "explanation": "A corrida bezeichnet hier eine Taxifahrt. Quanto fica …? fragt nach dem entstehenden Preis; quanto custa …? kann ebenfalls nach einem Preis fragen. Außerhalb des Taxikontexts kann corrida Lauf oder Rennen bedeuten."
+      "explanation": "A corrida bezeichnet hier eine Taxifahrt. Quanto fica \u2026? fragt nach dem entstehenden Preis; quanto custa \u2026? kann ebenfalls nach einem Preis fragen. Au\u00DFerhalb des Taxikontexts kann corrida Lauf oder Rennen bedeuten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Mit dem Taxi unterwegs",
       "expression": "parar",
       "translation": "anhalten",
-      "isVocabulary": true,
       "example": "Pode parar aqui, por favor?",
-      "exampleTranslation": "Können Sie bitte hier anhalten?",
-      "explanation": "Parar bedeutet hier anhalten. Pode parar aqui, por favor? ist im Taxigespräch eine höfliche Bitte um einen Halt; aqui heißt hier. Ohne Kontext kann pode auch eine Möglichkeit oder Erlaubnis ausdrücken."
+      "exampleTranslation": "K\u00F6nnen Sie bitte hier anhalten?",
+      "explanation": "Parar bedeutet hier anhalten. Pode parar aqui, por favor? ist im Taxigespr\u00E4ch eine h\u00F6fliche Bitte um einen Halt; aqui hei\u00DFt hier. Ohne Kontext kann pode auch eine M\u00F6glichkeit oder Erlaubnis ausdr\u00FCcken.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Mit dem Taxi unterwegs",
       "expression": "descer",
       "translation": "aussteigen",
-      "isVocabulary": true,
       "example": "Vou descer aqui.",
       "exampleTranslation": "Ich steige hier aus.",
-      "explanation": "Descer bedeutet bei einem Verkehrsmittel hier aussteigen. Vou descer drückt den beabsichtigten nächsten Schritt aus. In anderen Situationen kann descer hinuntergehen bedeuten; hier geht es um die Fahrt."
+      "explanation": "Descer bedeutet bei einem Verkehrsmittel hier aussteigen. Vou descer dr\u00FCckt den beabsichtigten n\u00E4chsten Schritt aus. In anderen Situationen kann descer hinuntergehen bedeuten; hier geht es um die Fahrt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Mit dem Taxi unterwegs",
-      "expression": "trânsito",
+      "expression": "tr\u00E2nsito",
       "translation": "Verkehr",
-      "isVocabulary": true,
-      "example": "O trânsito está lento.",
-      "exampleTranslation": "Der Verkehr fließt langsam.",
-      "explanation": "O trânsito bezeichnet hier den Straßenverkehr. Das â in trânsito trägt einen Zirkumflex, keinen Akut. Está lento heißt hier fließt langsam; ein zeitweiser Stillstand oder stockender Verkehr wird damit nicht ausdrücklich behauptet."
+      "example": "O tr\u00E2nsito est\u00E1 lento.",
+      "exampleTranslation": "Der Verkehr flie\u00DFt langsam.",
+      "explanation": "O tr\u00E2nsito bezeichnet hier den Stra\u00DFenverkehr. Das \u00E2 in tr\u00E2nsito tr\u00E4gt einen Zirkumflex, keinen Akut. Est\u00E1 lento hei\u00DFt hier flie\u00DFt langsam; ein zeitweiser Stillstand oder stockender Verkehr wird damit nicht ausdr\u00FCcklich behauptet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Mit dem Taxi unterwegs",
       "expression": "entrada",
       "translation": "Eingang",
-      "isVocabulary": true,
       "example": "Estou esperando na entrada.",
       "exampleTranslation": "Ich warte am Eingang.",
-      "explanation": "A entrada, Plural entradas, ist hier ein Eingang. Na entrada bedeutet am Eingang; estou esperando heißt ich warte gerade. Entrada kann in anderen Zusammenhängen etwa Eintritt oder Vorspeise bedeuten; hier ist ein Ort gemeint."
+      "explanation": "A entrada, Plural entradas, ist hier ein Eingang. Na entrada bedeutet am Eingang; estou esperando hei\u00DFt ich warte gerade. Entrada kann in anderen Zusammenh\u00E4ngen etwa Eintritt oder Vorspeise bedeuten; hier ist ein Ort gemeint.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Mit dem Taxi unterwegs",
       "expression": "carro",
       "translation": "Auto",
-      "isVocabulary": true,
-      "example": "Este é o carro certo?",
+      "example": "Este \u00E9 o carro certo?",
       "exampleTranslation": "Ist das das richtige Auto?",
-      "explanation": "O carro, Plural carros, ist ein Auto. Certo bedeutet hier richtig beziehungsweise das gesuchte. Este é …? greift das bekannte Vorstellungs- und Zeigemuster auf; die Frage identifiziert im Beispiel ein Fahrzeug."
+      "explanation": "O carro, Plural carros, ist ein Auto. Certo bedeutet hier richtig beziehungsweise das gesuchte. Este \u00E9 \u2026? greift das bekannte Vorstellungs- und Zeigemuster auf; die Frage identifiziert im Beispiel ein Fahrzeug.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Gelernte Wendungen zu Fahrtzielen und Adressen sowie einfache Fragen w\u00E4hrend einer Taxifahrt verstehen und passend ausw\u00E4hlen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Adresse: \u201ETenho o ____ aqui.\u201C",
+        "explanation": "Endere\u00E7o bedeutet Adresse. Die Cedille geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "endere\u00E7o"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Stra\u00DFenverkehr: \u201EO ____ est\u00E1 lento.\u201C",
+        "explanation": "Tr\u00E2nsito hat einen Zirkumflex auf \u00E2. Der Satz sagt, dass der Verkehr langsam flie\u00DFt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "tr\u00E2nsito"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "hotel \u2014 Hotel. O hotel, Plural hot\u00E9is. Para o hotel bedeutet zum Hotel; quero ir hei\u00DFt ich m\u00F6chte gehen oder fahren. Im Taxikontext passt auf Deutsch fahren. Der Satz nennt noch kein bestimmtes Hotel. Quero ir para o hotel. \u2014 Ich m\u00F6chte zum Hotel fahren.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Auto"
+          },
+          {
+            "id": "answer",
+            "text": "Hotel"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "hotel",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ehotel\u201C?",
+        "explanation": "hotel \u2014 Hotel. O hotel, Plural hot\u00E9is. Para o hotel bedeutet zum Hotel; quero ir hei\u00DFt ich m\u00F6chte gehen oder fahren. Im Taxikontext passt auf Deutsch fahren. Der Satz nennt noch kein bestimmtes Hotel. Quero ir para o hotel. \u2014 Ich m\u00F6chte zum Hotel fahren.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Auto"
+          },
+          {
+            "id": "answer",
+            "text": "Hotel"
+          },
+          {
+            "id": "d2",
+            "text": "Adresse"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuanto fica a corrida?\u201C",
+        "explanation": "corrida \u2014 Fahrt (Taxi). A corrida bezeichnet hier eine Taxifahrt. Quanto fica \u2026? fragt nach dem entstehenden Preis; quanto custa \u2026? kann ebenfalls nach einem Preis fragen. Au\u00DFerhalb des Taxikontexts kann corrida Lauf oder Rennen bedeuten. Quanto fica a corrida? \u2014 Wie viel kostet die Fahrt?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "anhalten"
+          },
+          {
+            "id": "answer",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d2",
+            "text": "Adresse"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "corrida",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecorrida\u201C in diesem Beispiel? \u201EQuanto fica a corrida?\u201C",
+        "explanation": "corrida \u2014 Fahrt (Taxi). A corrida bezeichnet hier eine Taxifahrt. Quanto fica \u2026? fragt nach dem entstehenden Preis; quanto custa \u2026? kann ebenfalls nach einem Preis fragen. Au\u00DFerhalb des Taxikontexts kann corrida Lauf oder Rennen bedeuten. Quanto fica a corrida? \u2014 Wie viel kostet die Fahrt?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "answer",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "d4",
+            "text": "Hotel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPode parar aqui, por favor?\u201C",
+        "explanation": "parar \u2014 anhalten. Parar bedeutet hier anhalten. Pode parar aqui, por favor? ist im Taxigespr\u00E4ch eine h\u00F6fliche Bitte um einen Halt; aqui hei\u00DFt hier. Ohne Kontext kann pode auch eine M\u00F6glichkeit oder Erlaubnis ausdr\u00FCcken. Pode parar aqui, por favor? \u2014 K\u00F6nnen Sie bitte hier anhalten?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Adresse"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d4",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "answer",
+            "text": "anhalten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "parar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eparar\u201C in diesem Beispiel? \u201EPode parar aqui, por favor?\u201C",
+        "explanation": "parar \u2014 anhalten. Parar bedeutet hier anhalten. Pode parar aqui, por favor? ist im Taxigespr\u00E4ch eine h\u00F6fliche Bitte um einen Halt; aqui hei\u00DFt hier. Ohne Kontext kann pode auch eine M\u00F6glichkeit oder Erlaubnis ausdr\u00FCcken. Pode parar aqui, por favor? \u2014 K\u00F6nnen Sie bitte hier anhalten?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "anhalten"
+          },
+          {
+            "id": "d3",
+            "text": "Hotel"
+          },
+          {
+            "id": "d4",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVou descer aqui.\u201C",
+        "explanation": "descer \u2014 aussteigen. Descer bedeutet bei einem Verkehrsmittel hier aussteigen. Vou descer dr\u00FCckt den beabsichtigten n\u00E4chsten Schritt aus. In anderen Situationen kann descer hinuntergehen bedeuten; hier geht es um die Fahrt. Vou descer aqui. \u2014 Ich steige hier aus.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "aussteigen"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "d4",
+            "text": "Hotel"
+          },
+          {
+            "id": "d3",
+            "text": "anhalten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "descer",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edescer\u201C in diesem Beispiel? \u201EVou descer aqui.\u201C",
+        "explanation": "descer \u2014 aussteigen. Descer bedeutet bei einem Verkehrsmittel hier aussteigen. Vou descer dr\u00FCckt den beabsichtigten n\u00E4chsten Schritt aus. In anderen Situationen kann descer hinuntergehen bedeuten; hier geht es um die Fahrt. Vou descer aqui. \u2014 Ich steige hier aus.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "anhalten"
+          },
+          {
+            "id": "d5",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "d2",
+            "text": "Adresse"
+          },
+          {
+            "id": "answer",
+            "text": "aussteigen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstou esperando na entrada.\u201C",
+        "explanation": "entrada \u2014 Eingang. A entrada, Plural entradas, ist hier ein Eingang. Na entrada bedeutet am Eingang; estou esperando hei\u00DFt ich warte gerade. Entrada kann in anderen Zusammenh\u00E4ngen etwa Eintritt oder Vorspeise bedeuten; hier ist ein Ort gemeint. Estou esperando na entrada. \u2014 Ich warte am Eingang.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Adresse"
+          },
+          {
+            "id": "d9",
+            "text": "Hotel"
+          },
+          {
+            "id": "d0",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "answer",
+            "text": "Eingang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "entrada",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eentrada\u201C in diesem Beispiel? \u201EEstou esperando na entrada.\u201C",
+        "explanation": "entrada \u2014 Eingang. A entrada, Plural entradas, ist hier ein Eingang. Na entrada bedeutet am Eingang; estou esperando hei\u00DFt ich warte gerade. Entrada kann in anderen Zusammenh\u00E4ngen etwa Eintritt oder Vorspeise bedeuten; hier ist ein Ort gemeint. Estou esperando na entrada. \u2014 Ich warte am Eingang.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "verirrt (weiblich)"
+          },
+          {
+            "id": "answer",
+            "text": "Eingang"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d8",
+            "text": "helfen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "carro \u2014 Auto. O carro, Plural carros, ist ein Auto. Certo bedeutet hier richtig beziehungsweise das gesuchte. Este \u00E9 \u2026? greift das bekannte Vorstellungs- und Zeigemuster auf; die Frage identifiziert im Beispiel ein Fahrzeug. Este \u00E9 o carro certo? \u2014 Ist das das richtige Auto?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "anhalten"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d5",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "answer",
+            "text": "Auto"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "carro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecarro\u201C?",
+        "explanation": "carro \u2014 Auto. O carro, Plural carros, ist ein Auto. Certo bedeutet hier richtig beziehungsweise das gesuchte. Este \u00E9 \u2026? greift das bekannte Vorstellungs- und Zeigemuster auf; die Frage identifiziert im Beispiel ein Fahrzeug. Este \u00E9 o carro certo? \u2014 Ist das das richtige Auto?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d5",
+            "text": "Fahrt (Taxi)"
+          },
+          {
+            "id": "answer",
+            "text": "Auto"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EHotel\u201C?",
+        "explanation": "hotel \u2014 Hotel. O hotel, Plural hot\u00E9is. Para o hotel bedeutet zum Hotel; quero ir hei\u00DFt ich m\u00F6chte gehen oder fahren. Im Taxikontext passt auf Deutsch fahren. Der Satz nennt noch kein bestimmtes Hotel. Quero ir para o hotel. \u2014 Ich m\u00F6chte zum Hotel fahren.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "hotel"
+          },
+          {
+            "id": "d5",
+            "text": "descer"
+          },
+          {
+            "id": "d2",
+            "text": "endere\u00E7o"
+          },
+          {
+            "id": "d1",
+            "text": "tr\u00E2nsito"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EPara onde voc\u00EA quer ir?\u201C \u2013 Welche Antwort nennt das Hotel als Fahrtziel?",
+        "explanation": "Para o hotel nennt das Hotel als Ziel. Das Beispiel legt kein bestimmtes Hotel fest.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Quero ir para o centro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero ir para o museu."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero ir para a praia."
+          },
+          {
+            "id": "answer",
+            "text": "Quero ir para o hotel."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFahrt (Taxi)\u201C? Zusammenhang: in einem Taxigespr\u00E4ch \u00FCber den Preis.",
+        "explanation": "corrida \u2014 Fahrt (Taxi). A corrida bezeichnet hier eine Taxifahrt. Quanto fica \u2026? fragt nach dem entstehenden Preis; quanto custa \u2026? kann ebenfalls nach einem Preis fragen. Au\u00DFerhalb des Taxikontexts kann corrida Lauf oder Rennen bedeuten. Quanto fica a corrida? \u2014 Wie viel kostet die Fahrt?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "carro"
+          },
+          {
+            "id": "answer",
+            "text": "corrida"
+          },
+          {
+            "id": "d3",
+            "text": "parar"
+          },
+          {
+            "id": "d2",
+            "text": "endere\u00E7o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst nach dem Preis der Taxifahrt. Welche Frage passt?",
+        "explanation": "Corrida bezeichnet hier eine Taxifahrt. Quanto fica? fragt nach dem entstehenden Preis.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Este \u00E9 o carro certo?"
+          },
+          {
+            "id": "answer",
+            "text": "Quanto fica a corrida?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode parar aqui, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o hotel?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eanhalten\u201C? Zusammenhang: bei einer Bitte an den Taxifahrer.",
+        "explanation": "parar \u2014 anhalten. Parar bedeutet hier anhalten. Pode parar aqui, por favor? ist im Taxigespr\u00E4ch eine h\u00F6fliche Bitte um einen Halt; aqui hei\u00DFt hier. Ohne Kontext kann pode auch eine M\u00F6glichkeit oder Erlaubnis ausdr\u00FCcken. Pode parar aqui, por favor? \u2014 K\u00F6nnen Sie bitte hier anhalten?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "entrada"
+          },
+          {
+            "id": "d2",
+            "text": "endere\u00E7o"
+          },
+          {
+            "id": "d1",
+            "text": "tr\u00E2nsito"
+          },
+          {
+            "id": "answer",
+            "text": "parar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bittest den Taxifahrer h\u00F6flich, genau hier anzuhalten. Welche Frage passt?",
+        "explanation": "Pode parar aqui, por favor? bittet um einen Halt an dieser Stelle.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode virar \u00E0 direita, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode parar aqui, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode seguir em frente, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode parar na entrada, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eaussteigen\u201C? Zusammenhang: beim Beenden einer Fahrt mit einem Fahrzeug.",
+        "explanation": "descer \u2014 aussteigen. Descer bedeutet bei einem Verkehrsmittel hier aussteigen. Vou descer dr\u00FCckt den beabsichtigten n\u00E4chsten Schritt aus. In anderen Situationen kann descer hinuntergehen bedeuten; hier geht es um die Fahrt. Vou descer aqui. \u2014 Ich steige hier aus.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "entrada"
+          },
+          {
+            "id": "d4",
+            "text": "hotel"
+          },
+          {
+            "id": "d6",
+            "text": "carro"
+          },
+          {
+            "id": "answer",
+            "text": "descer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du hier aussteigen wirst?",
+        "explanation": "Descer bedeutet bei einem Verkehrsmittel hier aussteigen. Aqui nennt diesen Ort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou ficar no carro."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou descer na pr\u00F3xima parada."
+          },
+          {
+            "id": "answer",
+            "text": "Vou descer aqui."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero ir para o hotel."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEingang\u201C? Zusammenhang: als Treffpunkt an einem Geb\u00E4ude.",
+        "explanation": "entrada \u2014 Eingang. A entrada, Plural entradas, ist hier ein Eingang. Na entrada bedeutet am Eingang; estou esperando hei\u00DFt ich warte gerade. Entrada kann in anderen Zusammenh\u00E4ngen etwa Eintritt oder Vorspeise bedeuten; hier ist ein Ort gemeint. Estou esperando na entrada. \u2014 Ich warte am Eingang.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "perder"
+          },
+          {
+            "id": "answer",
+            "text": "entrada"
+          },
+          {
+            "id": "d10",
+            "text": "corrida"
+          },
+          {
+            "id": "d3",
+            "text": "parar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du gerade am Eingang wartest?",
+        "explanation": "Na entrada hei\u00DFt am Eingang. Estou esperando beschreibt das gerade laufende Warten.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Estou esperando na sa\u00EDda."
+          },
+          {
+            "id": "answer",
+            "text": "Estou esperando na entrada."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estou esperando no quarto."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estou no carro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EAuto\u201C?",
+        "explanation": "carro \u2014 Auto. O carro, Plural carros, ist ein Auto. Certo bedeutet hier richtig beziehungsweise das gesuchte. Este \u00E9 \u2026? greift das bekannte Vorstellungs- und Zeigemuster auf; die Frage identifiziert im Beispiel ein Fahrzeug. Este \u00E9 o carro certo? \u2014 Ist das das richtige Auto?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "parar"
+          },
+          {
+            "id": "answer",
+            "text": "carro"
+          },
+          {
+            "id": "d1",
+            "text": "tr\u00E2nsito"
+          },
+          {
+            "id": "d5",
+            "text": "corrida"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage pr\u00FCft, ob dies das richtige Auto ist?",
+        "explanation": "Carro hei\u00DFt Auto. Certo bedeutet hier das richtige beziehungsweise gesuchte Fahrzeug.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o carro?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quanto fica a corrida?"
+          },
+          {
+            "id": "answer",
+            "text": "Este \u00E9 o carro certo?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Este \u00E9 o \u00F4nibus certo?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

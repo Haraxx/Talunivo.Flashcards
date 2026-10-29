@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-32-vorlieben",
-  "packageVersion": 4,
-  "title": "32 · Was ich mag",
+  "packageVersion": 6,
+  "title": "32 \u00B7 Was ich mag",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Was ich mag",
-      "expression": "música",
+      "expression": "m\u00FAsica",
       "translation": "Musik",
-      "isVocabulary": true,
-      "example": "Gosto de música brasileira.",
+      "example": "Gosto de m\u00FAsica brasileira.",
       "exampleTranslation": "Ich mag brasilianische Musik.",
-      "explanation": "A música bedeutet Musik; Plural músicas kann einzelne Musikstücke bezeichnen. Gosto de heißt ich mag. Brasileira passt grammatisch zu música und bedeutet brasilianisch; das Beispiel nennt nur eine Vorliebe."
+      "explanation": "A m\u00FAsica bedeutet Musik; Plural m\u00FAsicas kann einzelne Musikst\u00FCcke bezeichnen. Gosto de hei\u00DFt ich mag. Brasileira passt grammatisch zu m\u00FAsica und bedeutet brasilianisch; das Beispiel nennt nur eine Vorliebe.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Was ich mag",
       "expression": "ler",
       "translation": "lesen",
-      "isVocabulary": true,
       "example": "Gosto muito de ler.",
       "exampleTranslation": "Ich lese sehr gern.",
-      "explanation": "Ler heißt lesen. Gosto de + Infinitiv drückt aus, was ich gern tue; muito verstärkt hier zu sehr gern. Die Ich-Form von ler lautet leio und wird in Paket 33 im Alltagssatz verwendet."
+      "explanation": "Ler hei\u00DFt lesen. Gosto de \u002B Infinitiv dr\u00FCckt aus, was ich gern tue; muito verst\u00E4rkt hier zu sehr gern. Die Ich-Form von ler lautet leio und wird in Paket 33 im Alltagssatz verwendet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Was ich mag",
       "expression": "cedo",
-      "translation": "früh",
-      "isVocabulary": true,
-      "example": "Não gosto de acordar cedo.",
-      "exampleTranslation": "Ich wache nicht gern früh auf.",
-      "explanation": "Cedo bedeutet früh; das Gegenteil ist tarde im Sinn von spät. Não gosto de verneint die Vorliebe. Acordar heißt aufwachen und ist nicht dasselbe wie levantar, aufstehen."
+      "translation": "fr\u00FCh",
+      "example": "N\u00E3o gosto de acordar cedo.",
+      "exampleTranslation": "Ich wache nicht gern fr\u00FCh auf.",
+      "explanation": "Cedo bedeutet fr\u00FCh; das Gegenteil ist tarde im Sinn von sp\u00E4t. N\u00E3o gosto de verneint die Vorliebe. Acordar hei\u00DFt aufwachen und ist nicht dasselbe wie levantar, aufstehen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Was ich mag",
       "expression": "preferir",
       "translation": "bevorzugen",
-      "isVocabulary": true,
-      "example": "Prefiro chá a café.",
+      "example": "Prefiro ch\u00E1 a caf\u00E9.",
       "exampleTranslation": "Ich mag Tee lieber als Kaffee.",
-      "explanation": "Preferir heißt bevorzugen; prefiro ist die unregelmäßige Ich-Form. Im Muster prefiro X a Y wird X bevorzugt: hier Tee gegenüber Kaffee. Das a verbindet die beiden Vergleichsgrößen."
+      "explanation": "Preferir hei\u00DFt bevorzugen; prefiro ist die unregelm\u00E4\u00DFige Ich-Form. Im Muster prefiro X a Y wird X bevorzugt: hier Tee gegen\u00FCber Kaffee. Das a verbindet die beiden Vergleichsgr\u00F6\u00DFen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Was ich mag",
       "expression": "comida",
       "translation": "Essen",
-      "isVocabulary": true,
-      "example": "Qual é a sua comida favorita?",
+      "example": "Qual \u00E9 a sua comida favorita?",
       "exampleTranslation": "Was ist dein Lieblingsessen?",
-      "explanation": "A comida bedeutet Essen oder Speise. Comida favorita heißt Lieblingsessen; favorita passt zur weiblichen Form comida. Qual é a sua …? fragt hier nach einer persönlichen Vorliebe."
+      "explanation": "A comida bedeutet Essen oder Speise. Comida favorita hei\u00DFt Lieblingsessen; favorita passt zur weiblichen Form comida. Qual \u00E9 a sua \u2026? fragt hier nach einer pers\u00F6nlichen Vorliebe.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Was ich mag",
       "expression": "futebol",
-      "translation": "Fußball",
-      "isVocabulary": true,
-      "example": "Meu esporte favorito é futebol.",
-      "exampleTranslation": "Mein Lieblingssport ist Fußball.",
-      "explanation": "O futebol bedeutet Fußball. Meu esporte favorito heißt mein Lieblingssport; favorito passt zum männlichen Nomen esporte. Die Aussage ist ein erfundenes Beispiel und lässt sich mit anderen Sportarten variieren."
+      "translation": "Fu\u00DFball",
+      "example": "Meu esporte favorito \u00E9 futebol.",
+      "exampleTranslation": "Mein Lieblingssport ist Fu\u00DFball.",
+      "explanation": "O futebol bedeutet Fu\u00DFball. Meu esporte favorito hei\u00DFt mein Lieblingssport; favorito passt zum m\u00E4nnlichen Nomen esporte. Die Aussage ist ein erfundenes Beispiel und l\u00E4sst sich mit anderen Sportarten variieren.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Was ich mag",
       "expression": "cozinhar",
       "translation": "kochen",
-      "isVocabulary": true,
-      "example": "Também gosto de cozinhar.",
+      "example": "Tamb\u00E9m gosto de cozinhar.",
       "exampleTranslation": "Ich koche auch gern.",
-      "explanation": "Cozinhar heißt kochen, also Essen zubereiten. Também bedeutet auch. Nach gosto de steht der Infinitiv cozinhar; zusammen heißt das ich koche gern. Für das Kochen von Wasser verwendet man andere Formulierungen wie ferver água."
+      "explanation": "Cozinhar hei\u00DFt kochen, also Essen zubereiten. Tamb\u00E9m bedeutet auch. Nach gosto de steht der Infinitiv cozinhar; zusammen hei\u00DFt das ich koche gern. F\u00FCr das Kochen von Wasser verwendet man andere Formulierungen wie ferver \u00E1gua.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Was ich mag",
-      "expression": "dançar",
+      "expression": "dan\u00E7ar",
       "translation": "tanzen",
-      "isVocabulary": true,
-      "example": "Você gosta de dançar?",
+      "example": "Voc\u00EA gosta de dan\u00E7ar?",
       "exampleTranslation": "Tanzt du gern?",
-      "explanation": "Dançar heißt tanzen. Você gosta de + Infinitiv fragt, ob die angesprochene Person etwas gern tut. Gosta gehört hier zu você, während gosto zur Ich-Form gehört."
+      "explanation": "Dan\u00E7ar hei\u00DFt tanzen. Voc\u00EA gosta de \u002B Infinitiv fragt, ob die angesprochene Person etwas gern tut. Gosta geh\u00F6rt hier zu voc\u00EA, w\u00E4hrend gosto zur Ich-Form geh\u00F6rt.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Vorlieben und Interessen mit einfachen Ausdr\u00FCcken benennen und erfragen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Musik in der Einzahl: \u201EGosto de ____ brasileira.\u201C",
+        "explanation": "M\u00FAsica tr\u00E4gt einen Akut auf \u00FA. Brasileira passt zum weiblichen Nomen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "m\u00FAsica"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Fu\u00DFball: \u201EMeu esporte favorito \u00E9 ____.\u201C",
+        "explanation": "Futebol hei\u00DFt Fu\u00DFball. Die Vorliebe darf zum \u00DCben erfunden sein.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "futebol"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EGosto muito de ler.\u201C",
+        "explanation": "ler \u2014 lesen. Ler hei\u00DFt lesen. Gosto de \u002B Infinitiv dr\u00FCckt aus, was ich gern tue; muito verst\u00E4rkt hier zu sehr gern. Die Ich-Form von ler lautet leio und wird in Paket 33 im Alltagssatz verwendet. Gosto muito de ler. \u2014 Ich lese sehr gern.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "zeichnen"
+          },
+          {
+            "id": "answer",
+            "text": "lesen"
+          },
+          {
+            "id": "d2",
+            "text": "h\u00F6ren"
+          },
+          {
+            "id": "d7",
+            "text": "Spaziergang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ler",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eler\u201C in diesem Beispiel? \u201EGosto muito de ler.\u201C",
+        "explanation": "ler \u2014 lesen. Ler hei\u00DFt lesen. Gosto de \u002B Infinitiv dr\u00FCckt aus, was ich gern tue; muito verst\u00E4rkt hier zu sehr gern. Die Ich-Form von ler lautet leio und wird in Paket 33 im Alltagssatz verwendet. Gosto muito de ler. \u2014 Ich lese sehr gern.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Filme"
+          },
+          {
+            "id": "d0",
+            "text": "tanzen"
+          },
+          {
+            "id": "answer",
+            "text": "lesen"
+          },
+          {
+            "id": "d6",
+            "text": "spielen (Sport)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o gosto de acordar cedo.\u201C",
+        "explanation": "cedo \u2014 fr\u00FCh. Cedo bedeutet fr\u00FCh; das Gegenteil ist tarde im Sinn von sp\u00E4t. N\u00E3o gosto de verneint die Vorliebe. Acordar hei\u00DFt aufwachen und ist nicht dasselbe wie levantar, aufstehen. N\u00E3o gosto de acordar cedo. \u2014 Ich wache nicht gern fr\u00FCh auf.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "fr\u00FCh"
+          },
+          {
+            "id": "d0",
+            "text": "tanzen"
+          },
+          {
+            "id": "d4",
+            "text": "Fu\u00DFball"
+          },
+          {
+            "id": "d3",
+            "text": "Musik"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cedo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecedo\u201C in diesem Beispiel? \u201EN\u00E3o gosto de acordar cedo.\u201C",
+        "explanation": "cedo \u2014 fr\u00FCh. Cedo bedeutet fr\u00FCh; das Gegenteil ist tarde im Sinn von sp\u00E4t. N\u00E3o gosto de verneint die Vorliebe. Acordar hei\u00DFt aufwachen und ist nicht dasselbe wie levantar, aufstehen. N\u00E3o gosto de acordar cedo. \u2014 Ich wache nicht gern fr\u00FCh auf.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "tanzen"
+          },
+          {
+            "id": "answer",
+            "text": "fr\u00FCh"
+          },
+          {
+            "id": "d5",
+            "text": "kochen"
+          },
+          {
+            "id": "d4",
+            "text": "Fu\u00DFball"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "preferir \u2014 bevorzugen. Preferir hei\u00DFt bevorzugen; prefiro ist die unregelm\u00E4\u00DFige Ich-Form. Im Muster prefiro X a Y wird X bevorzugt: hier Tee gegen\u00FCber Kaffee. Das a verbindet die beiden Vergleichsgr\u00F6\u00DFen. Prefiro ch\u00E1 a caf\u00E9. \u2014 Ich mag Tee lieber als Kaffee.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Essen"
+          },
+          {
+            "id": "answer",
+            "text": "bevorzugen"
+          },
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "d0",
+            "text": "tanzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "preferir",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epreferir\u201C?",
+        "explanation": "preferir \u2014 bevorzugen. Preferir hei\u00DFt bevorzugen; prefiro ist die unregelm\u00E4\u00DFige Ich-Form. Im Muster prefiro X a Y wird X bevorzugt: hier Tee gegen\u00FCber Kaffee. Das a verbindet die beiden Vergleichsgr\u00F6\u00DFen. Prefiro ch\u00E1 a caf\u00E9. \u2014 Ich mag Tee lieber als Kaffee.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "fr\u00FCh"
+          },
+          {
+            "id": "d6",
+            "text": "Essen"
+          },
+          {
+            "id": "d0",
+            "text": "tanzen"
+          },
+          {
+            "id": "answer",
+            "text": "bevorzugen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQual \u00E9 a sua comida favorita?\u201C",
+        "explanation": "comida \u2014 Essen. A comida bedeutet Essen oder Speise. Comida favorita hei\u00DFt Lieblingsessen; favorita passt zur weiblichen Form comida. Qual \u00E9 a sua \u2026? fragt hier nach einer pers\u00F6nlichen Vorliebe. Qual \u00E9 a sua comida favorita? \u2014 Was ist dein Lieblingsessen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Musik"
+          },
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "d5",
+            "text": "kochen"
+          },
+          {
+            "id": "answer",
+            "text": "Essen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "comida",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecomida\u201C in diesem Beispiel? \u201EQual \u00E9 a sua comida favorita?\u201C",
+        "explanation": "comida \u2014 Essen. A comida bedeutet Essen oder Speise. Comida favorita hei\u00DFt Lieblingsessen; favorita passt zur weiblichen Form comida. Qual \u00E9 a sua \u2026? fragt hier nach einer pers\u00F6nlichen Vorliebe. Qual \u00E9 a sua comida favorita? \u2014 Was ist dein Lieblingsessen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "tanzen"
+          },
+          {
+            "id": "answer",
+            "text": "Essen"
+          },
+          {
+            "id": "d3",
+            "text": "Musik"
+          },
+          {
+            "id": "d2",
+            "text": "bevorzugen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ETamb\u00E9m gosto de cozinhar.\u201C",
+        "explanation": "cozinhar \u2014 kochen. Cozinhar hei\u00DFt kochen, also Essen zubereiten. Tamb\u00E9m bedeutet auch. Nach gosto de steht der Infinitiv cozinhar; zusammen hei\u00DFt das ich koche gern. F\u00FCr das Kochen von Wasser verwendet man andere Formulierungen wie ferver \u00E1gua. Tamb\u00E9m gosto de cozinhar. \u2014 Ich koche auch gern.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "d11",
+            "text": "Fu\u00DFball"
+          },
+          {
+            "id": "d3",
+            "text": "sich setzen"
+          },
+          {
+            "id": "answer",
+            "text": "kochen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cozinhar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecozinhar\u201C in diesem Beispiel? \u201ETamb\u00E9m gosto de cozinhar.\u201C",
+        "explanation": "cozinhar \u2014 kochen. Cozinhar hei\u00DFt kochen, also Essen zubereiten. Tamb\u00E9m bedeutet auch. Nach gosto de steht der Infinitiv cozinhar; zusammen hei\u00DFt das ich koche gern. F\u00FCr das Kochen von Wasser verwendet man andere Formulierungen wie ferver \u00E1gua. Tamb\u00E9m gosto de cozinhar. \u2014 Ich koche auch gern.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "tanzen"
+          },
+          {
+            "id": "answer",
+            "text": "kochen"
+          },
+          {
+            "id": "d7",
+            "text": "rauchen"
+          },
+          {
+            "id": "d8",
+            "text": "Musik"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dan\u00E7ar \u2014 tanzen. Dan\u00E7ar hei\u00DFt tanzen. Voc\u00EA gosta de \u002B Infinitiv fragt, ob die angesprochene Person etwas gern tut. Gosta geh\u00F6rt hier zu voc\u00EA, w\u00E4hrend gosto zur Ich-Form geh\u00F6rt. Voc\u00EA gosta de dan\u00E7ar? \u2014 Tanzt du gern?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "kochen"
+          },
+          {
+            "id": "d0",
+            "text": "lesen"
+          },
+          {
+            "id": "answer",
+            "text": "tanzen"
+          },
+          {
+            "id": "d2",
+            "text": "Musik"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dan\u00E7ar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edan\u00E7ar\u201C?",
+        "explanation": "dan\u00E7ar \u2014 tanzen. Dan\u00E7ar hei\u00DFt tanzen. Voc\u00EA gosta de \u002B Infinitiv fragt, ob die angesprochene Person etwas gern tut. Gosta geh\u00F6rt hier zu voc\u00EA, w\u00E4hrend gosto zur Ich-Form geh\u00F6rt. Voc\u00EA gosta de dan\u00E7ar? \u2014 Tanzt du gern?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "fr\u00FCh"
+          },
+          {
+            "id": "d2",
+            "text": "Musik"
+          },
+          {
+            "id": "answer",
+            "text": "tanzen"
+          },
+          {
+            "id": "d1",
+            "text": "bevorzugen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Elesen\u201C? Zusammenhang: bei einer Aussage \u00FCber pers\u00F6nliche Vorlieben.",
+        "explanation": "ler \u2014 lesen. Ler hei\u00DFt lesen. Gosto de \u002B Infinitiv dr\u00FCckt aus, was ich gern tue; muito verst\u00E4rkt hier zu sehr gern. Die Ich-Form von ler lautet leio und wird in Paket 33 im Alltagssatz verwendet. Gosto muito de ler. \u2014 Ich lese sehr gern.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "m\u00FAsica"
+          },
+          {
+            "id": "d8",
+            "text": "filmes"
+          },
+          {
+            "id": "d4",
+            "text": "desenhar"
+          },
+          {
+            "id": "answer",
+            "text": "ler"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du sehr gern liest?",
+        "explanation": "Gosto muito de ler dr\u00FCckt eine starke Vorliebe f\u00FCrs Lesen aus. Ler steht nach de im Infinitiv.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Gosto muito de dan\u00E7ar."
+          },
+          {
+            "id": "answer",
+            "text": "Gosto muito de ler."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Gosto muito de nadar."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o gosto de ler."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Efr\u00FCh\u201C? Zusammenhang: bei einer Angabe zum Tagesablauf.",
+        "explanation": "cedo \u2014 fr\u00FCh. Cedo bedeutet fr\u00FCh; das Gegenteil ist tarde im Sinn von sp\u00E4t. N\u00E3o gosto de verneint die Vorliebe. Acordar hei\u00DFt aufwachen und ist nicht dasselbe wie levantar, aufstehen. N\u00E3o gosto de acordar cedo. \u2014 Ich wache nicht gern fr\u00FCh auf.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "futebol"
+          },
+          {
+            "id": "answer",
+            "text": "cedo"
+          },
+          {
+            "id": "d0",
+            "text": "dan\u00E7ar"
+          },
+          {
+            "id": "d5",
+            "text": "cozinhar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du nicht gern fr\u00FCh aufwachst?",
+        "explanation": "N\u00E3o gosto de verneint die Vorliebe. Cedo hei\u00DFt fr\u00FCh, acordar aufwachen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Gosto de acordar cedo."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o gosto de acordar cedo."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o gosto de acordar tarde."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Gosto de levantar cedo."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ebevorzugen\u201C?",
+        "explanation": "preferir \u2014 bevorzugen. Preferir hei\u00DFt bevorzugen; prefiro ist die unregelm\u00E4\u00DFige Ich-Form. Im Muster prefiro X a Y wird X bevorzugt: hier Tee gegen\u00FCber Kaffee. Das a verbindet die beiden Vergleichsgr\u00F6\u00DFen. Prefiro ch\u00E1 a caf\u00E9. \u2014 Ich mag Tee lieber als Kaffee.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "m\u00FAsica"
+          },
+          {
+            "id": "d0",
+            "text": "dan\u00E7ar"
+          },
+          {
+            "id": "answer",
+            "text": "preferir"
+          },
+          {
+            "id": "d1",
+            "text": "ler"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bevorzugt Tee gegen\u00FCber Kaffee?",
+        "explanation": "Im Muster prefiro X a Y wird X bevorzugt. Hier steht Tee an erster Stelle.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Prefiro \u00E1gua a ch\u00E1."
+          },
+          {
+            "id": "answer",
+            "text": "Prefiro ch\u00E1 a caf\u00E9."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o gosto de ch\u00E1."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Prefiro caf\u00E9 a ch\u00E1."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEssen\u201C? Zusammenhang: bei einer Frage nach dem Lieblingsgericht.",
+        "explanation": "comida \u2014 Essen. A comida bedeutet Essen oder Speise. Comida favorita hei\u00DFt Lieblingsessen; favorita passt zur weiblichen Form comida. Qual \u00E9 a sua \u2026? fragt hier nach einer pers\u00F6nlichen Vorliebe. Qual \u00E9 a sua comida favorita? \u2014 Was ist dein Lieblingsessen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "dan\u00E7ar"
+          },
+          {
+            "id": "answer",
+            "text": "comida"
+          },
+          {
+            "id": "d5",
+            "text": "cozinhar"
+          },
+          {
+            "id": "d2",
+            "text": "preferir"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich nach deinem Lieblingsessen?",
+        "explanation": "Comida favorita bedeutet Lieblingsessen. Die Frage legt keine bestimmte Speise fest.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Qual \u00E9 a sua comida favorita?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA gosta de dan\u00E7ar?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Qual \u00E9 o seu esporte favorito?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ekochen\u201C? Zusammenhang: beim Zubereiten einer Mahlzeit.",
+        "explanation": "cozinhar \u2014 kochen. Cozinhar hei\u00DFt kochen, also Essen zubereiten. Tamb\u00E9m bedeutet auch. Nach gosto de steht der Infinitiv cozinhar; zusammen hei\u00DFt das ich koche gern. F\u00FCr das Kochen von Wasser verwendet man andere Formulierungen wie ferver \u00E1gua. Tamb\u00E9m gosto de cozinhar. \u2014 Ich koche auch gern.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "cozinhar"
+          },
+          {
+            "id": "d3",
+            "text": "sentar"
+          },
+          {
+            "id": "d2",
+            "text": "abrir"
+          },
+          {
+            "id": "d5",
+            "text": "falar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du auch gern Essen zubereitest?",
+        "explanation": "Cozinhar hei\u00DFt hier Essen zubereiten. Tamb\u00E9m bedeutet auch.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o gosto de cozinhar."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tamb\u00E9m gosto de nadar."
+          },
+          {
+            "id": "answer",
+            "text": "Tamb\u00E9m gosto de cozinhar."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tamb\u00E9m gosto de ler."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Etanzen\u201C?",
+        "explanation": "dan\u00E7ar \u2014 tanzen. Dan\u00E7ar hei\u00DFt tanzen. Voc\u00EA gosta de \u002B Infinitiv fragt, ob die angesprochene Person etwas gern tut. Gosta geh\u00F6rt hier zu voc\u00EA, w\u00E4hrend gosto zur Ich-Form geh\u00F6rt. Voc\u00EA gosta de dan\u00E7ar? \u2014 Tanzt du gern?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "cedo"
+          },
+          {
+            "id": "d3",
+            "text": "futebol"
+          },
+          {
+            "id": "answer",
+            "text": "dan\u00E7ar"
+          },
+          {
+            "id": "d2",
+            "text": "m\u00FAsica"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EEu gosto de dan\u00E7ar.\u201C \u2013 Welche Frage erkundigt sich ebenfalls nach dieser Vorliebe bei deinem Gegen\u00FCber?",
+        "explanation": "Voc\u00EA gosta de dan\u00E7ar? fragt Tanzt du gern? Die Frage setzt keine tats\u00E4chliche Vorliebe voraus.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA gosta de ler?"
+          },
+          {
+            "id": "answer",
+            "text": "Voc\u00EA gosta de dan\u00E7ar?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA gosta de cozinhar?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

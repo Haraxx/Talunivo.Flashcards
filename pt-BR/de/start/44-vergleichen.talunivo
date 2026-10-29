@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-44-vergleichen",
-  "packageVersion": 4,
-  "title": "44 · Einfach vergleichen",
+  "packageVersion": 6,
+  "title": "44 \u00B7 Einfach vergleichen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -11,81 +11,926 @@
       "id": "karte-01",
       "topic": "Einfach vergleichen",
       "expression": "mais barato",
-      "translation": "günstiger",
-      "isVocabulary": true,
-      "example": "Este hotel é mais barato.",
-      "exampleTranslation": "Dieses Hotel ist günstiger.",
-      "explanation": "Barato heißt günstig oder billig. Mais barato bildet den Vergleich günstiger; barato passt zur männlichen Form hotel. Welches andere Hotel oder Angebot verglichen wird, ergibt sich aus dem Gespräch."
+      "translation": "g\u00FCnstiger",
+      "example": "Este hotel \u00E9 mais barato.",
+      "exampleTranslation": "Dieses Hotel ist g\u00FCnstiger.",
+      "explanation": "Barato hei\u00DFt g\u00FCnstig oder billig. Mais barato bildet den Vergleich g\u00FCnstiger; barato passt zur m\u00E4nnlichen Form hotel. Welches andere Hotel oder Angebot verglichen wird, ergibt sich aus dem Gespr\u00E4ch.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Einfach vergleichen",
       "expression": "mais caro",
       "translation": "teurer",
-      "isVocabulary": true,
-      "example": "Aquele hotel é mais caro.",
+      "example": "Aquele hotel \u00E9 mais caro.",
       "exampleTranslation": "Das Hotel dort ist teurer.",
-      "explanation": "Caro heißt teuer; mais caro heißt teurer. Aquele hotel bezeichnet das Hotel dort und gibt dem Adjektiv einen klaren Bezug. Caro passt zum männlichen Nomen hotel; der Vergleichswert ist im Gespräch vorausgesetzt."
+      "explanation": "Caro hei\u00DFt teuer; mais caro hei\u00DFt teurer. Aquele hotel bezeichnet das Hotel dort und gibt dem Adjektiv einen klaren Bezug. Caro passt zum m\u00E4nnlichen Nomen hotel; der Vergleichswert ist im Gespr\u00E4ch vorausgesetzt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Einfach vergleichen",
       "expression": "maior",
-      "translation": "größer",
-      "isVocabulary": true,
-      "example": "Esta mala é maior que a minha.",
-      "exampleTranslation": "Dieser Koffer ist größer als meiner.",
-      "explanation": "Maior ist die unregelmäßige Steigerung von grande, groß; davor steht hier kein mais. Que bedeutet im Vergleich als. A minha bezieht sich auf die weibliche mala und meint meinen Koffer; maior selbst bleibt für beide Genera gleich."
+      "translation": "gr\u00F6\u00DFer",
+      "example": "Esta mala \u00E9 maior que a minha.",
+      "exampleTranslation": "Dieser Koffer ist gr\u00F6\u00DFer als meiner.",
+      "explanation": "Maior ist die unregelm\u00E4\u00DFige Steigerung von grande, gro\u00DF; davor steht hier kein mais. Que bedeutet im Vergleich als. A minha bezieht sich auf die weibliche mala und meint meinen Koffer; maior selbst bleibt f\u00FCr beide Genera gleich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Einfach vergleichen",
       "expression": "menor",
       "translation": "kleiner",
-      "isVocabulary": true,
-      "example": "Este quarto é menor.",
+      "example": "Este quarto \u00E9 menor.",
       "exampleTranslation": "Dieses Zimmer ist kleiner.",
-      "explanation": "Menor ist die unregelmäßige Steigerung von pequeno, klein; davor steht hier kein mais. Este quarto heißt dieses Zimmer. Menor hat für männliche und weibliche Nomen dieselbe Form; das Vergleichszimmer ergibt sich aus dem Gespräch."
+      "explanation": "Menor ist die unregelm\u00E4\u00DFige Steigerung von pequeno, klein; davor steht hier kein mais. Este quarto hei\u00DFt dieses Zimmer. Menor hat f\u00FCr m\u00E4nnliche und weibliche Nomen dieselbe Form; das Vergleichszimmer ergibt sich aus dem Gespr\u00E4ch.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Einfach vergleichen",
       "expression": "mais longe",
       "translation": "weiter weg",
-      "isVocabulary": true,
-      "example": "A estação fica mais longe que o mercado.",
+      "example": "A esta\u00E7\u00E3o fica mais longe que o mercado.",
       "exampleTranslation": "Der Bahnhof ist weiter weg als der Markt.",
-      "explanation": "Mais longe heißt weiter weg. Fica beschreibt hier die Lage; que verbindet den Vergleich mit dem Markt. Beide Entfernungen werden von demselben, im Gespräch gegebenen Ausgangspunkt betrachtet. Estação meint hier den Bahnhof."
+      "explanation": "Mais longe hei\u00DFt weiter weg. Fica beschreibt hier die Lage; que verbindet den Vergleich mit dem Markt. Beide Entfernungen werden von demselben, im Gespr\u00E4ch gegebenen Ausgangspunkt betrachtet. Esta\u00E7\u00E3o meint hier den Bahnhof.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Einfach vergleichen",
       "expression": "menos",
       "translation": "weniger",
-      "isVocabulary": true,
-      "example": "Quero menos açúcar.",
-      "exampleTranslation": "Ich möchte weniger Zucker.",
-      "explanation": "Menos bedeutet weniger und bleibt vor Nomen unverändert. Quero menos açúcar wünscht eine geringere Zuckermenge als zuvor oder als angeboten. Der Satz nennt keine genaue Menge."
+      "example": "Quero menos a\u00E7\u00FAcar.",
+      "exampleTranslation": "Ich m\u00F6chte weniger Zucker.",
+      "explanation": "Menos bedeutet weniger und bleibt vor Nomen unver\u00E4ndert. Quero menos a\u00E7\u00FAcar w\u00FCnscht eine geringere Zuckermenge als zuvor oder als angeboten. Der Satz nennt keine genaue Menge.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Einfach vergleichen",
       "expression": "mais",
       "translation": "mehr",
-      "isVocabulary": true,
       "example": "Preciso de mais tempo.",
       "exampleTranslation": "Ich brauche mehr Zeit.",
-      "explanation": "Mais bedeutet hier mehr und bleibt unverändert. Preciso de steht vor der Nomengruppe mais tempo; tempo bedeutet in diesem Satz Zeit. Mais ist von mas zu unterscheiden, das aber bedeutet."
+      "explanation": "Mais bedeutet hier mehr und bleibt unver\u00E4ndert. Preciso de steht vor der Nomengruppe mais tempo; tempo bedeutet in diesem Satz Zeit. Mais ist von mas zu unterscheiden, das aber bedeutet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Einfach vergleichen",
       "expression": "melhor",
       "translation": "besser",
-      "isVocabulary": true,
-      "example": "Este caminho é melhor.",
+      "example": "Este caminho \u00E9 melhor.",
       "exampleTranslation": "Dieser Weg ist besser.",
-      "explanation": "Melhor ist hier die unregelmäßige Steigerung von bom, gut; davor steht kein mais. Este caminho bedeutet dieser Weg. Nach welchem Kriterium er besser ist, etwa Länge oder Bequemlichkeit, bleibt im Satz offen."
+      "explanation": "Melhor ist hier die unregelm\u00E4\u00DFige Steigerung von bom, gut; davor steht kein mais. Este caminho bedeutet dieser Weg. Nach welchem Kriterium er besser ist, etwa L\u00E4nge oder Bequemlichkeit, bleibt im Satz offen.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Vergleiche zu Menge, Gr\u00F6\u00DFe, Preis oder Entfernung verstehen und unterscheiden.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte einzelne Wort f\u00FCr weniger: \u201EQuero ____ a\u00E7\u00FAcar.\u201C",
+        "explanation": "Menos bedeutet weniger und bleibt vor Nomen unver\u00E4ndert.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "menos"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte einzelne Wort f\u00FCr mehr: \u201EPreciso de ____ tempo.\u201C",
+        "explanation": "Mais hei\u00DFt mehr. Mas ohne i bedeutet dagegen aber.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "mais"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEste hotel \u00E9 mais barato.\u201C",
+        "explanation": "mais barato \u2014 g\u00FCnstiger. Barato hei\u00DFt g\u00FCnstig oder billig. Mais barato bildet den Vergleich g\u00FCnstiger; barato passt zur m\u00E4nnlichen Form hotel. Welches andere Hotel oder Angebot verglichen wird, ergibt sich aus dem Gespr\u00E4ch. Este hotel \u00E9 mais barato. \u2014 Dieses Hotel ist g\u00FCnstiger.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "teurer"
+          },
+          {
+            "id": "answer",
+            "text": "g\u00FCnstiger"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d2",
+            "text": "weniger"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mais barato",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emais barato\u201C in diesem Beispiel? \u201EEste hotel \u00E9 mais barato.\u201C",
+        "explanation": "mais barato \u2014 g\u00FCnstiger. Barato hei\u00DFt g\u00FCnstig oder billig. Mais barato bildet den Vergleich g\u00FCnstiger; barato passt zur m\u00E4nnlichen Form hotel. Welches andere Hotel oder Angebot verglichen wird, ergibt sich aus dem Gespr\u00E4ch. Este hotel \u00E9 mais barato. \u2014 Dieses Hotel ist g\u00FCnstiger.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "mehr"
+          },
+          {
+            "id": "d3",
+            "text": "teurer"
+          },
+          {
+            "id": "d5",
+            "text": "weiter weg"
+          },
+          {
+            "id": "answer",
+            "text": "g\u00FCnstiger"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EAquele hotel \u00E9 mais caro.\u201C",
+        "explanation": "mais caro \u2014 teurer. Caro hei\u00DFt teuer; mais caro hei\u00DFt teurer. Aquele hotel bezeichnet das Hotel dort und gibt dem Adjektiv einen klaren Bezug. Caro passt zum m\u00E4nnlichen Nomen hotel; der Vergleichswert ist im Gespr\u00E4ch vorausgesetzt. Aquele hotel \u00E9 mais caro. \u2014 Das Hotel dort ist teurer.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "weniger"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d4",
+            "text": "g\u00FCnstiger"
+          },
+          {
+            "id": "answer",
+            "text": "teurer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mais caro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emais caro\u201C in diesem Beispiel? \u201EAquele hotel \u00E9 mais caro.\u201C",
+        "explanation": "mais caro \u2014 teurer. Caro hei\u00DFt teuer; mais caro hei\u00DFt teurer. Aquele hotel bezeichnet das Hotel dort und gibt dem Adjektiv einen klaren Bezug. Caro passt zum m\u00E4nnlichen Nomen hotel; der Vergleichswert ist im Gespr\u00E4ch vorausgesetzt. Aquele hotel \u00E9 mais caro. \u2014 Das Hotel dort ist teurer.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "teurer"
+          },
+          {
+            "id": "d3",
+            "text": "gr\u00F6\u00DFer"
+          },
+          {
+            "id": "d4",
+            "text": "g\u00FCnstiger"
+          },
+          {
+            "id": "d0",
+            "text": "mehr"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEsta mala \u00E9 maior que a minha.\u201C",
+        "explanation": "maior \u2014 gr\u00F6\u00DFer. Maior ist die unregelm\u00E4\u00DFige Steigerung von grande, gro\u00DF; davor steht hier kein mais. Que bedeutet im Vergleich als. A minha bezieht sich auf die weibliche mala und meint meinen Koffer; maior selbst bleibt f\u00FCr beide Genera gleich. Esta mala \u00E9 maior que a minha. \u2014 Dieser Koffer ist gr\u00F6\u00DFer als meiner.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "gr\u00F6\u00DFer"
+          },
+          {
+            "id": "d6",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "d0",
+            "text": "Jacke"
+          },
+          {
+            "id": "d7",
+            "text": "Schuhe"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "maior",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emaior\u201C in diesem Beispiel? \u201EEsta mala \u00E9 maior que a minha.\u201C",
+        "explanation": "maior \u2014 gr\u00F6\u00DFer. Maior ist die unregelm\u00E4\u00DFige Steigerung von grande, gro\u00DF; davor steht hier kein mais. Que bedeutet im Vergleich als. A minha bezieht sich auf die weibliche mala und meint meinen Koffer; maior selbst bleibt f\u00FCr beide Genera gleich. Esta mala \u00E9 maior que a minha. \u2014 Dieser Koffer ist gr\u00F6\u00DFer als meiner.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "kleiner"
+          },
+          {
+            "id": "d9",
+            "text": "weiter weg"
+          },
+          {
+            "id": "d1",
+            "text": "mehr"
+          },
+          {
+            "id": "answer",
+            "text": "gr\u00F6\u00DFer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEste quarto \u00E9 menor.\u201C",
+        "explanation": "menor \u2014 kleiner. Menor ist die unregelm\u00E4\u00DFige Steigerung von pequeno, klein; davor steht hier kein mais. Este quarto hei\u00DFt dieses Zimmer. Menor hat f\u00FCr m\u00E4nnliche und weibliche Nomen dieselbe Form; das Vergleichszimmer ergibt sich aus dem Gespr\u00E4ch. Este quarto \u00E9 menor. \u2014 Dieses Zimmer ist kleiner.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "weniger"
+          },
+          {
+            "id": "d9",
+            "text": "weiter weg"
+          },
+          {
+            "id": "d0",
+            "text": "Jacke"
+          },
+          {
+            "id": "answer",
+            "text": "kleiner"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "menor",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emenor\u201C in diesem Beispiel? \u201EEste quarto \u00E9 menor.\u201C",
+        "explanation": "menor \u2014 kleiner. Menor ist die unregelm\u00E4\u00DFige Steigerung von pequeno, klein; davor steht hier kein mais. Este quarto hei\u00DFt dieses Zimmer. Menor hat f\u00FCr m\u00E4nnliche und weibliche Nomen dieselbe Form; das Vergleichszimmer ergibt sich aus dem Gespr\u00E4ch. Este quarto \u00E9 menor. \u2014 Dieses Zimmer ist kleiner.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "answer",
+            "text": "kleiner"
+          },
+          {
+            "id": "d1",
+            "text": "mehr"
+          },
+          {
+            "id": "d8",
+            "text": "g\u00FCnstiger"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EA esta\u00E7\u00E3o fica mais longe que o mercado.\u201C",
+        "explanation": "mais longe \u2014 weiter weg. Mais longe hei\u00DFt weiter weg. Fica beschreibt hier die Lage; que verbindet den Vergleich mit dem Markt. Beide Entfernungen werden von demselben, im Gespr\u00E4ch gegebenen Ausgangspunkt betrachtet. Esta\u00E7\u00E3o meint hier den Bahnhof. A esta\u00E7\u00E3o fica mais longe que o mercado. \u2014 Der Bahnhof ist weiter weg als der Markt.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "weiter weg"
+          },
+          {
+            "id": "d0",
+            "text": "mehr"
+          },
+          {
+            "id": "d4",
+            "text": "gr\u00F6\u00DFer"
+          },
+          {
+            "id": "d3",
+            "text": "teurer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mais longe",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emais longe\u201C in diesem Beispiel? \u201EA esta\u00E7\u00E3o fica mais longe que o mercado.\u201C",
+        "explanation": "mais longe \u2014 weiter weg. Mais longe hei\u00DFt weiter weg. Fica beschreibt hier die Lage; que verbindet den Vergleich mit dem Markt. Beide Entfernungen werden von demselben, im Gespr\u00E4ch gegebenen Ausgangspunkt betrachtet. Esta\u00E7\u00E3o meint hier den Bahnhof. A esta\u00E7\u00E3o fica mais longe que o mercado. \u2014 Der Bahnhof ist weiter weg als der Markt.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "teurer"
+          },
+          {
+            "id": "d5",
+            "text": "g\u00FCnstiger"
+          },
+          {
+            "id": "d2",
+            "text": "weniger"
+          },
+          {
+            "id": "answer",
+            "text": "weiter weg"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEste caminho \u00E9 melhor.\u201C",
+        "explanation": "melhor \u2014 besser. Melhor ist hier die unregelm\u00E4\u00DFige Steigerung von bom, gut; davor steht kein mais. Este caminho bedeutet dieser Weg. Nach welchem Kriterium er besser ist, etwa L\u00E4nge oder Bequemlichkeit, bleibt im Satz offen. Este caminho \u00E9 melhor. \u2014 Dieser Weg ist besser.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "teurer"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d5",
+            "text": "g\u00FCnstiger"
+          },
+          {
+            "id": "answer",
+            "text": "besser"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "melhor",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emelhor\u201C in diesem Beispiel? \u201EEste caminho \u00E9 melhor.\u201C",
+        "explanation": "melhor \u2014 besser. Melhor ist hier die unregelm\u00E4\u00DFige Steigerung von bom, gut; davor steht kein mais. Este caminho bedeutet dieser Weg. Nach welchem Kriterium er besser ist, etwa L\u00E4nge oder Bequemlichkeit, bleibt im Satz offen. Este caminho \u00E9 melhor. \u2014 Dieser Weg ist besser.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "gr\u00F6\u00DFer"
+          },
+          {
+            "id": "d5",
+            "text": "g\u00FCnstiger"
+          },
+          {
+            "id": "answer",
+            "text": "besser"
+          },
+          {
+            "id": "d3",
+            "text": "teurer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eg\u00FCnstiger\u201C? Zusammenhang: beim Preisvergleich zwischen Hotels.",
+        "explanation": "mais barato \u2014 g\u00FCnstiger. Barato hei\u00DFt g\u00FCnstig oder billig. Mais barato bildet den Vergleich g\u00FCnstiger; barato passt zur m\u00E4nnlichen Form hotel. Welches andere Hotel oder Angebot verglichen wird, ergibt sich aus dem Gespr\u00E4ch. Este hotel \u00E9 mais barato. \u2014 Dieses Hotel ist g\u00FCnstiger.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "melhor"
+          },
+          {
+            "id": "answer",
+            "text": "mais barato"
+          },
+          {
+            "id": "d3",
+            "text": "mais caro"
+          },
+          {
+            "id": "d2",
+            "text": "menos"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt dieses Hotel ausdr\u00FCcklich als g\u00FCnstiger?",
+        "explanation": "Mais barato ist der Vergleich g\u00FCnstiger. Barato richtet sich hier nach dem m\u00E4nnlichen Nomen hotel.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Este hotel \u00E9 mais barato."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Aquele hotel \u00E9 mais caro."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Este hotel \u00E9 mais caro."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Este hotel \u00E9 menor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eteurer\u201C? Zusammenhang: beim Preisvergleich zwischen Hotels.",
+        "explanation": "mais caro \u2014 teurer. Caro hei\u00DFt teuer; mais caro hei\u00DFt teurer. Aquele hotel bezeichnet das Hotel dort und gibt dem Adjektiv einen klaren Bezug. Caro passt zum m\u00E4nnlichen Nomen hotel; der Vergleichswert ist im Gespr\u00E4ch vorausgesetzt. Aquele hotel \u00E9 mais caro. \u2014 Das Hotel dort ist teurer.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "melhor"
+          },
+          {
+            "id": "d5",
+            "text": "mais longe"
+          },
+          {
+            "id": "answer",
+            "text": "mais caro"
+          },
+          {
+            "id": "d3",
+            "text": "maior"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ausdr\u00FCcklich das Hotel dort als teurer?",
+        "explanation": "Aquele hotel bezeichnet das Hotel dort. Mais caro bedeutet teurer; der Vergleichswert ergibt sich aus dem Gespr\u00E4ch.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Aquele hotel \u00E9 mais barato."
+          },
+          {
+            "id": "answer",
+            "text": "Aquele hotel \u00E9 mais caro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Aquele hotel \u00E9 menor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Este hotel \u00E9 mais barato."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Egr\u00F6\u00DFer\u201C? Zusammenhang: beim Vergleich zweier Koffer.",
+        "explanation": "maior \u2014 gr\u00F6\u00DFer. Maior ist die unregelm\u00E4\u00DFige Steigerung von grande, gro\u00DF; davor steht hier kein mais. Que bedeutet im Vergleich als. A minha bezieht sich auf die weibliche mala und meint meinen Koffer; maior selbst bleibt f\u00FCr beide Genera gleich. Esta mala \u00E9 maior que a minha. \u2014 Dieser Koffer ist gr\u00F6\u00DFer als meiner.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "maior"
+          },
+          {
+            "id": "d5",
+            "text": "camiseta"
+          },
+          {
+            "id": "d10",
+            "text": "cal\u00E7a"
+          },
+          {
+            "id": "d1",
+            "text": "mais"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EDieser Koffer ist gr\u00F6\u00DFer als meiner\u201C?",
+        "explanation": "Esta mala \u00E9 maior que a minha bedeutet Dieser Koffer ist gr\u00F6\u00DFer als meiner. A minha bezieht sich auf die weibliche mala; maior bleibt unver\u00E4ndert.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Esta mala \u00E9 menor que a minha."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Esta mala \u00E9 mais barata que a minha."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Minha mala \u00E9 maior que esta."
+          },
+          {
+            "id": "answer",
+            "text": "Esta mala \u00E9 maior que a minha."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ekleiner\u201C? Zusammenhang: beim Vergleich zweier Zimmer.",
+        "explanation": "menor \u2014 kleiner. Menor ist die unregelm\u00E4\u00DFige Steigerung von pequeno, klein; davor steht hier kein mais. Este quarto hei\u00DFt dieses Zimmer. Menor hat f\u00FCr m\u00E4nnliche und weibliche Nomen dieselbe Form; das Vergleichszimmer ergibt sich aus dem Gespr\u00E4ch. Este quarto \u00E9 menor. \u2014 Dieses Zimmer ist kleiner.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "boa"
+          },
+          {
+            "id": "answer",
+            "text": "menor"
+          },
+          {
+            "id": "d4",
+            "text": "camiseta"
+          },
+          {
+            "id": "d8",
+            "text": "mais barato"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt dieses Zimmer ausdr\u00FCcklich als kleiner?",
+        "explanation": "Menor ist die Vergleichsform von pequeno. Im gelernten Muster steht davor kein mais.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Este quarto \u00E9 mais caro."
+          },
+          {
+            "id": "answer",
+            "text": "Este quarto \u00E9 menor."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Este caminho \u00E9 melhor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Este quarto \u00E9 maior."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eweiter weg\u201C? Zusammenhang: beim Entfernungsvergleich vom selben Ausgangspunkt.",
+        "explanation": "mais longe \u2014 weiter weg. Mais longe hei\u00DFt weiter weg. Fica beschreibt hier die Lage; que verbindet den Vergleich mit dem Markt. Beide Entfernungen werden von demselben, im Gespr\u00E4ch gegebenen Ausgangspunkt betrachtet. Esta\u00E7\u00E3o meint hier den Bahnhof. A esta\u00E7\u00E3o fica mais longe que o mercado. \u2014 Der Bahnhof ist weiter weg als der Markt.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "mais caro"
+          },
+          {
+            "id": "answer",
+            "text": "mais longe"
+          },
+          {
+            "id": "d2",
+            "text": "menos"
+          },
+          {
+            "id": "d1",
+            "text": "menor"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass der Bahnhof vom selben Ausgangspunkt weiter weg liegt als der Markt?",
+        "explanation": "Mais longe que hei\u00DFt weiter weg als. Der Vergleich betrachtet beide Orte vom selben Ausgangspunkt.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "A esta\u00E7\u00E3o fica ao lado do mercado."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A esta\u00E7\u00E3o fica mais perto que o mercado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O mercado fica mais longe que a esta\u00E7\u00E3o."
+          },
+          {
+            "id": "answer",
+            "text": "A esta\u00E7\u00E3o fica mais longe que o mercado."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ebesser\u201C? Zusammenhang: bei einer allgemeinen Bewertung eines Weges.",
+        "explanation": "melhor \u2014 besser. Melhor ist hier die unregelm\u00E4\u00DFige Steigerung von bom, gut; davor steht kein mais. Este caminho bedeutet dieser Weg. Nach welchem Kriterium er besser ist, etwa L\u00E4nge oder Bequemlichkeit, bleibt im Satz offen. Este caminho \u00E9 melhor. \u2014 Dieser Weg ist besser.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "mais"
+          },
+          {
+            "id": "answer",
+            "text": "melhor"
+          },
+          {
+            "id": "d5",
+            "text": "mais barato"
+          },
+          {
+            "id": "d2",
+            "text": "menos"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bewertet diesen Weg allgemein als besser, ohne ein Kriterium zu nennen?",
+        "explanation": "Melhor bedeutet besser. Die Bewertung allein legt nicht fest, dass der Weg k\u00FCrzer, g\u00FCnstiger oder bequemer ist.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Este caminho \u00E9 pior."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Este caminho \u00E9 mais longo."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Este caminho \u00E9 mais curto."
+          },
+          {
+            "id": "answer",
+            "text": "Este caminho \u00E9 melhor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

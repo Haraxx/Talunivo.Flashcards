@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-13-wohnen",
-  "packageVersion": 4,
-  "title": "13 · Zu Hause",
+  "packageVersion": 6,
+  "title": "13 \u00B7 Zu Hause",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Zu Hause",
       "expression": "casa",
       "translation": "Haus",
-      "isVocabulary": true,
-      "example": "Minha casa é pequena.",
+      "example": "Minha casa \u00E9 pequena.",
       "exampleTranslation": "Mein Haus ist klein.",
-      "explanation": "A casa, Plural casas. Minha casa bedeutet mein Haus; pequena ist die weibliche Form von klein und bezieht sich auf casa. Em casa heißt dagegen zu Hause und bezeichnet nicht zwingend ein eigenes Haus."
+      "explanation": "A casa, Plural casas. Minha casa bedeutet mein Haus; pequena ist die weibliche Form von klein und bezieht sich auf casa. Em casa hei\u00DFt dagegen zu Hause und bezeichnet nicht zwingend ein eigenes Haus.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Zu Hause",
       "expression": "apartamento",
       "translation": "Wohnung",
-      "isVocabulary": true,
-      "example": "Meu apartamento é pequeno.",
+      "example": "Meu apartamento \u00E9 pequeno.",
       "exampleTranslation": "Meine Wohnung ist klein.",
-      "explanation": "O apartamento, Plural apartamentos, bezeichnet eine Wohnung. Pequeno richtet sich nach dem männlichen portugiesischen Wort apartamento, obwohl Wohnung im Deutschen weiblich ist."
+      "explanation": "O apartamento, Plural apartamentos, bezeichnet eine Wohnung. Pequeno richtet sich nach dem m\u00E4nnlichen portugiesischen Wort apartamento, obwohl Wohnung im Deutschen weiblich ist.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Zu Hause",
       "expression": "cozinha",
-      "translation": "Küche",
-      "isVocabulary": true,
+      "translation": "K\u00FCche",
       "example": "A cozinha fica aqui.",
-      "exampleTranslation": "Die Küche ist hier.",
-      "explanation": "A cozinha, Plural cozinhas. Fica beschreibt hier, wo sich ein Raum befindet. Aqui bedeutet hier. A cozinha fica aqui zeigt die Lage der Küche, nicht eine Bewegung."
+      "exampleTranslation": "Die K\u00FCche ist hier.",
+      "explanation": "A cozinha, Plural cozinhas. Fica beschreibt hier, wo sich ein Raum befindet. Aqui bedeutet hier. A cozinha fica aqui zeigt die Lage der K\u00FCche, nicht eine Bewegung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Zu Hause",
       "expression": "banheiro",
       "translation": "Badezimmer; Toilette",
-      "isVocabulary": true,
       "example": "O banheiro fica ali.",
       "exampleTranslation": "Das Badezimmer ist dort.",
-      "explanation": "O banheiro, Plural banheiros. Im Wohnkontext ist ein Badezimmer gemeint; bei einer Ortsfrage kann auch Toilette die passende deutsche Fassung sein. Ali bedeutet dort; fica beschreibt hier die Lage."
+      "explanation": "O banheiro, Plural banheiros. Im Wohnkontext ist ein Badezimmer gemeint; bei einer Ortsfrage kann auch Toilette die passende deutsche Fassung sein. Ali bedeutet dort; fica beschreibt hier die Lage.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Zu Hause",
       "expression": "quarto",
       "translation": "Zimmer",
-      "isVocabulary": true,
       "example": "Meu quarto tem uma janela.",
       "exampleTranslation": "Mein Zimmer hat ein Fenster.",
-      "explanation": "O quarto, Plural quartos. Zu Hause ist oft das Schlafzimmer gemeint; im Hotel ein Gästezimmer. Tem uma janela bedeutet hat ein Fenster. Quarto ist keine allgemeine Bezeichnung für jede Art von Raum."
+      "explanation": "O quarto, Plural quartos. Zu Hause ist oft das Schlafzimmer gemeint; im Hotel ein G\u00E4stezimmer. Tem uma janela bedeutet hat ein Fenster. Quarto ist keine allgemeine Bezeichnung f\u00FCr jede Art von Raum.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Zu Hause",
       "expression": "sala",
       "translation": "Wohnzimmer",
-      "isVocabulary": true,
-      "example": "A sala é grande.",
-      "exampleTranslation": "Das Wohnzimmer ist groß.",
-      "explanation": "A sala, Plural salas. Im Beispiel zu Hause bedeutet sala Wohnzimmer; sala de estar ist die ausdrückliche Bezeichnung. In anderen Zusammenhängen kann sala auch einen anderen Raum oder Saal bezeichnen. Grande bedeutet groß."
+      "example": "A sala \u00E9 grande.",
+      "exampleTranslation": "Das Wohnzimmer ist gro\u00DF.",
+      "explanation": "A sala, Plural salas. Im Beispiel zu Hause bedeutet sala Wohnzimmer; sala de estar ist die ausdr\u00FCckliche Bezeichnung. In anderen Zusammenh\u00E4ngen kann sala auch einen anderen Raum oder Saal bezeichnen. Grande bedeutet gro\u00DF.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Zu Hause",
-      "expression": "família",
+      "expression": "fam\u00EDlia",
       "translation": "Familie",
-      "isVocabulary": true,
-      "example": "Moro com minha família.",
+      "example": "Moro com minha fam\u00EDlia.",
       "exampleTranslation": "Ich wohne mit meiner Familie.",
-      "explanation": "A família, Plural famílias. Com minha família heißt mit meiner Familie. Moro aus dem Wohnortpaket bedeutet ich wohne. Der Satz beschreibt eine mögliche Wohnsituation; zum Üben kann sie erfunden sein."
+      "explanation": "A fam\u00EDlia, Plural fam\u00EDlias. Com minha fam\u00EDlia hei\u00DFt mit meiner Familie. Moro aus dem Wohnortpaket bedeutet ich wohne. Der Satz beschreibt eine m\u00F6gliche Wohnsituation; zum \u00DCben kann sie erfunden sein.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Zu Hause",
       "expression": "porta",
-      "translation": "Tür",
-      "isVocabulary": true,
-      "example": "A porta está aberta.",
-      "exampleTranslation": "Die Tür ist offen.",
-      "explanation": "A porta, Plural portas. Está aberta beschreibt den Zustand ist offen. Aberta ist weiblich, weil porta weiblich ist; die männliche Form wäre aberto. Die Form bezieht sich auf die Tür, nicht auf die sprechende Person."
+      "translation": "T\u00FCr",
+      "example": "A porta est\u00E1 aberta.",
+      "exampleTranslation": "Die T\u00FCr ist offen.",
+      "explanation": "A porta, Plural portas. Est\u00E1 aberta beschreibt den Zustand ist offen. Aberta ist weiblich, weil porta weiblich ist; die m\u00E4nnliche Form w\u00E4re aberto. Die Form bezieht sich auf die T\u00FCr, nicht auf die sprechende Person.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "R\u00E4ume und Wohnformen benennen und einfache Angaben zum Wohnen verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Haus aus diesem Paket: \u201EMinha ____ \u00E9 pequena.\u201C",
+        "explanation": "Casa bedeutet Haus. Minha und pequena passen zum weiblichen portugiesischen Wort casa.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "casa"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Wohnung aus diesem Paket: \u201EMeu ____ \u00E9 pequeno.\u201C",
+        "explanation": "Apartamento ist im Portugiesischen m\u00E4nnlich; deshalb stehen hier meu und pequeno.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "apartamento"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cozinha \u2014 K\u00FCche. A cozinha, Plural cozinhas. Fica beschreibt hier, wo sich ein Raum befindet. Aqui bedeutet hier. A cozinha fica aqui zeigt die Lage der K\u00FCche, nicht eine Bewegung. A cozinha fica aqui. \u2014 Die K\u00FCche ist hier.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Haus"
+          },
+          {
+            "id": "d1",
+            "text": "Wohnzimmer"
+          },
+          {
+            "id": "d5",
+            "text": "T\u00FCr"
+          },
+          {
+            "id": "answer",
+            "text": "K\u00FCche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cozinha",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecozinha\u201C?",
+        "explanation": "cozinha \u2014 K\u00FCche. A cozinha, Plural cozinhas. Fica beschreibt hier, wo sich ein Raum befindet. Aqui bedeutet hier. A cozinha fica aqui zeigt die Lage der K\u00FCche, nicht eine Bewegung. A cozinha fica aqui. \u2014 Die K\u00FCche ist hier.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "K\u00FCche"
+          },
+          {
+            "id": "d1",
+            "text": "Wohnzimmer"
+          },
+          {
+            "id": "d0",
+            "text": "Familie"
+          },
+          {
+            "id": "d4",
+            "text": "Zimmer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "banheiro \u2014 Badezimmer; Toilette. O banheiro, Plural banheiros. Im Wohnkontext ist ein Badezimmer gemeint; bei einer Ortsfrage kann auch Toilette die passende deutsche Fassung sein. Ali bedeutet dort; fica beschreibt hier die Lage. O banheiro fica ali. \u2014 Das Badezimmer ist dort.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Badezimmer; Toilette"
+          },
+          {
+            "id": "d0",
+            "text": "Familie"
+          },
+          {
+            "id": "d4",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d3",
+            "text": "Haus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "banheiro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebanheiro\u201C?",
+        "explanation": "banheiro \u2014 Badezimmer; Toilette. O banheiro, Plural banheiros. Im Wohnkontext ist ein Badezimmer gemeint; bei einer Ortsfrage kann auch Toilette die passende deutsche Fassung sein. Ali bedeutet dort; fica beschreibt hier die Lage. O banheiro fica ali. \u2014 Das Badezimmer ist dort.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Familie"
+          },
+          {
+            "id": "answer",
+            "text": "Badezimmer; Toilette"
+          },
+          {
+            "id": "d5",
+            "text": "T\u00FCr"
+          },
+          {
+            "id": "d4",
+            "text": "Zimmer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EMeu quarto tem uma janela.\u201C",
+        "explanation": "quarto \u2014 Zimmer. O quarto, Plural quartos. Zu Hause ist oft das Schlafzimmer gemeint; im Hotel ein G\u00E4stezimmer. Tem uma janela bedeutet hat ein Fenster. Quarto ist keine allgemeine Bezeichnung f\u00FCr jede Art von Raum. Meu quarto tem uma janela. \u2014 Mein Zimmer hat ein Fenster.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Wohnung"
+          },
+          {
+            "id": "d8",
+            "text": "Haus"
+          },
+          {
+            "id": "answer",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d0",
+            "text": "Reservierung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quarto",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equarto\u201C in diesem Beispiel? \u201EMeu quarto tem uma janela.\u201C",
+        "explanation": "quarto \u2014 Zimmer. O quarto, Plural quartos. Zu Hause ist oft das Schlafzimmer gemeint; im Hotel ein G\u00E4stezimmer. Tem uma janela bedeutet hat ein Fenster. Quarto ist keine allgemeine Bezeichnung f\u00FCr jede Art von Raum. Meu quarto tem uma janela. \u2014 Mein Zimmer hat ein Fenster.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Wohnung"
+          },
+          {
+            "id": "answer",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d5",
+            "text": "inbegriffen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EA sala \u00E9 grande.\u201C",
+        "explanation": "sala \u2014 Wohnzimmer. A sala, Plural salas. Im Beispiel zu Hause bedeutet sala Wohnzimmer; sala de estar ist die ausdr\u00FCckliche Bezeichnung. In anderen Zusammenh\u00E4ngen kann sala auch einen anderen Raum oder Saal bezeichnen. Grande bedeutet gro\u00DF. A sala \u00E9 grande. \u2014 Das Wohnzimmer ist gro\u00DF.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Badezimmer; Toilette"
+          },
+          {
+            "id": "answer",
+            "text": "Wohnzimmer"
+          },
+          {
+            "id": "d1",
+            "text": "Wohnung"
+          },
+          {
+            "id": "d2",
+            "text": "Haus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sala",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esala\u201C in diesem Beispiel? \u201EA sala \u00E9 grande.\u201C",
+        "explanation": "sala \u2014 Wohnzimmer. A sala, Plural salas. Im Beispiel zu Hause bedeutet sala Wohnzimmer; sala de estar ist die ausdr\u00FCckliche Bezeichnung. In anderen Zusammenh\u00E4ngen kann sala auch einen anderen Raum oder Saal bezeichnen. Grande bedeutet gro\u00DF. A sala \u00E9 grande. \u2014 Das Wohnzimmer ist gro\u00DF.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Wohnzimmer"
+          },
+          {
+            "id": "d0",
+            "text": "Familie"
+          },
+          {
+            "id": "d5",
+            "text": "Badezimmer; Toilette"
+          },
+          {
+            "id": "d4",
+            "text": "T\u00FCr"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "fam\u00EDlia \u2014 Familie. A fam\u00EDlia, Plural fam\u00EDlias. Com minha fam\u00EDlia hei\u00DFt mit meiner Familie. Moro aus dem Wohnortpaket bedeutet ich wohne. Der Satz beschreibt eine m\u00F6gliche Wohnsituation; zum \u00DCben kann sie erfunden sein. Moro com minha fam\u00EDlia. \u2014 Ich wohne mit meiner Familie.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Familie"
+          },
+          {
+            "id": "d0",
+            "text": "Wohnzimmer"
+          },
+          {
+            "id": "d2",
+            "text": "Haus"
+          },
+          {
+            "id": "d1",
+            "text": "Wohnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "fam\u00EDlia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efam\u00EDlia\u201C?",
+        "explanation": "fam\u00EDlia \u2014 Familie. A fam\u00EDlia, Plural fam\u00EDlias. Com minha fam\u00EDlia hei\u00DFt mit meiner Familie. Moro aus dem Wohnortpaket bedeutet ich wohne. Der Satz beschreibt eine m\u00F6gliche Wohnsituation; zum \u00DCben kann sie erfunden sein. Moro com minha fam\u00EDlia. \u2014 Ich wohne mit meiner Familie.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Badezimmer; Toilette"
+          },
+          {
+            "id": "d2",
+            "text": "Haus"
+          },
+          {
+            "id": "answer",
+            "text": "Familie"
+          },
+          {
+            "id": "d1",
+            "text": "Wohnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "porta \u2014 T\u00FCr. A porta, Plural portas. Est\u00E1 aberta beschreibt den Zustand ist offen. Aberta ist weiblich, weil porta weiblich ist; die m\u00E4nnliche Form w\u00E4re aberto. Die Form bezieht sich auf die T\u00FCr, nicht auf die sprechende Person. A porta est\u00E1 aberta. \u2014 Die T\u00FCr ist offen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Haus"
+          },
+          {
+            "id": "answer",
+            "text": "T\u00FCr"
+          },
+          {
+            "id": "d1",
+            "text": "Wohnzimmer"
+          },
+          {
+            "id": "d2",
+            "text": "Wohnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "porta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eporta\u201C?",
+        "explanation": "porta \u2014 T\u00FCr. A porta, Plural portas. Est\u00E1 aberta beschreibt den Zustand ist offen. Aberta ist weiblich, weil porta weiblich ist; die m\u00E4nnliche Form w\u00E4re aberto. Die Form bezieht sich auf die T\u00FCr, nicht auf die sprechende Person. A porta est\u00E1 aberta. \u2014 Die T\u00FCr ist offen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Badezimmer; Toilette"
+          },
+          {
+            "id": "answer",
+            "text": "T\u00FCr"
+          },
+          {
+            "id": "d4",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d6",
+            "text": "K\u00FCche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst die K\u00FCche in der Wohnung. Welche Frage nennt diesen Raum?",
+        "explanation": "Cozinha bezeichnet die K\u00FCche. Onde fica? fragt hier nach der Lage eines Raums.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Onde est\u00E3o minhas chaves?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o quarto?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde fica a cozinha?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o banheiro?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EK\u00FCche\u201C?",
+        "explanation": "cozinha \u2014 K\u00FCche. A cozinha, Plural cozinhas. Fica beschreibt hier, wo sich ein Raum befindet. Aqui bedeutet hier. A cozinha fica aqui zeigt die Lage der K\u00FCche, nicht eine Bewegung. A cozinha fica aqui. \u2014 Die K\u00FCche ist hier.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "fam\u00EDlia"
+          },
+          {
+            "id": "answer",
+            "text": "cozinha"
+          },
+          {
+            "id": "d4",
+            "text": "quarto"
+          },
+          {
+            "id": "d2",
+            "text": "apartamento"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst das Badezimmer. Welche Frage nennt es?",
+        "explanation": "Banheiro bezeichnet hier das Badezimmer. Bei einer Ortsfrage kann die deutsche \u00DCbersetzung auch Toilette sein.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "De onde voc\u00EA \u00E9?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica a sala?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica a cozinha?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde fica o banheiro?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBadezimmer; Toilette\u201C?",
+        "explanation": "banheiro \u2014 Badezimmer; Toilette. O banheiro, Plural banheiros. Im Wohnkontext ist ein Badezimmer gemeint; bei einer Ortsfrage kann auch Toilette die passende deutsche Fassung sein. Ali bedeutet dort; fica beschreibt hier die Lage. O banheiro fica ali. \u2014 Das Badezimmer ist dort.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "porta"
+          },
+          {
+            "id": "d2",
+            "text": "apartamento"
+          },
+          {
+            "id": "answer",
+            "text": "banheiro"
+          },
+          {
+            "id": "d0",
+            "text": "fam\u00EDlia"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Dein Schlafzimmer hat ein Fenster. Welche Aussage nennt diesen Raum?",
+        "explanation": "Quarto ist hier das Schlafzimmer. Tem uma janela hei\u00DFt hat ein Fenster; sala ist hier das Wohnzimmer.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Minha cozinha tem uma janela."
+          },
+          {
+            "id": "answer",
+            "text": "Meu quarto tem uma janela."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Meu quarto n\u00E3o tem janela."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Minha sala tem uma janela."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EZimmer\u201C? Gemeint ist: das Schlaf- oder G\u00E4stezimmer.",
+        "explanation": "quarto \u2014 Zimmer. O quarto, Plural quartos. Zu Hause ist oft das Schlafzimmer gemeint; im Hotel ein G\u00E4stezimmer. Tem uma janela bedeutet hat ein Fenster. Quarto ist keine allgemeine Bezeichnung f\u00FCr jede Art von Raum. Meu quarto tem uma janela. \u2014 Mein Zimmer hat ein Fenster.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "fam\u00EDlia"
+          },
+          {
+            "id": "d9",
+            "text": "passaporte"
+          },
+          {
+            "id": "d1",
+            "text": "elevador"
+          },
+          {
+            "id": "answer",
+            "text": "quarto"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ausdr\u00FCcklich das Wohnzimmer zu Hause als gro\u00DF?",
+        "explanation": "Sala bezeichnet hier das Wohnzimmer. In anderen Zusammenh\u00E4ngen kann es auch Raum oder Saal bedeuten.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "A sala \u00E9 pequena."
+          },
+          {
+            "id": "answer",
+            "text": "A sala \u00E9 grande."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O quarto \u00E9 grande."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A cozinha \u00E9 grande."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EWohnzimmer\u201C? Gemeint ist: das Wohnzimmer zu Hause.",
+        "explanation": "sala \u2014 Wohnzimmer. A sala, Plural salas. Im Beispiel zu Hause bedeutet sala Wohnzimmer; sala de estar ist die ausdr\u00FCckliche Bezeichnung. In anderen Zusammenh\u00E4ngen kann sala auch einen anderen Raum oder Saal bezeichnen. Grande bedeutet gro\u00DF. A sala \u00E9 grande. \u2014 Das Wohnzimmer ist gro\u00DF.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sala"
+          },
+          {
+            "id": "d0",
+            "text": "fam\u00EDlia"
+          },
+          {
+            "id": "d2",
+            "text": "casa"
+          },
+          {
+            "id": "d5",
+            "text": "banheiro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EIch wohne mit meiner Familie\u201C?",
+        "explanation": "Com minha fam\u00EDlia bedeutet mit meiner Familie. Es handelt sich um ein \u00DCbungsmuster, keine Angabe \u00FCber dein Leben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Moro com minha fam\u00EDlia."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Moro com meus amigos."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Moro sozinho."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Minha fam\u00EDlia mora longe."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFamilie\u201C?",
+        "explanation": "fam\u00EDlia \u2014 Familie. A fam\u00EDlia, Plural fam\u00EDlias. Com minha fam\u00EDlia hei\u00DFt mit meiner Familie. Moro aus dem Wohnortpaket bedeutet ich wohne. Der Satz beschreibt eine m\u00F6gliche Wohnsituation; zum \u00DCben kann sie erfunden sein. Moro com minha fam\u00EDlia. \u2014 Ich wohne mit meiner Familie.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "quarto"
+          },
+          {
+            "id": "answer",
+            "text": "fam\u00EDlia"
+          },
+          {
+            "id": "d0",
+            "text": "sala"
+          },
+          {
+            "id": "d4",
+            "text": "porta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt eine offene T\u00FCr?",
+        "explanation": "Porta ist die T\u00FCr; aberta ist die weibliche Form f\u00FCr offen, passend zu porta.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "A janela est\u00E1 aberta."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O copo est\u00E1 vazio."
+          },
+          {
+            "id": "answer",
+            "text": "A porta est\u00E1 aberta."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A porta est\u00E1 fechada."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ET\u00FCr\u201C?",
+        "explanation": "porta \u2014 T\u00FCr. A porta, Plural portas. Est\u00E1 aberta beschreibt den Zustand ist offen. Aberta ist weiblich, weil porta weiblich ist; die m\u00E4nnliche Form w\u00E4re aberto. Die Form bezieht sich auf die T\u00FCr, nicht auf die sprechende Person. A porta est\u00E1 aberta. \u2014 Die T\u00FCr ist offen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "fam\u00EDlia"
+          },
+          {
+            "id": "answer",
+            "text": "porta"
+          },
+          {
+            "id": "d6",
+            "text": "cozinha"
+          },
+          {
+            "id": "d3",
+            "text": "casa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

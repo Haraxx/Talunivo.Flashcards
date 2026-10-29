@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-10-kalender",
-  "packageVersion": 4,
-  "title": "10 · Wochentage und Datum",
+  "packageVersion": 5,
+  "title": "10 \u00B7 Wochentage und Datum",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,100 +12,1555 @@
       "topic": "Wochentage und Datum",
       "expression": "segunda-feira",
       "translation": "Montag",
-      "isVocabulary": true,
-      "example": "Hoje é segunda-feira.",
+      "example": "Hoje \u00E9 segunda-feira.",
       "exampleTranslation": "Heute ist Montag.",
-      "explanation": "Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje é segunda-feira nennt den Wochentag; na segunda-feira heißt am Montag."
+      "explanation": "Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje \u00E9 segunda-feira nennt den Wochentag; na segunda-feira hei\u00DFt am Montag.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Wochentage und Datum",
-      "expression": "terça-feira",
+      "expression": "ter\u00E7a-feira",
       "translation": "Dienstag",
-      "isVocabulary": true,
-      "example": "Amanhã é terça-feira.",
+      "example": "Amanh\u00E3 \u00E9 ter\u00E7a-feira.",
       "exampleTranslation": "Morgen ist Dienstag.",
-      "explanation": "Terça-feira ist Dienstag; amanhã bedeutet morgen. Na terça-feira heißt am Dienstag. Das ç in terça und die Tilde in amanhã gehören zur Schreibweise."
+      "explanation": "Ter\u00E7a-feira ist Dienstag; amanh\u00E3 bedeutet morgen. Na ter\u00E7a-feira hei\u00DFt am Dienstag. Das \u00E7 in ter\u00E7a und die Tilde in amanh\u00E3 geh\u00F6ren zur Schreibweise.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Wochentage und Datum",
       "expression": "quarta-feira",
       "translation": "Mittwoch",
-      "isVocabulary": true,
-      "example": "A aula é na quarta-feira.",
+      "example": "A aula \u00E9 na quarta-feira.",
       "exampleTranslation": "Der Unterricht ist am Mittwoch.",
-      "explanation": "Quarta-feira ist Mittwoch. Na entsteht aus em + a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht."
+      "explanation": "Quarta-feira ist Mittwoch. Na entsteht aus em \u002B a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Wochentage und Datum",
       "expression": "quinta-feira",
       "translation": "Donnerstag",
-      "isVocabulary": true,
       "example": "Trabalho na quinta-feira.",
       "exampleTranslation": "Ich arbeite am Donnerstag.",
-      "explanation": "Quinta-feira ist Donnerstag. Trabalho heißt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebräuchlich."
+      "explanation": "Quinta-feira ist Donnerstag. Trabalho hei\u00DFt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebr\u00E4uchlich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04-2",
       "topic": "Wochentage und Datum",
       "expression": "sexta-feira",
       "translation": "Freitag",
-      "isVocabulary": true,
-      "example": "A aula é na sexta-feira.",
+      "example": "A aula \u00E9 na sexta-feira.",
       "exampleTranslation": "Der Unterricht ist am Freitag.",
-      "explanation": "Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta möglich. Nicht mit quinta-feira = Donnerstag verwechseln."
+      "explanation": "Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta m\u00F6glich. Nicht mit quinta-feira = Donnerstag verwechseln.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Wochentage und Datum",
-      "expression": "sábado",
+      "expression": "s\u00E1bado",
       "translation": "Samstag",
-      "isVocabulary": true,
-      "example": "No sábado, vou ao parque.",
+      "example": "No s\u00E1bado, vou ao parque.",
       "exampleTranslation": "Am Samstag gehe ich in den Park.",
-      "explanation": "Sábado ist Samstag und trägt einen Akut. No entsteht aus em + o: no sábado = am Samstag. Vou ao parque heißt hier ich gehe in den Park."
+      "explanation": "S\u00E1bado ist Samstag und tr\u00E4gt einen Akut. No entsteht aus em \u002B o: no s\u00E1bado = am Samstag. Vou ao parque hei\u00DFt hier ich gehe in den Park.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05-2",
       "topic": "Wochentage und Datum",
       "expression": "domingo",
       "translation": "Sonntag",
-      "isVocabulary": true,
       "example": "No domingo, fico em casa.",
       "exampleTranslation": "Am Sonntag bleibe ich zu Hause.",
-      "explanation": "Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa heißt ich bleibe zu Hause. Für Samstag und Sonntag steht hier no, für segunda-feira bis sexta-feira na."
+      "explanation": "Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa hei\u00DFt ich bleibe zu Hause. F\u00FCr Samstag und Sonntag steht hier no, f\u00FCr segunda-feira bis sexta-feira na.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Wochentage und Datum",
       "expression": "dia",
       "translation": "Tag",
-      "isVocabulary": true,
-      "example": "Hoje é dia dez de maio.",
+      "example": "Hoje \u00E9 dia dez de maio.",
       "exampleTranslation": "Heute ist der zehnte Mai.",
-      "explanation": "O dia, Plural dias, ist männlich. Dia dez de maio bedeutet der zehnte Mai. Que dia é hoje? kann je nach Gespräch Datum oder Wochentag erfragen; ein eindeutiger Kontext ist deshalb nötig."
+      "explanation": "O dia, Plural dias, ist m\u00E4nnlich. Dia dez de maio bedeutet der zehnte Mai. Que dia \u00E9 hoje? kann je nach Gespr\u00E4ch Datum oder Wochentag erfragen; ein eindeutiger Kontext ist deshalb n\u00F6tig.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Wochentage und Datum",
       "expression": "maio",
       "translation": "Mai",
-      "isVocabulary": true,
-      "example": "Hoje é primeiro de maio.",
+      "example": "Hoje \u00E9 primeiro de maio.",
       "exampleTranslation": "Heute ist der erste Mai.",
-      "explanation": "Maio ist Mai; portugiesische Monatsnamen werden kleingeschrieben. Primeiro de maio heißt erster Mai. Den ersten Tag eines Monats benennt man hier mit primeiro; dia dez de maio verwendet dagegen die Zahl dez."
+      "explanation": "Maio ist Mai; portugiesische Monatsnamen werden kleingeschrieben. Primeiro de maio hei\u00DFt erster Mai. Den ersten Tag eines Monats benennt man hier mit primeiro; dia dez de maio verwendet dagegen die Zahl dez.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Wochentage und Datum",
       "expression": "junho",
       "translation": "Juni",
-      "isVocabulary": true,
-      "example": "Meu aniversário é em junho.",
+      "example": "Meu anivers\u00E1rio \u00E9 em junho.",
       "exampleTranslation": "Mein Geburtstag ist im Juni.",
-      "explanation": "Junho ist Juni; em junho bedeutet im Juni. Meu aniversário heißt mein Geburtstag. Verwechsle junho = Juni nicht mit dem folgenden Monat julho = Juli; dieser wird hier nur zur Abgrenzung genannt."
+      "explanation": "Junho ist Juni; em junho bedeutet im Juni. Meu anivers\u00E1rio hei\u00DFt mein Geburtstag. Verwechsle junho = Juni nicht mit dem folgenden Monat julho = Juli; dieser wird hier nur zur Abgrenzung genannt.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Wochentage, einfache Datumsangaben und Geburtsmonate verstehen und nennen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-04-2",
+          "karte-05",
+          "karte-05-2",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Montag (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje \u00E9 segunda-feira nennt den Wochentag; na segunda-feira hei\u00DFt am Montag.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "segunda-feira"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Dienstag (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "Ter\u00E7a-feira ist Dienstag; amanh\u00E3 bedeutet morgen. Na ter\u00E7a-feira hei\u00DFt am Dienstag. Das \u00E7 in ter\u00E7a und die Tilde in amanh\u00E3 geh\u00F6ren zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "ter\u00E7a-feira"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Mittwoch (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "Quarta-feira ist Mittwoch. Na entsteht aus em \u002B a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quarta-feira"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Freitag (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta m\u00F6glich. Nicht mit quinta-feira = Donnerstag verwechseln.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "sexta-feira"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Donnerstag (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "Quinta-feira ist Donnerstag. Trabalho hei\u00DFt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebr\u00E4uchlich.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quinta-feira"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Sonntag (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa hei\u00DFt ich bleibe zu Hause. F\u00FCr Samstag und Sonntag steht hier no, f\u00FCr segunda-feira bis sexta-feira na.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "domingo"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten vollst\u00E4ndigen portugiesischen Wochentagsnamen f\u00FCr Samstag (mit -feira, wo es zum Namen geh\u00F6rt).",
+        "explanation": "S\u00E1bado ist Samstag und tr\u00E4gt einen Akut. No entsteht aus em \u002B o: no s\u00E1bado = am Samstag. Vou ao parque hei\u00DFt hier ich gehe in den Park.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "s\u00E1bado"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "segunda-feira \u2014 Montag. Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje \u00E9 segunda-feira nennt den Wochentag; na segunda-feira hei\u00DFt am Montag. Hoje \u00E9 segunda-feira. \u2014 Heute ist Montag.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "answer",
+            "text": "Montag"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          },
+          {
+            "id": "d2",
+            "text": "Samstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "segunda-feira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esegunda-feira\u201C?",
+        "explanation": "segunda-feira \u2014 Montag. Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje \u00E9 segunda-feira nennt den Wochentag; na segunda-feira hei\u00DFt am Montag. Hoje \u00E9 segunda-feira. \u2014 Heute ist Montag.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "d5",
+            "text": "Mai"
+          },
+          {
+            "id": "answer",
+            "text": "Montag"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ter\u00E7a-feira \u2014 Dienstag. Ter\u00E7a-feira ist Dienstag; amanh\u00E3 bedeutet morgen. Na ter\u00E7a-feira hei\u00DFt am Dienstag. Das \u00E7 in ter\u00E7a und die Tilde in amanh\u00E3 geh\u00F6ren zur Schreibweise. Amanh\u00E3 \u00E9 ter\u00E7a-feira. \u2014 Morgen ist Dienstag.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Freitag"
+          },
+          {
+            "id": "answer",
+            "text": "Dienstag"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          },
+          {
+            "id": "d2",
+            "text": "Samstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ter\u00E7a-feira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eter\u00E7a-feira\u201C?",
+        "explanation": "ter\u00E7a-feira \u2014 Dienstag. Ter\u00E7a-feira ist Dienstag; amanh\u00E3 bedeutet morgen. Na ter\u00E7a-feira hei\u00DFt am Dienstag. Das \u00E7 in ter\u00E7a und die Tilde in amanh\u00E3 geh\u00F6ren zur Schreibweise. Amanh\u00E3 \u00E9 ter\u00E7a-feira. \u2014 Morgen ist Dienstag.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Freitag"
+          },
+          {
+            "id": "d4",
+            "text": "Donnerstag"
+          },
+          {
+            "id": "answer",
+            "text": "Dienstag"
+          },
+          {
+            "id": "d7",
+            "text": "Sonntag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quarta-feira \u2014 Mittwoch. Quarta-feira ist Mittwoch. Na entsteht aus em \u002B a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht. A aula \u00E9 na quarta-feira. \u2014 Der Unterricht ist am Mittwoch.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Mai"
+          },
+          {
+            "id": "d2",
+            "text": "Tag"
+          },
+          {
+            "id": "answer",
+            "text": "Mittwoch"
+          },
+          {
+            "id": "d3",
+            "text": "Donnerstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quarta-feira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equarta-feira\u201C?",
+        "explanation": "quarta-feira \u2014 Mittwoch. Quarta-feira ist Mittwoch. Na entsteht aus em \u002B a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht. A aula \u00E9 na quarta-feira. \u2014 Der Unterricht ist am Mittwoch.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Samstag"
+          },
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "answer",
+            "text": "Mittwoch"
+          },
+          {
+            "id": "d2",
+            "text": "Tag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sexta-feira \u2014 Freitag. Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta m\u00F6glich. Nicht mit quinta-feira = Donnerstag verwechseln. A aula \u00E9 na sexta-feira. \u2014 Der Unterricht ist am Freitag.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Freitag"
+          },
+          {
+            "id": "d1",
+            "text": "Samstag"
+          },
+          {
+            "id": "d0",
+            "text": "Mittwoch"
+          },
+          {
+            "id": "d4",
+            "text": "Mai"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sexta-feira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esexta-feira\u201C?",
+        "explanation": "sexta-feira \u2014 Freitag. Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta m\u00F6glich. Nicht mit quinta-feira = Donnerstag verwechseln. A aula \u00E9 na sexta-feira. \u2014 Der Unterricht ist am Freitag.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Freitag"
+          },
+          {
+            "id": "d5",
+            "text": "Montag"
+          },
+          {
+            "id": "d2",
+            "text": "Tag"
+          },
+          {
+            "id": "d3",
+            "text": "Donnerstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quinta-feira \u2014 Donnerstag. Quinta-feira ist Donnerstag. Trabalho hei\u00DFt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebr\u00E4uchlich. Trabalho na quinta-feira. \u2014 Ich arbeite am Donnerstag.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Freitag"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          },
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "answer",
+            "text": "Donnerstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quinta-feira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equinta-feira\u201C?",
+        "explanation": "quinta-feira \u2014 Donnerstag. Quinta-feira ist Donnerstag. Trabalho hei\u00DFt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebr\u00E4uchlich. Trabalho na quinta-feira. \u2014 Ich arbeite am Donnerstag.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Donnerstag"
+          },
+          {
+            "id": "d7",
+            "text": "Dienstag"
+          },
+          {
+            "id": "d4",
+            "text": "Mai"
+          },
+          {
+            "id": "d8",
+            "text": "Juni"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "domingo \u2014 Sonntag. Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa hei\u00DFt ich bleibe zu Hause. F\u00FCr Samstag und Sonntag steht hier no, f\u00FCr segunda-feira bis sexta-feira na. No domingo, fico em casa. \u2014 Am Sonntag bleibe ich zu Hause.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Dienstag"
+          },
+          {
+            "id": "d6",
+            "text": "Montag"
+          },
+          {
+            "id": "answer",
+            "text": "Sonntag"
+          },
+          {
+            "id": "d8",
+            "text": "Juni"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "domingo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edomingo\u201C?",
+        "explanation": "domingo \u2014 Sonntag. Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa hei\u00DFt ich bleibe zu Hause. F\u00FCr Samstag und Sonntag steht hier no, f\u00FCr segunda-feira bis sexta-feira na. No domingo, fico em casa. \u2014 Am Sonntag bleibe ich zu Hause.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Mai"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          },
+          {
+            "id": "d6",
+            "text": "Montag"
+          },
+          {
+            "id": "answer",
+            "text": "Sonntag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "s\u00E1bado \u2014 Samstag. S\u00E1bado ist Samstag und tr\u00E4gt einen Akut. No entsteht aus em \u002B o: no s\u00E1bado = am Samstag. Vou ao parque hei\u00DFt hier ich gehe in den Park. No s\u00E1bado, vou ao parque. \u2014 Am Samstag gehe ich in den Park.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Samstag"
+          },
+          {
+            "id": "d10",
+            "text": "Mai"
+          },
+          {
+            "id": "d8",
+            "text": "Donnerstag"
+          },
+          {
+            "id": "d7",
+            "text": "Kino"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "s\u00E1bado",
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Es\u00E1bado\u201C?",
+        "explanation": "s\u00E1bado \u2014 Samstag. S\u00E1bado ist Samstag und tr\u00E4gt einen Akut. No entsteht aus em \u002B o: no s\u00E1bado = am Samstag. Vou ao parque hei\u00DFt hier ich gehe in den Park. No s\u00E1bado, vou ao parque. \u2014 Am Samstag gehe ich in den Park.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Ausflug"
+          },
+          {
+            "id": "answer",
+            "text": "Samstag"
+          },
+          {
+            "id": "d9",
+            "text": "Zeit"
+          },
+          {
+            "id": "d3",
+            "text": "Kaffee trinken"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dia \u2014 Tag. O dia, Plural dias, ist m\u00E4nnlich. Dia dez de maio bedeutet der zehnte Mai. Que dia \u00E9 hoje? kann je nach Gespr\u00E4ch Datum oder Wochentag erfragen; ein eindeutiger Kontext ist deshalb n\u00F6tig. Hoje \u00E9 dia dez de maio. \u2014 Heute ist der zehnte Mai.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "d0",
+            "text": "Freitag"
+          },
+          {
+            "id": "answer",
+            "text": "Tag"
+          },
+          {
+            "id": "d7",
+            "text": "Dienstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edia\u201C?",
+        "explanation": "dia \u2014 Tag. O dia, Plural dias, ist m\u00E4nnlich. Dia dez de maio bedeutet der zehnte Mai. Que dia \u00E9 hoje? kann je nach Gespr\u00E4ch Datum oder Wochentag erfragen; ein eindeutiger Kontext ist deshalb n\u00F6tig. Hoje \u00E9 dia dez de maio. \u2014 Heute ist der zehnte Mai.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tag"
+          },
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "d4",
+            "text": "Mai"
+          },
+          {
+            "id": "d2",
+            "text": "Samstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "maio \u2014 Mai. Maio ist Mai; portugiesische Monatsnamen werden kleingeschrieben. Primeiro de maio hei\u00DFt erster Mai. Den ersten Tag eines Monats benennt man hier mit primeiro; dia dez de maio verwendet dagegen die Zahl dez. Hoje \u00E9 primeiro de maio. \u2014 Heute ist der erste Mai.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Mittwoch"
+          },
+          {
+            "id": "d6",
+            "text": "Sonntag"
+          },
+          {
+            "id": "d4",
+            "text": "Donnerstag"
+          },
+          {
+            "id": "answer",
+            "text": "Mai"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "maio",
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emaio\u201C?",
+        "explanation": "maio \u2014 Mai. Maio ist Mai; portugiesische Monatsnamen werden kleingeschrieben. Primeiro de maio hei\u00DFt erster Mai. Den ersten Tag eines Monats benennt man hier mit primeiro; dia dez de maio verwendet dagegen die Zahl dez. Hoje \u00E9 primeiro de maio. \u2014 Heute ist der erste Mai.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Mai"
+          },
+          {
+            "id": "d5",
+            "text": "Montag"
+          },
+          {
+            "id": "d8",
+            "text": "Juni"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "junho \u2014 Juni. Junho ist Juni; em junho bedeutet im Juni. Meu anivers\u00E1rio hei\u00DFt mein Geburtstag. Verwechsle junho = Juni nicht mit dem folgenden Monat julho = Juli; dieser wird hier nur zur Abgrenzung genannt. Meu anivers\u00E1rio \u00E9 em junho. \u2014 Mein Geburtstag ist im Juni.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Mai"
+          },
+          {
+            "id": "d7",
+            "text": "Sonntag"
+          },
+          {
+            "id": "d3",
+            "text": "Tag"
+          },
+          {
+            "id": "answer",
+            "text": "Juni"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "junho",
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ejunho\u201C?",
+        "explanation": "junho \u2014 Juni. Junho ist Juni; em junho bedeutet im Juni. Meu anivers\u00E1rio hei\u00DFt mein Geburtstag. Verwechsle junho = Juni nicht mit dem folgenden Monat julho = Juli; dieser wird hier nur zur Abgrenzung genannt. Meu anivers\u00E1rio \u00E9 em junho. \u2014 Mein Geburtstag ist im Juni.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Donnerstag"
+          },
+          {
+            "id": "answer",
+            "text": "Juni"
+          },
+          {
+            "id": "d1",
+            "text": "Mittwoch"
+          },
+          {
+            "id": "d8",
+            "text": "Dienstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMontag\u201C?",
+        "explanation": "segunda-feira \u2014 Montag. Segunda-feira ist Montag. Portugiesische Wochentage werden kleingeschrieben. Hoje \u00E9 segunda-feira nennt den Wochentag; na segunda-feira hei\u00DFt am Montag. Hoje \u00E9 segunda-feira. \u2014 Heute ist Montag.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "segunda-feira"
+          },
+          {
+            "id": "d1",
+            "text": "quarta-feira"
+          },
+          {
+            "id": "d6",
+            "text": "domingo"
+          },
+          {
+            "id": "d5",
+            "text": "maio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Montag. Welche Aussage nennt diesen Tag?",
+        "explanation": "segunda-feira hei\u00DFt Montag. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na quarta-feira."
+          },
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quinta-feira."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EDienstag\u201C?",
+        "explanation": "ter\u00E7a-feira \u2014 Dienstag. Ter\u00E7a-feira ist Dienstag; amanh\u00E3 bedeutet morgen. Na ter\u00E7a-feira hei\u00DFt am Dienstag. Das \u00E7 in ter\u00E7a und die Tilde in amanh\u00E3 geh\u00F6ren zur Schreibweise. Amanh\u00E3 \u00E9 ter\u00E7a-feira. \u2014 Morgen ist Dienstag.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "sexta-feira"
+          },
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "answer",
+            "text": "ter\u00E7a-feira"
+          },
+          {
+            "id": "d8",
+            "text": "junho"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-031",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Dienstag. Welche Aussage nennt diesen Tag?",
+        "explanation": "ter\u00E7a-feira hei\u00DFt Dienstag. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quinta-feira."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na quarta-feira."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-032",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMittwoch\u201C?",
+        "explanation": "quarta-feira \u2014 Mittwoch. Quarta-feira ist Mittwoch. Na entsteht aus em \u002B a: na quarta-feira = am Mittwoch. A aula aus dem Uhrzeitpaket bedeutet hier der Unterricht. A aula \u00E9 na quarta-feira. \u2014 Der Unterricht ist am Mittwoch.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "domingo"
+          },
+          {
+            "id": "answer",
+            "text": "quarta-feira"
+          },
+          {
+            "id": "d0",
+            "text": "sexta-feira"
+          },
+          {
+            "id": "d5",
+            "text": "segunda-feira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-033",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Mittwoch. Welche Aussage nennt diesen Tag?",
+        "explanation": "quarta-feira hei\u00DFt Mittwoch. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 na quarta-feira."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quinta-feira."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-034",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFreitag\u201C?",
+        "explanation": "sexta-feira \u2014 Freitag. Sexta-feira ist Freitag. Na sexta-feira bedeutet am Freitag; im eindeutigen Tageskontext ist auch na sexta m\u00F6glich. Nicht mit quinta-feira = Donnerstag verwechseln. A aula \u00E9 na sexta-feira. \u2014 Der Unterricht ist am Freitag.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "domingo"
+          },
+          {
+            "id": "answer",
+            "text": "sexta-feira"
+          },
+          {
+            "id": "d8",
+            "text": "junho"
+          },
+          {
+            "id": "d1",
+            "text": "s\u00E1bado"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-035",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Freitag. Welche Aussage nennt diesen Tag?",
+        "explanation": "sexta-feira hei\u00DFt Freitag. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          },
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 na sexta-feira."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quarta-feira."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-036",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EDonnerstag\u201C?",
+        "explanation": "quinta-feira \u2014 Donnerstag. Quinta-feira ist Donnerstag. Trabalho hei\u00DFt hier ich arbeite; na quinta-feira bedeutet am Donnerstag. Im eindeutigen Wochentagskontext ist auch die Kurzform na quinta gebr\u00E4uchlich. Trabalho na quinta-feira. \u2014 Ich arbeite am Donnerstag.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "junho"
+          },
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "d4",
+            "text": "maio"
+          },
+          {
+            "id": "answer",
+            "text": "quinta-feira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-037",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Donnerstag. Welche Aussage nennt diesen Tag?",
+        "explanation": "quinta-feira hei\u00DFt Donnerstag. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 na quinta-feira."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quarta-feira."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-038",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESonntag\u201C?",
+        "explanation": "domingo \u2014 Sonntag. Domingo ist Sonntag. No domingo bedeutet am Sonntag; fico em casa hei\u00DFt ich bleibe zu Hause. F\u00FCr Samstag und Sonntag steht hier no, f\u00FCr segunda-feira bis sexta-feira na. No domingo, fico em casa. \u2014 Am Sonntag bleibe ich zu Hause.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "answer",
+            "text": "domingo"
+          },
+          {
+            "id": "d1",
+            "text": "quarta-feira"
+          },
+          {
+            "id": "d5",
+            "text": "maio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-039",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Sonntag. Welche Aussage nennt diesen Tag?",
+        "explanation": "domingo hei\u00DFt Sonntag. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quarta-feira."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          },
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 no domingo."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-040",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESamstag\u201C?",
+        "explanation": "s\u00E1bado \u2014 Samstag. S\u00E1bado ist Samstag und tr\u00E4gt einen Akut. No entsteht aus em \u002B o: no s\u00E1bado = am Samstag. Vou ao parque hei\u00DFt hier ich gehe in den Park. No s\u00E1bado, vou ao parque. \u2014 Am Samstag gehe ich in den Park.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "tempo"
+          },
+          {
+            "id": "d5",
+            "text": "passeio"
+          },
+          {
+            "id": "answer",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "d2",
+            "text": "quarta-feira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-041",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Unterricht ist am Samstag. Welche Aussage nennt diesen Tag?",
+        "explanation": "s\u00E1bado hei\u00DFt Samstag. Die anderen Aussagen nennen andere Wochentage.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "A aula \u00E9 na quarta-feira."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A aula \u00E9 na segunda-feira."
+          },
+          {
+            "id": "answer",
+            "text": "A aula \u00E9 no s\u00E1bado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A aula \u00E9 na ter\u00E7a-feira."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-042",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ETag\u201C?",
+        "explanation": "dia \u2014 Tag. O dia, Plural dias, ist m\u00E4nnlich. Dia dez de maio bedeutet der zehnte Mai. Que dia \u00E9 hoje? kann je nach Gespr\u00E4ch Datum oder Wochentag erfragen; ein eindeutiger Kontext ist deshalb n\u00F6tig. Hoje \u00E9 dia dez de maio. \u2014 Heute ist der zehnte Mai.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "domingo"
+          },
+          {
+            "id": "answer",
+            "text": "dia"
+          },
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "d3",
+            "text": "quinta-feira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-043",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Angabe nennt den zehnten Mai?",
+        "explanation": "Dia bezeichnet hier den Tag eines Datums; dez de maio ist der zehnte Mai.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Dia dois de maio."
+          },
+          {
+            "id": "answer",
+            "text": "Dia dez de maio."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Dia dez de junho."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Dia vinte de maio."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-044",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMai\u201C?",
+        "explanation": "maio \u2014 Mai. Maio ist Mai; portugiesische Monatsnamen werden kleingeschrieben. Primeiro de maio hei\u00DFt erster Mai. Den ersten Tag eines Monats benennt man hier mit primeiro; dia dez de maio verwendet dagegen die Zahl dez. Hoje \u00E9 primeiro de maio. \u2014 Heute ist der erste Mai.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "dia"
+          },
+          {
+            "id": "d4",
+            "text": "quinta-feira"
+          },
+          {
+            "id": "answer",
+            "text": "maio"
+          },
+          {
+            "id": "d1",
+            "text": "quarta-feira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-045",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt den Mai als Geburtsmonat?",
+        "explanation": "Em maio bedeutet im Mai. Monate werden im Portugiesischen kleingeschrieben.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Meu anivers\u00E1rio \u00E9 em mar\u00E7o."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Meu anivers\u00E1rio \u00E9 em julho."
+          },
+          {
+            "id": "answer",
+            "text": "Meu anivers\u00E1rio \u00E9 em maio."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meu anivers\u00E1rio \u00E9 em junho."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-046",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EJuni\u201C?",
+        "explanation": "junho \u2014 Juni. Junho ist Juni; em junho bedeutet im Juni. Meu anivers\u00E1rio hei\u00DFt mein Geburtstag. Verwechsle junho = Juni nicht mit dem folgenden Monat julho = Juli; dieser wird hier nur zur Abgrenzung genannt. Meu anivers\u00E1rio \u00E9 em junho. \u2014 Mein Geburtstag ist im Juni.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "ter\u00E7a-feira"
+          },
+          {
+            "id": "answer",
+            "text": "junho"
+          },
+          {
+            "id": "d5",
+            "text": "maio"
+          },
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-047",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt den Juni als Geburtsmonat?",
+        "explanation": "Em junho bedeutet im Juni, em julho im Juli.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Meu anivers\u00E1rio \u00E9 em mar\u00E7o."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Meu anivers\u00E1rio \u00E9 em julho."
+          },
+          {
+            "id": "answer",
+            "text": "Meu anivers\u00E1rio \u00E9 em junho."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meu anivers\u00E1rio \u00E9 em maio."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

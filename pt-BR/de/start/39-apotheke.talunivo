@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-39-apotheke",
-  "packageVersion": 4,
-  "title": "39 · In der Apotheke",
+  "packageVersion": 6,
+  "title": "39 \u00B7 In der Apotheke",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "In der Apotheke",
-      "expression": "farmacêutico",
+      "expression": "farmac\u00EAutico",
       "translation": "Apotheker",
-      "isVocabulary": true,
-      "example": "Quero falar com o farmacêutico.",
-      "exampleTranslation": "Ich möchte mit dem Apotheker sprechen.",
-      "explanation": "O farmacêutico heißt Apotheker; die weibliche Form lautet a farmacêutica. Falar com heißt mit jemandem sprechen. Quero falar com … nennt hier den Wunsch nach einer Ansprechperson."
+      "example": "Quero falar com o farmac\u00EAutico.",
+      "exampleTranslation": "Ich m\u00F6chte mit dem Apotheker sprechen.",
+      "explanation": "O farmac\u00EAutico hei\u00DFt Apotheker; die weibliche Form lautet a farmac\u00EAutica. Falar com hei\u00DFt mit jemandem sprechen. Quero falar com \u2026 nennt hier den Wunsch nach einer Ansprechperson.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "In der Apotheke",
-      "expression": "farmácia",
+      "expression": "farm\u00E1cia",
       "translation": "Apotheke",
-      "isVocabulary": true,
-      "example": "Estou procurando uma farmácia aberta.",
-      "exampleTranslation": "Ich suche eine geöffnete Apotheke.",
-      "explanation": "A farmácia, Plural farmácias, bedeutet Apotheke. Estou procurando heißt ich suche gerade. Aberta ist die weibliche Form von aberto und passt zu farmácia; die Suche bestätigt keine tatsächlichen Öffnungszeiten."
+      "example": "Estou procurando uma farm\u00E1cia aberta.",
+      "exampleTranslation": "Ich suche eine ge\u00F6ffnete Apotheke.",
+      "explanation": "A farm\u00E1cia, Plural farm\u00E1cias, bedeutet Apotheke. Estou procurando hei\u00DFt ich suche gerade. Aberta ist die weibliche Form von aberto und passt zu farm\u00E1cia; die Suche best\u00E4tigt keine tats\u00E4chlichen \u00D6ffnungszeiten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "In der Apotheke",
       "expression": "alergia",
       "translation": "Allergie",
-      "isVocabulary": true,
       "example": "Tenho alergia a amendoim.",
-      "exampleTranslation": "Ich bin gegen Erdnüsse allergisch.",
-      "explanation": "A alergia, Plural alergias, bedeutet Allergie. Tenho alergia a … heißt ich bin gegen … allergisch. Amendoim bezeichnet hier Erdnüsse als Lebensmittel; die Aussage ist ein erfundenes Gesprächsbeispiel."
+      "exampleTranslation": "Ich bin gegen Erdn\u00FCsse allergisch.",
+      "explanation": "A alergia, Plural alergias, bedeutet Allergie. Tenho alergia a \u2026 hei\u00DFt ich bin gegen \u2026 allergisch. Amendoim bezeichnet hier Erdn\u00FCsse als Lebensmittel; die Aussage ist ein erfundenes Gespr\u00E4chsbeispiel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "In der Apotheke",
-      "expression": "receita médica",
-      "translation": "ärztliches Rezept",
-      "isVocabulary": true,
-      "example": "Tenho uma receita médica.",
-      "exampleTranslation": "Ich habe ein ärztliches Rezept.",
-      "explanation": "A receita médica, Plural receitas médicas, ist das ärztliche Rezept. Médica beschreibt hier das weibliche Nomen receita und bezeichnet nicht eine Ärztin. Receita allein kann in anderem Kontext auch Kochrezept heißen."
+      "expression": "receita m\u00E9dica",
+      "translation": "\u00E4rztliches Rezept",
+      "example": "Tenho uma receita m\u00E9dica.",
+      "exampleTranslation": "Ich habe ein \u00E4rztliches Rezept.",
+      "explanation": "A receita m\u00E9dica, Plural receitas m\u00E9dicas, ist das \u00E4rztliche Rezept. M\u00E9dica beschreibt hier das weibliche Nomen receita und bezeichnet nicht eine \u00C4rztin. Receita allein kann in anderem Kontext auch Kochrezept hei\u00DFen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "In der Apotheke",
-      "expression": "remédio",
+      "expression": "rem\u00E9dio",
       "translation": "Medikament",
-      "isVocabulary": true,
-      "example": "Este remédio precisa de receita?",
+      "example": "Este rem\u00E9dio precisa de receita?",
       "exampleTranslation": "Ist dieses Medikament rezeptpflichtig?",
-      "explanation": "O remédio, Plural remédios, heißt hier Medikament. Este remédio bedeutet dieses Medikament. Precisa de receita? fragt, ob ein Rezept nötig ist; die Karte gibt darauf keine Antwort und nennt kein Präparat."
+      "explanation": "O rem\u00E9dio, Plural rem\u00E9dios, hei\u00DFt hier Medikament. Este rem\u00E9dio bedeutet dieses Medikament. Precisa de receita? fragt, ob ein Rezept n\u00F6tig ist; die Karte gibt darauf keine Antwort und nennt kein Pr\u00E4parat.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "In der Apotheke",
       "expression": "usar",
       "translation": "anwenden; benutzen",
-      "isVocabulary": true,
       "example": "Pode explicar como usar, por favor?",
-      "exampleTranslation": "Können Sie bitte erklären, wie man es anwendet?",
-      "explanation": "Usar bedeutet anwenden oder benutzen. Pode explicar …? bittet hier um eine Erklärung, como usar heißt wie man etwas anwendet. Das Objekt ergibt sich aus dem Gespräch; die Karte enthält selbst keine Anwendungsschritte."
+      "exampleTranslation": "K\u00F6nnen Sie bitte erkl\u00E4ren, wie man es anwendet?",
+      "explanation": "Usar bedeutet anwenden oder benutzen. Pode explicar \u2026? bittet hier um eine Erkl\u00E4rung, como usar hei\u00DFt wie man etwas anwendet. Das Objekt ergibt sich aus dem Gespr\u00E4ch; die Karte enth\u00E4lt selbst keine Anwendungsschritte.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "In der Apotheke",
-      "expression": "instruções",
+      "expression": "instru\u00E7\u00F5es",
       "translation": "Anweisungen",
-      "isVocabulary": true,
-      "example": "Pode escrever as instruções, por favor?",
-      "exampleTranslation": "Können Sie die Anweisungen bitte aufschreiben?",
-      "explanation": "A instrução heißt Anweisung, as instruções heißt die Anweisungen. Pode escrever …? bittet um das Aufschreiben. Die Karte lehrt das Erfragen schriftlicher Angaben, nicht deren medizinischen Inhalt."
+      "example": "Pode escrever as instru\u00E7\u00F5es, por favor?",
+      "exampleTranslation": "K\u00F6nnen Sie die Anweisungen bitte aufschreiben?",
+      "explanation": "A instru\u00E7\u00E3o hei\u00DFt Anweisung, as instru\u00E7\u00F5es hei\u00DFt die Anweisungen. Pode escrever \u2026? bittet um das Aufschreiben. Die Karte lehrt das Erfragen schriftlicher Angaben, nicht deren medizinischen Inhalt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "In der Apotheke",
-      "expression": "orientação",
+      "expression": "orienta\u00E7\u00E3o",
       "translation": "Auskunft; Anleitung",
-      "isVocabulary": true,
-      "example": "Não entendi a orientação.",
+      "example": "N\u00E3o entendi a orienta\u00E7\u00E3o.",
       "exampleTranslation": "Ich habe die Auskunft nicht verstanden.",
-      "explanation": "A orientação, Plural orientações, bedeutet hier Auskunft, Erklärung oder Anleitung. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit: ich habe nicht verstanden. Der Satz macht Klärungsbedarf deutlich."
+      "explanation": "A orienta\u00E7\u00E3o, Plural orienta\u00E7\u00F5es, bedeutet hier Auskunft, Erkl\u00E4rung oder Anleitung. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit: ich habe nicht verstanden. Der Satz macht Kl\u00E4rungsbedarf deutlich.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Gelernte W\u00F6rter und Wendungen zu Rezept, Anweisungen und Hilfe in der Apotheke verstehen und passende Bitten um Informationen ausw\u00E4hlen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Zweiwort-Wendung im Singular f\u00FCr \u00E4rztliches Rezept: \u201ETenho uma ____.\u201C",
+        "explanation": "Receita m\u00E9dica bezeichnet hier das \u00E4rztliche Rezept. M\u00E9dica richtet sich nach dem weiblichen Nomen receita.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "receita m\u00E9dica"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr Anweisungen: \u201EPode escrever as ____, por favor?\u201C",
+        "explanation": "Instru\u00E7\u00F5es ist die Mehrzahl von instru\u00E7\u00E3o. Cedille und Tilde geh\u00F6ren zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "instru\u00E7\u00F5es"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuero falar com o farmac\u00EAutico.\u201C",
+        "explanation": "farmac\u00EAutico \u2014 Apotheker. O farmac\u00EAutico hei\u00DFt Apotheker; die weibliche Form lautet a farmac\u00EAutica. Falar com hei\u00DFt mit jemandem sprechen. Quero falar com \u2026 nennt hier den Wunsch nach einer Ansprechperson. Quero falar com o farmac\u00EAutico. \u2014 Ich m\u00F6chte mit dem Apotheker sprechen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Medikament"
+          },
+          {
+            "id": "answer",
+            "text": "Apotheker"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "d2",
+            "text": "\u00E4rztliches Rezept"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "farmac\u00EAutico",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efarmac\u00EAutico\u201C in diesem Beispiel? \u201EQuero falar com o farmac\u00EAutico.\u201C",
+        "explanation": "farmac\u00EAutico \u2014 Apotheker. O farmac\u00EAutico hei\u00DFt Apotheker; die weibliche Form lautet a farmac\u00EAutica. Falar com hei\u00DFt mit jemandem sprechen. Quero falar com \u2026 nennt hier den Wunsch nach einer Ansprechperson. Quero falar com o farmac\u00EAutico. \u2014 Ich m\u00F6chte mit dem Apotheker sprechen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Anweisungen"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "answer",
+            "text": "Apotheker"
+          },
+          {
+            "id": "d4",
+            "text": "anwenden; benutzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "farm\u00E1cia \u2014 Apotheke. A farm\u00E1cia, Plural farm\u00E1cias, bedeutet Apotheke. Estou procurando hei\u00DFt ich suche gerade. Aberta ist die weibliche Form von aberto und passt zu farm\u00E1cia; die Suche best\u00E4tigt keine tats\u00E4chlichen \u00D6ffnungszeiten. Estou procurando uma farm\u00E1cia aberta. \u2014 Ich suche eine ge\u00F6ffnete Apotheke.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "Allergie"
+          },
+          {
+            "id": "d3",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "answer",
+            "text": "Apotheke"
+          },
+          {
+            "id": "d7",
+            "text": "anwenden; benutzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "farm\u00E1cia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efarm\u00E1cia\u201C?",
+        "explanation": "farm\u00E1cia \u2014 Apotheke. A farm\u00E1cia, Plural farm\u00E1cias, bedeutet Apotheke. Estou procurando hei\u00DFt ich suche gerade. Aberta ist die weibliche Form von aberto und passt zu farm\u00E1cia; die Suche best\u00E4tigt keine tats\u00E4chlichen \u00D6ffnungszeiten. Estou procurando uma farm\u00E1cia aberta. \u2014 Ich suche eine ge\u00F6ffnete Apotheke.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Strand"
+          },
+          {
+            "id": "answer",
+            "text": "Apotheke"
+          },
+          {
+            "id": "d5",
+            "text": "Medikament"
+          },
+          {
+            "id": "d7",
+            "text": "anwenden; benutzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "alergia \u2014 Allergie. A alergia, Plural alergias, bedeutet Allergie. Tenho alergia a \u2026 hei\u00DFt ich bin gegen \u2026 allergisch. Amendoim bezeichnet hier Erdn\u00FCsse als Lebensmittel; die Aussage ist ein erfundenes Gespr\u00E4chsbeispiel. Tenho alergia a amendoim. \u2014 Ich bin gegen Erdn\u00FCsse allergisch.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Allergie"
+          },
+          {
+            "id": "d0",
+            "text": "Anweisungen"
+          },
+          {
+            "id": "d4",
+            "text": "anwenden; benutzen"
+          },
+          {
+            "id": "d3",
+            "text": "Medikament"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "alergia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ealergia\u201C?",
+        "explanation": "alergia \u2014 Allergie. A alergia, Plural alergias, bedeutet Allergie. Tenho alergia a \u2026 hei\u00DFt ich bin gegen \u2026 allergisch. Amendoim bezeichnet hier Erdn\u00FCsse als Lebensmittel; die Aussage ist ein erfundenes Gespr\u00E4chsbeispiel. Tenho alergia a amendoim. \u2014 Ich bin gegen Erdn\u00FCsse allergisch.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Allergie"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "d0",
+            "text": "Anweisungen"
+          },
+          {
+            "id": "d4",
+            "text": "anwenden; benutzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEste rem\u00E9dio precisa de receita?\u201C",
+        "explanation": "rem\u00E9dio \u2014 Medikament. O rem\u00E9dio, Plural rem\u00E9dios, hei\u00DFt hier Medikament. Este rem\u00E9dio bedeutet dieses Medikament. Precisa de receita? fragt, ob ein Rezept n\u00F6tig ist; die Karte gibt darauf keine Antwort und nennt kein Pr\u00E4parat. Este rem\u00E9dio precisa de receita? \u2014 Ist dieses Medikament rezeptpflichtig?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "\u00E4rztliches Rezept"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "d4",
+            "text": "Apotheker"
+          },
+          {
+            "id": "answer",
+            "text": "Medikament"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "rem\u00E9dio",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Erem\u00E9dio\u201C in diesem Beispiel? \u201EEste rem\u00E9dio precisa de receita?\u201C",
+        "explanation": "rem\u00E9dio \u2014 Medikament. O rem\u00E9dio, Plural rem\u00E9dios, hei\u00DFt hier Medikament. Este rem\u00E9dio bedeutet dieses Medikament. Precisa de receita? fragt, ob ein Rezept n\u00F6tig ist; die Karte gibt darauf keine Antwort und nennt kein Pr\u00E4parat. Este rem\u00E9dio precisa de receita? \u2014 Ist dieses Medikament rezeptpflichtig?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Anweisungen"
+          },
+          {
+            "id": "answer",
+            "text": "Medikament"
+          },
+          {
+            "id": "d6",
+            "text": "Apotheke"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPode explicar como usar, por favor?\u201C",
+        "explanation": "usar \u2014 anwenden; benutzen. Usar bedeutet anwenden oder benutzen. Pode explicar \u2026? bittet hier um eine Erkl\u00E4rung, como usar hei\u00DFt wie man etwas anwendet. Das Objekt ergibt sich aus dem Gespr\u00E4ch; die Karte enth\u00E4lt selbst keine Anwendungsschritte. Pode explicar como usar, por favor? \u2014 K\u00F6nnen Sie bitte erkl\u00E4ren, wie man es anwendet?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Apotheke"
+          },
+          {
+            "id": "answer",
+            "text": "anwenden; benutzen"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "d0",
+            "text": "Anweisungen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "usar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eusar\u201C in diesem Beispiel? \u201EPode explicar como usar, por favor?\u201C",
+        "explanation": "usar \u2014 anwenden; benutzen. Usar bedeutet anwenden oder benutzen. Pode explicar \u2026? bittet hier um eine Erkl\u00E4rung, como usar hei\u00DFt wie man etwas anwendet. Das Objekt ergibt sich aus dem Gespr\u00E4ch; die Karte enth\u00E4lt selbst keine Anwendungsschritte. Pode explicar como usar, por favor? \u2014 K\u00F6nnen Sie bitte erkl\u00E4ren, wie man es anwendet?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Apotheke"
+          },
+          {
+            "id": "answer",
+            "text": "anwenden; benutzen"
+          },
+          {
+            "id": "d2",
+            "text": "\u00E4rztliches Rezept"
+          },
+          {
+            "id": "d1",
+            "text": "Auskunft; Anleitung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o entendi a orienta\u00E7\u00E3o.\u201C",
+        "explanation": "orienta\u00E7\u00E3o \u2014 Auskunft; Anleitung. A orienta\u00E7\u00E3o, Plural orienta\u00E7\u00F5es, bedeutet hier Auskunft, Erkl\u00E4rung oder Anleitung. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit: ich habe nicht verstanden. Der Satz macht Kl\u00E4rungsbedarf deutlich. N\u00E3o entendi a orienta\u00E7\u00E3o. \u2014 Ich habe die Auskunft nicht verstanden.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Apotheke"
+          },
+          {
+            "id": "d4",
+            "text": "Allergie"
+          },
+          {
+            "id": "d3",
+            "text": "Apotheker"
+          },
+          {
+            "id": "answer",
+            "text": "Auskunft; Anleitung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "orienta\u00E7\u00E3o",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eorienta\u00E7\u00E3o\u201C in diesem Beispiel? \u201EN\u00E3o entendi a orienta\u00E7\u00E3o.\u201C",
+        "explanation": "orienta\u00E7\u00E3o \u2014 Auskunft; Anleitung. A orienta\u00E7\u00E3o, Plural orienta\u00E7\u00F5es, bedeutet hier Auskunft, Erkl\u00E4rung oder Anleitung. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit: ich habe nicht verstanden. Der Satz macht Kl\u00E4rungsbedarf deutlich. N\u00E3o entendi a orienta\u00E7\u00E3o. \u2014 Ich habe die Auskunft nicht verstanden.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Auskunft; Anleitung"
+          },
+          {
+            "id": "d0",
+            "text": "\u00E4rztliches Rezept"
+          },
+          {
+            "id": "d4",
+            "text": "Allergie"
+          },
+          {
+            "id": "d3",
+            "text": "Apotheker"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bittet darum, mit dem Apotheker zu sprechen?",
+        "explanation": "Farmac\u00EAutico bezeichnet hier den Apotheker. Falar com hei\u00DFt mit jemandem sprechen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Quero falar com o motorista."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quero falar com o m\u00E9dico."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estou procurando uma farm\u00E1cia aberta."
+          },
+          {
+            "id": "answer",
+            "text": "Quero falar com o farmac\u00EAutico."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EApotheker\u201C? Zusammenhang: bei einer Bitte um ein Gespr\u00E4ch in der Apotheke.",
+        "explanation": "farmac\u00EAutico \u2014 Apotheker. O farmac\u00EAutico hei\u00DFt Apotheker; die weibliche Form lautet a farmac\u00EAutica. Falar com hei\u00DFt mit jemandem sprechen. Quero falar com \u2026 nennt hier den Wunsch nach einer Ansprechperson. Quero falar com o farmac\u00EAutico. \u2014 Ich m\u00F6chte mit dem Apotheker sprechen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "instru\u00E7\u00F5es"
+          },
+          {
+            "id": "answer",
+            "text": "farmac\u00EAutico"
+          },
+          {
+            "id": "d6",
+            "text": "farm\u00E1cia"
+          },
+          {
+            "id": "d3",
+            "text": "rem\u00E9dio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du gerade eine ge\u00F6ffnete Apotheke suchst?",
+        "explanation": "Estou procurando beschreibt die laufende Suche. Aberta passt zu farm\u00E1cia; es werden keine wirklichen \u00D6ffnungszeiten best\u00E4tigt.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o museu?"
+          },
+          {
+            "id": "answer",
+            "text": "Estou procurando uma farm\u00E1cia aberta."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estou procurando um hotel."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estou procurando uma farm\u00E1cia fechada."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EApotheke\u201C?",
+        "explanation": "farm\u00E1cia \u2014 Apotheke. A farm\u00E1cia, Plural farm\u00E1cias, bedeutet Apotheke. Estou procurando hei\u00DFt ich suche gerade. Aberta ist die weibliche Form von aberto und passt zu farm\u00E1cia; die Suche best\u00E4tigt keine tats\u00E4chlichen \u00D6ffnungszeiten. Estou procurando uma farm\u00E1cia aberta. \u2014 Ich suche eine ge\u00F6ffnete Apotheke.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "esta\u00E7\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "farm\u00E1cia"
+          },
+          {
+            "id": "d7",
+            "text": "usar"
+          },
+          {
+            "id": "d3",
+            "text": "orienta\u00E7\u00E3o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt in einem erfundenen Gespr\u00E4ch, dass du gegen Erdn\u00FCsse allergisch bist?",
+        "explanation": "Tenho alergia a amendoim benennt in diesem Sprachbeispiel die Allergie. Es handelt sich nicht um eine Aussage \u00FCber die lernende Person.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Tenho alergia a ovos."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Gosto de amendoim."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho alergia a amendoim."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho alergia a leite."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EAllergie\u201C?",
+        "explanation": "alergia \u2014 Allergie. A alergia, Plural alergias, bedeutet Allergie. Tenho alergia a \u2026 hei\u00DFt ich bin gegen \u2026 allergisch. Amendoim bezeichnet hier Erdn\u00FCsse als Lebensmittel; die Aussage ist ein erfundenes Gespr\u00E4chsbeispiel. Tenho alergia a amendoim. \u2014 Ich bin gegen Erdn\u00FCsse allergisch.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "farm\u00E1cia"
+          },
+          {
+            "id": "d3",
+            "text": "rem\u00E9dio"
+          },
+          {
+            "id": "answer",
+            "text": "alergia"
+          },
+          {
+            "id": "d0",
+            "text": "instru\u00E7\u00F5es"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt, ob f\u00FCr dieses Medikament ein Rezept n\u00F6tig ist?",
+        "explanation": "Precisa de receita? fragt, ob ein Rezept n\u00F6tig ist. Die Aufgabe nennt weder ein Pr\u00E4parat noch eine Antwort auf diese Frage.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Pode me dar o recibo?"
+          },
+          {
+            "id": "answer",
+            "text": "Este rem\u00E9dio precisa de receita?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica a farm\u00E1cia?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quanto custa este rem\u00E9dio?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EMedikament\u201C? Zusammenhang: bei einer Frage nach einem Rezept in der Apotheke.",
+        "explanation": "rem\u00E9dio \u2014 Medikament. O rem\u00E9dio, Plural rem\u00E9dios, hei\u00DFt hier Medikament. Este rem\u00E9dio bedeutet dieses Medikament. Precisa de receita? fragt, ob ein Rezept n\u00F6tig ist; die Karte gibt darauf keine Antwort und nennt kein Pr\u00E4parat. Este rem\u00E9dio precisa de receita? \u2014 Ist dieses Medikament rezeptpflichtig?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "rem\u00E9dio"
+          },
+          {
+            "id": "d2",
+            "text": "receita m\u00E9dica"
+          },
+          {
+            "id": "d3",
+            "text": "usar"
+          },
+          {
+            "id": "d4",
+            "text": "farmac\u00EAutico"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest eine Erkl\u00E4rung dazu erbitten, wie man etwas anwendet. Welche gelernte Frage passt?",
+        "explanation": "Pode explicar como usar? bittet um eine Erkl\u00E4rung zur Anwendung. Die Aufgabe gibt selbst keine Anwendungsschritte vor.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode escrever seu endere\u00E7o, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode repetir seu nome, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode explicar como usar, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quanto custa este rem\u00E9dio?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eanwenden; benutzen\u201C? Zusammenhang: bei einer Bitte um eine Erkl\u00E4rung in der Apotheke.",
+        "explanation": "usar \u2014 anwenden; benutzen. Usar bedeutet anwenden oder benutzen. Pode explicar \u2026? bittet hier um eine Erkl\u00E4rung, como usar hei\u00DFt wie man etwas anwendet. Das Objekt ergibt sich aus dem Gespr\u00E4ch; die Karte enth\u00E4lt selbst keine Anwendungsschritte. Pode explicar como usar, por favor? \u2014 K\u00F6nnen Sie bitte erkl\u00E4ren, wie man es anwendet?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "receita m\u00E9dica"
+          },
+          {
+            "id": "answer",
+            "text": "usar"
+          },
+          {
+            "id": "d6",
+            "text": "farm\u00E1cia"
+          },
+          {
+            "id": "d3",
+            "text": "rem\u00E9dio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du die Auskunft nicht verstanden hast?",
+        "explanation": "N\u00E3o entendi ist die verneinte Vergangenheit von entender. Orienta\u00E7\u00E3o bezeichnet hier die Auskunft oder Anleitung.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o encontro meu passaporte."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o entendi a orienta\u00E7\u00E3o."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho uma receita m\u00E9dica."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Entendi a orienta\u00E7\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EAuskunft; Anleitung\u201C? Zusammenhang: bei einer R\u00FCckfrage zu einer Erkl\u00E4rung in der Apotheke.",
+        "explanation": "orienta\u00E7\u00E3o \u2014 Auskunft; Anleitung. A orienta\u00E7\u00E3o, Plural orienta\u00E7\u00F5es, bedeutet hier Auskunft, Erkl\u00E4rung oder Anleitung. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit: ich habe nicht verstanden. Der Satz macht Kl\u00E4rungsbedarf deutlich. N\u00E3o entendi a orienta\u00E7\u00E3o. \u2014 Ich habe die Auskunft nicht verstanden.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "usar"
+          },
+          {
+            "id": "d0",
+            "text": "receita m\u00E9dica"
+          },
+          {
+            "id": "d1",
+            "text": "rem\u00E9dio"
+          },
+          {
+            "id": "answer",
+            "text": "orienta\u00E7\u00E3o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

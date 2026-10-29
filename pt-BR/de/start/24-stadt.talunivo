@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-24-stadt",
-  "packageVersion": 4,
-  "title": "24 · Orte in der Stadt",
+  "packageVersion": 6,
+  "title": "24 \u00B7 Orte in der Stadt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Orte in der Stadt",
-      "expression": "farmácia",
+      "expression": "farm\u00E1cia",
       "translation": "Apotheke",
-      "isVocabulary": true,
-      "example": "Onde fica a farmácia?",
+      "example": "Onde fica a farm\u00E1cia?",
       "exampleTranslation": "Wo ist die Apotheke?",
-      "explanation": "A farmácia, Plural farmácias. Onde fica …? fragt nach einem Ort. Der Akut in farmácia gehört zur Schreibweise. Die Frage nennt noch keine Öffnungszeit und keine bestimmte Apotheke."
+      "explanation": "A farm\u00E1cia, Plural farm\u00E1cias. Onde fica \u2026? fragt nach einem Ort. Der Akut in farm\u00E1cia geh\u00F6rt zur Schreibweise. Die Frage nennt noch keine \u00D6ffnungszeit und keine bestimmte Apotheke.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Orte in der Stadt",
       "expression": "banco",
       "translation": "Bank",
-      "isVocabulary": true,
-      "example": "O banco está aberto.",
-      "exampleTranslation": "Die Bank ist geöffnet.",
-      "explanation": "O banco bezeichnet in dieser Öffnungsaussage ein Geldinstitut. Está aberto heißt ist geöffnet. Banco kann in anderen Situationen auch Sitzbank heißen; der Zusammenhang entscheidet."
+      "example": "O banco est\u00E1 aberto.",
+      "exampleTranslation": "Die Bank ist ge\u00F6ffnet.",
+      "explanation": "O banco bezeichnet in dieser \u00D6ffnungsaussage ein Geldinstitut. Est\u00E1 aberto hei\u00DFt ist ge\u00F6ffnet. Banco kann in anderen Situationen auch Sitzbank hei\u00DFen; der Zusammenhang entscheidet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Orte in der Stadt",
       "expression": "padaria",
-      "translation": "Bäckerei",
-      "isVocabulary": true,
+      "translation": "B\u00E4ckerei",
       "example": "A padaria fica na esquina.",
-      "exampleTranslation": "Die Bäckerei ist an der Ecke.",
-      "explanation": "A padaria, Plural padarias, ist eine Bäckerei. Na esquina bedeutet an der Ecke; na ist em + a. Fica beschreibt hier die Lage des Geschäfts."
+      "exampleTranslation": "Die B\u00E4ckerei ist an der Ecke.",
+      "explanation": "A padaria, Plural padarias, ist eine B\u00E4ckerei. Na esquina bedeutet an der Ecke; na ist em \u002B a. Fica beschreibt hier die Lage des Gesch\u00E4fts.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Orte in der Stadt",
-      "expression": "praça",
+      "expression": "pra\u00E7a",
       "translation": "Platz",
-      "isVocabulary": true,
-      "example": "O mercado fica em frente à praça.",
-      "exampleTranslation": "Der Markt liegt gegenüber dem Platz.",
-      "explanation": "A praça, Plural praças, ist hier ein öffentlicher Platz. Em frente à praça beschreibt eine Lage gegenüber dem Platz oder vor dem Platz, je nach Situation. Mercado bedeutet Markt; à verbindet hier a + a."
+      "example": "O mercado fica em frente \u00E0 pra\u00E7a.",
+      "exampleTranslation": "Der Markt liegt gegen\u00FCber dem Platz.",
+      "explanation": "A pra\u00E7a, Plural pra\u00E7as, ist hier ein \u00F6ffentlicher Platz. Em frente \u00E0 pra\u00E7a beschreibt eine Lage gegen\u00FCber dem Platz oder vor dem Platz, je nach Situation. Mercado bedeutet Markt; \u00E0 verbindet hier a \u002B a.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Orte in der Stadt",
-      "expression": "estação",
+      "expression": "esta\u00E7\u00E3o",
       "translation": "Bahnhof; Station",
-      "isVocabulary": true,
-      "example": "A estação está perto.",
-      "exampleTranslation": "Der Bahnhof ist in der Nähe.",
-      "explanation": "A estação, Plural estações. Im hier gemeinten Verkehrskontext ist ein Bahnhof oder eine Station gemeint. Está perto bedeutet ist in der Nähe. Das Wort hat außerhalb dieses Kontexts weitere Bedeutungen, etwa Jahreszeit."
+      "example": "A esta\u00E7\u00E3o est\u00E1 perto.",
+      "exampleTranslation": "Der Bahnhof ist in der N\u00E4he.",
+      "explanation": "A esta\u00E7\u00E3o, Plural esta\u00E7\u00F5es. Im hier gemeinten Verkehrskontext ist ein Bahnhof oder eine Station gemeint. Est\u00E1 perto bedeutet ist in der N\u00E4he. Das Wort hat au\u00DFerhalb dieses Kontexts weitere Bedeutungen, etwa Jahreszeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Orte in der Stadt",
       "expression": "museu",
       "translation": "Museum",
-      "isVocabulary": true,
-      "example": "O museu está fechado hoje.",
+      "example": "O museu est\u00E1 fechado hoje.",
       "exampleTranslation": "Das Museum ist heute geschlossen.",
-      "explanation": "O museu, Plural museus. Fechado bedeutet geschlossen; hoje heißt heute. Der Satz beschreibt einen erfundenen Öffnungszustand im Beispiel, keine tatsächliche Öffnungszeit eines Museums."
+      "explanation": "O museu, Plural museus. Fechado bedeutet geschlossen; hoje hei\u00DFt heute. Der Satz beschreibt einen erfundenen \u00D6ffnungszustand im Beispiel, keine tats\u00E4chliche \u00D6ffnungszeit eines Museums.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Orte in der Stadt",
       "expression": "praia",
       "translation": "Strand",
-      "isVocabulary": true,
       "example": "A praia fica longe?",
       "exampleTranslation": "Ist der Strand weit weg?",
-      "explanation": "A praia, Plural praias, ist ein Strand. Longe bedeutet weit weg; perto bedeutet in der Nähe. Die Frage betrifft die Entfernung, nennt aber noch keine Strecke oder Reisezeit."
+      "explanation": "A praia, Plural praias, ist ein Strand. Longe bedeutet weit weg; perto bedeutet in der N\u00E4he. Die Frage betrifft die Entfernung, nennt aber noch keine Strecke oder Reisezeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Orte in der Stadt",
       "expression": "parque",
       "translation": "Park",
-      "isVocabulary": true,
       "example": "O parque fica perto.",
-      "exampleTranslation": "Der Park ist in der Nähe.",
-      "explanation": "O parque, Plural parques. Fica perto bedeutet hier liegt in der Nähe. Das bekannte Lagemuster verwendet nur den neuen Ortsnamen; eine bestimmte Richtung wird damit nicht genannt."
+      "exampleTranslation": "Der Park ist in der N\u00E4he.",
+      "explanation": "O parque, Plural parques. Fica perto bedeutet hier liegt in der N\u00E4he. Das bekannte Lagemuster verwendet nur den neuen Ortsnamen; eine bestimmte Richtung wird damit nicht genannt.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Orte in der Stadt benennen und einfache Angaben zu Lage und Entfernung sowie dazu, ob Orte ge\u00F6ffnet oder geschlossen sind, verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Apotheke: \u201EOnde fica a ____?\u201C",
+        "explanation": "Farm\u00E1cia hei\u00DFt Apotheke. Der Akut geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "farm\u00E1cia"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Bahnhof oder Station im Verkehr: \u201EA ____ est\u00E1 perto.\u201C",
+        "explanation": "Esta\u00E7\u00E3o bezeichnet hier eine Verkehrsstation. \u00C7 und Tilde geh\u00F6ren zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "esta\u00E7\u00E3o"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO banco est\u00E1 aberto.\u201C",
+        "explanation": "banco \u2014 Bank. O banco bezeichnet in dieser \u00D6ffnungsaussage ein Geldinstitut. Est\u00E1 aberto hei\u00DFt ist ge\u00F6ffnet. Banco kann in anderen Situationen auch Sitzbank hei\u00DFen; der Zusammenhang entscheidet. O banco est\u00E1 aberto. \u2014 Die Bank ist ge\u00F6ffnet.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Bahnhof; Station"
+          },
+          {
+            "id": "answer",
+            "text": "Bank"
+          },
+          {
+            "id": "d1",
+            "text": "Park"
+          },
+          {
+            "id": "d2",
+            "text": "B\u00E4ckerei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "banco",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebanco\u201C in diesem Beispiel? \u201EO banco est\u00E1 aberto.\u201C",
+        "explanation": "banco \u2014 Bank. O banco bezeichnet in dieser \u00D6ffnungsaussage ein Geldinstitut. Est\u00E1 aberto hei\u00DFt ist ge\u00F6ffnet. Banco kann in anderen Situationen auch Sitzbank hei\u00DFen; der Zusammenhang entscheidet. O banco est\u00E1 aberto. \u2014 Die Bank ist ge\u00F6ffnet.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "d1",
+            "text": "Park"
+          },
+          {
+            "id": "answer",
+            "text": "Bank"
+          },
+          {
+            "id": "d4",
+            "text": "Museum"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "padaria \u2014 B\u00E4ckerei. A padaria, Plural padarias, ist eine B\u00E4ckerei. Na esquina bedeutet an der Ecke; na ist em \u002B a. Fica beschreibt hier die Lage des Gesch\u00E4fts. A padaria fica na esquina. \u2014 Die B\u00E4ckerei ist an der Ecke.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Apotheke"
+          },
+          {
+            "id": "answer",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "d1",
+            "text": "Park"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "padaria",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epadaria\u201C?",
+        "explanation": "padaria \u2014 B\u00E4ckerei. A padaria, Plural padarias, ist eine B\u00E4ckerei. Na esquina bedeutet an der Ecke; na ist em \u002B a. Fica beschreibt hier die Lage des Gesch\u00E4fts. A padaria fica na esquina. \u2014 Die B\u00E4ckerei ist an der Ecke.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Park"
+          },
+          {
+            "id": "d4",
+            "text": "Museum"
+          },
+          {
+            "id": "d3",
+            "text": "Bahnhof; Station"
+          },
+          {
+            "id": "answer",
+            "text": "B\u00E4ckerei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO mercado fica em frente \u00E0 pra\u00E7a.\u201C",
+        "explanation": "pra\u00E7a \u2014 Platz. A pra\u00E7a, Plural pra\u00E7as, ist hier ein \u00F6ffentlicher Platz. Em frente \u00E0 pra\u00E7a beschreibt eine Lage gegen\u00FCber dem Platz oder vor dem Platz, je nach Situation. Mercado bedeutet Markt; \u00E0 verbindet hier a \u002B a. O mercado fica em frente \u00E0 pra\u00E7a. \u2014 Der Markt liegt gegen\u00FCber dem Platz.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Museum"
+          },
+          {
+            "id": "answer",
+            "text": "Platz"
+          },
+          {
+            "id": "d2",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "d4",
+            "text": "Bahnhof; Station"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "pra\u00E7a",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epra\u00E7a\u201C in diesem Beispiel? \u201EO mercado fica em frente \u00E0 pra\u00E7a.\u201C",
+        "explanation": "pra\u00E7a \u2014 Platz. A pra\u00E7a, Plural pra\u00E7as, ist hier ein \u00F6ffentlicher Platz. Em frente \u00E0 pra\u00E7a beschreibt eine Lage gegen\u00FCber dem Platz oder vor dem Platz, je nach Situation. Mercado bedeutet Markt; \u00E0 verbindet hier a \u002B a. O mercado fica em frente \u00E0 pra\u00E7a. \u2014 Der Markt liegt gegen\u00FCber dem Platz.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "d2",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "answer",
+            "text": "Platz"
+          },
+          {
+            "id": "d6",
+            "text": "Apotheke"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "museu \u2014 Museum. O museu, Plural museus. Fechado bedeutet geschlossen; hoje hei\u00DFt heute. Der Satz beschreibt einen erfundenen \u00D6ffnungszustand im Beispiel, keine tats\u00E4chliche \u00D6ffnungszeit eines Museums. O museu est\u00E1 fechado hoje. \u2014 Das Museum ist heute geschlossen.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "answer",
+            "text": "Museum"
+          },
+          {
+            "id": "d3",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "museu",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emuseu\u201C?",
+        "explanation": "museu \u2014 Museum. O museu, Plural museus. Fechado bedeutet geschlossen; hoje hei\u00DFt heute. Der Satz beschreibt einen erfundenen \u00D6ffnungszustand im Beispiel, keine tats\u00E4chliche \u00D6ffnungszeit eines Museums. O museu est\u00E1 fechado hoje. \u2014 Das Museum ist heute geschlossen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "answer",
+            "text": "Museum"
+          },
+          {
+            "id": "d5",
+            "text": "nachmittags"
+          },
+          {
+            "id": "d3",
+            "text": "nehmen (Verkehrsmittel)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, ist ein Strand. Longe bedeutet weit weg; perto bedeutet in der N\u00E4he. Die Frage betrifft die Entfernung, nennt aber noch keine Strecke oder Reisezeit. A praia fica longe? \u2014 Ist der Strand weit weg?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Sonnencreme"
+          },
+          {
+            "id": "d9",
+            "text": "Meer"
+          },
+          {
+            "id": "d0",
+            "text": "Park"
+          },
+          {
+            "id": "answer",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "praia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epraia\u201C?",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, ist ein Strand. Longe bedeutet weit weg; perto bedeutet in der N\u00E4he. Die Frage betrifft die Entfernung, nennt aber noch keine Strecke oder Reisezeit. A praia fica longe? \u2014 Ist der Strand weit weg?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "answer",
+            "text": "Strand"
+          },
+          {
+            "id": "d0",
+            "text": "Park"
+          },
+          {
+            "id": "d9",
+            "text": "Meer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "parque \u2014 Park. O parque, Plural parques. Fica perto bedeutet hier liegt in der N\u00E4he. Das bekannte Lagemuster verwendet nur den neuen Ortsnamen; eine bestimmte Richtung wird damit nicht genannt. O parque fica perto. \u2014 Der Park ist in der N\u00E4he.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Museum"
+          },
+          {
+            "id": "answer",
+            "text": "Park"
+          },
+          {
+            "id": "d6",
+            "text": "Apotheke"
+          },
+          {
+            "id": "d2",
+            "text": "Bank"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "parque",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eparque\u201C?",
+        "explanation": "parque \u2014 Park. O parque, Plural parques. Fica perto bedeutet hier liegt in der N\u00E4he. Das bekannte Lagemuster verwendet nur den neuen Ortsnamen; eine bestimmte Richtung wird damit nicht genannt. O parque fica perto. \u2014 Der Park ist in der N\u00E4he.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Park"
+          },
+          {
+            "id": "d3",
+            "text": "Bahnhof; Station"
+          },
+          {
+            "id": "d4",
+            "text": "Museum"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass die Bank als Geldinstitut ge\u00F6ffnet ist?",
+        "explanation": "Banco bezeichnet hier ein Geldinstitut, in anderem Zusammenhang eine Sitzbank.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O banco est\u00E1 aberto."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O museu est\u00E1 aberto."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O banco est\u00E1 fechado."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A padaria est\u00E1 aberta."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EBank\u201C? Gemeint ist: die Bank als Geldinstitut.",
+        "explanation": "banco \u2014 Bank. O banco bezeichnet in dieser \u00D6ffnungsaussage ein Geldinstitut. Est\u00E1 aberto hei\u00DFt ist ge\u00F6ffnet. Banco kann in anderen Situationen auch Sitzbank hei\u00DFen; der Zusammenhang entscheidet. O banco est\u00E1 aberto. \u2014 Die Bank ist ge\u00F6ffnet.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "parque"
+          },
+          {
+            "id": "answer",
+            "text": "banco"
+          },
+          {
+            "id": "d2",
+            "text": "padaria"
+          },
+          {
+            "id": "d5",
+            "text": "pra\u00E7a"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt die B\u00E4ckerei an der Ecke?",
+        "explanation": "Padaria hei\u00DFt B\u00E4ckerei. Na esquina bedeutet an der Ecke.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O banco est\u00E1 fechado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A padaria fica longe."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A farm\u00E1cia fica na esquina."
+          },
+          {
+            "id": "answer",
+            "text": "A padaria fica na esquina."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EB\u00E4ckerei\u201C?",
+        "explanation": "padaria \u2014 B\u00E4ckerei. A padaria, Plural padarias, ist eine B\u00E4ckerei. Na esquina bedeutet an der Ecke; na ist em \u002B a. Fica beschreibt hier die Lage des Gesch\u00E4fts. A padaria fica na esquina. \u2014 Die B\u00E4ckerei ist an der Ecke.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "farm\u00E1cia"
+          },
+          {
+            "id": "answer",
+            "text": "padaria"
+          },
+          {
+            "id": "d3",
+            "text": "esta\u00E7\u00E3o"
+          },
+          {
+            "id": "d1",
+            "text": "parque"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt den \u00F6ffentlichen Platz als Bezugspunkt f\u00FCr den Markt?",
+        "explanation": "Pra\u00E7a ist hier ein \u00F6ffentlicher Platz. Em frente a beschreibt eine Lage vor oder gegen\u00FCber etwas.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O mercado fica ao lado da farm\u00E1cia."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O parque fica perto."
+          },
+          {
+            "id": "answer",
+            "text": "O mercado fica em frente \u00E0 pra\u00E7a."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O mercado fica em frente ao banco."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EPlatz\u201C? Gemeint ist: ein \u00F6ffentlicher Platz in der Stadt.",
+        "explanation": "pra\u00E7a \u2014 Platz. A pra\u00E7a, Plural pra\u00E7as, ist hier ein \u00F6ffentlicher Platz. Em frente \u00E0 pra\u00E7a beschreibt eine Lage gegen\u00FCber dem Platz oder vor dem Platz, je nach Situation. Mercado bedeutet Markt; \u00E0 verbindet hier a \u002B a. O mercado fica em frente \u00E0 pra\u00E7a. \u2014 Der Markt liegt gegen\u00FCber dem Platz.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "praia"
+          },
+          {
+            "id": "answer",
+            "text": "pra\u00E7a"
+          },
+          {
+            "id": "d5",
+            "text": "museu"
+          },
+          {
+            "id": "d2",
+            "text": "padaria"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass das Museum heute geschlossen ist?",
+        "explanation": "Museu hei\u00DFt Museum, fechado geschlossen, hoje heute. Das ist ein erfundenes \u00DCbungsbeispiel.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O banco est\u00E1 fechado hoje."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O museu est\u00E1 aberto hoje."
+          },
+          {
+            "id": "answer",
+            "text": "O museu est\u00E1 fechado hoje."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O parque fica perto."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMuseum\u201C?",
+        "explanation": "museu \u2014 Museum. O museu, Plural museus. Fechado bedeutet geschlossen; hoje hei\u00DFt heute. Der Satz beschreibt einen erfundenen \u00D6ffnungszustand im Beispiel, keine tats\u00E4chliche \u00D6ffnungszeit eines Museums. O museu est\u00E1 fechado hoje. \u2014 Das Museum ist heute geschlossen.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "padaria"
+          },
+          {
+            "id": "d0",
+            "text": "praia"
+          },
+          {
+            "id": "answer",
+            "text": "museu"
+          },
+          {
+            "id": "d6",
+            "text": "p\u00E3o com queijo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt, ob der Strand weit entfernt ist?",
+        "explanation": "Praia hei\u00DFt Strand. Longe bezeichnet gro\u00DFe Entfernung, keine bestimmte Fahrzeit.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O parque fica longe?"
+          },
+          {
+            "id": "answer",
+            "text": "A praia fica longe?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica a farm\u00E1cia?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "A praia fica perto?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EStrand\u201C?",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, ist ein Strand. Longe bedeutet weit weg; perto bedeutet in der N\u00E4he. Die Frage betrifft die Entfernung, nennt aber noch keine Strecke oder Reisezeit. A praia fica longe? \u2014 Ist der Strand weit weg?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "parque"
+          },
+          {
+            "id": "answer",
+            "text": "praia"
+          },
+          {
+            "id": "d5",
+            "text": "padaria"
+          },
+          {
+            "id": "d8",
+            "text": "p\u00E3o com queijo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass der Park in der N\u00E4he liegt?",
+        "explanation": "Parque hei\u00DFt Park, perto hier in der N\u00E4he.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "A praia fica perto."
+          },
+          {
+            "id": "answer",
+            "text": "O parque fica perto."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O banco est\u00E1 aberto."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O parque fica longe."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EPark\u201C?",
+        "explanation": "parque \u2014 Park. O parque, Plural parques. Fica perto bedeutet hier liegt in der N\u00E4he. Das bekannte Lagemuster verwendet nur den neuen Ortsnamen; eine bestimmte Richtung wird damit nicht genannt. O parque fica perto. \u2014 Der Park ist in der N\u00E4he.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "pra\u00E7a"
+          },
+          {
+            "id": "answer",
+            "text": "parque"
+          },
+          {
+            "id": "d1",
+            "text": "padaria"
+          },
+          {
+            "id": "d0",
+            "text": "praia"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

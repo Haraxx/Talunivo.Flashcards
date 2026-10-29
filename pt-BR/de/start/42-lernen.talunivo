@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-42-lernen",
-  "packageVersion": 4,
-  "title": "42 · Lernen und Üben",
+  "packageVersion": 6,
+  "title": "42 \u00B7 Lernen und \u00DCben",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "estudar",
       "translation": "lernen; studieren",
-      "isVocabulary": true,
-      "example": "Estudo português todos os dias.",
+      "example": "Estudo portugu\u00EAs todos os dias.",
       "exampleTranslation": "Ich lerne jeden Tag Portugiesisch.",
-      "explanation": "Estudar heißt gezielt lernen oder studieren, auch in der Schule und außerhalb einer Hochschule. Estudo ist die Ich-Form im Präsens. Todos os dias bedeutet jeden Tag."
+      "explanation": "Estudar hei\u00DFt gezielt lernen oder studieren, auch in der Schule und au\u00DFerhalb einer Hochschule. Estudo ist die Ich-Form im Pr\u00E4sens. Todos os dias bedeutet jeden Tag.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "pergunta",
       "translation": "Frage",
-      "isVocabulary": true,
       "example": "Tenho uma pergunta.",
       "exampleTranslation": "Ich habe eine Frage.",
-      "explanation": "A pergunta, Plural perguntas, heißt Frage. Tenho ist die Ich-Form von ter, haben. Tenho uma pergunta kündigt an, dass eine Frage folgt; es ist noch nicht die eigentliche Frage."
+      "explanation": "A pergunta, Plural perguntas, hei\u00DFt Frage. Tenho ist die Ich-Form von ter, haben. Tenho uma pergunta k\u00FCndigt an, dass eine Frage folgt; es ist noch nicht die eigentliche Frage.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "exemplo",
       "translation": "Beispiel",
-      "isVocabulary": true,
       "example": "Pode dar um exemplo, por favor?",
       "exampleTranslation": "Kannst du bitte ein Beispiel geben?",
-      "explanation": "O exemplo, Plural exemplos, ist das Beispiel. Dar um exemplo bedeutet ein Beispiel geben. Pode dar …? bittet hier um eine Handlung; por favor macht die Bitte ausdrücklich."
+      "explanation": "O exemplo, Plural exemplos, ist das Beispiel. Dar um exemplo bedeutet ein Beispiel geben. Pode dar \u2026? bittet hier um eine Handlung; por favor macht die Bitte ausdr\u00FCcklich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "palavra",
       "translation": "Wort",
-      "isVocabulary": true,
-      "example": "Esta palavra é nova para mim.",
-      "exampleTranslation": "Dieses Wort ist neu für mich.",
-      "explanation": "A palavra, Plural palavras, bedeutet Wort. Esta und nova passen zur weiblichen Form palavra. Para mim heißt für mich: Die Aussage betrifft den eigenen Kenntnisstand, nicht das Alter des Wortes."
+      "example": "Esta palavra \u00E9 nova para mim.",
+      "exampleTranslation": "Dieses Wort ist neu f\u00FCr mich.",
+      "explanation": "A palavra, Plural palavras, bedeutet Wort. Esta und nova passen zur weiblichen Form palavra. Para mim hei\u00DFt f\u00FCr mich: Die Aussage betrifft den eigenen Kenntnisstand, nicht das Alter des Wortes.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "pronunciar",
       "translation": "aussprechen",
-      "isVocabulary": true,
       "example": "Como se pronuncia esta palavra?",
       "exampleTranslation": "Wie spricht man dieses Wort aus?",
-      "explanation": "Pronunciar heißt aussprechen. Como se pronuncia …? ist hier das Muster Wie spricht man … aus? Esta palavra bezeichnet dieses Wort. Die Frage nennt noch keine konkrete Aussprache oder Bewertung."
+      "explanation": "Pronunciar hei\u00DFt aussprechen. Como se pronuncia \u2026? ist hier das Muster Wie spricht man \u2026 aus? Esta palavra bezeichnet dieses Wort. Die Frage nennt noch keine konkrete Aussprache oder Bewertung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "praticar",
-      "translation": "üben",
-      "isVocabulary": true,
+      "translation": "\u00FCben",
       "example": "Preciso praticar mais.",
-      "exampleTranslation": "Ich muss mehr üben.",
-      "explanation": "Praticar heißt hier üben. Nach preciso steht der Infinitiv ohne de; mais bedeutet in diesem Satz mehr. Praticar beschreibt das aktive Üben, während estudar gezieltes Lernen oder Studieren bezeichnet; beide Tätigkeiten können sich überschneiden."
+      "exampleTranslation": "Ich muss mehr \u00FCben.",
+      "explanation": "Praticar hei\u00DFt hier \u00FCben. Nach preciso steht der Infinitiv ohne de; mais bedeutet in diesem Satz mehr. Praticar beschreibt das aktive \u00DCben, w\u00E4hrend estudar gezieltes Lernen oder Studieren bezeichnet; beide T\u00E4tigkeiten k\u00F6nnen sich \u00FCberschneiden.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "de novo",
       "translation": "noch einmal",
-      "isVocabulary": true,
       "example": "Vou tentar de novo.",
       "exampleTranslation": "Ich werde es noch einmal versuchen.",
-      "explanation": "De novo ist die feste Wendung noch einmal oder erneut. Vou tentar kündigt einen Versuch an; tentar heißt versuchen. Das deutsche es ergibt sich aus dem Gespräch und braucht hier im Portugiesischen kein eigenes Objektwort."
+      "explanation": "De novo ist die feste Wendung noch einmal oder erneut. Vou tentar k\u00FCndigt einen Versuch an; tentar hei\u00DFt versuchen. Das deutsche es ergibt sich aus dem Gespr\u00E4ch und braucht hier im Portugiesischen kein eigenes Objektwort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Lernen und Üben",
+      "topic": "Lernen und \u00DCben",
       "expression": "entender",
       "translation": "verstehen",
-      "isVocabulary": true,
       "example": "Agora eu entendi.",
       "exampleTranslation": "Jetzt habe ich es verstanden.",
-      "explanation": "Entender heißt verstehen; entendi ist die Ich-Form in der abgeschlossenen Vergangenheit. Agora bedeutet jetzt. Eu ist das ausdrücklich genannte Subjekt ich; daraus allein folgt keine besondere Betonung. Im Gegensatz zu não entendi bestätigt der Satz das Verständnis."
+      "explanation": "Entender hei\u00DFt verstehen; entendi ist die Ich-Form in der abgeschlossenen Vergangenheit. Agora bedeutet jetzt. Eu ist das ausdr\u00FCcklich genannte Subjekt ich; daraus allein folgt keine besondere Betonung. Im Gegensatz zu n\u00E3o entendi best\u00E4tigt der Satz das Verst\u00E4ndnis.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Gelernte Fragen und Wendungen zu Beispielen, Wortschatz, Aussprache, \u00DCben und Verstehen erkennen und passend ausw\u00E4hlen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Singularnomen f\u00FCr Frage: \u201ETenho uma ____.\u201C",
+        "explanation": "Pergunta bezeichnet eine Frage. Tenho uma pergunta k\u00FCndigt sie erst an.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "pergunta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Singularnomen f\u00FCr Wort: \u201EEsta ____ \u00E9 nova para mim.\u201C",
+        "explanation": "Palavra ist weiblich. Esta und nova passen zu diesem Nomen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "palavra"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstudo portugu\u00EAs todos os dias.\u201C",
+        "explanation": "estudar \u2014 lernen; studieren. Estudar hei\u00DFt gezielt lernen oder studieren, auch in der Schule und au\u00DFerhalb einer Hochschule. Estudo ist die Ich-Form im Pr\u00E4sens. Todos os dias bedeutet jeden Tag. Estudo portugu\u00EAs todos os dias. \u2014 Ich lerne jeden Tag Portugiesisch.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Frage"
+          },
+          {
+            "id": "d4",
+            "text": "Beispiel"
+          },
+          {
+            "id": "answer",
+            "text": "lernen; studieren"
+          },
+          {
+            "id": "d1",
+            "text": "noch einmal"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "estudar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eestudar\u201C in diesem Beispiel? \u201EEstudo portugu\u00EAs todos os dias.\u201C",
+        "explanation": "estudar \u2014 lernen; studieren. Estudar hei\u00DFt gezielt lernen oder studieren, auch in der Schule und au\u00DFerhalb einer Hochschule. Estudo ist die Ich-Form im Pr\u00E4sens. Todos os dias bedeutet jeden Tag. Estudo portugu\u00EAs todos os dias. \u2014 Ich lerne jeden Tag Portugiesisch.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Wort"
+          },
+          {
+            "id": "answer",
+            "text": "lernen; studieren"
+          },
+          {
+            "id": "d1",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d3",
+            "text": "Frage"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "exemplo \u2014 Beispiel. O exemplo, Plural exemplos, ist das Beispiel. Dar um exemplo bedeutet ein Beispiel geben. Pode dar \u2026? bittet hier um eine Handlung; por favor macht die Bitte ausdr\u00FCcklich. Pode dar um exemplo, por favor? \u2014 Kannst du bitte ein Beispiel geben?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Beispiel"
+          },
+          {
+            "id": "d0",
+            "text": "verstehen"
+          },
+          {
+            "id": "d4",
+            "text": "lernen; studieren"
+          },
+          {
+            "id": "d3",
+            "text": "Frage"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "exemplo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eexemplo\u201C?",
+        "explanation": "exemplo \u2014 Beispiel. O exemplo, Plural exemplos, ist das Beispiel. Dar um exemplo bedeutet ein Beispiel geben. Pode dar \u2026? bittet hier um eine Handlung; por favor macht die Bitte ausdr\u00FCcklich. Pode dar um exemplo, por favor? \u2014 Kannst du bitte ein Beispiel geben?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Frage"
+          },
+          {
+            "id": "d5",
+            "text": "aussprechen"
+          },
+          {
+            "id": "d2",
+            "text": "\u00FCben"
+          },
+          {
+            "id": "answer",
+            "text": "Beispiel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EComo se pronuncia esta palavra?\u201C",
+        "explanation": "pronunciar \u2014 aussprechen. Pronunciar hei\u00DFt aussprechen. Como se pronuncia \u2026? ist hier das Muster Wie spricht man \u2026 aus? Esta palavra bezeichnet dieses Wort. Die Frage nennt noch keine konkrete Aussprache oder Bewertung. Como se pronuncia esta palavra? \u2014 Wie spricht man dieses Wort aus?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Frage"
+          },
+          {
+            "id": "d1",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d5",
+            "text": "Beispiel"
+          },
+          {
+            "id": "answer",
+            "text": "aussprechen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "pronunciar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epronunciar\u201C in diesem Beispiel? \u201EComo se pronuncia esta palavra?\u201C",
+        "explanation": "pronunciar \u2014 aussprechen. Pronunciar hei\u00DFt aussprechen. Como se pronuncia \u2026? ist hier das Muster Wie spricht man \u2026 aus? Esta palavra bezeichnet dieses Wort. Die Frage nennt noch keine konkrete Aussprache oder Bewertung. Como se pronuncia esta palavra? \u2014 Wie spricht man dieses Wort aus?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "aussprechen"
+          },
+          {
+            "id": "d1",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d0",
+            "text": "verstehen"
+          },
+          {
+            "id": "d4",
+            "text": "lernen; studieren"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPreciso praticar mais.\u201C",
+        "explanation": "praticar \u2014 \u00FCben. Praticar hei\u00DFt hier \u00FCben. Nach preciso steht der Infinitiv ohne de; mais bedeutet in diesem Satz mehr. Praticar beschreibt das aktive \u00DCben, w\u00E4hrend estudar gezieltes Lernen oder Studieren bezeichnet; beide T\u00E4tigkeiten k\u00F6nnen sich \u00FCberschneiden. Preciso praticar mais. \u2014 Ich muss mehr \u00FCben.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "verstehen"
+          },
+          {
+            "id": "d1",
+            "text": "noch einmal"
+          },
+          {
+            "id": "answer",
+            "text": "\u00FCben"
+          },
+          {
+            "id": "d5",
+            "text": "aussprechen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "praticar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epraticar\u201C in diesem Beispiel? \u201EPreciso praticar mais.\u201C",
+        "explanation": "praticar \u2014 \u00FCben. Praticar hei\u00DFt hier \u00FCben. Nach preciso steht der Infinitiv ohne de; mais bedeutet in diesem Satz mehr. Praticar beschreibt das aktive \u00DCben, w\u00E4hrend estudar gezieltes Lernen oder Studieren bezeichnet; beide T\u00E4tigkeiten k\u00F6nnen sich \u00FCberschneiden. Preciso praticar mais. \u2014 Ich muss mehr \u00FCben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "\u00FCben"
+          },
+          {
+            "id": "d1",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d6",
+            "text": "Wort"
+          },
+          {
+            "id": "d2",
+            "text": "Frage"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "de novo \u2014 noch einmal. De novo ist die feste Wendung noch einmal oder erneut. Vou tentar k\u00FCndigt einen Versuch an; tentar hei\u00DFt versuchen. Das deutsche es ergibt sich aus dem Gespr\u00E4ch und braucht hier im Portugiesischen kein eigenes Objektwort. Vou tentar de novo. \u2014 Ich werde es noch einmal versuchen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Frage"
+          },
+          {
+            "id": "d1",
+            "text": "\u00FCben"
+          },
+          {
+            "id": "d4",
+            "text": "Beispiel"
+          },
+          {
+            "id": "answer",
+            "text": "noch einmal"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "de novo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ede novo\u201C?",
+        "explanation": "de novo \u2014 noch einmal. De novo ist die feste Wendung noch einmal oder erneut. Vou tentar k\u00FCndigt einen Versuch an; tentar hei\u00DFt versuchen. Das deutsche es ergibt sich aus dem Gespr\u00E4ch und braucht hier im Portugiesischen kein eigenes Objektwort. Vou tentar de novo. \u2014 Ich werde es noch einmal versuchen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "verstehen"
+          },
+          {
+            "id": "answer",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d6",
+            "text": "Wort"
+          },
+          {
+            "id": "d1",
+            "text": "\u00FCben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EAgora eu entendi.\u201C",
+        "explanation": "entender \u2014 verstehen. Entender hei\u00DFt verstehen; entendi ist die Ich-Form in der abgeschlossenen Vergangenheit. Agora bedeutet jetzt. Eu ist das ausdr\u00FCcklich genannte Subjekt ich; daraus allein folgt keine besondere Betonung. Im Gegensatz zu n\u00E3o entendi best\u00E4tigt der Satz das Verst\u00E4ndnis. Agora eu entendi. \u2014 Jetzt habe ich es verstanden.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d9",
+            "text": "Beispiel"
+          },
+          {
+            "id": "answer",
+            "text": "verstehen"
+          },
+          {
+            "id": "d11",
+            "text": "Wort"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "entender",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eentender\u201C in diesem Beispiel? \u201EAgora eu entendi.\u201C",
+        "explanation": "entender \u2014 verstehen. Entender hei\u00DFt verstehen; entendi ist die Ich-Form in der abgeschlossenen Vergangenheit. Agora bedeutet jetzt. Eu ist das ausdr\u00FCcklich genannte Subjekt ich; daraus allein folgt keine besondere Betonung. Im Gegensatz zu n\u00E3o entendi best\u00E4tigt der Satz das Verst\u00E4ndnis. Agora eu entendi. \u2014 Jetzt habe ich es verstanden.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Frage"
+          },
+          {
+            "id": "answer",
+            "text": "verstehen"
+          },
+          {
+            "id": "d1",
+            "text": "Deutsch (Sprache)"
+          },
+          {
+            "id": "d8",
+            "text": "Moment"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Elernen; studieren\u201C? Zusammenhang: bei einer Aussage \u00FCber die t\u00E4gliche Besch\u00E4ftigung mit Portugiesisch.",
+        "explanation": "estudar \u2014 lernen; studieren. Estudar hei\u00DFt gezielt lernen oder studieren, auch in der Schule und au\u00DFerhalb einer Hochschule. Estudo ist die Ich-Form im Pr\u00E4sens. Todos os dias bedeutet jeden Tag. Estudo portugu\u00EAs todos os dias. \u2014 Ich lerne jeden Tag Portugiesisch.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "exemplo"
+          },
+          {
+            "id": "d3",
+            "text": "pergunta"
+          },
+          {
+            "id": "d1",
+            "text": "de novo"
+          },
+          {
+            "id": "answer",
+            "text": "estudar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt das gezielte Lernen von Portugiesisch ausdr\u00FCcklich an jedem Tag?",
+        "explanation": "Todos os dias bedeutet jeden Tag. Estudar ist gezieltes Lernen oder Studieren, nicht ausschlie\u00DFlich an einer Hochschule.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Estudo portugu\u00EAs todos os dias."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estudo portugu\u00EAs aos s\u00E1bados."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pratico futebol todos os dias."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vou estudar portugu\u00EAs amanh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBeispiel\u201C?",
+        "explanation": "exemplo \u2014 Beispiel. O exemplo, Plural exemplos, ist das Beispiel. Dar um exemplo bedeutet ein Beispiel geben. Pode dar \u2026? bittet hier um eine Handlung; por favor macht die Bitte ausdr\u00FCcklich. Pode dar um exemplo, por favor? \u2014 Kannst du bitte ein Beispiel geben?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "estudar"
+          },
+          {
+            "id": "answer",
+            "text": "exemplo"
+          },
+          {
+            "id": "d0",
+            "text": "entender"
+          },
+          {
+            "id": "d1",
+            "text": "de novo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage bittet ausdr\u00FCcklich um ein Beispiel?",
+        "explanation": "Dar um exemplo hei\u00DFt ein Beispiel geben. Die anderen Fragen betreffen Wiederholen, Aussprache oder Aufschreiben.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Como se pronuncia esta palavra?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode escrever seu nome, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode dar um exemplo, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode repetir, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eaussprechen\u201C? Zusammenhang: bei einer Frage zu einer gesprochenen Wortform.",
+        "explanation": "pronunciar \u2014 aussprechen. Pronunciar hei\u00DFt aussprechen. Como se pronuncia \u2026? ist hier das Muster Wie spricht man \u2026 aus? Esta palavra bezeichnet dieses Wort. Die Frage nennt noch keine konkrete Aussprache oder Bewertung. Como se pronuncia esta palavra? \u2014 Wie spricht man dieses Wort aus?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "praticar"
+          },
+          {
+            "id": "d6",
+            "text": "palavra"
+          },
+          {
+            "id": "d4",
+            "text": "estudar"
+          },
+          {
+            "id": "answer",
+            "text": "pronunciar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich nach der Aussprache dieses Wortes?",
+        "explanation": "Como se pronuncia esta palavra? fragt nach der Aussprache. Die Aufgabe liefert damit noch keine Aussprachebewertung.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O que significa esta palavra?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Como se escreve esta palavra?"
+          },
+          {
+            "id": "answer",
+            "text": "Como se pronuncia esta palavra?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode repetir a pergunta?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201E\u00FCben\u201C? Zusammenhang: bei einer Aussage \u00FCber den eigenen Lernbedarf.",
+        "explanation": "praticar \u2014 \u00FCben. Praticar hei\u00DFt hier \u00FCben. Nach preciso steht der Infinitiv ohne de; mais bedeutet in diesem Satz mehr. Praticar beschreibt das aktive \u00DCben, w\u00E4hrend estudar gezieltes Lernen oder Studieren bezeichnet; beide T\u00E4tigkeiten k\u00F6nnen sich \u00FCberschneiden. Preciso praticar mais. \u2014 Ich muss mehr \u00FCben.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "pronunciar"
+          },
+          {
+            "id": "answer",
+            "text": "praticar"
+          },
+          {
+            "id": "d2",
+            "text": "pergunta"
+          },
+          {
+            "id": "d4",
+            "text": "exemplo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass du mehr \u00FCben musst?",
+        "explanation": "Preciso praticar mais bedeutet Ich muss mehr \u00FCben. Gezieltes Lernen und aktives \u00DCben k\u00F6nnen sich \u00FCberschneiden.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Quero praticar menos."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Gosto de ler."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Preciso descansar um pouco."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso praticar mais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Enoch einmal\u201C?",
+        "explanation": "de novo \u2014 noch einmal. De novo ist die feste Wendung noch einmal oder erneut. Vou tentar k\u00FCndigt einen Versuch an; tentar hei\u00DFt versuchen. Das deutsche es ergibt sich aus dem Gespr\u00E4ch und braucht hier im Portugiesischen kein eigenes Objektwort. Vou tentar de novo. \u2014 Ich werde es noch einmal versuchen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "palavra"
+          },
+          {
+            "id": "d0",
+            "text": "entender"
+          },
+          {
+            "id": "answer",
+            "text": "de novo"
+          },
+          {
+            "id": "d4",
+            "text": "exemplo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage k\u00FCndigt an, dass du es noch einmal versuchen wirst?",
+        "explanation": "De novo bedeutet noch einmal oder erneut. Die anderen Aussagen nennen keinen erneuten Versuch.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou tentar amanh\u00E3."
+          },
+          {
+            "id": "answer",
+            "text": "Vou tentar de novo."
+          },
+          {
+            "id": "wrong-0",
+            "text": "N\u00E3o vou tentar."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vou descansar um pouco."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Everstehen\u201C? Zusammenhang: bei einer Best\u00E4tigung nach einer Erkl\u00E4rung.",
+        "explanation": "entender \u2014 verstehen. Entender hei\u00DFt verstehen; entendi ist die Ich-Form in der abgeschlossenen Vergangenheit. Agora bedeutet jetzt. Eu ist das ausdr\u00FCcklich genannte Subjekt ich; daraus allein folgt keine besondere Betonung. Im Gegensatz zu n\u00E3o entendi best\u00E4tigt der Satz das Verst\u00E4ndnis. Agora eu entendi. \u2014 Jetzt habe ich es verstanden.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "momento"
+          },
+          {
+            "id": "answer",
+            "text": "entender"
+          },
+          {
+            "id": "d5",
+            "text": "pergunta"
+          },
+          {
+            "id": "d9",
+            "text": "exemplo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EVoc\u00EA entendeu agora?\u201C \u2013 Welche Antwort best\u00E4tigt das jetzt erfolgte Verst\u00E4ndnis?",
+        "explanation": "Agora eu entendi best\u00E4tigt Ich habe es jetzt verstanden. Entendi steht in der abgeschlossenen Vergangenheit.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Agora eu entendi."
+          },
+          {
+            "id": "wrong-0",
+            "text": "N\u00E3o entendi."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode repetir, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso praticar mais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }
