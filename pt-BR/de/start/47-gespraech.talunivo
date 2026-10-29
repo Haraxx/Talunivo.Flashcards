@@ -1,101 +1,1079 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-47-gespraech",
-  "packageVersion": 4,
-  "title": "47 · Kleine Gespräche verbinden",
+  "packageVersion": 6,
+  "title": "47 \u00B7 Kleine Gespr\u00E4che verbinden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "mas",
       "translation": "aber",
-      "isVocabulary": true,
       "example": "Quero sair, mas estou cansada.",
-      "exampleTranslation": "Ich möchte ausgehen, aber ich bin müde.",
-      "explanation": "Mas bedeutet aber und verbindet hier einen Wunsch mit einem entgegenstehenden Zustand. Nicht mit mais, mehr, verwechseln. Cansada ist die weibliche Form, cansado die männliche; beide ergeben denselben deutschen Satz."
+      "exampleTranslation": "Ich m\u00F6chte ausgehen, aber ich bin m\u00FCde.",
+      "explanation": "Mas bedeutet aber und verbindet hier einen Wunsch mit einem entgegenstehenden Zustand. Nicht mit mais, mehr, verwechseln. Cansada ist die weibliche Form, cansado die m\u00E4nnliche; beide ergeben denselben deutschen Satz.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "e",
       "translation": "und",
-      "isVocabulary": true,
-      "example": "Gosto de chá e de suco.",
+      "example": "Gosto de ch\u00E1 e de suco.",
       "exampleTranslation": "Ich mag Tee und Saft.",
-      "explanation": "E bedeutet und. Gosto de verlangt im gelehrten Muster de; im Beispiel wird de vor suco wiederholt. Der Satz nennt beide Getränke als Vorlieben und bietet keine Auswahl zwischen ihnen an."
+      "explanation": "E bedeutet und. Gosto de verlangt im gelehrten Muster de; im Beispiel wird de vor suco wiederholt. Der Satz nennt beide Getr\u00E4nke als Vorlieben und bietet keine Auswahl zwischen ihnen an.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "ou",
       "translation": "oder",
-      "isVocabulary": true,
-      "example": "Você quer água ou café?",
-      "exampleTranslation": "Möchtest du Wasser oder Kaffee?",
-      "explanation": "Ou bedeutet oder und stellt hier Wasser und Kaffee zur Auswahl. Quer gehört zu você. Der Satz fragt nach einem Wunsch; er gibt nicht vor, welches Getränk die Person wählen muss."
+      "example": "Voc\u00EA quer \u00E1gua ou caf\u00E9?",
+      "exampleTranslation": "M\u00F6chtest du Wasser oder Kaffee?",
+      "explanation": "Ou bedeutet oder und stellt hier Wasser und Kaffee zur Auswahl. Quer geh\u00F6rt zu voc\u00EA. Der Satz fragt nach einem Wunsch; er gibt nicht vor, welches Getr\u00E4nk die Person w\u00E4hlen muss.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "porque",
       "translation": "weil",
-      "isVocabulary": true,
       "example": "Estou cansada porque trabalhei muito.",
-      "exampleTranslation": "Ich bin müde, weil ich viel gearbeitet habe.",
-      "explanation": "Porque bedeutet hier weil und leitet den Grund ein. Trabalhei ist die vergangene Ich-Form von trabalhar; muito heißt hier viel. Cansada ist die weibliche Form, cansado die männliche. Por que am Anfang einer direkten Frage bedeutet dagegen warum."
+      "exampleTranslation": "Ich bin m\u00FCde, weil ich viel gearbeitet habe.",
+      "explanation": "Porque bedeutet hier weil und leitet den Grund ein. Trabalhei ist die vergangene Ich-Form von trabalhar; muito hei\u00DFt hier viel. Cansada ist die weibliche Form, cansado die m\u00E4nnliche. Por que am Anfang einer direkten Frage bedeutet dagegen warum.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "primeiro",
       "translation": "zuerst",
-      "isVocabulary": true,
       "example": "Primeiro vou comer.",
       "exampleTranslation": "Zuerst werde ich essen.",
-      "explanation": "Primeiro heißt hier zuerst und ordnet eine Handlung als ersten Schritt ein. Vou comer kündigt an, dass ich essen werde. In diesem Gebrauch als Reihenfolgewort bleibt primeiro unverändert."
+      "explanation": "Primeiro hei\u00DFt hier zuerst und ordnet eine Handlung als ersten Schritt ein. Vou comer k\u00FCndigt an, dass ich essen werde. In diesem Gebrauch als Reihenfolgewort bleibt primeiro unver\u00E4ndert.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05-2",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "depois",
       "translation": "danach",
-      "isVocabulary": true,
       "example": "Depois vou sair.",
       "exampleTranslation": "Danach werde ich ausgehen.",
-      "explanation": "Depois bedeutet hier danach. Nach dem Essen aus der vorherigen Karte folgt in der Beispielsituation das Ausgehen. Vou sair kündigt die Handlung an; eine genaue Zeitspanne zwischen den Schritten ist nicht genannt."
+      "explanation": "Depois bedeutet hier danach. Nach dem Essen aus der vorherigen Karte folgt in der Beispielsituation das Ausgehen. Vou sair k\u00FCndigt die Handlung an; eine genaue Zeitspanne zwischen den Schritten ist nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "se",
       "translation": "wenn",
-      "isVocabulary": true,
       "example": "Se chover, vou ficar em casa.",
       "exampleTranslation": "Wenn es regnet, werde ich zu Hause bleiben.",
-      "explanation": "Se leitet hier eine Bedingung ein: wenn oder falls. Se chover bedeutet falls es regnet; chover ist hier der Futur-Konjunktiv und sieht genauso aus wie der Infinitiv regnen. Vou ficar em casa nennt den Plan für diesen Fall."
+      "explanation": "Se leitet hier eine Bedingung ein: wenn oder falls. Se chover bedeutet falls es regnet; chover ist hier der Futur-Konjunktiv und sieht genauso aus wie der Infinitiv regnen. Vou ficar em casa nennt den Plan f\u00FCr diesen Fall.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "perguntar",
       "translation": "fragen",
-      "isVocabulary": true,
-      "example": "Não sei, mas posso perguntar.",
-      "exampleTranslation": "Ich weiß es nicht, aber ich kann fragen.",
-      "explanation": "Perguntar heißt fragen. Não sei bedeutet ich weiß es nicht; mas verbindet damit ich kann fragen. Nach posso steht der Infinitiv perguntar. Der Satz sagt noch nicht, wen oder wonach die Person fragen wird."
+      "example": "N\u00E3o sei, mas posso perguntar.",
+      "exampleTranslation": "Ich wei\u00DF es nicht, aber ich kann fragen.",
+      "explanation": "Perguntar hei\u00DFt fragen. N\u00E3o sei bedeutet ich wei\u00DF es nicht; mas verbindet damit ich kann fragen. Nach posso steht der Infinitiv perguntar. Der Satz sagt noch nicht, wen oder wonach die Person fragen wird.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Kleine Gespräche verbinden",
+      "topic": "Kleine Gespr\u00E4che verbinden",
       "expression": "achar",
       "translation": "glauben; finden",
-      "isVocabulary": true,
       "example": "Acho que sim.",
       "exampleTranslation": "Ich glaube schon.",
-      "explanation": "Achar heißt hier glauben oder der Meinung sein; acho ist die Ich-Form. Acho que sim drückt eine Einschätzung aus, keine völlig sichere Bestätigung. Achar kann auch einen Gegenstand finden bedeuten; diese Lesart passt hier nicht."
+      "explanation": "Achar hei\u00DFt hier glauben oder der Meinung sein; acho ist die Ich-Form. Acho que sim dr\u00FCckt eine Einsch\u00E4tzung aus, keine v\u00F6llig sichere Best\u00E4tigung. Achar kann auch einen Gegenstand finden bedeuten; diese Lesart passt hier nicht.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Kurze Aussagen mit gelernten Verbindungsw\u00F6rtern verbinden und einfache Gespr\u00E4chsreaktionen verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-05-2",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte einzelne Verbindungswort f\u00FCr aber aus diesem Paket: \u201EQuero sair, ____ estou cansada.\u201C",
+        "explanation": "Mas bedeutet aber. Mais mit i bedeutet mehr; cansada ist im vorgegebenen Satz die weibliche Form.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "mas"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte einzelne Begr\u00FCndungswort f\u00FCr weil aus diesem Paket: \u201EEstou cansada ____ trabalhei muito.\u201C",
+        "explanation": "Porque leitet hier einen Grund ein. Por que in einer direkten Frage bedeutet dagegen warum und besteht aus zwei W\u00F6rtern.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "porque"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EGosto de ch\u00E1 e de suco.\u201C",
+        "explanation": "e \u2014 und. E bedeutet und. Gosto de verlangt im gelehrten Muster de; im Beispiel wird de vor suco wiederholt. Der Satz nennt beide Getr\u00E4nke als Vorlieben und bietet keine Auswahl zwischen ihnen an. Gosto de ch\u00E1 e de suco. \u2014 Ich mag Tee und Saft.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "aber"
+          },
+          {
+            "id": "d4",
+            "text": "fragen"
+          },
+          {
+            "id": "d0",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "answer",
+            "text": "und"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "e",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ee\u201C in diesem Beispiel? \u201EGosto de ch\u00E1 e de suco.\u201C",
+        "explanation": "e \u2014 und. E bedeutet und. Gosto de verlangt im gelehrten Muster de; im Beispiel wird de vor suco wiederholt. Der Satz nennt beide Getr\u00E4nke als Vorlieben und bietet keine Auswahl zwischen ihnen an. Gosto de ch\u00E1 e de suco. \u2014 Ich mag Tee und Saft.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "answer",
+            "text": "und"
+          },
+          {
+            "id": "d1",
+            "text": "weil"
+          },
+          {
+            "id": "d2",
+            "text": "zuerst"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVoc\u00EA quer \u00E1gua ou caf\u00E9?\u201C",
+        "explanation": "ou \u2014 oder. Ou bedeutet oder und stellt hier Wasser und Kaffee zur Auswahl. Quer geh\u00F6rt zu voc\u00EA. Der Satz fragt nach einem Wunsch; er gibt nicht vor, welches Getr\u00E4nk die Person w\u00E4hlen muss. Voc\u00EA quer \u00E1gua ou caf\u00E9? \u2014 M\u00F6chtest du Wasser oder Kaffee?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "weil"
+          },
+          {
+            "id": "d3",
+            "text": "aber"
+          },
+          {
+            "id": "d5",
+            "text": "und"
+          },
+          {
+            "id": "answer",
+            "text": "oder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ou",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eou\u201C in diesem Beispiel? \u201EVoc\u00EA quer \u00E1gua ou caf\u00E9?\u201C",
+        "explanation": "ou \u2014 oder. Ou bedeutet oder und stellt hier Wasser und Kaffee zur Auswahl. Quer geh\u00F6rt zu voc\u00EA. Der Satz fragt nach einem Wunsch; er gibt nicht vor, welches Getr\u00E4nk die Person w\u00E4hlen muss. Voc\u00EA quer \u00E1gua ou caf\u00E9? \u2014 M\u00F6chtest du Wasser oder Kaffee?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "fragen"
+          },
+          {
+            "id": "answer",
+            "text": "oder"
+          },
+          {
+            "id": "d7",
+            "text": "wenn"
+          },
+          {
+            "id": "d3",
+            "text": "aber"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EDepois vou sair.\u201C",
+        "explanation": "depois \u2014 danach. Depois bedeutet hier danach. Nach dem Essen aus der vorherigen Karte folgt in der Beispielsituation das Ausgehen. Vou sair k\u00FCndigt die Handlung an; eine genaue Zeitspanne zwischen den Schritten ist nicht genannt. Depois vou sair. \u2014 Danach werde ich ausgehen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "danach"
+          },
+          {
+            "id": "d2",
+            "text": "zuerst"
+          },
+          {
+            "id": "d3",
+            "text": "aber"
+          },
+          {
+            "id": "d5",
+            "text": "und"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "depois",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edepois\u201C in diesem Beispiel? \u201EDepois vou sair.\u201C",
+        "explanation": "depois \u2014 danach. Depois bedeutet hier danach. Nach dem Essen aus der vorherigen Karte folgt in der Beispielsituation das Ausgehen. Vou sair k\u00FCndigt die Handlung an; eine genaue Zeitspanne zwischen den Schritten ist nicht genannt. Depois vou sair. \u2014 Danach werde ich ausgehen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "zuerst"
+          },
+          {
+            "id": "answer",
+            "text": "danach"
+          },
+          {
+            "id": "d4",
+            "text": "fragen"
+          },
+          {
+            "id": "d1",
+            "text": "weil"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPrimeiro vou comer.\u201C",
+        "explanation": "primeiro \u2014 zuerst. Primeiro hei\u00DFt hier zuerst und ordnet eine Handlung als ersten Schritt ein. Vou comer k\u00FCndigt an, dass ich essen werde. In diesem Gebrauch als Reihenfolgewort bleibt primeiro unver\u00E4ndert. Primeiro vou comer. \u2014 Zuerst werde ich essen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "answer",
+            "text": "zuerst"
+          },
+          {
+            "id": "d2",
+            "text": "aber"
+          },
+          {
+            "id": "d5",
+            "text": "danach"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "primeiro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eprimeiro\u201C in diesem Beispiel? \u201EPrimeiro vou comer.\u201C",
+        "explanation": "primeiro \u2014 zuerst. Primeiro hei\u00DFt hier zuerst und ordnet eine Handlung als ersten Schritt ein. Vou comer k\u00FCndigt an, dass ich essen werde. In diesem Gebrauch als Reihenfolgewort bleibt primeiro unver\u00E4ndert. Primeiro vou comer. \u2014 Zuerst werde ich essen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "aber"
+          },
+          {
+            "id": "d3",
+            "text": "fragen"
+          },
+          {
+            "id": "answer",
+            "text": "zuerst"
+          },
+          {
+            "id": "d4",
+            "text": "und"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ESe chover, vou ficar em casa.\u201C",
+        "explanation": "se \u2014 wenn. Se leitet hier eine Bedingung ein: wenn oder falls. Se chover bedeutet falls es regnet; chover ist hier der Futur-Konjunktiv und sieht genauso aus wie der Infinitiv regnen. Vou ficar em casa nennt den Plan f\u00FCr diesen Fall. Se chover, vou ficar em casa. \u2014 Wenn es regnet, werde ich zu Hause bleiben.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "und"
+          },
+          {
+            "id": "d3",
+            "text": "aber"
+          },
+          {
+            "id": "answer",
+            "text": "wenn"
+          },
+          {
+            "id": "d1",
+            "text": "weil"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "se",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ese\u201C in diesem Beispiel? \u201ESe chover, vou ficar em casa.\u201C",
+        "explanation": "se \u2014 wenn. Se leitet hier eine Bedingung ein: wenn oder falls. Se chover bedeutet falls es regnet; chover ist hier der Futur-Konjunktiv und sieht genauso aus wie der Infinitiv regnen. Vou ficar em casa nennt den Plan f\u00FCr diesen Fall. Se chover, vou ficar em casa. \u2014 Wenn es regnet, werde ich zu Hause bleiben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "wenn"
+          },
+          {
+            "id": "d0",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "d1",
+            "text": "weil"
+          },
+          {
+            "id": "d4",
+            "text": "fragen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "perguntar \u2014 fragen. Perguntar hei\u00DFt fragen. N\u00E3o sei bedeutet ich wei\u00DF es nicht; mas verbindet damit ich kann fragen. Nach posso steht der Infinitiv perguntar. Der Satz sagt noch nicht, wen oder wonach die Person fragen wird. N\u00E3o sei, mas posso perguntar. \u2014 Ich wei\u00DF es nicht, aber ich kann fragen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "wenn"
+          },
+          {
+            "id": "d5",
+            "text": "danach"
+          },
+          {
+            "id": "d0",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "answer",
+            "text": "fragen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "perguntar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eperguntar\u201C?",
+        "explanation": "perguntar \u2014 fragen. Perguntar hei\u00DFt fragen. N\u00E3o sei bedeutet ich wei\u00DF es nicht; mas verbindet damit ich kann fragen. Nach posso steht der Infinitiv perguntar. Der Satz sagt noch nicht, wen oder wonach die Person fragen wird. N\u00E3o sei, mas posso perguntar. \u2014 Ich wei\u00DF es nicht, aber ich kann fragen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "fragen"
+          },
+          {
+            "id": "d6",
+            "text": "wenn"
+          },
+          {
+            "id": "d7",
+            "text": "oder"
+          },
+          {
+            "id": "d3",
+            "text": "aber"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EAcho que sim.\u201C",
+        "explanation": "achar \u2014 glauben; finden. Achar hei\u00DFt hier glauben oder der Meinung sein; acho ist die Ich-Form. Acho que sim dr\u00FCckt eine Einsch\u00E4tzung aus, keine v\u00F6llig sichere Best\u00E4tigung. Achar kann auch einen Gegenstand finden bedeuten; diese Lesart passt hier nicht. Acho que sim. \u2014 Ich glaube schon.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "fragen"
+          },
+          {
+            "id": "answer",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "d0",
+            "text": "weil"
+          },
+          {
+            "id": "d1",
+            "text": "zuerst"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "achar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eachar\u201C in diesem Beispiel? \u201EAcho que sim.\u201C",
+        "explanation": "achar \u2014 glauben; finden. Achar hei\u00DFt hier glauben oder der Meinung sein; acho ist die Ich-Form. Acho que sim dr\u00FCckt eine Einsch\u00E4tzung aus, keine v\u00F6llig sichere Best\u00E4tigung. Achar kann auch einen Gegenstand finden bedeuten; diese Lesart passt hier nicht. Acho que sim. \u2014 Ich glaube schon.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "glauben; finden"
+          },
+          {
+            "id": "d2",
+            "text": "aber"
+          },
+          {
+            "id": "d6",
+            "text": "wenn"
+          },
+          {
+            "id": "d5",
+            "text": "danach"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eund\u201C? Zusammenhang: bei einer Aussage oder Frage zu Getr\u00E4nken.",
+        "explanation": "e \u2014 und. E bedeutet und. Gosto de verlangt im gelehrten Muster de; im Beispiel wird de vor suco wiederholt. Der Satz nennt beide Getr\u00E4nke als Vorlieben und bietet keine Auswahl zwischen ihnen an. Gosto de ch\u00E1 e de suco. \u2014 Ich mag Tee und Saft.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "se"
+          },
+          {
+            "id": "d2",
+            "text": "primeiro"
+          },
+          {
+            "id": "answer",
+            "text": "e"
+          },
+          {
+            "id": "d1",
+            "text": "porque"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt sowohl Tee als auch Saft als Vorlieben, ohne zwischen ihnen w\u00E4hlen zu lassen?",
+        "explanation": "E verbindet hier beide Getr\u00E4nke. Das wiederholte de geh\u00F6rt zum Muster gosto de.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Gosto de caf\u00E9 e de leite."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA quer \u00E1gua ou caf\u00E9?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o gosto de ch\u00E1."
+          },
+          {
+            "id": "answer",
+            "text": "Gosto de ch\u00E1 e de suco."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eoder\u201C? Zusammenhang: bei einer Aussage oder Frage zu Getr\u00E4nken.",
+        "explanation": "ou \u2014 oder. Ou bedeutet oder und stellt hier Wasser und Kaffee zur Auswahl. Quer geh\u00F6rt zu voc\u00EA. Der Satz fragt nach einem Wunsch; er gibt nicht vor, welches Getr\u00E4nk die Person w\u00E4hlen muss. Voc\u00EA quer \u00E1gua ou caf\u00E9? \u2014 M\u00F6chtest du Wasser oder Kaffee?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "mas"
+          },
+          {
+            "id": "answer",
+            "text": "ou"
+          },
+          {
+            "id": "d2",
+            "text": "primeiro"
+          },
+          {
+            "id": "d0",
+            "text": "achar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage stellt ausdr\u00FCcklich Wasser und Kaffee zur Auswahl?",
+        "explanation": "Ou bedeutet oder. Die Frage stellt die beiden genannten Getr\u00E4nke zur Auswahl, ohne eine Antwort vorzugeben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Voc\u00EA quer \u00E1gua ou caf\u00E9?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA quer \u00E1gua e caf\u00E9?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem \u00E1gua aqui?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA quer ch\u00E1 ou suco?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Edanach\u201C? Zusammenhang: beim Ordnen von Handlungsschritten.",
+        "explanation": "depois \u2014 danach. Depois bedeutet hier danach. Nach dem Essen aus der vorherigen Karte folgt in der Beispielsituation das Ausgehen. Vou sair k\u00FCndigt die Handlung an; eine genaue Zeitspanne zwischen den Schritten ist nicht genannt. Depois vou sair. \u2014 Danach werde ich ausgehen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "e"
+          },
+          {
+            "id": "d4",
+            "text": "perguntar"
+          },
+          {
+            "id": "answer",
+            "text": "depois"
+          },
+          {
+            "id": "d6",
+            "text": "se"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage ordnet das Ausgehen ausdr\u00FCcklich nach einer zuvor genannten Handlung ein?",
+        "explanation": "Depois hei\u00DFt hier danach. Die genaue Zeitspanne zwischen den Schritten bleibt offen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Depois vou comer."
+          },
+          {
+            "id": "answer",
+            "text": "Depois vou sair."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o vou sair hoje."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Primeiro vou sair."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ezuerst\u201C? Zusammenhang: beim Ordnen von Handlungsschritten.",
+        "explanation": "primeiro \u2014 zuerst. Primeiro hei\u00DFt hier zuerst und ordnet eine Handlung als ersten Schritt ein. Vou comer k\u00FCndigt an, dass ich essen werde. In diesem Gebrauch als Reihenfolgewort bleibt primeiro unver\u00E4ndert. Primeiro vou comer. \u2014 Zuerst werde ich essen.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "ou"
+          },
+          {
+            "id": "answer",
+            "text": "primeiro"
+          },
+          {
+            "id": "d4",
+            "text": "e"
+          },
+          {
+            "id": "d2",
+            "text": "mas"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage ordnet das Essen ausdr\u00FCcklich als ersten Schritt ein?",
+        "explanation": "Primeiro bedeutet hier zuerst. Der Satz nennt den ersten Schritt einer Reihenfolge, keine Uhrzeit.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Primeiro vou comer."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Depois vou comer."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Primeiro vou sair."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vou comer amanh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ewenn\u201C? Zusammenhang: als Einleitung einer Bedingung.",
+        "explanation": "se \u2014 wenn. Se leitet hier eine Bedingung ein: wenn oder falls. Se chover bedeutet falls es regnet; chover ist hier der Futur-Konjunktiv und sieht genauso aus wie der Infinitiv regnen. Vou ficar em casa nennt den Plan f\u00FCr diesen Fall. Se chover, vou ficar em casa. \u2014 Wenn es regnet, werde ich zu Hause bleiben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "se"
+          },
+          {
+            "id": "d3",
+            "text": "mas"
+          },
+          {
+            "id": "d5",
+            "text": "e"
+          },
+          {
+            "id": "d0",
+            "text": "achar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt das Zu-Hause-Bleiben als Plan unter der Bedingung, dass es regnet?",
+        "explanation": "Se chover bedeutet falls es regnet. Eine Bedingung sagt nicht, dass Regen tats\u00E4chlich eintreten wird.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou ficar em casa porque est\u00E1 chovendo."
+          },
+          {
+            "id": "answer",
+            "text": "Se chover, vou ficar em casa."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Se fizer sol, vou ficar em casa."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Se chover, vou sair."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Efragen\u201C?",
+        "explanation": "perguntar \u2014 fragen. Perguntar hei\u00DFt fragen. N\u00E3o sei bedeutet ich wei\u00DF es nicht; mas verbindet damit ich kann fragen. Nach posso steht der Infinitiv perguntar. Der Satz sagt noch nicht, wen oder wonach die Person fragen wird. N\u00E3o sei, mas posso perguntar. \u2014 Ich wei\u00DF es nicht, aber ich kann fragen.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "ou"
+          },
+          {
+            "id": "d1",
+            "text": "porque"
+          },
+          {
+            "id": "answer",
+            "text": "perguntar"
+          },
+          {
+            "id": "d5",
+            "text": "depois"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du es nicht wei\u00DFt, aber fragen kannst?",
+        "explanation": "N\u00E3o sei verneint das Wissen; mas verbindet damit die M\u00F6glichkeit, nachzufragen. Perguntar steht nach posso im Infinitiv.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "N\u00E3o sei e n\u00E3o posso perguntar."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Eu sei, mas n\u00E3o vou perguntar."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o sei, mas posso perguntar."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o entendi a pergunta."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eglauben; finden\u201C? Zusammenhang: bei einer Einsch\u00E4tzung zu einer Frage.",
+        "explanation": "achar \u2014 glauben; finden. Achar hei\u00DFt hier glauben oder der Meinung sein; acho ist die Ich-Form. Acho que sim dr\u00FCckt eine Einsch\u00E4tzung aus, keine v\u00F6llig sichere Best\u00E4tigung. Achar kann auch einen Gegenstand finden bedeuten; diese Lesart passt hier nicht. Acho que sim. \u2014 Ich glaube schon.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "primeiro"
+          },
+          {
+            "id": "answer",
+            "text": "achar"
+          },
+          {
+            "id": "d0",
+            "text": "porque"
+          },
+          {
+            "id": "d3",
+            "text": "perguntar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage \u00E4u\u00DFert eine vorsichtige Einsch\u00E4tzung im Sinn von \u201EIch glaube schon\u201C?",
+        "explanation": "Acho que sim ist eine Einsch\u00E4tzung, keine v\u00F6llig sichere Best\u00E4tigung. Achar bezeichnet hier nicht das Finden eines Gegenstands.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Tenho certeza de que sim."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Acho que n\u00E3o."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o sei."
+          },
+          {
+            "id": "answer",
+            "text": "Acho que sim."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

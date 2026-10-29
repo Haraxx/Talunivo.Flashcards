@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-36-strand",
-  "packageVersion": 4,
-  "title": "36 · Strand und Ausflug",
+  "packageVersion": 6,
+  "title": "36 \u00B7 Strand und Ausflug",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Strand und Ausflug",
       "expression": "praia",
       "translation": "Strand",
-      "isVocabulary": true,
-      "example": "Vamos à praia?",
+      "example": "Vamos \u00E0 praia?",
       "exampleTranslation": "Wollen wir an den Strand gehen?",
-      "explanation": "A praia, Plural praias, heißt Strand. À verbindet a + a; à praia bezeichnet hier das Ziel an den Strand. Vamos …? ist mit Frageintonation ein gemeinsamer Vorschlag."
+      "explanation": "A praia, Plural praias, hei\u00DFt Strand. \u00C0 verbindet a \u002B a; \u00E0 praia bezeichnet hier das Ziel an den Strand. Vamos \u2026? ist mit Frageintonation ein gemeinsamer Vorschlag.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Strand und Ausflug",
       "expression": "protetor solar",
       "translation": "Sonnencreme",
-      "isVocabulary": true,
       "example": "Preciso de protetor solar.",
       "exampleTranslation": "Ich brauche Sonnencreme.",
-      "explanation": "O protetor solar, Plural protetores solares, bezeichnet ein Sonnenschutzmittel. Sonnencreme ist hier die deutsche Wiedergabe. Preciso de + Nomen heißt ich brauche etwas; der Satz nennt weder Produkt noch Anwendung."
+      "explanation": "O protetor solar, Plural protetores solares, bezeichnet ein Sonnenschutzmittel. Sonnencreme ist hier die deutsche Wiedergabe. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas; der Satz nennt weder Produkt noch Anwendung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Strand und Ausflug",
-      "expression": "chapéu",
+      "expression": "chap\u00E9u",
       "translation": "Hut",
-      "isVocabulary": true,
-      "example": "Leve um chapéu, por favor.",
+      "example": "Leve um chap\u00E9u, por favor.",
       "exampleTranslation": "Nimm bitte einen Hut mit.",
-      "explanation": "O chapéu, Plural chapéus, ist der Hut. Leve ist hier die Aufforderungsform von levar zur Ansprache mit você: nimm mit. Der Akut gehört auch im Plural zur Schreibweise."
+      "explanation": "O chap\u00E9u, Plural chap\u00E9us, ist der Hut. Leve ist hier die Aufforderungsform von levar zur Ansprache mit voc\u00EA: nimm mit. Der Akut geh\u00F6rt auch im Plural zur Schreibweise.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Strand und Ausflug",
       "expression": "guarda-sol",
       "translation": "Sonnenschirm",
-      "isVocabulary": true,
       "example": "Onde posso alugar um guarda-sol?",
       "exampleTranslation": "Wo kann ich einen Sonnenschirm mieten?",
-      "explanation": "O guarda-sol heißt Sonnenschirm; die Mehrzahl lautet guarda-sóis. Posso alugar bedeutet ich kann mieten, onde fragt nach dem Ort. Die Frage nennt noch keinen tatsächlichen Anbieter oder Preis."
+      "explanation": "O guarda-sol hei\u00DFt Sonnenschirm; die Mehrzahl lautet guarda-s\u00F3is. Posso alugar bedeutet ich kann mieten, onde fragt nach dem Ort. Die Frage nennt noch keinen tats\u00E4chlichen Anbieter oder Preis.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Strand und Ausflug",
       "expression": "mar",
       "translation": "Meer",
-      "isVocabulary": true,
-      "example": "O mar está calmo hoje.",
+      "example": "O mar est\u00E1 calmo hoje.",
       "exampleTranslation": "Das Meer ist heute ruhig.",
-      "explanation": "O mar, Plural mares, heißt Meer. Calmo passt zur männlichen Form mar und bedeutet ruhig. Está beschreibt hier den Zustand heute; ruhig ist sprachlich nicht gleichbedeutend mit sicher."
+      "explanation": "O mar, Plural mares, hei\u00DFt Meer. Calmo passt zur m\u00E4nnlichen Form mar und bedeutet ruhig. Est\u00E1 beschreibt hier den Zustand heute; ruhig ist sprachlich nicht gleichbedeutend mit sicher.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Strand und Ausflug",
       "expression": "seguro",
       "translation": "sicher",
-      "isVocabulary": true,
-      "example": "É seguro nadar aqui?",
+      "example": "\u00C9 seguro nadar aqui?",
       "exampleTranslation": "Ist es sicher, hier zu schwimmen?",
-      "explanation": "Seguro bedeutet hier sicher. Im Muster é seguro + Infinitiv wird eine Handlung beurteilt; nadar heißt schwimmen, aqui hier. Das Beispiel ist eine Frage und enthält keine Antwort über einen bestimmten Ort."
+      "explanation": "Seguro bedeutet hier sicher. Im Muster \u00E9 seguro \u002B Infinitiv wird eine Handlung beurteilt; nadar hei\u00DFt schwimmen, aqui hier. Das Beispiel ist eine Frage und enth\u00E4lt keine Antwort \u00FCber einen bestimmten Ort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Strand und Ausflug",
       "expression": "sombra",
       "translation": "Schatten",
-      "isVocabulary": true,
       "example": "Vou ficar na sombra.",
       "exampleTranslation": "Ich werde im Schatten bleiben.",
-      "explanation": "A sombra, Plural sombras, bedeutet Schatten. Na verbindet em + a; na sombra heißt im Schatten. Vou ficar kündigt hier an: ich werde bleiben."
+      "explanation": "A sombra, Plural sombras, bedeutet Schatten. Na verbindet em \u002B a; na sombra hei\u00DFt im Schatten. Vou ficar k\u00FCndigt hier an: ich werde bleiben.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Strand und Ausflug",
       "expression": "escurecer",
       "translation": "dunkel werden",
-      "isVocabulary": true,
       "example": "Vamos voltar antes de escurecer.",
-      "exampleTranslation": "Kehren wir zurück, bevor es dunkel wird.",
-      "explanation": "Escurecer heißt hier dunkel werden. Antes de + Infinitiv nennt ein Ereignis, vor dem etwas geschieht. Vamos voltar ist hier ein Vorschlag zur Rückkehr; der Satz nennt keine genaue Uhrzeit."
+      "exampleTranslation": "Kehren wir zur\u00FCck, bevor es dunkel wird.",
+      "explanation": "Escurecer hei\u00DFt hier dunkel werden. Antes de \u002B Infinitiv nennt ein Ereignis, vor dem etwas geschieht. Vamos voltar ist hier ein Vorschlag zur R\u00FCckkehr; der Satz nennt keine genaue Uhrzeit.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Dinge am Strand benennen und einfache W\u00FCnsche oder Beschreibungen verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Hut: \u201ELeve um ____, por favor.\u201C",
+        "explanation": "Chap\u00E9u hei\u00DFt Hut. Der Akut geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "chap\u00E9u"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Sonnenschirm als zusammengesetztes Wort mit Bindestrich: \u201EOnde posso alugar um ____?\u201C",
+        "explanation": "Guarda-sol ist die Einzahl, guarda-s\u00F3is die Mehrzahl. Der Bindestrich geh\u00F6rt zur gelernten Form.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "guarda-sol"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, hei\u00DFt Strand. \u00C0 verbindet a \u002B a; \u00E0 praia bezeichnet hier das Ziel an den Strand. Vamos \u2026? ist mit Frageintonation ein gemeinsamer Vorschlag. Vamos \u00E0 praia? \u2014 Wollen wir an den Strand gehen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Sonnencreme"
+          },
+          {
+            "id": "d9",
+            "text": "Meer"
+          },
+          {
+            "id": "d0",
+            "text": "Park"
+          },
+          {
+            "id": "answer",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "praia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epraia\u201C?",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, hei\u00DFt Strand. \u00C0 verbindet a \u002B a; \u00E0 praia bezeichnet hier das Ziel an den Strand. Vamos \u2026? ist mit Frageintonation ein gemeinsamer Vorschlag. Vamos \u00E0 praia? \u2014 Wollen wir an den Strand gehen?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "B\u00E4ckerei"
+          },
+          {
+            "id": "answer",
+            "text": "Strand"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "d8",
+            "text": "Brot mit K\u00E4se"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPreciso de protetor solar.\u201C",
+        "explanation": "protetor solar \u2014 Sonnencreme. O protetor solar, Plural protetores solares, bezeichnet ein Sonnenschutzmittel. Sonnencreme ist hier die deutsche Wiedergabe. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas; der Satz nennt weder Produkt noch Anwendung. Preciso de protetor solar. \u2014 Ich brauche Sonnencreme.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Schatten"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "d4",
+            "text": "sicher"
+          },
+          {
+            "id": "answer",
+            "text": "Sonnencreme"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "protetor solar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eprotetor solar\u201C in diesem Beispiel? \u201EPreciso de protetor solar.\u201C",
+        "explanation": "protetor solar \u2014 Sonnencreme. O protetor solar, Plural protetores solares, bezeichnet ein Sonnenschutzmittel. Sonnencreme ist hier die deutsche Wiedergabe. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas; der Satz nennt weder Produkt noch Anwendung. Preciso de protetor solar. \u2014 Ich brauche Sonnencreme.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Sonnencreme"
+          },
+          {
+            "id": "d3",
+            "text": "Meer"
+          },
+          {
+            "id": "d4",
+            "text": "sicher"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "mar \u2014 Meer. O mar, Plural mares, hei\u00DFt Meer. Calmo passt zur m\u00E4nnlichen Form mar und bedeutet ruhig. Est\u00E1 beschreibt hier den Zustand heute; ruhig ist sprachlich nicht gleichbedeutend mit sicher. O mar est\u00E1 calmo hoje. \u2014 Das Meer ist heute ruhig.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Schatten"
+          },
+          {
+            "id": "answer",
+            "text": "Meer"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "d2",
+            "text": "Sonnencreme"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emar\u201C?",
+        "explanation": "mar \u2014 Meer. O mar, Plural mares, hei\u00DFt Meer. Calmo passt zur m\u00E4nnlichen Form mar und bedeutet ruhig. Est\u00E1 beschreibt hier den Zustand heute; ruhig ist sprachlich nicht gleichbedeutend mit sicher. O mar est\u00E1 calmo hoje. \u2014 Das Meer ist heute ruhig.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "answer",
+            "text": "Meer"
+          },
+          {
+            "id": "d4",
+            "text": "sicher"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201E\u00C9 seguro nadar aqui?\u201C",
+        "explanation": "seguro \u2014 sicher. Seguro bedeutet hier sicher. Im Muster \u00E9 seguro \u002B Infinitiv wird eine Handlung beurteilt; nadar hei\u00DFt schwimmen, aqui hier. Das Beispiel ist eine Frage und enth\u00E4lt keine Antwort \u00FCber einen bestimmten Ort. \u00C9 seguro nadar aqui? \u2014 Ist es sicher, hier zu schwimmen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sicher"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "d4",
+            "text": "Meer"
+          },
+          {
+            "id": "d3",
+            "text": "Schatten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "seguro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eseguro\u201C in diesem Beispiel? \u201E\u00C9 seguro nadar aqui?\u201C",
+        "explanation": "seguro \u2014 sicher. Seguro bedeutet hier sicher. Im Muster \u00E9 seguro \u002B Infinitiv wird eine Handlung beurteilt; nadar hei\u00DFt schwimmen, aqui hier. Das Beispiel ist eine Frage und enth\u00E4lt keine Antwort \u00FCber einen bestimmten Ort. \u00C9 seguro nadar aqui? \u2014 Ist es sicher, hier zu schwimmen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Schatten"
+          },
+          {
+            "id": "d5",
+            "text": "Hut"
+          },
+          {
+            "id": "d2",
+            "text": "Sonnencreme"
+          },
+          {
+            "id": "answer",
+            "text": "sicher"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sombra \u2014 Schatten. A sombra, Plural sombras, bedeutet Schatten. Na verbindet em \u002B a; na sombra hei\u00DFt im Schatten. Vou ficar k\u00FCndigt hier an: ich werde bleiben. Vou ficar na sombra. \u2014 Ich werde im Schatten bleiben.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "dunkel werden"
+          },
+          {
+            "id": "answer",
+            "text": "Schatten"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sombra",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esombra\u201C?",
+        "explanation": "sombra \u2014 Schatten. A sombra, Plural sombras, bedeutet Schatten. Na verbindet em \u002B a; na sombra hei\u00DFt im Schatten. Vou ficar k\u00FCndigt hier an: ich werde bleiben. Vou ficar na sombra. \u2014 Ich werde im Schatten bleiben.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "dunkel werden"
+          },
+          {
+            "id": "answer",
+            "text": "Schatten"
+          },
+          {
+            "id": "d2",
+            "text": "Sonnencreme"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "escurecer \u2014 dunkel werden. Escurecer hei\u00DFt hier dunkel werden. Antes de \u002B Infinitiv nennt ein Ereignis, vor dem etwas geschieht. Vamos voltar ist hier ein Vorschlag zur R\u00FCckkehr; der Satz nennt keine genaue Uhrzeit. Vamos voltar antes de escurecer. \u2014 Kehren wir zur\u00FCck, bevor es dunkel wird.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Schatten"
+          },
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "d5",
+            "text": "sicher"
+          },
+          {
+            "id": "answer",
+            "text": "dunkel werden"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "escurecer",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eescurecer\u201C?",
+        "explanation": "escurecer \u2014 dunkel werden. Escurecer hei\u00DFt hier dunkel werden. Antes de \u002B Infinitiv nennt ein Ereignis, vor dem etwas geschieht. Vamos voltar ist hier ein Vorschlag zur R\u00FCckkehr; der Satz nennt keine genaue Uhrzeit. Vamos voltar antes de escurecer. \u2014 Kehren wir zur\u00FCck, bevor es dunkel wird.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Sonnenschirm"
+          },
+          {
+            "id": "d5",
+            "text": "sicher"
+          },
+          {
+            "id": "answer",
+            "text": "dunkel werden"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EAonde vamos?\u201C \u2013 Welche Antwort schl\u00E4gt vor, gemeinsam an den Strand zu gehen?",
+        "explanation": "Vamos \u00E0 praia? ist ein gemeinsamer Vorschlag. \u00C0 praia bezeichnet hier das Ziel an den Strand.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vamos ao cinema?"
+          },
+          {
+            "id": "answer",
+            "text": "Vamos \u00E0 praia?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vamos ao museu?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vamos ao parque?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EStrand\u201C?",
+        "explanation": "praia \u2014 Strand. A praia, Plural praias, hei\u00DFt Strand. \u00C0 verbindet a \u002B a; \u00E0 praia bezeichnet hier das Ziel an den Strand. Vamos \u2026? ist mit Frageintonation ein gemeinsamer Vorschlag. Vamos \u00E0 praia? \u2014 Wollen wir an den Strand gehen?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "sombra"
+          },
+          {
+            "id": "answer",
+            "text": "praia"
+          },
+          {
+            "id": "d10",
+            "text": "seguro"
+          },
+          {
+            "id": "d3",
+            "text": "conversar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du Sonnencreme brauchst?",
+        "explanation": "Protetor solar bezeichnet ein Sonnenschutzmittel, hier Sonnencreme. Der Satz nennt kein Produkt und keine Anwendung.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Preciso de \u00E1gua."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso de protetor solar."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de um guarda-sol."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso de um chap\u00E9u."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201ESonnencreme\u201C? Zusammenhang: bei einer Bitte um einen Gegenstand f\u00FCr den Strand.",
+        "explanation": "protetor solar \u2014 Sonnencreme. O protetor solar, Plural protetores solares, bezeichnet ein Sonnenschutzmittel. Sonnencreme ist hier die deutsche Wiedergabe. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas; der Satz nennt weder Produkt noch Anwendung. Preciso de protetor solar. \u2014 Ich brauche Sonnencreme.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "praia"
+          },
+          {
+            "id": "d2",
+            "text": "sombra"
+          },
+          {
+            "id": "d1",
+            "text": "guarda-sol"
+          },
+          {
+            "id": "answer",
+            "text": "protetor solar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt das Meer heute ausdr\u00FCcklich als ruhig?",
+        "explanation": "Mar hei\u00DFt Meer. Calmo beschreibt hier einen Zustand; der Satz bewertet nicht, ob Schwimmen sicher ist.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tem muito vento hoje."
+          },
+          {
+            "id": "answer",
+            "text": "O mar est\u00E1 calmo hoje."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O c\u00E9u est\u00E1 nublado hoje."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O mar est\u00E1 agitado hoje."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMeer\u201C?",
+        "explanation": "mar \u2014 Meer. O mar, Plural mares, hei\u00DFt Meer. Calmo passt zur m\u00E4nnlichen Form mar und bedeutet ruhig. Est\u00E1 beschreibt hier den Zustand heute; ruhig ist sprachlich nicht gleichbedeutend mit sicher. O mar est\u00E1 calmo hoje. \u2014 Das Meer ist heute ruhig.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "escurecer"
+          },
+          {
+            "id": "answer",
+            "text": "mar"
+          },
+          {
+            "id": "d3",
+            "text": "sombra"
+          },
+          {
+            "id": "d2",
+            "text": "protetor solar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich ausdr\u00FCcklich, ob es sicher ist, hier zu schwimmen?",
+        "explanation": "\u00C9 seguro nadar aqui? ist eine Frage. Sie gibt keine Antwort \u00FCber die Sicherheit an einem bestimmten Ort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vamos \u00E0 praia?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde posso alugar um guarda-sol?"
+          },
+          {
+            "id": "answer",
+            "text": "\u00C9 seguro nadar aqui?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "O mar est\u00E1 calmo hoje."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Esicher\u201C? Zusammenhang: bei einer Frage zum Schwimmen an diesem Ort.",
+        "explanation": "seguro \u2014 sicher. Seguro bedeutet hier sicher. Im Muster \u00E9 seguro \u002B Infinitiv wird eine Handlung beurteilt; nadar hei\u00DFt schwimmen, aqui hier. Das Beispiel ist eine Frage und enth\u00E4lt keine Antwort \u00FCber einen bestimmten Ort. \u00C9 seguro nadar aqui? \u2014 Ist es sicher, hier zu schwimmen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "praia"
+          },
+          {
+            "id": "d4",
+            "text": "mar"
+          },
+          {
+            "id": "d6",
+            "text": "escurecer"
+          },
+          {
+            "id": "answer",
+            "text": "seguro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage k\u00FCndigt an, dass du im Schatten bleiben wirst?",
+        "explanation": "Na sombra hei\u00DFt im Schatten. Vou ficar k\u00FCndigt hier an, dass man dort bleiben wird.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Vou ficar no sol."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vou nadar no mar."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vou voltar para casa."
+          },
+          {
+            "id": "answer",
+            "text": "Vou ficar na sombra."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESchatten\u201C?",
+        "explanation": "sombra \u2014 Schatten. A sombra, Plural sombras, bedeutet Schatten. Na verbindet em \u002B a; na sombra hei\u00DFt im Schatten. Vou ficar k\u00FCndigt hier an: ich werde bleiben. Vou ficar na sombra. \u2014 Ich werde im Schatten bleiben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sombra"
+          },
+          {
+            "id": "d5",
+            "text": "chap\u00E9u"
+          },
+          {
+            "id": "d2",
+            "text": "protetor solar"
+          },
+          {
+            "id": "d1",
+            "text": "guarda-sol"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage schl\u00E4gt vor, vor dem Dunkelwerden zur\u00FCckzukehren?",
+        "explanation": "Antes de escurecer hei\u00DFt bevor es dunkel wird. Eine genaue Uhrzeit wird nicht genannt.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vamos ficar na praia."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vamos voltar amanh\u00E3."
+          },
+          {
+            "id": "answer",
+            "text": "Vamos voltar antes de escurecer."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vamos voltar depois de escurecer."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Edunkel werden\u201C?",
+        "explanation": "escurecer \u2014 dunkel werden. Escurecer hei\u00DFt hier dunkel werden. Antes de \u002B Infinitiv nennt ein Ereignis, vor dem etwas geschieht. Vamos voltar ist hier ein Vorschlag zur R\u00FCckkehr; der Satz nennt keine genaue Uhrzeit. Vamos voltar antes de escurecer. \u2014 Kehren wir zur\u00FCck, bevor es dunkel wird.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "sombra"
+          },
+          {
+            "id": "answer",
+            "text": "escurecer"
+          },
+          {
+            "id": "d1",
+            "text": "guarda-sol"
+          },
+          {
+            "id": "d5",
+            "text": "seguro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

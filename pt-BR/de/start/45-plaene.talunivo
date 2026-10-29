@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-45-plaene",
-  "packageVersion": 4,
-  "title": "45 · Pläne für morgen",
+  "packageVersion": 6,
+  "title": "45 \u00B7 Pl\u00E4ne f\u00FCr morgen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "trabalhar",
       "translation": "arbeiten",
-      "isVocabulary": true,
-      "example": "Amanhã vou trabalhar de manhã.",
+      "example": "Amanh\u00E3 vou trabalhar de manh\u00E3.",
       "exampleTranslation": "Morgen werde ich vormittags arbeiten.",
-      "explanation": "Trabalhar heißt arbeiten. Vou + Infinitiv drückt hier einen Plan der sprechenden Person aus. Amanhã bedeutet morgen, de manhã morgens oder vormittags; beides zusammen heißt morgen am Vormittag."
+      "explanation": "Trabalhar hei\u00DFt arbeiten. Vou \u002B Infinitiv dr\u00FCckt hier einen Plan der sprechenden Person aus. Amanh\u00E3 bedeutet morgen, de manh\u00E3 morgens oder vormittags; beides zusammen hei\u00DFt morgen am Vormittag.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "visitar",
       "translation": "besuchen",
-      "isVocabulary": true,
-      "example": "Vou visitar minha irmã.",
+      "example": "Vou visitar minha irm\u00E3.",
       "exampleTranslation": "Ich werde meine Schwester besuchen.",
-      "explanation": "Visitar heißt besuchen. Vou visitar bezeichnet hier meinen geplanten Besuch; minha irmã heißt meine Schwester. Im Portugiesischen folgt die besuchte Person hier direkt auf visitar, ohne eine zusätzliche Präposition."
+      "explanation": "Visitar hei\u00DFt besuchen. Vou visitar bezeichnet hier meinen geplanten Besuch; minha irm\u00E3 hei\u00DFt meine Schwester. Im Portugiesischen folgt die besuchte Person hier direkt auf visitar, ohne eine zus\u00E4tzliche Pr\u00E4position.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "comprar",
       "translation": "kaufen",
-      "isVocabulary": true,
-      "example": "Amanhã vamos comprar comida.",
+      "example": "Amanh\u00E3 vamos comprar comida.",
       "exampleTranslation": "Morgen werden wir Lebensmittel einkaufen.",
-      "explanation": "Comprar heißt kaufen; comida bezeichnet hier Essen beziehungsweise Lebensmittel. Vamos + Infinitiv gehört zu wir. Amanhã nennt morgen als Zeitpunkt; vamos comprar kann im Gespräch auch einen gemeinsamen Vorschlag ausdrücken."
+      "explanation": "Comprar hei\u00DFt kaufen; comida bezeichnet hier Essen beziehungsweise Lebensmittel. Vamos \u002B Infinitiv geh\u00F6rt zu wir. Amanh\u00E3 nennt morgen als Zeitpunkt; vamos comprar kann im Gespr\u00E4ch auch einen gemeinsamen Vorschlag ausdr\u00FCcken.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "chegar",
       "translation": "ankommen",
-      "isVocabulary": true,
-      "example": "Ela vai chegar à tarde.",
+      "example": "Ela vai chegar \u00E0 tarde.",
       "exampleTranslation": "Sie wird am Nachmittag ankommen.",
-      "explanation": "Chegar heißt ankommen. Vai + Infinitiv gehört hier zu ela, sie in der Einzahl. À tarde bedeutet am Nachmittag; eine genaue Uhrzeit und ein Ankunftsort werden nicht genannt."
+      "explanation": "Chegar hei\u00DFt ankommen. Vai \u002B Infinitiv geh\u00F6rt hier zu ela, sie in der Einzahl. \u00C0 tarde bedeutet am Nachmittag; eine genaue Uhrzeit und ein Ankunftsort werden nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "viajar",
       "translation": "verreisen",
-      "isVocabulary": true,
-      "example": "Você vai viajar no fim de semana?",
+      "example": "Voc\u00EA vai viajar no fim de semana?",
       "exampleTranslation": "Wirst du am Wochenende verreisen?",
-      "explanation": "Viajar heißt reisen oder verreisen. Vai gehört im Satz zu você; no fim de semana bedeutet am Wochenende. Die Frage nennt weder Reiseziel noch Verkehrsmittel."
+      "explanation": "Viajar hei\u00DFt reisen oder verreisen. Vai geh\u00F6rt im Satz zu voc\u00EA; no fim de semana bedeutet am Wochenende. Die Frage nennt weder Reiseziel noch Verkehrsmittel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "sair",
       "translation": "ausgehen",
-      "isVocabulary": true,
-      "example": "Não vou sair hoje.",
+      "example": "N\u00E3o vou sair hoje.",
       "exampleTranslation": "Ich werde heute nicht ausgehen.",
-      "explanation": "Sair bedeutet hier ausgehen, je nach Zusammenhang auch weggehen oder hinausgehen. Não steht vor vou und verneint den Zukunftssatz. Hoje bedeutet heute; die Aussage nennt keine Ursache für den Plan."
+      "explanation": "Sair bedeutet hier ausgehen, je nach Zusammenhang auch weggehen oder hinausgehen. N\u00E3o steht vor vou und verneint den Zukunftssatz. Hoje bedeutet heute; die Aussage nennt keine Ursache f\u00FCr den Plan.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "fazer",
       "translation": "machen",
-      "isVocabulary": true,
-      "example": "O que você vai fazer amanhã?",
+      "example": "O que voc\u00EA vai fazer amanh\u00E3?",
       "exampleTranslation": "Was wirst du morgen machen?",
-      "explanation": "Fazer heißt machen oder tun. O que fragt hier was, você vai fazer nach der geplanten Tätigkeit der angesprochenen Person. Amanhã bedeutet morgen; es handelt sich um eine offene Frage."
+      "explanation": "Fazer hei\u00DFt machen oder tun. O que fragt hier was, voc\u00EA vai fazer nach der geplanten T\u00E4tigkeit der angesprochenen Person. Amanh\u00E3 bedeutet morgen; es handelt sich um eine offene Frage.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Pläne für morgen",
+      "topic": "Pl\u00E4ne f\u00FCr morgen",
       "expression": "ficar",
       "translation": "bleiben",
-      "isVocabulary": true,
-      "example": "Amanhã vamos ficar em casa.",
+      "example": "Amanh\u00E3 vamos ficar em casa.",
       "exampleTranslation": "Morgen werden wir zu Hause bleiben.",
-      "explanation": "Ficar heißt hier bleiben. Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause. Amanhã legt den Zeitpunkt auf morgen fest. Als Gesprächsbeitrag kann vamos auch einen Vorschlag einleiten."
+      "explanation": "Ficar hei\u00DFt hier bleiben. Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause. Amanh\u00E3 legt den Zeitpunkt auf morgen fest. Als Gespr\u00E4chsbeitrag kann vamos auch einen Vorschlag einleiten.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Pl\u00E4ne f\u00FCr sp\u00E4tere Aktivit\u00E4ten verstehen und ausdr\u00FCcken.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Grundform des Verbs f\u00FCr besuchen aus diesem Paket, ohne Personalpronomen.",
+        "explanation": "Visitar bedeutet besuchen. Visito w\u00E4re die Ich-Form; hier ist ausdr\u00FCcklich die Grundform gefragt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "visitar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Grundform des Verbs f\u00FCr verreisen aus diesem Paket, ohne Personalpronomen.",
+        "explanation": "Viajar bedeutet reisen oder verreisen. Viajo w\u00E4re die Ich-Form; hier ist die Grundform gefragt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "viajar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "trabalhar \u2014 arbeiten. Trabalhar hei\u00DFt arbeiten. Vou \u002B Infinitiv dr\u00FCckt hier einen Plan der sprechenden Person aus. Amanh\u00E3 bedeutet morgen, de manh\u00E3 morgens oder vormittags; beides zusammen hei\u00DFt morgen am Vormittag. Amanh\u00E3 vou trabalhar de manh\u00E3. \u2014 Morgen werde ich vormittags arbeiten.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "noch"
+          },
+          {
+            "id": "answer",
+            "text": "arbeiten"
+          },
+          {
+            "id": "d2",
+            "text": "Lehrerin"
+          },
+          {
+            "id": "d7",
+            "text": "Jahre"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "trabalhar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etrabalhar\u201C?",
+        "explanation": "trabalhar \u2014 arbeiten. Trabalhar hei\u00DFt arbeiten. Vou \u002B Infinitiv dr\u00FCckt hier einen Plan der sprechenden Person aus. Amanh\u00E3 bedeutet morgen, de manh\u00E3 morgens oder vormittags; beides zusammen hei\u00DFt morgen am Vormittag. Amanh\u00E3 vou trabalhar de manh\u00E3. \u2014 Morgen werde ich vormittags arbeiten.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "noch"
+          },
+          {
+            "id": "answer",
+            "text": "arbeiten"
+          },
+          {
+            "id": "d10",
+            "text": "besuchen"
+          },
+          {
+            "id": "d0",
+            "text": "kaufen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "comprar \u2014 kaufen. Comprar hei\u00DFt kaufen; comida bezeichnet hier Essen beziehungsweise Lebensmittel. Vamos \u002B Infinitiv geh\u00F6rt zu wir. Amanh\u00E3 nennt morgen als Zeitpunkt; vamos comprar kann im Gespr\u00E4ch auch einen gemeinsamen Vorschlag ausdr\u00FCcken. Amanh\u00E3 vamos comprar comida. \u2014 Morgen werden wir Lebensmittel einkaufen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "gestern"
+          },
+          {
+            "id": "d9",
+            "text": "besuchen"
+          },
+          {
+            "id": "d0",
+            "text": "verreisen"
+          },
+          {
+            "id": "answer",
+            "text": "kaufen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "comprar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecomprar\u201C?",
+        "explanation": "comprar \u2014 kaufen. Comprar hei\u00DFt kaufen; comida bezeichnet hier Essen beziehungsweise Lebensmittel. Vamos \u002B Infinitiv geh\u00F6rt zu wir. Amanh\u00E3 nennt morgen als Zeitpunkt; vamos comprar kann im Gespr\u00E4ch auch einen gemeinsamen Vorschlag ausdr\u00FCcken. Amanh\u00E3 vamos comprar comida. \u2014 Morgen werden wir Lebensmittel einkaufen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "ankommen"
+          },
+          {
+            "id": "answer",
+            "text": "kaufen"
+          },
+          {
+            "id": "d1",
+            "text": "gut (m\u00E4nnlich)"
+          },
+          {
+            "id": "d8",
+            "text": "bleiben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "chegar \u2014 ankommen. Chegar hei\u00DFt ankommen. Vai \u002B Infinitiv geh\u00F6rt hier zu ela, sie in der Einzahl. \u00C0 tarde bedeutet am Nachmittag; eine genaue Uhrzeit und ein Ankunftsort werden nicht genannt. Ela vai chegar \u00E0 tarde. \u2014 Sie wird am Nachmittag ankommen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "ausgehen"
+          },
+          {
+            "id": "answer",
+            "text": "ankommen"
+          },
+          {
+            "id": "d1",
+            "text": "verreisen"
+          },
+          {
+            "id": "d0",
+            "text": "kaufen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "chegar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Echegar\u201C?",
+        "explanation": "chegar \u2014 ankommen. Chegar hei\u00DFt ankommen. Vai \u002B Infinitiv geh\u00F6rt hier zu ela, sie in der Einzahl. \u00C0 tarde bedeutet am Nachmittag; eine genaue Uhrzeit und ein Ankunftsort werden nicht genannt. Ela vai chegar \u00E0 tarde. \u2014 Sie wird am Nachmittag ankommen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "machen"
+          },
+          {
+            "id": "d6",
+            "text": "ausgehen"
+          },
+          {
+            "id": "d0",
+            "text": "kaufen"
+          },
+          {
+            "id": "answer",
+            "text": "ankommen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o vou sair hoje.\u201C",
+        "explanation": "sair \u2014 ausgehen. Sair bedeutet hier ausgehen, je nach Zusammenhang auch weggehen oder hinausgehen. N\u00E3o steht vor vou und verneint den Zukunftssatz. Hoje bedeutet heute; die Aussage nennt keine Ursache f\u00FCr den Plan. N\u00E3o vou sair hoje. \u2014 Ich werde heute nicht ausgehen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "ankommen"
+          },
+          {
+            "id": "d1",
+            "text": "verreisen"
+          },
+          {
+            "id": "d5",
+            "text": "besuchen"
+          },
+          {
+            "id": "answer",
+            "text": "ausgehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sair",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esair\u201C in diesem Beispiel? \u201EN\u00E3o vou sair hoje.\u201C",
+        "explanation": "sair \u2014 ausgehen. Sair bedeutet hier ausgehen, je nach Zusammenhang auch weggehen oder hinausgehen. N\u00E3o steht vor vou und verneint den Zukunftssatz. Hoje bedeutet heute; die Aussage nennt keine Ursache f\u00FCr den Plan. N\u00E3o vou sair hoje. \u2014 Ich werde heute nicht ausgehen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "verreisen"
+          },
+          {
+            "id": "d5",
+            "text": "besuchen"
+          },
+          {
+            "id": "answer",
+            "text": "ausgehen"
+          },
+          {
+            "id": "d0",
+            "text": "kaufen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "fazer \u2014 machen. Fazer hei\u00DFt machen oder tun. O que fragt hier was, voc\u00EA vai fazer nach der geplanten T\u00E4tigkeit der angesprochenen Person. Amanh\u00E3 bedeutet morgen; es handelt sich um eine offene Frage. O que voc\u00EA vai fazer amanh\u00E3? \u2014 Was wirst du morgen machen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "machen"
+          },
+          {
+            "id": "d0",
+            "text": "kaufen"
+          },
+          {
+            "id": "d4",
+            "text": "bleiben"
+          },
+          {
+            "id": "d3",
+            "text": "ankommen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "fazer",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efazer\u201C?",
+        "explanation": "fazer \u2014 machen. Fazer hei\u00DFt machen oder tun. O que fragt hier was, voc\u00EA vai fazer nach der geplanten T\u00E4tigkeit der angesprochenen Person. Amanh\u00E3 bedeutet morgen; es handelt sich um eine offene Frage. O que voc\u00EA vai fazer amanh\u00E3? \u2014 Was wirst du morgen machen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "ankommen"
+          },
+          {
+            "id": "d5",
+            "text": "besuchen"
+          },
+          {
+            "id": "d2",
+            "text": "arbeiten"
+          },
+          {
+            "id": "answer",
+            "text": "machen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EAmanh\u00E3 vamos ficar em casa.\u201C",
+        "explanation": "ficar \u2014 bleiben. Ficar hei\u00DFt hier bleiben. Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause. Amanh\u00E3 legt den Zeitpunkt auf morgen fest. Als Gespr\u00E4chsbeitrag kann vamos auch einen Vorschlag einleiten. Amanh\u00E3 vamos ficar em casa. \u2014 Morgen werden wir zu Hause bleiben.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "ankommen"
+          },
+          {
+            "id": "answer",
+            "text": "bleiben"
+          },
+          {
+            "id": "d1",
+            "text": "verreisen"
+          },
+          {
+            "id": "d2",
+            "text": "arbeiten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ficar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eficar\u201C in diesem Beispiel? \u201EAmanh\u00E3 vamos ficar em casa.\u201C",
+        "explanation": "ficar \u2014 bleiben. Ficar hei\u00DFt hier bleiben. Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause. Amanh\u00E3 legt den Zeitpunkt auf morgen fest. Als Gespr\u00E4chsbeitrag kann vamos auch einen Vorschlag einleiten. Amanh\u00E3 vamos ficar em casa. \u2014 Morgen werden wir zu Hause bleiben.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "kaufen"
+          },
+          {
+            "id": "d3",
+            "text": "ankommen"
+          },
+          {
+            "id": "d5",
+            "text": "machen"
+          },
+          {
+            "id": "answer",
+            "text": "bleiben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Earbeiten\u201C?",
+        "explanation": "trabalhar \u2014 arbeiten. Trabalhar hei\u00DFt arbeiten. Vou \u002B Infinitiv dr\u00FCckt hier einen Plan der sprechenden Person aus. Amanh\u00E3 bedeutet morgen, de manh\u00E3 morgens oder vormittags; beides zusammen hei\u00DFt morgen am Vormittag. Amanh\u00E3 vou trabalhar de manh\u00E3. \u2014 Morgen werde ich vormittags arbeiten.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "estudante"
+          },
+          {
+            "id": "answer",
+            "text": "trabalhar"
+          },
+          {
+            "id": "d7",
+            "text": "anos"
+          },
+          {
+            "id": "d8",
+            "text": "ficar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt deinen Plan, morgen am Vormittag zu arbeiten?",
+        "explanation": "Amanh\u00E3 hei\u00DFt morgen und de manh\u00E3 morgens oder vormittags. Vou trabalhar ist hier der Plan der sprechenden Person.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Amanh\u00E3 vou trabalhar \u00E0 tarde."
+          },
+          {
+            "id": "answer",
+            "text": "Amanh\u00E3 vou trabalhar de manh\u00E3."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Amanh\u00E3 vou visitar minha irm\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Hoje vou trabalhar de manh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ekaufen\u201C?",
+        "explanation": "comprar \u2014 kaufen. Comprar hei\u00DFt kaufen; comida bezeichnet hier Essen beziehungsweise Lebensmittel. Vamos \u002B Infinitiv geh\u00F6rt zu wir. Amanh\u00E3 nennt morgen als Zeitpunkt; vamos comprar kann im Gespr\u00E4ch auch einen gemeinsamen Vorschlag ausdr\u00FCcken. Amanh\u00E3 vamos comprar comida. \u2014 Morgen werden wir Lebensmittel einkaufen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "bom"
+          },
+          {
+            "id": "d8",
+            "text": "ficar"
+          },
+          {
+            "id": "answer",
+            "text": "comprar"
+          },
+          {
+            "id": "d7",
+            "text": "pergunta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt ausdr\u00FCcklich unseren gemeinsamen Plan, morgen Lebensmittel einzukaufen?",
+        "explanation": "Vamos comprar geh\u00F6rt zu wir, vou comprar zu ich. Amanh\u00E3 setzt den Zeitpunkt auf morgen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Amanh\u00E3 vou comprar comida."
+          },
+          {
+            "id": "answer",
+            "text": "Amanh\u00E3 vamos comprar comida."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Amanh\u00E3 vamos ficar em casa."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Hoje vamos comprar comida."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eankommen\u201C?",
+        "explanation": "chegar \u2014 ankommen. Chegar hei\u00DFt ankommen. Vai \u002B Infinitiv geh\u00F6rt hier zu ela, sie in der Einzahl. \u00C0 tarde bedeutet am Nachmittag; eine genaue Uhrzeit und ein Ankunftsort werden nicht genannt. Ela vai chegar \u00E0 tarde. \u2014 Sie wird am Nachmittag ankommen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "chegar"
+          },
+          {
+            "id": "d5",
+            "text": "fazer"
+          },
+          {
+            "id": "d2",
+            "text": "trabalhar"
+          },
+          {
+            "id": "d1",
+            "text": "viajar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass sie als einzelne weibliche Person am Nachmittag ankommen wird?",
+        "explanation": "Ela ist hier weibliche Einzahl. Vai chegar hei\u00DFt wird ankommen, \u00E0 tarde am Nachmittag; eine genaue Uhrzeit bleibt offen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Ela vai chegar de manh\u00E3."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Ela vai viajar \u00E0 tarde."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Ele vai chegar \u00E0 tarde."
+          },
+          {
+            "id": "answer",
+            "text": "Ela vai chegar \u00E0 tarde."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eausgehen\u201C? Zusammenhang: bei einer Aussage \u00FCber einen Plan f\u00FCr heute.",
+        "explanation": "sair \u2014 ausgehen. Sair bedeutet hier ausgehen, je nach Zusammenhang auch weggehen oder hinausgehen. N\u00E3o steht vor vou und verneint den Zukunftssatz. Hoje bedeutet heute; die Aussage nennt keine Ursache f\u00FCr den Plan. N\u00E3o vou sair hoje. \u2014 Ich werde heute nicht ausgehen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "comprar"
+          },
+          {
+            "id": "answer",
+            "text": "sair"
+          },
+          {
+            "id": "d5",
+            "text": "visitar"
+          },
+          {
+            "id": "d2",
+            "text": "trabalhar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt ausdr\u00FCcklich deinen Plan, heute nicht auszugehen, ohne einen Grund festzulegen?",
+        "explanation": "N\u00E3o vou sair hoje ist ein verneinter Plan f\u00FCr heute. Eine verneinte M\u00F6glichkeit oder Erlaubnis ist eine andere Aussage als ein verneinter Plan.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Vou sair hoje."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o vou sair amanh\u00E3."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o posso sair agora."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o vou sair hoje."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Emachen\u201C?",
+        "explanation": "fazer \u2014 machen. Fazer hei\u00DFt machen oder tun. O que fragt hier was, voc\u00EA vai fazer nach der geplanten T\u00E4tigkeit der angesprochenen Person. Amanh\u00E3 bedeutet morgen; es handelt sich um eine offene Frage. O que voc\u00EA vai fazer amanh\u00E3? \u2014 Was wirst du morgen machen?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "sair"
+          },
+          {
+            "id": "d3",
+            "text": "chegar"
+          },
+          {
+            "id": "answer",
+            "text": "fazer"
+          },
+          {
+            "id": "d0",
+            "text": "comprar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche offene Frage erkundigt sich danach, was dein Gegen\u00FCber morgen machen wird?",
+        "explanation": "O que voc\u00EA vai fazer amanh\u00E3? fragt offen nach einer geplanten T\u00E4tigkeit f\u00FCr morgen, nicht nur nach einem Ort oder einer Ja-Nein-Antwort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde voc\u00EA vai ficar amanh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "O que voc\u00EA vai fazer hoje?"
+          },
+          {
+            "id": "answer",
+            "text": "O que voc\u00EA vai fazer amanh\u00E3?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA vai viajar no fim de semana?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ebleiben\u201C? Zusammenhang: bei einem Plan f\u00FCr morgen zu Hause.",
+        "explanation": "ficar \u2014 bleiben. Ficar hei\u00DFt hier bleiben. Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause. Amanh\u00E3 legt den Zeitpunkt auf morgen fest. Als Gespr\u00E4chsbeitrag kann vamos auch einen Vorschlag einleiten. Amanh\u00E3 vamos ficar em casa. \u2014 Morgen werden wir zu Hause bleiben.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "sair"
+          },
+          {
+            "id": "answer",
+            "text": "ficar"
+          },
+          {
+            "id": "d3",
+            "text": "chegar"
+          },
+          {
+            "id": "d2",
+            "text": "trabalhar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EO que vamos fazer amanh\u00E3?\u201C \u2013 Welche Antwort nennt unseren Plan, morgen zu Hause zu bleiben?",
+        "explanation": "Vamos ficar nennt einen gemeinsamen Plan, em casa bedeutet zu Hause und amanh\u00E3 morgen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Amanh\u00E3 vamos comprar comida."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Hoje vamos ficar em casa."
+          },
+          {
+            "id": "answer",
+            "text": "Amanh\u00E3 vamos ficar em casa."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Amanh\u00E3 vou trabalhar de manh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

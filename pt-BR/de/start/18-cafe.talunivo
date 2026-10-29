@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-18-cafe",
-  "packageVersion": 4,
-  "title": "18 · Im Café",
+  "packageVersion": 5,
+  "title": "18 \u00B7 Im Caf\u00E9",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Im Café",
+      "topic": "Im Caf\u00E9",
       "expression": "mesa",
       "translation": "Tisch",
-      "isVocabulary": true,
       "example": "Tem uma mesa livre?",
       "exampleTranslation": "Ist ein Tisch frei?",
-      "explanation": "A mesa, Plural mesas. Tem uma mesa livre? fragt im brasilianischen Alltag nach einem freien Tisch. Livre bedeutet hier frei oder unbesetzt."
+      "explanation": "A mesa, Plural mesas. Tem uma mesa livre? fragt im brasilianischen Alltag nach einem freien Tisch. Livre bedeutet hier frei oder unbesetzt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Im Café",
+      "topic": "Im Caf\u00E9",
       "expression": "pessoas",
       "translation": "Personen",
-      "isVocabulary": true,
       "example": "Uma mesa para duas pessoas, por favor.",
-      "exampleTranslation": "Einen Tisch für zwei Personen, bitte.",
-      "explanation": "A pessoa, Plural pessoas. Das Wort ist grammatisch weiblich, unabhängig von den Personen. Daher duas pessoas; vor einem männlichen Nomen heißt es dois."
+      "exampleTranslation": "Einen Tisch f\u00FCr zwei Personen, bitte.",
+      "explanation": "A pessoa, Plural pessoas. Das Wort ist grammatisch weiblich, unabh\u00E4ngig von den Personen. Daher duas pessoas; vor einem m\u00E4nnlichen Nomen hei\u00DFt es dois.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Im Café",
-      "expression": "cardápio",
+      "topic": "Im Caf\u00E9",
+      "expression": "card\u00E1pio",
       "translation": "Speisekarte",
-      "isVocabulary": true,
-      "example": "Posso ver o cardápio, por favor?",
+      "example": "Posso ver o card\u00E1pio, por favor?",
       "exampleTranslation": "Kann ich bitte die Speisekarte sehen?",
-      "explanation": "O cardápio, Plural cardápios, ist in Brasilien die Speisekarte. Posso ver …? bedeutet kann ich … sehen? Por favor macht die Bitte ausdrücklich höflich."
+      "explanation": "O card\u00E1pio, Plural card\u00E1pios, ist in Brasilien die Speisekarte. Posso ver \u2026? bedeutet kann ich \u2026 sehen? Por favor macht die Bitte ausdr\u00FCcklich h\u00F6flich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Im Café",
-      "expression": "sanduíche",
+      "topic": "Im Caf\u00E9",
+      "expression": "sandu\u00EDche",
       "translation": "Sandwich",
-      "isVocabulary": true,
-      "example": "Quero um sanduíche de queijo, por favor.",
-      "exampleTranslation": "Ich möchte ein Käsesandwich, bitte.",
-      "explanation": "O sanduíche, Plural sanduíches. De queijo bedeutet hier mit Käse. Quero … wird bei einer Bestellung als ich möchte … verwendet; por favor ergänzt die höfliche Bitte."
+      "example": "Quero um sandu\u00EDche de queijo, por favor.",
+      "exampleTranslation": "Ich m\u00F6chte ein K\u00E4sesandwich, bitte.",
+      "explanation": "O sandu\u00EDche, Plural sandu\u00EDches. De queijo bedeutet hier mit K\u00E4se. Quero \u2026 wird bei einer Bestellung als ich m\u00F6chte \u2026 verwendet; por favor erg\u00E4nzt die h\u00F6fliche Bitte.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Im Café",
+      "topic": "Im Caf\u00E9",
       "expression": "mais um",
       "translation": "noch ein",
-      "isVocabulary": true,
-      "example": "Mais um café, por favor.",
+      "example": "Mais um caf\u00E9, por favor.",
       "exampleTranslation": "Noch einen Kaffee, bitte.",
-      "explanation": "Mais um bedeutet noch ein vor einem männlichen Nomen: mais um café. Vor einem weiblichen Nomen: mais uma água. Es geht jeweils um eine zusätzliche Bestellung."
+      "explanation": "Mais um bedeutet noch ein vor einem m\u00E4nnlichen Nomen: mais um caf\u00E9. Vor einem weiblichen Nomen: mais uma \u00E1gua. Es geht jeweils um eine zus\u00E4tzliche Bestellung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Im Café",
+      "topic": "Im Caf\u00E9",
       "expression": "gostoso",
       "translation": "lecker",
-      "isVocabulary": true,
-      "example": "O sanduíche está gostoso.",
+      "example": "O sandu\u00EDche est\u00E1 gostoso.",
       "exampleTranslation": "Das Sandwich schmeckt gut.",
-      "explanation": "Gostoso bedeutet lecker oder wohlschmeckend. Die Form richtet sich nach dem Lebensmittel: o sanduíche está gostoso; weiblich a comida está gostosa. Nicht nach der Person, die spricht."
+      "explanation": "Gostoso bedeutet lecker oder wohlschmeckend. Die Form richtet sich nach dem Lebensmittel: o sandu\u00EDche est\u00E1 gostoso; weiblich a comida est\u00E1 gostosa. Nicht nach der Person, die spricht.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Im Café",
-      "expression": "cartão",
+      "topic": "Im Caf\u00E9",
+      "expression": "cart\u00E3o",
       "translation": "Karte (Zahlung)",
-      "isVocabulary": true,
-      "example": "Posso pagar com cartão?",
+      "example": "Posso pagar com cart\u00E3o?",
       "exampleTranslation": "Kann ich mit Karte bezahlen?",
-      "explanation": "O cartão, Plural cartões. Hier ist eine Zahlungskarte gemeint. Pagar com cartão bedeutet mit Karte bezahlen; die konkrete Kartenart wird damit noch nicht festgelegt."
+      "explanation": "O cart\u00E3o, Plural cart\u00F5es. Hier ist eine Zahlungskarte gemeint. Pagar com cart\u00E3o bedeutet mit Karte bezahlen; die konkrete Kartenart wird damit noch nicht festgelegt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Im Café",
+      "topic": "Im Caf\u00E9",
       "expression": "conta",
       "translation": "Rechnung",
-      "isVocabulary": true,
       "example": "A conta, por favor.",
       "exampleTranslation": "Die Rechnung, bitte.",
-      "explanation": "A conta, Plural contas. Im Café bezeichnet conta hier die Rechnung. A conta, por favor ist eine kurze höfliche Bitte; sie bedeutet noch nicht, dass schon bezahlt wurde."
+      "explanation": "A conta, Plural contas. Im Caf\u00E9 bezeichnet conta hier die Rechnung. A conta, por favor ist eine kurze h\u00F6fliche Bitte; sie bedeutet noch nicht, dass schon bezahlt wurde.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Im Caf\u00E9 bestellen, nach der Karte fragen und die Rechnung erbitten.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das portugiesische Wort f\u00FCr \u201EPersonen\u201C (ein Wort): \u201EUma mesa para duas ____, por favor.\u201C",
+        "explanation": "Duas pessoas bezeichnet zwei Personen. Der Tisch wird f\u00FCr diese Personen erbeten.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "pessoas"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze mit dem gelernten Ausdruck f\u00FCr \u201Enoch ein\u201C aus diesem Paket (zwei W\u00F6rter): \u201E____ caf\u00E9, por favor.\u201C",
+        "explanation": "Die Aufgabe fragt nach dem gelernten Ausdruck mais um: Mais um caf\u00E9 bestellt einen weiteren Kaffee. Andere Formulierungen k\u00F6nnen in freien Gespr\u00E4chen ebenfalls passen; hier wird diese Wendung abgerufen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "Mais um"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "mesa \u2014 Tisch. A mesa, Plural mesas. Tem uma mesa livre? fragt im brasilianischen Alltag nach einem freien Tisch. Livre bedeutet hier frei oder unbesetzt. Tem uma mesa livre? \u2014 Ist ein Tisch frei?",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Salat"
+          },
+          {
+            "id": "d9",
+            "text": "Karte (Zahlung)"
+          },
+          {
+            "id": "d2",
+            "text": "Fleisch"
+          },
+          {
+            "id": "answer",
+            "text": "Tisch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mesa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emesa\u201C?",
+        "explanation": "mesa \u2014 Tisch. A mesa, Plural mesas. Tem uma mesa livre? fragt im brasilianischen Alltag nach einem freien Tisch. Livre bedeutet hier frei oder unbesetzt. Tem uma mesa livre? \u2014 Ist ein Tisch frei?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tisch"
+          },
+          {
+            "id": "d4",
+            "text": "Tagesgericht"
+          },
+          {
+            "id": "d8",
+            "text": "Salat"
+          },
+          {
+            "id": "d0",
+            "text": "Erdnuss"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "card\u00E1pio \u2014 Speisekarte. O card\u00E1pio, Plural card\u00E1pios, ist in Brasilien die Speisekarte. Posso ver \u2026? bedeutet kann ich \u2026 sehen? Por favor macht die Bitte ausdr\u00FCcklich h\u00F6flich. Posso ver o card\u00E1pio, por favor? \u2014 Kann ich bitte die Speisekarte sehen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Rechnung"
+          },
+          {
+            "id": "d5",
+            "text": "Personen"
+          },
+          {
+            "id": "d3",
+            "text": "lecker"
+          },
+          {
+            "id": "answer",
+            "text": "Speisekarte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "card\u00E1pio",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecard\u00E1pio\u201C?",
+        "explanation": "card\u00E1pio \u2014 Speisekarte. O card\u00E1pio, Plural card\u00E1pios, ist in Brasilien die Speisekarte. Posso ver \u2026? bedeutet kann ich \u2026 sehen? Por favor macht die Bitte ausdr\u00FCcklich h\u00F6flich. Posso ver o card\u00E1pio, por favor? \u2014 Kann ich bitte die Speisekarte sehen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Karte (Zahlung)"
+          },
+          {
+            "id": "answer",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "d4",
+            "text": "noch ein"
+          },
+          {
+            "id": "d6",
+            "text": "Tisch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sandu\u00EDche \u2014 Sandwich. O sandu\u00EDche, Plural sandu\u00EDches. De queijo bedeutet hier mit K\u00E4se. Quero \u2026 wird bei einer Bestellung als ich m\u00F6chte \u2026 verwendet; por favor erg\u00E4nzt die h\u00F6fliche Bitte. Quero um sandu\u00EDche de queijo, por favor. \u2014 Ich m\u00F6chte ein K\u00E4sesandwich, bitte.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Karte (Zahlung)"
+          },
+          {
+            "id": "d3",
+            "text": "noch ein"
+          },
+          {
+            "id": "answer",
+            "text": "Sandwich"
+          },
+          {
+            "id": "d1",
+            "text": "Rechnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sandu\u00EDche",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esandu\u00EDche\u201C?",
+        "explanation": "sandu\u00EDche \u2014 Sandwich. O sandu\u00EDche, Plural sandu\u00EDches. De queijo bedeutet hier mit K\u00E4se. Quero \u2026 wird bei einer Bestellung als ich m\u00F6chte \u2026 verwendet; por favor erg\u00E4nzt die h\u00F6fliche Bitte. Quero um sandu\u00EDche de queijo, por favor. \u2014 Ich m\u00F6chte ein K\u00E4sesandwich, bitte.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Sandwich"
+          },
+          {
+            "id": "d5",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "d4",
+            "text": "Personen"
+          },
+          {
+            "id": "d1",
+            "text": "Rechnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "Was bestellt die Person zu essen?",
+        "explanation": "Um sandu\u00EDche de queijo ist ein K\u00E4sesandwich. Queijo bedeutet K\u00E4se.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "ein Glas Wasser"
+          },
+          {
+            "id": "answer",
+            "text": "ein K\u00E4sesandwich"
+          },
+          {
+            "id": "wrong-0",
+            "text": "einen K\u00E4sekuchen"
+          },
+          {
+            "id": "wrong-1",
+            "text": "einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "Quero um sandu\u00EDche de queijo, por favor.",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "gostoso \u2014 lecker. Gostoso bedeutet lecker oder wohlschmeckend. Die Form richtet sich nach dem Lebensmittel: o sandu\u00EDche est\u00E1 gostoso; weiblich a comida est\u00E1 gostosa. Nicht nach der Person, die spricht. O sandu\u00EDche est\u00E1 gostoso. \u2014 Das Sandwich schmeckt gut.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Personen"
+          },
+          {
+            "id": "d1",
+            "text": "Sandwich"
+          },
+          {
+            "id": "d6",
+            "text": "Tisch"
+          },
+          {
+            "id": "answer",
+            "text": "lecker"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "gostoso",
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Egostoso\u201C?",
+        "explanation": "gostoso \u2014 lecker. Gostoso bedeutet lecker oder wohlschmeckend. Die Form richtet sich nach dem Lebensmittel: o sandu\u00EDche est\u00E1 gostoso; weiblich a comida est\u00E1 gostosa. Nicht nach der Person, die spricht. O sandu\u00EDche est\u00E1 gostoso. \u2014 Das Sandwich schmeckt gut.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "d1",
+            "text": "Sandwich"
+          },
+          {
+            "id": "answer",
+            "text": "lecker"
+          },
+          {
+            "id": "d6",
+            "text": "Tisch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cart\u00E3o \u2014 Karte (Zahlung). O cart\u00E3o, Plural cart\u00F5es. Hier ist eine Zahlungskarte gemeint. Pagar com cart\u00E3o bedeutet mit Karte bezahlen; die konkrete Kartenart wird damit noch nicht festgelegt. Posso pagar com cart\u00E3o? \u2014 Kann ich mit Karte bezahlen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "lecker"
+          },
+          {
+            "id": "d5",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "answer",
+            "text": "Karte (Zahlung)"
+          },
+          {
+            "id": "d1",
+            "text": "Rechnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cart\u00E3o",
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecart\u00E3o\u201C?",
+        "explanation": "cart\u00E3o \u2014 Karte (Zahlung). O cart\u00E3o, Plural cart\u00F5es. Hier ist eine Zahlungskarte gemeint. Pagar com cart\u00E3o bedeutet mit Karte bezahlen; die konkrete Kartenart wird damit noch nicht festgelegt. Posso pagar com cart\u00E3o? \u2014 Kann ich mit Karte bezahlen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Karte (Zahlung)"
+          },
+          {
+            "id": "d5",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "d6",
+            "text": "Tisch"
+          },
+          {
+            "id": "d2",
+            "text": "lecker"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "Womit m\u00F6chte die Person bezahlen?",
+        "explanation": "Pagar com cart\u00E3o bedeutet mit Karte bezahlen. Die anderen Zahlungsarten werden nicht genannt.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "mit Karte"
+          },
+          {
+            "id": "wrong-2",
+            "text": "mit einem Gutschein"
+          },
+          {
+            "id": "wrong-1",
+            "text": "mit einer \u00DCberweisung"
+          },
+          {
+            "id": "wrong-0",
+            "text": "mit Bargeld"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "Posso pagar com cart\u00E3o?",
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "conta \u2014 Rechnung. A conta, Plural contas. Im Caf\u00E9 bezeichnet conta hier die Rechnung. A conta, por favor ist eine kurze h\u00F6fliche Bitte; sie bedeutet noch nicht, dass schon bezahlt wurde. A conta, por favor. \u2014 Die Rechnung, bitte.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "noch ein"
+          },
+          {
+            "id": "d5",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "d4",
+            "text": "Personen"
+          },
+          {
+            "id": "answer",
+            "text": "Rechnung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "conta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Econta\u201C?",
+        "explanation": "conta \u2014 Rechnung. A conta, Plural contas. Im Caf\u00E9 bezeichnet conta hier die Rechnung. A conta, por favor ist eine kurze h\u00F6fliche Bitte; sie bedeutet noch nicht, dass schon bezahlt wurde. A conta, por favor. \u2014 Die Rechnung, bitte.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Rechnung"
+          },
+          {
+            "id": "d1",
+            "text": "Sandwich"
+          },
+          {
+            "id": "d5",
+            "text": "Speisekarte"
+          },
+          {
+            "id": "d4",
+            "text": "Personen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ETisch\u201C?",
+        "explanation": "mesa \u2014 Tisch. A mesa, Plural mesas. Tem uma mesa livre? fragt im brasilianischen Alltag nach einem freien Tisch. Livre bedeutet hier frei oder unbesetzt. Tem uma mesa livre? \u2014 Ist ein Tisch frei?",
+        "options": [
+          {
+            "id": "d10",
+            "text": "sandu\u00EDche"
+          },
+          {
+            "id": "d11",
+            "text": "conta"
+          },
+          {
+            "id": "d8",
+            "text": "salada"
+          },
+          {
+            "id": "answer",
+            "text": "mesa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst einen freien Tisch im Caf\u00E9. Welche Frage passt?",
+        "explanation": "Tem uma mesa livre? fragt, ob ein unbesetzter Tisch vorhanden ist. Die anderen Aussagen betreffen Bezahlen, Speisekarte und Rechnung.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Posso ver o card\u00E1pio?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "A conta, por favor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso pagar com cart\u00E3o?"
+          },
+          {
+            "id": "answer",
+            "text": "Tem uma mesa livre?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESpeisekarte\u201C?",
+        "explanation": "card\u00E1pio \u2014 Speisekarte. O card\u00E1pio, Plural card\u00E1pios, ist in Brasilien die Speisekarte. Posso ver \u2026? bedeutet kann ich \u2026 sehen? Por favor macht die Bitte ausdr\u00FCcklich h\u00F6flich. Posso ver o card\u00E1pio, por favor? \u2014 Kann ich bitte die Speisekarte sehen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "gostoso"
+          },
+          {
+            "id": "d0",
+            "text": "cart\u00E3o"
+          },
+          {
+            "id": "d4",
+            "text": "mais um"
+          },
+          {
+            "id": "answer",
+            "text": "card\u00E1pio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche Bitte fragt nach der Speisekarte?",
+        "explanation": "Card\u00E1pio bezeichnet die Speisekarte. Conta ist die Rechnung; mais um caf\u00E9 bestellt einen weiteren Kaffee.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Mais um caf\u00E9, por favor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A conta, por favor."
+          },
+          {
+            "id": "answer",
+            "text": "Posso ver o card\u00E1pio, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Uma mesa para duas pessoas, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESandwich\u201C?",
+        "explanation": "sandu\u00EDche \u2014 Sandwich. O sandu\u00EDche, Plural sandu\u00EDches. De queijo bedeutet hier mit K\u00E4se. Quero \u2026 wird bei einer Bestellung als ich m\u00F6chte \u2026 verwendet; por favor erg\u00E4nzt die h\u00F6fliche Bitte. Quero um sandu\u00EDche de queijo, por favor. \u2014 Ich m\u00F6chte ein K\u00E4sesandwich, bitte.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "pessoas"
+          },
+          {
+            "id": "d5",
+            "text": "card\u00E1pio"
+          },
+          {
+            "id": "answer",
+            "text": "sandu\u00EDche"
+          },
+          {
+            "id": "d2",
+            "text": "gostoso"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Elecker\u201C?",
+        "explanation": "gostoso \u2014 lecker. Gostoso bedeutet lecker oder wohlschmeckend. Die Form richtet sich nach dem Lebensmittel: o sandu\u00EDche est\u00E1 gostoso; weiblich a comida est\u00E1 gostosa. Nicht nach der Person, die spricht. O sandu\u00EDche est\u00E1 gostoso. \u2014 Das Sandwich schmeckt gut.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "mesa"
+          },
+          {
+            "id": "d4",
+            "text": "pessoas"
+          },
+          {
+            "id": "d0",
+            "text": "cart\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "gostoso"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Das Sandwich schmeckt dir. Welche Aussage lobt seinen Geschmack?",
+        "explanation": "Gostoso bedeutet hier lecker. Frio beschreibt die Temperatur, caro den Preis und pequeno die Gr\u00F6\u00DFe.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O sandu\u00EDche \u00E9 pequeno."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O sandu\u00EDche est\u00E1 frio."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O sandu\u00EDche \u00E9 caro."
+          },
+          {
+            "id": "answer",
+            "text": "O sandu\u00EDche est\u00E1 gostoso."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKarte (Zahlung)\u201C?",
+        "explanation": "cart\u00E3o \u2014 Karte (Zahlung). O cart\u00E3o, Plural cart\u00F5es. Hier ist eine Zahlungskarte gemeint. Pagar com cart\u00E3o bedeutet mit Karte bezahlen; die konkrete Kartenart wird damit noch nicht festgelegt. Posso pagar com cart\u00E3o? \u2014 Kann ich mit Karte bezahlen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "mais um"
+          },
+          {
+            "id": "answer",
+            "text": "cart\u00E3o"
+          },
+          {
+            "id": "d0",
+            "text": "sandu\u00EDche"
+          },
+          {
+            "id": "d5",
+            "text": "card\u00E1pio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ERechnung\u201C?",
+        "explanation": "conta \u2014 Rechnung. A conta, Plural contas. Im Caf\u00E9 bezeichnet conta hier die Rechnung. A conta, por favor ist eine kurze h\u00F6fliche Bitte; sie bedeutet noch nicht, dass schon bezahlt wurde. A conta, por favor. \u2014 Die Rechnung, bitte.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "mais um"
+          },
+          {
+            "id": "answer",
+            "text": "conta"
+          },
+          {
+            "id": "d2",
+            "text": "gostoso"
+          },
+          {
+            "id": "d1",
+            "text": "sandu\u00EDche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "Du bist fertig und m\u00F6chtest die Rechnung. Welche Bitte passt?",
+        "explanation": "A conta ist hier die Rechnung. Card\u00E1pio fragt nach der Speisekarte; die anderen Bitten bestellen Kaffee oder einen Tisch.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O card\u00E1pio, por favor."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Uma mesa, por favor."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Mais um caf\u00E9, por favor."
+          },
+          {
+            "id": "answer",
+            "text": "A conta, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      }
+    ]
+  }
 }

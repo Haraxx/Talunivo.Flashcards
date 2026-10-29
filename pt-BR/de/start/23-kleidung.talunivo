@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-23-kleidung",
-  "packageVersion": 4,
-  "title": "23 · Kleidung und Größen",
+  "packageVersion": 6,
+  "title": "23 \u00B7 Kleidung und Gr\u00F6\u00DFen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "camiseta",
       "translation": "T-Shirt",
-      "isVocabulary": true,
-      "example": "Esta camiseta é azul.",
+      "example": "Esta camiseta \u00E9 azul.",
       "exampleTranslation": "Dieses T-Shirt ist blau.",
-      "explanation": "A camiseta, Plural camisetas, ist ein T-Shirt. Esta passt zum weiblichen Nomen; azul bleibt in der Einzahl unverändert. Camisa ist dagegen ein Hemd und nicht dieselbe Bezeichnung."
+      "explanation": "A camiseta, Plural camisetas, ist ein T-Shirt. Esta passt zum weiblichen Nomen; azul bleibt in der Einzahl unver\u00E4ndert. Camisa ist dagegen ein Hemd und nicht dieselbe Bezeichnung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Kleidung und Größen",
-      "expression": "calça",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
+      "expression": "cal\u00E7a",
       "translation": "Hose",
-      "isVocabulary": true,
-      "example": "Preciso de uma calça.",
+      "example": "Preciso de uma cal\u00E7a.",
       "exampleTranslation": "Ich brauche eine Hose.",
-      "explanation": "A calça, Plural calças. Uma calça steht im Portugiesischen für eine einzelne Hose, nicht für mehrere Hosen. Preciso de … ist das bereits bekannte Muster ich brauche …"
+      "explanation": "A cal\u00E7a, Plural cal\u00E7as. Uma cal\u00E7a steht im Portugiesischen f\u00FCr eine einzelne Hose, nicht f\u00FCr mehrere Hosen. Preciso de \u2026 ist das bereits bekannte Muster ich brauche \u2026",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "maior",
-      "translation": "größer",
-      "isVocabulary": true,
+      "translation": "gr\u00F6\u00DFer",
       "example": "Tem um tamanho maior?",
-      "exampleTranslation": "Gibt es eine größere Größe?",
-      "explanation": "Maior ist die unregelmäßige Vergleichsform von grande: größer. Tamanho heißt Größe. Tem um tamanho maior? fragt nach einer größeren Ausführung; maior verändert sich hier nicht nach dem Genus."
+      "exampleTranslation": "Gibt es eine gr\u00F6\u00DFere Gr\u00F6\u00DFe?",
+      "explanation": "Maior ist die unregelm\u00E4\u00DFige Vergleichsform von grande: gr\u00F6\u00DFer. Tamanho hei\u00DFt Gr\u00F6\u00DFe. Tem um tamanho maior? fragt nach einer gr\u00F6\u00DFeren Ausf\u00FChrung; maior ver\u00E4ndert sich hier nicht nach dem Genus.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "menor",
       "translation": "kleiner",
-      "isVocabulary": true,
       "example": "Tem um tamanho menor?",
-      "exampleTranslation": "Gibt es eine kleinere Größe?",
-      "explanation": "Menor ist die unregelmäßige Vergleichsform von pequeno: kleiner. Das Muster ist dasselbe wie bei maior, aber die Vergleichsrichtung ist umgekehrt. Eine bestimmte Größennummer wird damit nicht genannt."
+      "exampleTranslation": "Gibt es eine kleinere Gr\u00F6\u00DFe?",
+      "explanation": "Menor ist die unregelm\u00E4\u00DFige Vergleichsform von pequeno: kleiner. Das Muster ist dasselbe wie bei maior, aber die Vergleichsrichtung ist umgekehrt. Eine bestimmte Gr\u00F6\u00DFennummer wird damit nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "jaqueta",
       "translation": "Jacke",
-      "isVocabulary": true,
       "example": "Posso experimentar esta jaqueta?",
       "exampleTranslation": "Kann ich diese Jacke anprobieren?",
-      "explanation": "A jaqueta, Plural jaquetas, ist eine Jacke. Experimentar heißt im Kleidungsgeschäft hier anprobieren. Posso …? fragt nach Erlaubnis; esta bezieht sich auf die gezeigte Jacke."
+      "explanation": "A jaqueta, Plural jaquetas, ist eine Jacke. Experimentar hei\u00DFt im Kleidungsgesch\u00E4ft hier anprobieren. Posso \u2026? fragt nach Erlaubnis; esta bezieht sich auf die gezeigte Jacke.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "provador",
       "translation": "Umkleidekabine",
-      "isVocabulary": true,
       "example": "Onde fica o provador?",
       "exampleTranslation": "Wo ist die Umkleidekabine?",
-      "explanation": "O provador, Plural provadores, ist hier die Umkleidekabine im Geschäft. Onde fica …? ist die bekannte Ortsfrage. Gemeint ist der Ort zum Anprobieren, nicht eine bestimmte Kleidungsgröße."
+      "explanation": "O provador, Plural provadores, ist hier die Umkleidekabine im Gesch\u00E4ft. Onde fica \u2026? ist die bekannte Ortsfrage. Gemeint ist der Ort zum Anprobieren, nicht eine bestimmte Kleidungsgr\u00F6\u00DFe.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "sapatos",
       "translation": "Schuhe",
-      "isVocabulary": true,
-      "example": "Estes sapatos estão apertados.",
+      "example": "Estes sapatos est\u00E3o apertados.",
       "exampleTranslation": "Diese Schuhe sind zu eng.",
-      "explanation": "O sapato ist ein Schuh; sapatos ist die Mehrzahl. Estes und apertados sind männliche Mehrzahlformen passend zu sapatos. Estão apertados bedeutet hier sind zu eng; eine genaue Schuhgröße wird nicht genannt."
+      "explanation": "O sapato ist ein Schuh; sapatos ist die Mehrzahl. Estes und apertados sind m\u00E4nnliche Mehrzahlformen passend zu sapatos. Est\u00E3o apertados bedeutet hier sind zu eng; eine genaue Schuhgr\u00F6\u00DFe wird nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Kleidung und Größen",
+      "topic": "Kleidung und Gr\u00F6\u00DFen",
       "expression": "boa",
       "translation": "gut (weiblich)",
-      "isVocabulary": true,
       "example": "Esta camiseta ficou boa.",
       "exampleTranslation": "Dieses T-Shirt passt gut.",
-      "explanation": "Boa ist die weibliche Form von bom und richtet sich hier nach camiseta. Ficou ist eine Vergangenheitsform von ficar; im Anprobekontext beschreibt ficou boa das Ergebnis: passt gut oder steht gut. Die passende deutsche Fassung hängt von der Situation ab."
+      "explanation": "Boa ist die weibliche Form von bom und richtet sich hier nach camiseta. Ficou ist eine Vergangenheitsform von ficar; im Anprobekontext beschreibt ficou boa das Ergebnis: passt gut oder steht gut. Die passende deutsche Fassung h\u00E4ngt von der Situation ab.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Kleidungsst\u00FCcke benennen, nach Gr\u00F6\u00DFen fragen und die Passform beschreiben.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Vergleichsform f\u00FCr gr\u00F6\u00DFer bei einer Kleidergr\u00F6\u00DFe: \u201ETem um tamanho ____?\u201C",
+        "explanation": "Maior ist die Vergleichsform von grande. Menor hei\u00DFt kleiner.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "maior"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Vergleichsform f\u00FCr kleiner bei einer Kleidergr\u00F6\u00DFe: \u201ETem um tamanho ____?\u201C",
+        "explanation": "Menor ist die Vergleichsform von pequeno. Maior hei\u00DFt gr\u00F6\u00DFer.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "menor"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "camiseta \u2014 T-Shirt. A camiseta, Plural camisetas, ist ein T-Shirt. Esta passt zum weiblichen Nomen; azul bleibt in der Einzahl unver\u00E4ndert. Camisa ist dagegen ein Hemd und nicht dieselbe Bezeichnung. Esta camiseta \u00E9 azul. \u2014 Dieses T-Shirt ist blau.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d4",
+            "text": "Schuhe"
+          },
+          {
+            "id": "answer",
+            "text": "T-Shirt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "camiseta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecamiseta\u201C?",
+        "explanation": "camiseta \u2014 T-Shirt. A camiseta, Plural camisetas, ist ein T-Shirt. Esta passt zum weiblichen Nomen; azul bleibt in der Einzahl unver\u00E4ndert. Camisa ist dagegen ein Hemd und nicht dieselbe Bezeichnung. Esta camiseta \u00E9 azul. \u2014 Dieses T-Shirt ist blau.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "T-Shirt"
+          },
+          {
+            "id": "d3",
+            "text": "gr\u00F6\u00DFer"
+          },
+          {
+            "id": "d4",
+            "text": "Schuhe"
+          },
+          {
+            "id": "d0",
+            "text": "Jacke"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cal\u00E7a \u2014 Hose. A cal\u00E7a, Plural cal\u00E7as. Uma cal\u00E7a steht im Portugiesischen f\u00FCr eine einzelne Hose, nicht f\u00FCr mehrere Hosen. Preciso de \u2026 ist das bereits bekannte Muster ich brauche \u2026 Preciso de uma cal\u00E7a. \u2014 Ich brauche eine Hose.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hose"
+          },
+          {
+            "id": "d0",
+            "text": "Jacke"
+          },
+          {
+            "id": "d4",
+            "text": "gr\u00F6\u00DFer"
+          },
+          {
+            "id": "d3",
+            "text": "Umkleidekabine"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cal\u00E7a",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecal\u00E7a\u201C?",
+        "explanation": "cal\u00E7a \u2014 Hose. A cal\u00E7a, Plural cal\u00E7as. Uma cal\u00E7a steht im Portugiesischen f\u00FCr eine einzelne Hose, nicht f\u00FCr mehrere Hosen. Preciso de \u2026 ist das bereits bekannte Muster ich brauche \u2026 Preciso de uma cal\u00E7a. \u2014 Ich brauche eine Hose.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Jacke"
+          },
+          {
+            "id": "answer",
+            "text": "Hose"
+          },
+          {
+            "id": "d5",
+            "text": "Schuhe"
+          },
+          {
+            "id": "d4",
+            "text": "gr\u00F6\u00DFer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "jaqueta \u2014 Jacke. A jaqueta, Plural jaquetas, ist eine Jacke. Experimentar hei\u00DFt im Kleidungsgesch\u00E4ft hier anprobieren. Posso \u2026? fragt nach Erlaubnis; esta bezieht sich auf die gezeigte Jacke. Posso experimentar esta jaqueta? \u2014 Kann ich diese Jacke anprobieren?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Schuhe"
+          },
+          {
+            "id": "d0",
+            "text": "kleiner"
+          },
+          {
+            "id": "answer",
+            "text": "Jacke"
+          },
+          {
+            "id": "d2",
+            "text": "Umkleidekabine"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "jaqueta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ejaqueta\u201C?",
+        "explanation": "jaqueta \u2014 Jacke. A jaqueta, Plural jaquetas, ist eine Jacke. Experimentar hei\u00DFt im Kleidungsgesch\u00E4ft hier anprobieren. Posso \u2026? fragt nach Erlaubnis; esta bezieht sich auf die gezeigte Jacke. Posso experimentar esta jaqueta? \u2014 Kann ich diese Jacke anprobieren?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Hose"
+          },
+          {
+            "id": "d2",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "answer",
+            "text": "Jacke"
+          },
+          {
+            "id": "d1",
+            "text": "T-Shirt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "provador \u2014 Umkleidekabine. O provador, Plural provadores, ist hier die Umkleidekabine im Gesch\u00E4ft. Onde fica \u2026? ist die bekannte Ortsfrage. Gemeint ist der Ort zum Anprobieren, nicht eine bestimmte Kleidungsgr\u00F6\u00DFe. Onde fica o provador? \u2014 Wo ist die Umkleidekabine?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "gut (weiblich)"
+          },
+          {
+            "id": "answer",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d0",
+            "text": "Jacke"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "provador",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eprovador\u201C?",
+        "explanation": "provador \u2014 Umkleidekabine. O provador, Plural provadores, ist hier die Umkleidekabine im Gesch\u00E4ft. Onde fica \u2026? ist die bekannte Ortsfrage. Gemeint ist der Ort zum Anprobieren, nicht eine bestimmte Kleidungsgr\u00F6\u00DFe. Onde fica o provador? \u2014 Wo ist die Umkleidekabine?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "gut (weiblich)"
+          },
+          {
+            "id": "answer",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "d2",
+            "text": "T-Shirt"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sapatos \u2014 Schuhe. O sapato ist ein Schuh; sapatos ist die Mehrzahl. Estes und apertados sind m\u00E4nnliche Mehrzahlformen passend zu sapatos. Est\u00E3o apertados bedeutet hier sind zu eng; eine genaue Schuhgr\u00F6\u00DFe wird nicht genannt. Estes sapatos est\u00E3o apertados. \u2014 Diese Schuhe sind zu eng.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "answer",
+            "text": "Schuhe"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d2",
+            "text": "T-Shirt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sapatos",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esapatos\u201C?",
+        "explanation": "sapatos \u2014 Schuhe. O sapato ist ein Schuh; sapatos ist die Mehrzahl. Estes und apertados sind m\u00E4nnliche Mehrzahlformen passend zu sapatos. Est\u00E3o apertados bedeutet hier sind zu eng; eine genaue Schuhgr\u00F6\u00DFe wird nicht genannt. Estes sapatos est\u00E3o apertados. \u2014 Diese Schuhe sind zu eng.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Jacke"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "answer",
+            "text": "Schuhe"
+          },
+          {
+            "id": "d4",
+            "text": "gr\u00F6\u00DFer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEsta camiseta ficou boa.\u201C",
+        "explanation": "boa \u2014 gut (weiblich). Boa ist die weibliche Form von bom und richtet sich hier nach camiseta. Ficou ist eine Vergangenheitsform von ficar; im Anprobekontext beschreibt ficou boa das Ergebnis: passt gut oder steht gut. Die passende deutsche Fassung h\u00E4ngt von der Situation ab. Esta camiseta ficou boa. \u2014 Dieses T-Shirt passt gut.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Umkleidekabine"
+          },
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d5",
+            "text": "Schuhe"
+          },
+          {
+            "id": "answer",
+            "text": "gut (weiblich)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "boa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eboa\u201C in diesem Beispiel? \u201EEsta camiseta ficou boa.\u201C",
+        "explanation": "boa \u2014 gut (weiblich). Boa ist die weibliche Form von bom und richtet sich hier nach camiseta. Ficou ist eine Vergangenheitsform von ficar; im Anprobekontext beschreibt ficou boa das Ergebnis: passt gut oder steht gut. Die passende deutsche Fassung h\u00E4ngt von der Situation ab. Esta camiseta ficou boa. \u2014 Dieses T-Shirt passt gut.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "kleiner"
+          },
+          {
+            "id": "d5",
+            "text": "Schuhe"
+          },
+          {
+            "id": "answer",
+            "text": "gut (weiblich)"
+          },
+          {
+            "id": "d0",
+            "text": "Jacke"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt dieses T-Shirt als blau?",
+        "explanation": "Camiseta hei\u00DFt T-Shirt, cal\u00E7a Hose und jaqueta Jacke.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Esta jaqueta \u00E9 azul."
+          },
+          {
+            "id": "answer",
+            "text": "Esta camiseta \u00E9 azul."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Esta camiseta \u00E9 branca."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Esta cal\u00E7a \u00E9 azul."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ET-Shirt\u201C?",
+        "explanation": "camiseta \u2014 T-Shirt. A camiseta, Plural camisetas, ist ein T-Shirt. Esta passt zum weiblichen Nomen; azul bleibt in der Einzahl unver\u00E4ndert. Camisa ist dagegen ein Hemd und nicht dieselbe Bezeichnung. Esta camiseta \u00E9 azul. \u2014 Dieses T-Shirt ist blau.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "cal\u00E7a"
+          },
+          {
+            "id": "d4",
+            "text": "sapatos"
+          },
+          {
+            "id": "d2",
+            "text": "provador"
+          },
+          {
+            "id": "answer",
+            "text": "camiseta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du eine Hose brauchst?",
+        "explanation": "Uma cal\u00E7a bezeichnet eine Hose im Singular.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Preciso de uma camiseta."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso de uma cal\u00E7a."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Preciso de uma jaqueta."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de sapatos."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EHose\u201C?",
+        "explanation": "cal\u00E7a \u2014 Hose. A cal\u00E7a, Plural cal\u00E7as. Uma cal\u00E7a steht im Portugiesischen f\u00FCr eine einzelne Hose, nicht f\u00FCr mehrere Hosen. Preciso de \u2026 ist das bereits bekannte Muster ich brauche \u2026 Preciso de uma cal\u00E7a. \u2014 Ich brauche eine Hose.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "jaqueta"
+          },
+          {
+            "id": "d4",
+            "text": "maior"
+          },
+          {
+            "id": "d6",
+            "text": "boa"
+          },
+          {
+            "id": "answer",
+            "text": "cal\u00E7a"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest diese Jacke anprobieren. Welche Frage bittet darum?",
+        "explanation": "Experimentar bedeutet hier anprobieren; jaqueta hei\u00DFt Jacke.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o provador?"
+          },
+          {
+            "id": "answer",
+            "text": "Posso experimentar esta jaqueta?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso experimentar esta cal\u00E7a?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem um tamanho maior?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EJacke\u201C?",
+        "explanation": "jaqueta \u2014 Jacke. A jaqueta, Plural jaquetas, ist eine Jacke. Experimentar hei\u00DFt im Kleidungsgesch\u00E4ft hier anprobieren. Posso \u2026? fragt nach Erlaubnis; esta bezieht sich auf die gezeigte Jacke. Posso experimentar esta jaqueta? \u2014 Kann ich diese Jacke anprobieren?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "jaqueta"
+          },
+          {
+            "id": "d6",
+            "text": "boa"
+          },
+          {
+            "id": "d4",
+            "text": "sapatos"
+          },
+          {
+            "id": "d3",
+            "text": "maior"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst die Umkleidekabine im Gesch\u00E4ft. Welche Frage passt?",
+        "explanation": "Provador ist hier die Umkleidekabine zum Anprobieren.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o banco?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde fica o provador?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica a esta\u00E7\u00E3o?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o caixa?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EUmkleidekabine\u201C?",
+        "explanation": "provador \u2014 Umkleidekabine. O provador, Plural provadores, ist hier die Umkleidekabine im Gesch\u00E4ft. Onde fica \u2026? ist die bekannte Ortsfrage. Gemeint ist der Ort zum Anprobieren, nicht eine bestimmte Kleidungsgr\u00F6\u00DFe. Onde fica o provador? \u2014 Wo ist die Umkleidekabine?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "camiseta"
+          },
+          {
+            "id": "d0",
+            "text": "jaqueta"
+          },
+          {
+            "id": "answer",
+            "text": "provador"
+          },
+          {
+            "id": "d1",
+            "text": "menor"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass diese Schuhe zu eng sind?",
+        "explanation": "Apertados hei\u00DFt hier zu eng. Sapatos ist die Mehrzahl Schuhe.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Esta cal\u00E7a est\u00E1 apertada."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estes sapatos s\u00E3o azuis."
+          },
+          {
+            "id": "answer",
+            "text": "Estes sapatos est\u00E3o apertados."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estes sapatos est\u00E3o largos."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESchuhe\u201C?",
+        "explanation": "sapatos \u2014 Schuhe. O sapato ist ein Schuh; sapatos ist die Mehrzahl. Estes und apertados sind m\u00E4nnliche Mehrzahlformen passend zu sapatos. Est\u00E3o apertados bedeutet hier sind zu eng; eine genaue Schuhgr\u00F6\u00DFe wird nicht genannt. Estes sapatos est\u00E3o apertados. \u2014 Diese Schuhe sind zu eng.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "camiseta"
+          },
+          {
+            "id": "answer",
+            "text": "sapatos"
+          },
+          {
+            "id": "d1",
+            "text": "menor"
+          },
+          {
+            "id": "d6",
+            "text": "boa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass dieses T-Shirt nach dem Anprobieren gut sitzt?",
+        "explanation": "Boa ist die weibliche Form von bom und bezieht sich auf camiseta.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Esta camiseta est\u00E1 suja."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Esta camiseta ficou apertada."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Esta camiseta ficou larga."
+          },
+          {
+            "id": "answer",
+            "text": "Esta camiseta ficou boa."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Egut (weiblich)\u201C? Gemeint ist: die weibliche Form gut, bezogen auf camiseta nach dem Anprobieren.",
+        "explanation": "boa \u2014 gut (weiblich). Boa ist die weibliche Form von bom und richtet sich hier nach camiseta. Ficou ist eine Vergangenheitsform von ficar; im Anprobekontext beschreibt ficou boa das Ergebnis: passt gut oder steht gut. Die passende deutsche Fassung h\u00E4ngt von der Situation ab. Esta camiseta ficou boa. \u2014 Dieses T-Shirt passt gut.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "provador"
+          },
+          {
+            "id": "answer",
+            "text": "boa"
+          },
+          {
+            "id": "d1",
+            "text": "menor"
+          },
+          {
+            "id": "d5",
+            "text": "sapatos"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

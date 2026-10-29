@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-41-handy",
-  "packageVersion": 4,
-  "title": "41 · Handy und Kontakt",
+  "packageVersion": 6,
+  "title": "41 \u00B7 Handy und Kontakt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Handy und Kontakt",
-      "expression": "número",
+      "expression": "n\u00FAmero",
       "translation": "Nummer",
-      "isVocabulary": true,
-      "example": "Qual é o seu número de telefone?",
+      "example": "Qual \u00E9 o seu n\u00FAmero de telefone?",
       "exampleTranslation": "Wie lautet deine Telefonnummer?",
-      "explanation": "O número, Plural números, heißt hier Nummer. Número de telefone bedeutet Telefonnummer. Qual é o seu …? fragt nach der Angabe der angesprochenen Person; der Satz enthält noch keine Ziffernfolge."
+      "explanation": "O n\u00FAmero, Plural n\u00FAmeros, hei\u00DFt hier Nummer. N\u00FAmero de telefone bedeutet Telefonnummer. Qual \u00E9 o seu \u2026? fragt nach der Angabe der angesprochenen Person; der Satz enth\u00E4lt noch keine Ziffernfolge.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Handy und Kontakt",
       "expression": "mensagem",
       "translation": "Nachricht",
-      "isVocabulary": true,
       "example": "Pode me mandar uma mensagem, por favor?",
       "exampleTranslation": "Kannst du mir bitte eine Nachricht schicken?",
-      "explanation": "A mensagem, Plural mensagens, bedeutet Nachricht. Mandar uma mensagem heißt eine Nachricht schicken. Me bezieht sich hier auf die sprechende Person als Empfänger; im deutschen Satz steht mir. Ein bestimmter Nachrichtendienst wird nicht genannt."
+      "explanation": "A mensagem, Plural mensagens, bedeutet Nachricht. Mandar uma mensagem hei\u00DFt eine Nachricht schicken. Me bezieht sich hier auf die sprechende Person als Empf\u00E4nger; im deutschen Satz steht mir. Ein bestimmter Nachrichtendienst wird nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Handy und Kontakt",
       "expression": "ligar",
       "translation": "anrufen",
-      "isVocabulary": true,
-      "example": "Vou te ligar amanhã.",
+      "example": "Vou te ligar amanh\u00E3.",
       "exampleTranslation": "Ich rufe dich morgen an.",
-      "explanation": "Ligar heißt im Telefonkontext anrufen. Vou + Infinitiv kündigt eine zukünftige Handlung an; te bezieht sich hier auf die angesprochene Person. Ligar para alguém heißt jemanden anrufen. Bei einem Gerät kann ligar auch einschalten bedeuten."
+      "explanation": "Ligar hei\u00DFt im Telefonkontext anrufen. Vou \u002B Infinitiv k\u00FCndigt eine zuk\u00FCnftige Handlung an; te bezieht sich hier auf die angesprochene Person. Ligar para algu\u00E9m hei\u00DFt jemanden anrufen. Bei einem Ger\u00E4t kann ligar auch einschalten bedeuten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Handy und Kontakt",
       "expression": "bateria",
       "translation": "Akku",
-      "isVocabulary": true,
-      "example": "Meu celular está sem bateria.",
+      "example": "Meu celular est\u00E1 sem bateria.",
       "exampleTranslation": "Der Akku meines Handys ist leer.",
-      "explanation": "A bateria, Plural baterias, bedeutet beim Handy Akku. Estar sem bateria heißt hier keine Akkuladung mehr haben. Der Satz beschreibt einen leeren Akku und sagt nicht, dass das Bauteil im Handy fehlt."
+      "explanation": "A bateria, Plural baterias, bedeutet beim Handy Akku. Estar sem bateria hei\u00DFt hier keine Akkuladung mehr haben. Der Satz beschreibt einen leeren Akku und sagt nicht, dass das Bauteil im Handy fehlt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Handy und Kontakt",
       "expression": "tomada",
       "translation": "Steckdose",
-      "isVocabulary": true,
       "example": "Tem uma tomada aqui?",
       "exampleTranslation": "Gibt es hier eine Steckdose?",
-      "explanation": "A tomada, Plural tomadas, ist die Steckdose. Tem …? fragt im brasilianischen Alltagsgebrauch hier nach dem Vorhandensein; aqui heißt hier. Die Frage enthält noch keine Angabe zur Nutzung der Steckdose."
+      "explanation": "A tomada, Plural tomadas, ist die Steckdose. Tem \u2026? fragt im brasilianischen Alltagsgebrauch hier nach dem Vorhandensein; aqui hei\u00DFt hier. Die Frage enth\u00E4lt noch keine Angabe zur Nutzung der Steckdose.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Handy und Kontakt",
       "expression": "carregar",
       "translation": "aufladen",
-      "isVocabulary": true,
       "example": "Posso carregar meu celular?",
       "exampleTranslation": "Kann ich mein Handy aufladen?",
-      "explanation": "Carregar heißt hier aufladen; carregar o celular bedeutet das Handy aufladen. Posso ist die Ich-Form von poder. Die Frage kann je nach Situation nach einer Möglichkeit oder Erlaubnis fragen; andere Bedeutungen von carregar sind etwa tragen oder beladen."
+      "explanation": "Carregar hei\u00DFt hier aufladen; carregar o celular bedeutet das Handy aufladen. Posso ist die Ich-Form von poder. Die Frage kann je nach Situation nach einer M\u00F6glichkeit oder Erlaubnis fragen; andere Bedeutungen von carregar sind etwa tragen oder beladen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Handy und Kontakt",
       "expression": "sinal",
       "translation": "Empfang; Signal",
-      "isVocabulary": true,
-      "example": "Não tenho sinal aqui.",
+      "example": "N\u00E3o tenho sinal aqui.",
       "exampleTranslation": "Ich habe hier keinen Empfang.",
-      "explanation": "O sinal, Plural sinais, heißt Signal; im Handygespräch ist hier Mobilfunkempfang gemeint. Não tenho verneint ich habe, aqui nennt den aktuellen Ort. Der Satz macht keine Aussage über eine bestimmte Netzabdeckung außerhalb der Beispielsituation."
+      "explanation": "O sinal, Plural sinais, hei\u00DFt Signal; im Handygespr\u00E4ch ist hier Mobilfunkempfang gemeint. N\u00E3o tenho verneint ich habe, aqui nennt den aktuellen Ort. Der Satz macht keine Aussage \u00FCber eine bestimmte Netzabdeckung au\u00DFerhalb der Beispielsituation.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Handy und Kontakt",
       "expression": "e-mail",
       "translation": "E-Mail",
-      "isVocabulary": true,
-      "example": "Pode escrever seu endereço de e-mail, por favor?",
+      "example": "Pode escrever seu endere\u00E7o de e-mail, por favor?",
       "exampleTranslation": "Kannst du deine E-Mail-Adresse bitte aufschreiben?",
-      "explanation": "O e-mail, Plural e-mails, bezeichnet eine E-Mail. Endereço de e-mail ist die E-Mail-Adresse; danach wird hier gefragt. Pode escrever …? bittet um das Aufschreiben, nicht um das Versenden einer Nachricht."
+      "explanation": "O e-mail, Plural e-mails, bezeichnet eine E-Mail. Endere\u00E7o de e-mail ist die E-Mail-Adresse; danach wird hier gefragt. Pode escrever \u2026? bittet um das Aufschreiben, nicht um das Versenden einer Nachricht.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Angaben zu Telefonnummer, Nachrichten und Handynutzung verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Singularnomen f\u00FCr Nummer: \u201EQual \u00E9 o seu ____ de telefone?\u201C",
+        "explanation": "N\u00FAmero ist die Einzahl, n\u00FAmeros die Mehrzahl. Der Akut geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "n\u00FAmero"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr E-Mail als Wort mit Bindestrich: \u201EPode escrever seu endere\u00E7o de ____, por favor?\u201C",
+        "explanation": "Endere\u00E7o de e-mail hei\u00DFt E-Mail-Adresse. Hier wird das gelernte Nomen e-mail mit Bindestrich erg\u00E4nzt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "e-mail"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "mensagem \u2014 Nachricht. A mensagem, Plural mensagens, bedeutet Nachricht. Mandar uma mensagem hei\u00DFt eine Nachricht schicken. Me bezieht sich hier auf die sprechende Person als Empf\u00E4nger; im deutschen Satz steht mir. Ein bestimmter Nachrichtendienst wird nicht genannt. Pode me mandar uma mensagem, por favor? \u2014 Kannst du mir bitte eine Nachricht schicken?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Nummer"
+          },
+          {
+            "id": "d1",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "d5",
+            "text": "Steckdose"
+          },
+          {
+            "id": "answer",
+            "text": "Nachricht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mensagem",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emensagem\u201C?",
+        "explanation": "mensagem \u2014 Nachricht. A mensagem, Plural mensagens, bedeutet Nachricht. Mandar uma mensagem hei\u00DFt eine Nachricht schicken. Me bezieht sich hier auf die sprechende Person als Empf\u00E4nger; im deutschen Satz steht mir. Ein bestimmter Nachrichtendienst wird nicht genannt. Pode me mandar uma mensagem, por favor? \u2014 Kannst du mir bitte eine Nachricht schicken?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "d5",
+            "text": "Steckdose"
+          },
+          {
+            "id": "answer",
+            "text": "Nachricht"
+          },
+          {
+            "id": "d0",
+            "text": "Akku"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVou te ligar amanh\u00E3.\u201C",
+        "explanation": "ligar \u2014 anrufen. Ligar hei\u00DFt im Telefonkontext anrufen. Vou \u002B Infinitiv k\u00FCndigt eine zuk\u00FCnftige Handlung an; te bezieht sich hier auf die angesprochene Person. Ligar para algu\u00E9m hei\u00DFt jemanden anrufen. Bei einem Ger\u00E4t kann ligar auch einschalten bedeuten. Vou te ligar amanh\u00E3. \u2014 Ich rufe dich morgen an.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "E-Mail"
+          },
+          {
+            "id": "answer",
+            "text": "anrufen"
+          },
+          {
+            "id": "d1",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "d0",
+            "text": "Akku"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ligar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eligar\u201C in diesem Beispiel? \u201EVou te ligar amanh\u00E3.\u201C",
+        "explanation": "ligar \u2014 anrufen. Ligar hei\u00DFt im Telefonkontext anrufen. Vou \u002B Infinitiv k\u00FCndigt eine zuk\u00FCnftige Handlung an; te bezieht sich hier auf die angesprochene Person. Ligar para algu\u00E9m hei\u00DFt jemanden anrufen. Bei einem Ger\u00E4t kann ligar auch einschalten bedeuten. Vou te ligar amanh\u00E3. \u2014 Ich rufe dich morgen an.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "E-Mail"
+          },
+          {
+            "id": "answer",
+            "text": "anrufen"
+          },
+          {
+            "id": "d2",
+            "text": "Nummer"
+          },
+          {
+            "id": "d1",
+            "text": "Empfang; Signal"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EMeu celular est\u00E1 sem bateria.\u201C",
+        "explanation": "bateria \u2014 Akku. A bateria, Plural baterias, bedeutet beim Handy Akku. Estar sem bateria hei\u00DFt hier keine Akkuladung mehr haben. Der Satz beschreibt einen leeren Akku und sagt nicht, dass das Bauteil im Handy fehlt. Meu celular est\u00E1 sem bateria. \u2014 Der Akku meines Handys ist leer.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Steckdose"
+          },
+          {
+            "id": "d0",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "answer",
+            "text": "Akku"
+          },
+          {
+            "id": "d2",
+            "text": "Nummer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "bateria",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebateria\u201C in diesem Beispiel? \u201EMeu celular est\u00E1 sem bateria.\u201C",
+        "explanation": "bateria \u2014 Akku. A bateria, Plural baterias, bedeutet beim Handy Akku. Estar sem bateria hei\u00DFt hier keine Akkuladung mehr haben. Der Satz beschreibt einen leeren Akku und sagt nicht, dass das Bauteil im Handy fehlt. Meu celular est\u00E1 sem bateria. \u2014 Der Akku meines Handys ist leer.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Nachricht"
+          },
+          {
+            "id": "d2",
+            "text": "Nummer"
+          },
+          {
+            "id": "answer",
+            "text": "Akku"
+          },
+          {
+            "id": "d1",
+            "text": "anrufen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tomada \u2014 Steckdose. A tomada, Plural tomadas, ist die Steckdose. Tem \u2026? fragt im brasilianischen Alltagsgebrauch hier nach dem Vorhandensein; aqui hei\u00DFt hier. Die Frage enth\u00E4lt noch keine Angabe zur Nutzung der Steckdose. Tem uma tomada aqui? \u2014 Gibt es hier eine Steckdose?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Steckdose"
+          },
+          {
+            "id": "d0",
+            "text": "Akku"
+          },
+          {
+            "id": "d4",
+            "text": "aufladen"
+          },
+          {
+            "id": "d3",
+            "text": "Nummer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tomada",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etomada\u201C?",
+        "explanation": "tomada \u2014 Steckdose. A tomada, Plural tomadas, ist die Steckdose. Tem \u2026? fragt im brasilianischen Alltagsgebrauch hier nach dem Vorhandensein; aqui hei\u00DFt hier. Die Frage enth\u00E4lt noch keine Angabe zur Nutzung der Steckdose. Tem uma tomada aqui? \u2014 Gibt es hier eine Steckdose?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Akku"
+          },
+          {
+            "id": "answer",
+            "text": "Steckdose"
+          },
+          {
+            "id": "d5",
+            "text": "Nachricht"
+          },
+          {
+            "id": "d4",
+            "text": "aufladen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPosso carregar meu celular?\u201C",
+        "explanation": "carregar \u2014 aufladen. Carregar hei\u00DFt hier aufladen; carregar o celular bedeutet das Handy aufladen. Posso ist die Ich-Form von poder. Die Frage kann je nach Situation nach einer M\u00F6glichkeit oder Erlaubnis fragen; andere Bedeutungen von carregar sind etwa tragen oder beladen. Posso carregar meu celular? \u2014 Kann ich mein Handy aufladen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Nummer"
+          },
+          {
+            "id": "answer",
+            "text": "aufladen"
+          },
+          {
+            "id": "d1",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "d2",
+            "text": "anrufen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "carregar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecarregar\u201C in diesem Beispiel? \u201EPosso carregar meu celular?\u201C",
+        "explanation": "carregar \u2014 aufladen. Carregar hei\u00DFt hier aufladen; carregar o celular bedeutet das Handy aufladen. Posso ist die Ich-Form von poder. Die Frage kann je nach Situation nach einer M\u00F6glichkeit oder Erlaubnis fragen; andere Bedeutungen von carregar sind etwa tragen oder beladen. Posso carregar meu celular? \u2014 Kann ich mein Handy aufladen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Akku"
+          },
+          {
+            "id": "d1",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "answer",
+            "text": "aufladen"
+          },
+          {
+            "id": "d4",
+            "text": "Steckdose"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o tenho sinal aqui.\u201C",
+        "explanation": "sinal \u2014 Empfang; Signal. O sinal, Plural sinais, hei\u00DFt Signal; im Handygespr\u00E4ch ist hier Mobilfunkempfang gemeint. N\u00E3o tenho verneint ich habe, aqui nennt den aktuellen Ort. Der Satz macht keine Aussage \u00FCber eine bestimmte Netzabdeckung au\u00DFerhalb der Beispielsituation. N\u00E3o tenho sinal aqui. \u2014 Ich habe hier keinen Empfang.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Nummer"
+          },
+          {
+            "id": "d1",
+            "text": "anrufen"
+          },
+          {
+            "id": "d4",
+            "text": "Steckdose"
+          },
+          {
+            "id": "answer",
+            "text": "Empfang; Signal"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sinal",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esinal\u201C in diesem Beispiel? \u201EN\u00E3o tenho sinal aqui.\u201C",
+        "explanation": "sinal \u2014 Empfang; Signal. O sinal, Plural sinais, hei\u00DFt Signal; im Handygespr\u00E4ch ist hier Mobilfunkempfang gemeint. N\u00E3o tenho verneint ich habe, aqui nennt den aktuellen Ort. Der Satz macht keine Aussage \u00FCber eine bestimmte Netzabdeckung au\u00DFerhalb der Beispielsituation. N\u00E3o tenho sinal aqui. \u2014 Ich habe hier keinen Empfang.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Empfang; Signal"
+          },
+          {
+            "id": "d3",
+            "text": "aufladen"
+          },
+          {
+            "id": "d4",
+            "text": "Steckdose"
+          },
+          {
+            "id": "d0",
+            "text": "Akku"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ENachricht\u201C?",
+        "explanation": "mensagem \u2014 Nachricht. A mensagem, Plural mensagens, bedeutet Nachricht. Mandar uma mensagem hei\u00DFt eine Nachricht schicken. Me bezieht sich hier auf die sprechende Person als Empf\u00E4nger; im deutschen Satz steht mir. Ein bestimmter Nachrichtendienst wird nicht genannt. Pode me mandar uma mensagem, por favor? \u2014 Kannst du mir bitte eine Nachricht schicken?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "n\u00FAmero"
+          },
+          {
+            "id": "answer",
+            "text": "mensagem"
+          },
+          {
+            "id": "d1",
+            "text": "sinal"
+          },
+          {
+            "id": "d5",
+            "text": "tomada"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EComo posso entrar em contato com voc\u00EA?\u201C \u2013 Welche Bitte fordert dazu auf, dir eine Nachricht zu schicken?",
+        "explanation": "Mandar uma mensagem hei\u00DFt eine Nachricht schicken. Me bezeichnet hier die sprechende Person als Empf\u00E4nger.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Vou te ligar amanh\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode escrever seu endere\u00E7o de e-mail, por favor?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode me dar o recibo, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode me mandar uma mensagem, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eanrufen\u201C? Zusammenhang: bei einem Gespr\u00E4ch \u00FCber Telefonkontakt.",
+        "explanation": "ligar \u2014 anrufen. Ligar hei\u00DFt im Telefonkontext anrufen. Vou \u002B Infinitiv k\u00FCndigt eine zuk\u00FCnftige Handlung an; te bezieht sich hier auf die angesprochene Person. Ligar para algu\u00E9m hei\u00DFt jemanden anrufen. Bei einem Ger\u00E4t kann ligar auch einschalten bedeuten. Vou te ligar amanh\u00E3. \u2014 Ich rufe dich morgen an.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "n\u00FAmero"
+          },
+          {
+            "id": "d0",
+            "text": "bateria"
+          },
+          {
+            "id": "answer",
+            "text": "ligar"
+          },
+          {
+            "id": "d1",
+            "text": "sinal"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage k\u00FCndigt an, dass du dein Gegen\u00FCber morgen anrufen wirst?",
+        "explanation": "Ligar hei\u00DFt hier anrufen. Amanh\u00E3 nennt morgen; der Satz legt keine Uhrzeit fest.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode me mandar uma mensagem?"
+          },
+          {
+            "id": "answer",
+            "text": "Vou te ligar amanh\u00E3."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o tenho sinal aqui."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou te ligar hoje."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EAkku\u201C? Zusammenhang: bei einer Aussage oder Frage zum Handy.",
+        "explanation": "bateria \u2014 Akku. A bateria, Plural baterias, bedeutet beim Handy Akku. Estar sem bateria hei\u00DFt hier keine Akkuladung mehr haben. Der Satz beschreibt einen leeren Akku und sagt nicht, dass das Bauteil im Handy fehlt. Meu celular est\u00E1 sem bateria. \u2014 Der Akku meines Handys ist leer.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "bateria"
+          },
+          {
+            "id": "d6",
+            "text": "e-mail"
+          },
+          {
+            "id": "d4",
+            "text": "tomada"
+          },
+          {
+            "id": "d3",
+            "text": "carregar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass der Handy-Akku leer ist?",
+        "explanation": "Estar sem bateria bedeutet hier keine Akkuladung mehr haben. Das Bauteil fehlt nicht im Handy.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Meu celular est\u00E1 carregando."
+          },
+          {
+            "id": "answer",
+            "text": "Meu celular est\u00E1 sem bateria."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meu celular est\u00E1 com bateria."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o tenho sinal aqui."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESteckdose\u201C?",
+        "explanation": "tomada \u2014 Steckdose. A tomada, Plural tomadas, ist die Steckdose. Tem \u2026? fragt im brasilianischen Alltagsgebrauch hier nach dem Vorhandensein; aqui hei\u00DFt hier. Die Frage enth\u00E4lt noch keine Angabe zur Nutzung der Steckdose. Tem uma tomada aqui? \u2014 Gibt es hier eine Steckdose?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "bateria"
+          },
+          {
+            "id": "d4",
+            "text": "carregar"
+          },
+          {
+            "id": "d6",
+            "text": "e-mail"
+          },
+          {
+            "id": "answer",
+            "text": "tomada"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt, ob es hier eine Steckdose gibt?",
+        "explanation": "Tem uma tomada aqui? fragt nach dem Vorhandensein einer Steckdose an diesem Ort.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Tem uma cadeira aqui?"
+          },
+          {
+            "id": "answer",
+            "text": "Tem uma tomada aqui?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem uma mesa aqui?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o banheiro?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eaufladen\u201C? Zusammenhang: bei einer Aussage oder Frage zum Handy.",
+        "explanation": "carregar \u2014 aufladen. Carregar hei\u00DFt hier aufladen; carregar o celular bedeutet das Handy aufladen. Posso ist die Ich-Form von poder. Die Frage kann je nach Situation nach einer M\u00F6glichkeit oder Erlaubnis fragen; andere Bedeutungen von carregar sind etwa tragen oder beladen. Posso carregar meu celular? \u2014 Kann ich mein Handy aufladen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "ligar"
+          },
+          {
+            "id": "answer",
+            "text": "carregar"
+          },
+          {
+            "id": "d1",
+            "text": "sinal"
+          },
+          {
+            "id": "d6",
+            "text": "e-mail"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt, ob du dein Handy aufladen kannst oder darfst?",
+        "explanation": "Carregar meu celular hei\u00DFt mein Handy aufladen. Posso kann nach M\u00F6glichkeit oder Erlaubnis fragen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode me mandar uma mensagem?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem uma tomada aqui?"
+          },
+          {
+            "id": "answer",
+            "text": "Posso carregar meu celular?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso usar seu telefone?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEmpfang; Signal\u201C? Zusammenhang: bei einer Aussage oder Frage zum Handy.",
+        "explanation": "sinal \u2014 Empfang; Signal. O sinal, Plural sinais, hei\u00DFt Signal; im Handygespr\u00E4ch ist hier Mobilfunkempfang gemeint. N\u00E3o tenho verneint ich habe, aqui nennt den aktuellen Ort. Der Satz macht keine Aussage \u00FCber eine bestimmte Netzabdeckung au\u00DFerhalb der Beispielsituation. N\u00E3o tenho sinal aqui. \u2014 Ich habe hier keinen Empfang.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "mensagem"
+          },
+          {
+            "id": "d4",
+            "text": "tomada"
+          },
+          {
+            "id": "d2",
+            "text": "n\u00FAmero"
+          },
+          {
+            "id": "answer",
+            "text": "sinal"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass du hier keinen Mobilfunkempfang hast?",
+        "explanation": "N\u00E3o tenho sinal aqui verneint den Empfang am genannten Ort. Ein leerer Akku ist eine andere Aussage.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Vou te ligar amanh\u00E3."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o tenho sinal aqui."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho sinal aqui."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Meu celular est\u00E1 sem bateria."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

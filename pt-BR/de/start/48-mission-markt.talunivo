@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-48-mission-markt",
-  "packageVersion": 4,
-  "title": "48 · Mini-Dialog: Auf dem Markt",
+  "packageVersion": 6,
+  "title": "48 \u00B7 Mini-Dialog: Auf dem Markt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "bananas",
       "translation": "Bananen",
-      "isVocabulary": true,
       "example": "Quero meio quilo de bananas, por favor.",
-      "exampleTranslation": "Ich möchte bitte ein halbes Kilo Bananen.",
-      "explanation": "A banana heißt Banane, as bananas die Bananen. Meio quilo de bananas bezeichnet ein halbes Kilo Bananen. Quero …, por favor ist hier die höfliche Bestellung; die Begrüßung steht auf einer eigenen Karte."
+      "exampleTranslation": "Ich m\u00F6chte bitte ein halbes Kilo Bananen.",
+      "explanation": "A banana hei\u00DFt Banane, as bananas die Bananen. Meio quilo de bananas bezeichnet ein halbes Kilo Bananen. Quero \u2026, por favor ist hier die h\u00F6fliche Bestellung; die Begr\u00FC\u00DFung steht auf einer eigenen Karte.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "maduras",
       "translation": "reif (weiblich, Mehrzahl)",
-      "isVocabulary": true,
-      "example": "Estas bananas estão maduras.",
+      "example": "Estas bananas est\u00E3o maduras.",
       "exampleTranslation": "Diese Bananen sind reif.",
-      "explanation": "Maduras ist der weibliche Plural von maduro, reif, und passt zu bananas. Auch estas steht im weiblichen Plural; estão ist die Mehrzahlform von está. Die Aussage beschreibt die angebotenen Früchte in der erfundenen Situation."
+      "explanation": "Maduras ist der weibliche Plural von maduro, reif, und passt zu bananas. Auch estas steht im weiblichen Plural; est\u00E3o ist die Mehrzahlform von est\u00E1. Die Aussage beschreibt die angebotenen Fr\u00FCchte in der erfundenen Situation.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "quilo",
       "translation": "Kilo",
-      "isVocabulary": true,
       "example": "Quanto custa o quilo de bananas?",
       "exampleTranslation": "Wie viel kostet ein Kilo Bananen?",
-      "explanation": "O quilo, Plural quilos, bedeutet Kilo. Quanto custa o quilo de …? fragt nach dem Preis für ein Kilo der genannten Ware. Der Gesamtpreis einer anderen Menge ist damit noch nicht genannt."
+      "explanation": "O quilo, Plural quilos, bedeutet Kilo. Quanto custa o quilo de \u2026? fragt nach dem Preis f\u00FCr ein Kilo der genannten Ware. Der Gesamtpreis einer anderen Menge ist damit noch nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "oito",
       "translation": "acht",
-      "isVocabulary": true,
       "example": "O quilo custa oito reais.",
       "exampleTranslation": "Das Kilo kostet acht Reais.",
-      "explanation": "Oito ist die Zahl acht und bleibt unverändert. Reais ist der Plural von real. Die Antwort bezieht sich auf ein ganzes Kilo; sie nennt nicht den Gesamtpreis eines halben Kilos. Der Preis ist nur ein Lehrbeispiel."
+      "explanation": "Oito ist die Zahl acht und bleibt unver\u00E4ndert. Reais ist der Plural von real. Die Antwort bezieht sich auf ein ganzes Kilo; sie nennt nicht den Gesamtpreis eines halben Kilos. Der Preis ist nur ein Lehrbeispiel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "meio",
       "translation": "halb",
-      "isVocabulary": true,
       "example": "Meio quilo, por favor.",
       "exampleTranslation": "Ein halbes Kilo, bitte.",
-      "explanation": "Meio bedeutet hier halb und passt zur männlichen Form quilo. Bei einer weiblichen Mengenbezeichnung steht meia, etwa meia hora, eine halbe Stunde. Die kurze Bestellung setzt voraus, dass die Ware im Gespräch bereits feststeht."
+      "explanation": "Meio bedeutet hier halb und passt zur m\u00E4nnlichen Form quilo. Bei einer weiblichen Mengenbezeichnung steht meia, etwa meia hora, eine halbe Stunde. Die kurze Bestellung setzt voraus, dass die Ware im Gespr\u00E4ch bereits feststeht.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "alguma coisa",
       "translation": "etwas",
-      "isVocabulary": true,
       "example": "Quer mais alguma coisa?",
-      "exampleTranslation": "Möchten Sie sonst noch etwas?",
-      "explanation": "Alguma coisa bedeutet etwas. Mais alguma coisa? fragt in diesem Verkaufsgespräch nach einem zusätzlichen Wunsch. Quer bezieht sich hier auf die Kundschaft; die Frage legt keine bestimmte weitere Ware fest."
+      "exampleTranslation": "M\u00F6chten Sie sonst noch etwas?",
+      "explanation": "Alguma coisa bedeutet etwas. Mais alguma coisa? fragt in diesem Verkaufsgespr\u00E4ch nach einem zus\u00E4tzlichen Wunsch. Quer bezieht sich hier auf die Kundschaft; die Frage legt keine bestimmte weitere Ware fest.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Mini-Dialog: Auf dem Markt",
-      "expression": "só",
+      "expression": "s\u00F3",
       "translation": "nur",
-      "isVocabulary": true,
-      "example": "Só isso, obrigado.",
+      "example": "S\u00F3 isso, obrigado.",
       "exampleTranslation": "Das ist alles, danke.",
-      "explanation": "Só bedeutet hier nur; só isso heißt nur das oder das ist alles. Obrigado ist die männliche Form des Dankes, obrigada die weibliche. Die Variante richtet sich in der gelehrten Standardform nach der dankenden Person."
+      "explanation": "S\u00F3 bedeutet hier nur; s\u00F3 isso hei\u00DFt nur das oder das ist alles. Obrigado ist die m\u00E4nnliche Form des Dankes, obrigada die weibliche. Die Variante richtet sich in der gelehrten Standardform nach der dankenden Person.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Mini-Dialog: Auf dem Markt",
       "expression": "bom dia",
       "translation": "guten Morgen",
-      "isVocabulary": true,
       "example": "Bom dia! Tem bananas?",
       "exampleTranslation": "Guten Morgen! Gibt es Bananen?",
-      "explanation": "Bom dia! ist hier die morgendliche Begrüßung. Tem bananas? fragt im brasilianischen Alltagsgebrauch, ob Bananen vorhanden sind. Der Gruß eröffnet die Marktsituation; einen schönen Tag wünschen kann man etwa mit Tenha um bom dia! ausdrücken."
+      "explanation": "Bom dia! ist hier die morgendliche Begr\u00FC\u00DFung. Tem bananas? fragt im brasilianischen Alltagsgebrauch, ob Bananen vorhanden sind. Der Gru\u00DF er\u00F6ffnet die Marktsituation; einen sch\u00F6nen Tag w\u00FCnschen kann man etwa mit Tenha um bom dia! ausdr\u00FCcken.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Beim Einkauf auf dem Markt nach Waren und Preisen fragen und Mengen oder W\u00FCnsche nennen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr Bananen: \u201EQuero meio quilo de ____, por favor.\u201C",
+        "explanation": "Bananas ist die Mehrzahl von banana. Die Menge ist ein halbes Kilo, keine St\u00FCckzahl.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "bananas"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Form f\u00FCr halb vor dem m\u00E4nnlichen Nomen quilo: \u201E____ quilo, por favor.\u201C",
+        "explanation": "Meio passt zu quilo. Vor einer weiblichen Mengenbezeichnung wie hora w\u00FCrde meia stehen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "meio"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstas bananas est\u00E3o maduras.\u201C",
+        "explanation": "maduras \u2014 reif (weiblich, Mehrzahl). Maduras ist der weibliche Plural von maduro, reif, und passt zu bananas. Auch estas steht im weiblichen Plural; est\u00E3o ist die Mehrzahlform von est\u00E1. Die Aussage beschreibt die angebotenen Fr\u00FCchte in der erfundenen Situation. Estas bananas est\u00E3o maduras. \u2014 Diese Bananen sind reif.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "guten Morgen"
+          },
+          {
+            "id": "answer",
+            "text": "reif (weiblich, Mehrzahl)"
+          },
+          {
+            "id": "d1",
+            "text": "nur"
+          },
+          {
+            "id": "d0",
+            "text": "Bananen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "maduras",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emaduras\u201C in diesem Beispiel? \u201EEstas bananas est\u00E3o maduras.\u201C",
+        "explanation": "maduras \u2014 reif (weiblich, Mehrzahl). Maduras ist der weibliche Plural von maduro, reif, und passt zu bananas. Auch estas steht im weiblichen Plural; est\u00E3o ist die Mehrzahlform von est\u00E1. Die Aussage beschreibt die angebotenen Fr\u00FCchte in der erfundenen Situation. Estas bananas est\u00E3o maduras. \u2014 Diese Bananen sind reif.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "nur"
+          },
+          {
+            "id": "d4",
+            "text": "Kilo"
+          },
+          {
+            "id": "d3",
+            "text": "etwas"
+          },
+          {
+            "id": "answer",
+            "text": "reif (weiblich, Mehrzahl)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuanto custa o quilo de bananas?\u201C",
+        "explanation": "quilo \u2014 Kilo. O quilo, Plural quilos, bedeutet Kilo. Quanto custa o quilo de \u2026? fragt nach dem Preis f\u00FCr ein Kilo der genannten Ware. Der Gesamtpreis einer anderen Menge ist damit noch nicht genannt. Quanto custa o quilo de bananas? \u2014 Wie viel kostet ein Kilo Bananen?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "acht"
+          },
+          {
+            "id": "answer",
+            "text": "Kilo"
+          },
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          },
+          {
+            "id": "d4",
+            "text": "etwas"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quilo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equilo\u201C in diesem Beispiel? \u201EQuanto custa o quilo de bananas?\u201C",
+        "explanation": "quilo \u2014 Kilo. O quilo, Plural quilos, bedeutet Kilo. Quanto custa o quilo de \u2026? fragt nach dem Preis f\u00FCr ein Kilo der genannten Ware. Der Gesamtpreis einer anderen Menge ist damit noch nicht genannt. Quanto custa o quilo de bananas? \u2014 Wie viel kostet ein Kilo Bananen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Bananen"
+          },
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          },
+          {
+            "id": "answer",
+            "text": "Kilo"
+          },
+          {
+            "id": "d6",
+            "text": "guten Morgen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO quilo custa oito reais.\u201C",
+        "explanation": "oito \u2014 acht. Oito ist die Zahl acht und bleibt unver\u00E4ndert. Reais ist der Plural von real. Die Antwort bezieht sich auf ein ganzes Kilo; sie nennt nicht den Gesamtpreis eines halben Kilos. Der Preis ist nur ein Lehrbeispiel. O quilo custa oito reais. \u2014 Das Kilo kostet acht Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "etwas"
+          },
+          {
+            "id": "d0",
+            "text": "Bananen"
+          },
+          {
+            "id": "answer",
+            "text": "acht"
+          },
+          {
+            "id": "d3",
+            "text": "halb"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "oito",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eoito\u201C in diesem Beispiel? \u201EO quilo custa oito reais.\u201C",
+        "explanation": "oito \u2014 acht. Oito ist die Zahl acht und bleibt unver\u00E4ndert. Reais ist der Plural von real. Die Antwort bezieht sich auf ein ganzes Kilo; sie nennt nicht den Gesamtpreis eines halben Kilos. Der Preis ist nur ein Lehrbeispiel. O quilo custa oito reais. \u2014 Das Kilo kostet acht Reais.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          },
+          {
+            "id": "answer",
+            "text": "acht"
+          },
+          {
+            "id": "d5",
+            "text": "Kilo"
+          },
+          {
+            "id": "d3",
+            "text": "halb"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuer mais alguma coisa?\u201C",
+        "explanation": "alguma coisa \u2014 etwas. Alguma coisa bedeutet etwas. Mais alguma coisa? fragt in diesem Verkaufsgespr\u00E4ch nach einem zus\u00E4tzlichen Wunsch. Quer bezieht sich hier auf die Kundschaft; die Frage legt keine bestimmte weitere Ware fest. Quer mais alguma coisa? \u2014 M\u00F6chten Sie sonst noch etwas?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "halb"
+          },
+          {
+            "id": "answer",
+            "text": "etwas"
+          },
+          {
+            "id": "d1",
+            "text": "nur"
+          },
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "alguma coisa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ealguma coisa\u201C in diesem Beispiel? \u201EQuer mais alguma coisa?\u201C",
+        "explanation": "alguma coisa \u2014 etwas. Alguma coisa bedeutet etwas. Mais alguma coisa? fragt in diesem Verkaufsgespr\u00E4ch nach einem zus\u00E4tzlichen Wunsch. Quer bezieht sich hier auf die Kundschaft; die Frage legt keine bestimmte weitere Ware fest. Quer mais alguma coisa? \u2014 M\u00F6chten Sie sonst noch etwas?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Bananen"
+          },
+          {
+            "id": "d1",
+            "text": "nur"
+          },
+          {
+            "id": "answer",
+            "text": "etwas"
+          },
+          {
+            "id": "d4",
+            "text": "Kilo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ES\u00F3 isso, obrigado.\u201C",
+        "explanation": "s\u00F3 \u2014 nur. S\u00F3 bedeutet hier nur; s\u00F3 isso hei\u00DFt nur das oder das ist alles. Obrigado ist die m\u00E4nnliche Form des Dankes, obrigada die weibliche. Die Variante richtet sich in der gelehrten Standardform nach der dankenden Person. S\u00F3 isso, obrigado. \u2014 Das ist alles, danke.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Kilo"
+          },
+          {
+            "id": "answer",
+            "text": "nur"
+          },
+          {
+            "id": "d6",
+            "text": "guten Morgen"
+          },
+          {
+            "id": "d2",
+            "text": "halb"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "s\u00F3",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Es\u00F3\u201C in diesem Beispiel? \u201ES\u00F3 isso, obrigado.\u201C",
+        "explanation": "s\u00F3 \u2014 nur. S\u00F3 bedeutet hier nur; s\u00F3 isso hei\u00DFt nur das oder das ist alles. Obrigado ist die m\u00E4nnliche Form des Dankes, obrigada die weibliche. Die Variante richtet sich in der gelehrten Standardform nach der dankenden Person. S\u00F3 isso, obrigado. \u2014 Das ist alles, danke.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "nur"
+          },
+          {
+            "id": "d3",
+            "text": "etwas"
+          },
+          {
+            "id": "d4",
+            "text": "Kilo"
+          },
+          {
+            "id": "d0",
+            "text": "Bananen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EBom dia! Tem bananas?\u201C",
+        "explanation": "bom dia \u2014 guten Morgen. Bom dia! ist hier die morgendliche Begr\u00FC\u00DFung. Tem bananas? fragt im brasilianischen Alltagsgebrauch, ob Bananen vorhanden sind. Der Gru\u00DF er\u00F6ffnet die Marktsituation; einen sch\u00F6nen Tag w\u00FCnschen kann man etwa mit Tenha um bom dia! ausdr\u00FCcken. Bom dia! Tem bananas? \u2014 Guten Morgen! Gibt es Bananen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          },
+          {
+            "id": "d9",
+            "text": "bis morgen"
+          },
+          {
+            "id": "d0",
+            "text": "Bananen"
+          },
+          {
+            "id": "answer",
+            "text": "guten Morgen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "bom dia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebom dia\u201C in diesem Beispiel? \u201EBom dia! Tem bananas?\u201C",
+        "explanation": "bom dia \u2014 guten Morgen. Bom dia! ist hier die morgendliche Begr\u00FC\u00DFung. Tem bananas? fragt im brasilianischen Alltagsgebrauch, ob Bananen vorhanden sind. Der Gru\u00DF er\u00F6ffnet die Marktsituation; einen sch\u00F6nen Tag w\u00FCnschen kann man etwa mit Tenha um bom dia! ausdr\u00FCcken. Bom dia! Tem bananas? \u2014 Guten Morgen! Gibt es Bananen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "halb"
+          },
+          {
+            "id": "answer",
+            "text": "guten Morgen"
+          },
+          {
+            "id": "d0",
+            "text": "Bananen"
+          },
+          {
+            "id": "d9",
+            "text": "bis morgen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ereif (weiblich, Mehrzahl)\u201C? Zusammenhang: als weibliche Pluralform bezogen auf bananas.",
+        "explanation": "maduras \u2014 reif (weiblich, Mehrzahl). Maduras ist der weibliche Plural von maduro, reif, und passt zu bananas. Auch estas steht im weiblichen Plural; est\u00E3o ist die Mehrzahlform von est\u00E1. Die Aussage beschreibt die angebotenen Fr\u00FCchte in der erfundenen Situation. Estas bananas est\u00E3o maduras. \u2014 Diese Bananen sind reif.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "bom dia"
+          },
+          {
+            "id": "answer",
+            "text": "maduras"
+          },
+          {
+            "id": "d3",
+            "text": "alguma coisa"
+          },
+          {
+            "id": "d1",
+            "text": "s\u00F3"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt diese Bananen ausdr\u00FCcklich als reif?",
+        "explanation": "Maduras ist der weibliche Plural und passt zu bananas. Die erfundene Aussage beschreibt den Reifezustand.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Estas bananas est\u00E3o pequenas."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estas bananas est\u00E3o caras."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estas bananas est\u00E3o verdes."
+          },
+          {
+            "id": "answer",
+            "text": "Estas bananas est\u00E3o maduras."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EKilo\u201C? Zusammenhang: beim Lehrpreis f\u00FCr ein ganzes Kilo Bananen.",
+        "explanation": "quilo \u2014 Kilo. O quilo, Plural quilos, bedeutet Kilo. Quanto custa o quilo de \u2026? fragt nach dem Preis f\u00FCr ein Kilo der genannten Ware. Der Gesamtpreis einer anderen Menge ist damit noch nicht genannt. Quanto custa o quilo de bananas? \u2014 Wie viel kostet ein Kilo Bananen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "bananas"
+          },
+          {
+            "id": "answer",
+            "text": "quilo"
+          },
+          {
+            "id": "d5",
+            "text": "oito"
+          },
+          {
+            "id": "d2",
+            "text": "maduras"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt nach dem Preis f\u00FCr ein ganzes Kilo Bananen?",
+        "explanation": "O quilo bezeichnet hier ein ganzes Kilo. Der Gesamtpreis einer anderen Menge wird mit der Frage noch nicht genannt.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quero meio quilo de bananas, por favor."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem bananas?"
+          },
+          {
+            "id": "answer",
+            "text": "Quanto custa o quilo de bananas?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quanto custa meio quilo de bananas?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eacht\u201C? Zusammenhang: beim Lehrpreis f\u00FCr ein ganzes Kilo Bananen.",
+        "explanation": "oito \u2014 acht. Oito ist die Zahl acht und bleibt unver\u00E4ndert. Reais ist der Plural von real. Die Antwort bezieht sich auf ein ganzes Kilo; sie nennt nicht den Gesamtpreis eines halben Kilos. Der Preis ist nur ein Lehrbeispiel. O quilo custa oito reais. \u2014 Das Kilo kostet acht Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "alguma coisa"
+          },
+          {
+            "id": "d0",
+            "text": "bananas"
+          },
+          {
+            "id": "answer",
+            "text": "oito"
+          },
+          {
+            "id": "d6",
+            "text": "quatro, cinco"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt acht Reais ausdr\u00FCcklich als Preis f\u00FCr ein ganzes Kilo?",
+        "explanation": "Oito hei\u00DFt acht. Der Lehrpreis bezieht sich auf ein ganzes Kilo, nicht auf ein halbes.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O quilo custa nove reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O quilo custa seis reais."
+          },
+          {
+            "id": "answer",
+            "text": "O quilo custa oito reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Meio quilo custa oito reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eetwas\u201C? Zusammenhang: beim Abschluss einer Bestellung am Markt.",
+        "explanation": "alguma coisa \u2014 etwas. Alguma coisa bedeutet etwas. Mais alguma coisa? fragt in diesem Verkaufsgespr\u00E4ch nach einem zus\u00E4tzlichen Wunsch. Quer bezieht sich hier auf die Kundschaft; die Frage legt keine bestimmte weitere Ware fest. Quer mais alguma coisa? \u2014 M\u00F6chten Sie sonst noch etwas?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "s\u00F3"
+          },
+          {
+            "id": "answer",
+            "text": "alguma coisa"
+          },
+          {
+            "id": "d2",
+            "text": "maduras"
+          },
+          {
+            "id": "d5",
+            "text": "oito"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Verkaufsfrage erkundigt sich nach einem zus\u00E4tzlichen Wunsch, ohne eine bestimmte weitere Ware festzulegen?",
+        "explanation": "Mais alguma coisa? fragt nach einem zus\u00E4tzlichen Wunsch. Alguma coisa bedeutet etwas.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Quer mais alguma coisa?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quanto custa o quilo?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quer \u00E1gua ou caf\u00E9?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Bom dia! Tem bananas?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Enur\u201C? Zusammenhang: beim Abschluss einer Bestellung am Markt.",
+        "explanation": "s\u00F3 \u2014 nur. S\u00F3 bedeutet hier nur; s\u00F3 isso hei\u00DFt nur das oder das ist alles. Obrigado ist die m\u00E4nnliche Form des Dankes, obrigada die weibliche. Die Variante richtet sich in der gelehrten Standardform nach der dankenden Person. S\u00F3 isso, obrigado. \u2014 Das ist alles, danke.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "oito"
+          },
+          {
+            "id": "answer",
+            "text": "s\u00F3"
+          },
+          {
+            "id": "d1",
+            "text": "maduras"
+          },
+          {
+            "id": "d0",
+            "text": "bananas"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EQuer mais alguma coisa?\u201C \u2013 Welche Antwort sagt, dass das alles ist?",
+        "explanation": "S\u00F3 isso bedeutet Nur das oder Das ist alles. Obrigado ist hier m\u00E4nnlich; obrigada w\u00E4re ebenfalls eine m\u00F6gliche Dankesform und wird nicht als falsche Antwort angeboten.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quanto custa?"
+          },
+          {
+            "id": "answer",
+            "text": "S\u00F3 isso, obrigado."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero uma sacola, por favor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quero mais um quilo, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eguten Morgen\u201C? Zusammenhang: bei einer Begr\u00FC\u00DFung am Markt.",
+        "explanation": "bom dia \u2014 guten Morgen. Bom dia! ist hier die morgendliche Begr\u00FC\u00DFung. Tem bananas? fragt im brasilianischen Alltagsgebrauch, ob Bananen vorhanden sind. Der Gru\u00DF er\u00F6ffnet die Marktsituation; einen sch\u00F6nen Tag w\u00FCnschen kann man etwa mit Tenha um bom dia! ausdr\u00FCcken. Bom dia! Tem bananas? \u2014 Guten Morgen! Gibt es Bananen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "bananas"
+          },
+          {
+            "id": "answer",
+            "text": "bom dia"
+          },
+          {
+            "id": "d5",
+            "text": "quilo"
+          },
+          {
+            "id": "d8",
+            "text": "Tudo bem?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche \u00C4u\u00DFerung begr\u00FC\u00DFt die Verkaufsperson am Morgen und fragt anschlie\u00DFend nach Bananen?",
+        "explanation": "Bom dia er\u00F6ffnet hier den Morgenkontakt. Tem bananas? fragt nach der Verf\u00FCgbarkeit von Bananen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Bom dia! Tem ma\u00E7\u00E3s?"
+          },
+          {
+            "id": "answer",
+            "text": "Bom dia! Tem bananas?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "At\u00E9 amanh\u00E3!"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Boa tarde! Tem bananas?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

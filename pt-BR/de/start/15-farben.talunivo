@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-15-farben",
-  "packageVersion": 4,
-  "title": "15 · Farben und Beschreibungen",
+  "packageVersion": 6,
+  "title": "15 \u00B7 Farben und Beschreibungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -11,91 +11,1069 @@
       "id": "karte-01",
       "topic": "Farben und Beschreibungen",
       "expression": "branco",
-      "translation": "weiß",
-      "isVocabulary": true,
-      "example": "O livro é branco.",
-      "exampleTranslation": "Das Buch ist weiß.",
-      "explanation": "Branco bedeutet weiß und ist die männliche Einzahl, passend zu o livro. Bei einem weiblichen Nomen heißt es branca, zum Beispiel a casa é branca. Beschrieben wird jeweils ein bestimmter Gegenstand."
+      "translation": "wei\u00DF",
+      "example": "O livro \u00E9 branco.",
+      "exampleTranslation": "Das Buch ist wei\u00DF.",
+      "explanation": "Branco bedeutet wei\u00DF und ist die m\u00E4nnliche Einzahl, passend zu o livro. Bei einem weiblichen Nomen hei\u00DFt es branca, zum Beispiel a casa \u00E9 branca. Beschrieben wird jeweils ein bestimmter Gegenstand.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Farben und Beschreibungen",
       "expression": "preto",
       "translation": "schwarz",
-      "isVocabulary": true,
-      "example": "O celular é preto.",
+      "example": "O celular \u00E9 preto.",
       "exampleTranslation": "Das Handy ist schwarz.",
-      "explanation": "Preto bedeutet schwarz und steht hier in der männlichen Einzahl wegen o celular. Die weibliche Form ist preta, zum Beispiel a bolsa é preta. Entscheidend ist das portugiesische Nomen."
+      "explanation": "Preto bedeutet schwarz und steht hier in der m\u00E4nnlichen Einzahl wegen o celular. Die weibliche Form ist preta, zum Beispiel a bolsa \u00E9 preta. Entscheidend ist das portugiesische Nomen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Farben und Beschreibungen",
       "expression": "vermelho",
       "translation": "rot",
-      "isVocabulary": true,
-      "example": "O copo é vermelho.",
+      "example": "O copo \u00E9 vermelho.",
       "exampleTranslation": "Das Glas ist rot.",
-      "explanation": "Vermelho bedeutet rot und ist die männliche Einzahl, passend zu o copo. Bei einem weiblichen Nomen heißt es vermelha, zum Beispiel a porta é vermelha. Die Form beschreibt den Gegenstand."
+      "explanation": "Vermelho bedeutet rot und ist die m\u00E4nnliche Einzahl, passend zu o copo. Bei einem weiblichen Nomen hei\u00DFt es vermelha, zum Beispiel a porta \u00E9 vermelha. Die Form beschreibt den Gegenstand.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Farben und Beschreibungen",
       "expression": "azul",
       "translation": "blau",
-      "isVocabulary": true,
-      "example": "O livro é azul.",
+      "example": "O livro \u00E9 azul.",
       "exampleTranslation": "Das Buch ist blau.",
-      "explanation": "Azul bedeutet blau und bleibt in der Einzahl bei beiden Genera gleich: o livro é azul, a bolsa é azul. Die Mehrzahl heißt azuis, zum Beispiel livros azuis = blaue Bücher."
+      "explanation": "Azul bedeutet blau und bleibt in der Einzahl bei beiden Genera gleich: o livro \u00E9 azul, a bolsa \u00E9 azul. Die Mehrzahl hei\u00DFt azuis, zum Beispiel livros azuis = blaue B\u00FCcher.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Farben und Beschreibungen",
       "expression": "verde",
-      "translation": "grün",
-      "isVocabulary": true,
-      "example": "A porta é verde.",
-      "exampleTranslation": "Die Tür ist grün.",
-      "explanation": "Verde bedeutet grün und bleibt in der Einzahl bei männlichen und weiblichen Nomen gleich. A porta é verde heißt die Tür ist grün. Die Mehrzahl lautet verdes, zum Beispiel portas verdes = grüne Türen."
+      "translation": "gr\u00FCn",
+      "example": "A porta \u00E9 verde.",
+      "exampleTranslation": "Die T\u00FCr ist gr\u00FCn.",
+      "explanation": "Verde bedeutet gr\u00FCn und bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich. A porta \u00E9 verde hei\u00DFt die T\u00FCr ist gr\u00FCn. Die Mehrzahl lautet verdes, zum Beispiel portas verdes = gr\u00FCne T\u00FCren.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Farben und Beschreibungen",
       "expression": "amarelo",
       "translation": "gelb",
-      "isVocabulary": true,
-      "example": "O copo é amarelo.",
+      "example": "O copo \u00E9 amarelo.",
       "exampleTranslation": "Das Glas ist gelb.",
-      "explanation": "Amarelo bedeutet gelb und ist die männliche Einzahl wegen o copo. Die weibliche Form heißt amarela, zum Beispiel a bolsa é amarela. Der Satz beschreibt ein einzelnes Glas, keine allgemeine Materialfarbe."
+      "explanation": "Amarelo bedeutet gelb und ist die m\u00E4nnliche Einzahl wegen o copo. Die weibliche Form hei\u00DFt amarela, zum Beispiel a bolsa \u00E9 amarela. Der Satz beschreibt ein einzelnes Glas, keine allgemeine Materialfarbe.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Farben und Beschreibungen",
       "expression": "novo",
       "translation": "neu",
-      "isVocabulary": true,
-      "example": "Este livro é novo.",
+      "example": "Este livro \u00E9 novo.",
       "exampleTranslation": "Dieses Buch ist neu.",
-      "explanation": "Novo bedeutet beim Buch neu. Die weibliche Form lautet nova, zum Beispiel uma casa nova. In anderen Zusammenhängen kann novo auch jung bedeuten; hier wird die Gegenstandsbedeutung neu geübt."
+      "explanation": "Novo bedeutet beim Buch neu. Die weibliche Form lautet nova, zum Beispiel uma casa nova. In anderen Zusammenh\u00E4ngen kann novo auch jung bedeuten; hier wird die Gegenstandsbedeutung neu ge\u00FCbt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Farben und Beschreibungen",
       "expression": "grande",
-      "translation": "groß",
-      "isVocabulary": true,
-      "example": "A casa é grande.",
-      "exampleTranslation": "Das Haus ist groß.",
-      "explanation": "Grande bedeutet groß und hat in der Einzahl für beide Genera dieselbe Form: a casa é grande, o quarto é grande. Die Mehrzahl heißt grandes. Eine Beschreibung als groß hängt vom jeweiligen Vergleich ab."
+      "translation": "gro\u00DF",
+      "example": "A casa \u00E9 grande.",
+      "exampleTranslation": "Das Haus ist gro\u00DF.",
+      "explanation": "Grande bedeutet gro\u00DF und hat in der Einzahl f\u00FCr beide Genera dieselbe Form: a casa \u00E9 grande, o quarto \u00E9 grande. Die Mehrzahl hei\u00DFt grandes. Eine Beschreibung als gro\u00DF h\u00E4ngt vom jeweiligen Vergleich ab.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08-2",
       "topic": "Farben und Beschreibungen",
       "expression": "pequeno",
       "translation": "klein",
-      "isVocabulary": true,
-      "example": "Meu quarto é pequeno.",
+      "example": "Meu quarto \u00E9 pequeno.",
       "exampleTranslation": "Mein Zimmer ist klein.",
-      "explanation": "Pequeno bedeutet klein und ist männlich wegen o quarto. Die weibliche Form ist pequena, zum Beispiel minha casa é pequena. Die Form richtet sich nach dem portugiesischen Gegenstandswort, nicht nach dem deutschen Zimmer."
+      "explanation": "Pequeno bedeutet klein und ist m\u00E4nnlich wegen o quarto. Die weibliche Form ist pequena, zum Beispiel minha casa \u00E9 pequena. Die Form richtet sich nach dem portugiesischen Gegenstandswort, nicht nach dem deutschen Zimmer.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Farben und einfache Eigenschaften von Gegenst\u00E4nden verstehen und passend zu Nomen verwenden.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08",
+          "karte-08-2"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte m\u00E4nnliche Singularform f\u00FCr wei\u00DF: \u201EO livro \u00E9 ____.\u201C",
+        "explanation": "Branco ist die m\u00E4nnliche Einzahl. Bei einem weiblichen Nomen hei\u00DFt es branca.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "branco"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte weibliche Singularform f\u00FCr schwarz: \u201EA bolsa \u00E9 ____.\u201C",
+        "explanation": "Preta ist die weibliche Einzahl von preto. Die Form richtet sich nach dem weiblichen Nomen bolsa.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "preta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "vermelho \u2014 rot. Vermelho bedeutet rot und ist die m\u00E4nnliche Einzahl, passend zu o copo. Bei einem weiblichen Nomen hei\u00DFt es vermelha, zum Beispiel a porta \u00E9 vermelha. Die Form beschreibt den Gegenstand. O copo \u00E9 vermelho. \u2014 Das Glas ist rot.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "gr\u00FCn"
+          },
+          {
+            "id": "d3",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "rot"
+          },
+          {
+            "id": "d1",
+            "text": "schwarz"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "vermelho",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Evermelho\u201C?",
+        "explanation": "vermelho \u2014 rot. Vermelho bedeutet rot und ist die m\u00E4nnliche Einzahl, passend zu o copo. Bei einem weiblichen Nomen hei\u00DFt es vermelha, zum Beispiel a porta \u00E9 vermelha. Die Form beschreibt den Gegenstand. O copo \u00E9 vermelho. \u2014 Das Glas ist rot.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "rot"
+          },
+          {
+            "id": "d0",
+            "text": "neu"
+          },
+          {
+            "id": "d1",
+            "text": "schwarz"
+          },
+          {
+            "id": "d4",
+            "text": "gro\u00DF"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "azul \u2014 blau. Azul bedeutet blau und bleibt in der Einzahl bei beiden Genera gleich: o livro \u00E9 azul, a bolsa \u00E9 azul. Die Mehrzahl hei\u00DFt azuis, zum Beispiel livros azuis = blaue B\u00FCcher. O livro \u00E9 azul. \u2014 Das Buch ist blau.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "neu"
+          },
+          {
+            "id": "answer",
+            "text": "blau"
+          },
+          {
+            "id": "d2",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "d5",
+            "text": "gelb"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "azul",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eazul\u201C?",
+        "explanation": "azul \u2014 blau. Azul bedeutet blau und bleibt in der Einzahl bei beiden Genera gleich: o livro \u00E9 azul, a bolsa \u00E9 azul. Die Mehrzahl hei\u00DFt azuis, zum Beispiel livros azuis = blaue B\u00FCcher. O livro \u00E9 azul. \u2014 Das Buch ist blau.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "d3",
+            "text": "gro\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "blau"
+          },
+          {
+            "id": "d4",
+            "text": "gr\u00FCn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "verde \u2014 gr\u00FCn. Verde bedeutet gr\u00FCn und bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich. A porta \u00E9 verde hei\u00DFt die T\u00FCr ist gr\u00FCn. Die Mehrzahl lautet verdes, zum Beispiel portas verdes = gr\u00FCne T\u00FCren. A porta \u00E9 verde. \u2014 Die T\u00FCr ist gr\u00FCn.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "d4",
+            "text": "gro\u00DF"
+          },
+          {
+            "id": "d0",
+            "text": "neu"
+          },
+          {
+            "id": "answer",
+            "text": "gr\u00FCn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "verde",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Everde\u201C?",
+        "explanation": "verde \u2014 gr\u00FCn. Verde bedeutet gr\u00FCn und bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich. A porta \u00E9 verde hei\u00DFt die T\u00FCr ist gr\u00FCn. Die Mehrzahl lautet verdes, zum Beispiel portas verdes = gr\u00FCne T\u00FCren. A porta \u00E9 verde. \u2014 Die T\u00FCr ist gr\u00FCn.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "neu"
+          },
+          {
+            "id": "answer",
+            "text": "gr\u00FCn"
+          },
+          {
+            "id": "d1",
+            "text": "schwarz"
+          },
+          {
+            "id": "d2",
+            "text": "blau"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "amarelo \u2014 gelb. Amarelo bedeutet gelb und ist die m\u00E4nnliche Einzahl wegen o copo. Die weibliche Form hei\u00DFt amarela, zum Beispiel a bolsa \u00E9 amarela. Der Satz beschreibt ein einzelnes Glas, keine allgemeine Materialfarbe. O copo \u00E9 amarelo. \u2014 Das Glas ist gelb.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "gelb"
+          },
+          {
+            "id": "d2",
+            "text": "blau"
+          },
+          {
+            "id": "d3",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "d5",
+            "text": "gr\u00FCn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "amarelo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eamarelo\u201C?",
+        "explanation": "amarelo \u2014 gelb. Amarelo bedeutet gelb und ist die m\u00E4nnliche Einzahl wegen o copo. Die weibliche Form hei\u00DFt amarela, zum Beispiel a bolsa \u00E9 amarela. Der Satz beschreibt ein einzelnes Glas, keine allgemeine Materialfarbe. O copo \u00E9 amarelo. \u2014 Das Glas ist gelb.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "blau"
+          },
+          {
+            "id": "answer",
+            "text": "gelb"
+          },
+          {
+            "id": "d4",
+            "text": "gro\u00DF"
+          },
+          {
+            "id": "d1",
+            "text": "schwarz"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEste livro \u00E9 novo.\u201C",
+        "explanation": "novo \u2014 neu. Novo bedeutet beim Buch neu. Die weibliche Form lautet nova, zum Beispiel uma casa nova. In anderen Zusammenh\u00E4ngen kann novo auch jung bedeuten; hier wird die Gegenstandsbedeutung neu ge\u00FCbt. Este livro \u00E9 novo. \u2014 Dieses Buch ist neu.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "gro\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "neu"
+          },
+          {
+            "id": "d0",
+            "text": "schwarz"
+          },
+          {
+            "id": "d1",
+            "text": "blau"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "novo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Enovo\u201C in diesem Beispiel? \u201EEste livro \u00E9 novo.\u201C",
+        "explanation": "novo \u2014 neu. Novo bedeutet beim Buch neu. Die weibliche Form lautet nova, zum Beispiel uma casa nova. In anderen Zusammenh\u00E4ngen kann novo auch jung bedeuten; hier wird die Gegenstandsbedeutung neu ge\u00FCbt. Este livro \u00E9 novo. \u2014 Dieses Buch ist neu.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "neu"
+          },
+          {
+            "id": "d2",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "d6",
+            "text": "rot"
+          },
+          {
+            "id": "d5",
+            "text": "gelb"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "pequeno \u2014 klein. Pequeno bedeutet klein und ist m\u00E4nnlich wegen o quarto. Die weibliche Form ist pequena, zum Beispiel minha casa \u00E9 pequena. Die Form richtet sich nach dem portugiesischen Gegenstandswort, nicht nach dem deutschen Zimmer. Meu quarto \u00E9 pequeno. \u2014 Mein Zimmer ist klein.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "schwarz"
+          },
+          {
+            "id": "d3",
+            "text": "wei\u00DF"
+          },
+          {
+            "id": "d5",
+            "text": "gr\u00FCn"
+          },
+          {
+            "id": "answer",
+            "text": "klein"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "pequeno",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epequeno\u201C?",
+        "explanation": "pequeno \u2014 klein. Pequeno bedeutet klein und ist m\u00E4nnlich wegen o quarto. Die weibliche Form ist pequena, zum Beispiel minha casa \u00E9 pequena. Die Form richtet sich nach dem portugiesischen Gegenstandswort, nicht nach dem deutschen Zimmer. Meu quarto \u00E9 pequeno. \u2014 Mein Zimmer ist klein.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "gro\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "klein"
+          },
+          {
+            "id": "d7",
+            "text": "rot"
+          },
+          {
+            "id": "d3",
+            "text": "wei\u00DF"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "grande \u2014 gro\u00DF. Grande bedeutet gro\u00DF und hat in der Einzahl f\u00FCr beide Genera dieselbe Form: a casa \u00E9 grande, o quarto \u00E9 grande. Die Mehrzahl hei\u00DFt grandes. Eine Beschreibung als gro\u00DF h\u00E4ngt vom jeweiligen Vergleich ab. A casa \u00E9 grande. \u2014 Das Haus ist gro\u00DF.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "rot"
+          },
+          {
+            "id": "d5",
+            "text": "gelb"
+          },
+          {
+            "id": "d0",
+            "text": "neu"
+          },
+          {
+            "id": "answer",
+            "text": "gro\u00DF"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "grande",
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Egrande\u201C?",
+        "explanation": "grande \u2014 gro\u00DF. Grande bedeutet gro\u00DF und hat in der Einzahl f\u00FCr beide Genera dieselbe Form: a casa \u00E9 grande, o quarto \u00E9 grande. Die Mehrzahl hei\u00DFt grandes. Eine Beschreibung als gro\u00DF h\u00E4ngt vom jeweiligen Vergleich ab. A casa \u00E9 grande. \u2014 Das Haus ist gro\u00DF.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "gro\u00DF"
+          },
+          {
+            "id": "d6",
+            "text": "rot"
+          },
+          {
+            "id": "d7",
+            "text": "klein"
+          },
+          {
+            "id": "d3",
+            "text": "wei\u00DF"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein rotes Glas?",
+        "explanation": "Vermelho bedeutet rot und steht hier passend zu copo in der m\u00E4nnlichen Einzahl.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O copo \u00E9 verde."
+          },
+          {
+            "id": "answer",
+            "text": "O copo \u00E9 vermelho."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O copo \u00E9 branco."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O copo \u00E9 amarelo."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Erot\u201C?",
+        "explanation": "vermelho \u2014 rot. Vermelho bedeutet rot und ist die m\u00E4nnliche Einzahl, passend zu o copo. Bei einem weiblichen Nomen hei\u00DFt es vermelha, zum Beispiel a porta \u00E9 vermelha. Die Form beschreibt den Gegenstand. O copo \u00E9 vermelho. \u2014 Das Glas ist rot.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "vermelho"
+          },
+          {
+            "id": "d3",
+            "text": "branco"
+          },
+          {
+            "id": "d5",
+            "text": "verde"
+          },
+          {
+            "id": "d0",
+            "text": "novo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein blaues Buch?",
+        "explanation": "Azul bedeutet blau und bleibt in der Einzahl bei m\u00E4nnlichem und weiblichem Bezug gleich.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O livro \u00E9 azul."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O livro \u00E9 verde."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O livro \u00E9 branco."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O livro \u00E9 vermelho."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eblau\u201C?",
+        "explanation": "azul \u2014 blau. Azul bedeutet blau und bleibt in der Einzahl bei beiden Genera gleich: o livro \u00E9 azul, a bolsa \u00E9 azul. Die Mehrzahl hei\u00DFt azuis, zum Beispiel livros azuis = blaue B\u00FCcher. O livro \u00E9 azul. \u2014 Das Buch ist blau.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "pequeno"
+          },
+          {
+            "id": "answer",
+            "text": "azul"
+          },
+          {
+            "id": "d4",
+            "text": "verde"
+          },
+          {
+            "id": "d2",
+            "text": "branco"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt eine gr\u00FCne T\u00FCr?",
+        "explanation": "Verde bedeutet gr\u00FCn. Die Singularform bleibt bei beiden Genera gleich.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "A porta \u00E9 vermelha."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A porta \u00E9 azul."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A porta \u00E9 branca."
+          },
+          {
+            "id": "answer",
+            "text": "A porta \u00E9 verde."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Egr\u00FCn\u201C?",
+        "explanation": "verde \u2014 gr\u00FCn. Verde bedeutet gr\u00FCn und bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich. A porta \u00E9 verde hei\u00DFt die T\u00FCr ist gr\u00FCn. Die Mehrzahl lautet verdes, zum Beispiel portas verdes = gr\u00FCne T\u00FCren. A porta \u00E9 verde. \u2014 Die T\u00FCr ist gr\u00FCn.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "vermelho"
+          },
+          {
+            "id": "d2",
+            "text": "azul"
+          },
+          {
+            "id": "answer",
+            "text": "verde"
+          },
+          {
+            "id": "d1",
+            "text": "preto"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein gelbes Glas?",
+        "explanation": "Amarelo bedeutet gelb und richtet sich hier nach dem m\u00E4nnlichen Nomen copo.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O copo \u00E9 verde."
+          },
+          {
+            "id": "answer",
+            "text": "O copo \u00E9 amarelo."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O copo \u00E9 branco."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O copo \u00E9 vermelho."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Egelb\u201C?",
+        "explanation": "amarelo \u2014 gelb. Amarelo bedeutet gelb und ist die m\u00E4nnliche Einzahl wegen o copo. Die weibliche Form hei\u00DFt amarela, zum Beispiel a bolsa \u00E9 amarela. Der Satz beschreibt ein einzelnes Glas, keine allgemeine Materialfarbe. O copo \u00E9 amarelo. \u2014 Das Glas ist gelb.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "verde"
+          },
+          {
+            "id": "d4",
+            "text": "grande"
+          },
+          {
+            "id": "answer",
+            "text": "amarelo"
+          },
+          {
+            "id": "d6",
+            "text": "vermelho"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein Buch ausdr\u00FCcklich als neu?",
+        "explanation": "Novo bedeutet beim Buch neu. Bei einer Person kann novo in anderem Zusammenhang auch jung bedeuten.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Este livro \u00E9 grande."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Este livro \u00E9 pequeno."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Este livro \u00E9 azul."
+          },
+          {
+            "id": "answer",
+            "text": "Este livro \u00E9 novo."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eneu\u201C? Gemeint ist: ein Gegenstand, etwa ein neues Buch.",
+        "explanation": "novo \u2014 neu. Novo bedeutet beim Buch neu. Die weibliche Form lautet nova, zum Beispiel uma casa nova. In anderen Zusammenh\u00E4ngen kann novo auch jung bedeuten; hier wird die Gegenstandsbedeutung neu ge\u00FCbt. Este livro \u00E9 novo. \u2014 Dieses Buch ist neu.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "azul"
+          },
+          {
+            "id": "answer",
+            "text": "novo"
+          },
+          {
+            "id": "d0",
+            "text": "preto"
+          },
+          {
+            "id": "d3",
+            "text": "grande"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein kleines Zimmer?",
+        "explanation": "Pequeno bedeutet klein und steht hier in der m\u00E4nnlichen Form passend zu quarto.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Meu quarto \u00E9 pequeno."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Meu quarto \u00E9 grande."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Minha sala \u00E9 grande."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Meu quarto \u00E9 branco."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eklein\u201C?",
+        "explanation": "pequeno \u2014 klein. Pequeno bedeutet klein und ist m\u00E4nnlich wegen o quarto. Die weibliche Form ist pequena, zum Beispiel minha casa \u00E9 pequena. Die Form richtet sich nach dem portugiesischen Gegenstandswort, nicht nach dem deutschen Zimmer. Meu quarto \u00E9 pequeno. \u2014 Mein Zimmer ist klein.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "branco"
+          },
+          {
+            "id": "answer",
+            "text": "pequeno"
+          },
+          {
+            "id": "d2",
+            "text": "azul"
+          },
+          {
+            "id": "d0",
+            "text": "novo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt ein gro\u00DFes Haus?",
+        "explanation": "Grande bedeutet gro\u00DF; die Singularform bleibt bei beiden Genera gleich.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "A casa \u00E9 pequena."
+          },
+          {
+            "id": "wrong-1",
+            "text": "A casa \u00E9 branca."
+          },
+          {
+            "id": "answer",
+            "text": "A casa \u00E9 grande."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O quarto \u00E9 pequeno."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Egro\u00DF\u201C?",
+        "explanation": "grande \u2014 gro\u00DF. Grande bedeutet gro\u00DF und hat in der Einzahl f\u00FCr beide Genera dieselbe Form: a casa \u00E9 grande, o quarto \u00E9 grande. Die Mehrzahl hei\u00DFt grandes. Eine Beschreibung als gro\u00DF h\u00E4ngt vom jeweiligen Vergleich ab. A casa \u00E9 grande. \u2014 Das Haus ist gro\u00DF.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "pequeno"
+          },
+          {
+            "id": "d1",
+            "text": "preto"
+          },
+          {
+            "id": "answer",
+            "text": "grande"
+          },
+          {
+            "id": "d5",
+            "text": "amarelo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

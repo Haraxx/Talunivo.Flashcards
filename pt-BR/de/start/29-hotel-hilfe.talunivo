@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-29-hotel-hilfe",
-  "packageVersion": 4,
-  "title": "29 · Kleine Probleme im Hotel",
+  "packageVersion": 6,
+  "title": "29 \u00B7 Kleine Probleme im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Kleine Probleme im Hotel",
       "expression": "ar-condicionado",
       "translation": "Klimaanlage",
-      "isVocabulary": true,
-      "example": "O ar-condicionado não funciona.",
+      "example": "O ar-condicionado n\u00E3o funciona.",
       "exampleTranslation": "Die Klimaanlage funktioniert nicht.",
-      "explanation": "O ar-condicionado ist die Klimaanlage und wird mit Bindestrich geschrieben. Não funciona heißt funktioniert nicht. Der kurze Satz benennt hier das Problem; eine weitere Bitte kann anschließend folgen."
+      "explanation": "O ar-condicionado ist die Klimaanlage und wird mit Bindestrich geschrieben. N\u00E3o funciona hei\u00DFt funktioniert nicht. Der kurze Satz benennt hier das Problem; eine weitere Bitte kann anschlie\u00DFend folgen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Kleine Probleme im Hotel",
-      "expression": "água quente",
+      "expression": "\u00E1gua quente",
       "translation": "warmes Wasser",
-      "isVocabulary": true,
-      "example": "Não tem água quente.",
+      "example": "N\u00E3o tem \u00E1gua quente.",
       "exampleTranslation": "Es gibt kein warmes Wasser.",
-      "explanation": "Água quente ist hier warmes Wasser. Quente bleibt in der Einzahl bei männlichen und weiblichen Nomen gleich und kann je nach Zusammenhang auch heiß bedeuten. Não tem … heißt im brasilianischen Alltag hier es gibt kein …"
+      "explanation": "\u00C1gua quente ist hier warmes Wasser. Quente bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich und kann je nach Zusammenhang auch hei\u00DF bedeuten. N\u00E3o tem \u2026 hei\u00DFt im brasilianischen Alltag hier es gibt kein \u2026",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Kleine Probleme im Hotel",
       "expression": "toalha",
       "translation": "Handtuch",
-      "isVocabulary": true,
       "example": "Preciso de uma toalha limpa.",
       "exampleTranslation": "Ich brauche ein sauberes Handtuch.",
-      "explanation": "A toalha, Plural toalhas, ist hier ein Handtuch. Limpa heißt sauber und ist weiblich wegen toalha. Preciso de … ist das bekannte Bedarfsmuster; der Satz bittet im Hotelkontext um ein sauberes Handtuch."
+      "explanation": "A toalha, Plural toalhas, ist hier ein Handtuch. Limpa hei\u00DFt sauber und ist weiblich wegen toalha. Preciso de \u2026 ist das bekannte Bedarfsmuster; der Satz bittet im Hotelkontext um ein sauberes Handtuch.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Kleine Probleme im Hotel",
       "expression": "limpar",
       "translation": "reinigen",
-      "isVocabulary": true,
-      "example": "Pode limpar o quarto amanhã?",
-      "exampleTranslation": "Können Sie das Zimmer morgen reinigen?",
-      "explanation": "Limpar bedeutet reinigen oder sauber machen. Pode limpar …? ist hier eine höfliche Bitte; o quarto ist das Hotelzimmer. Amanhã bedeutet morgen und nennt den gewünschten Tag, noch keine bestimmte Uhrzeit."
+      "example": "Pode limpar o quarto amanh\u00E3?",
+      "exampleTranslation": "K\u00F6nnen Sie das Zimmer morgen reinigen?",
+      "explanation": "Limpar bedeutet reinigen oder sauber machen. Pode limpar \u2026? ist hier eine h\u00F6fliche Bitte; o quarto ist das Hotelzimmer. Amanh\u00E3 bedeutet morgen und nennt den gew\u00FCnschten Tag, noch keine bestimmte Uhrzeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Kleine Probleme im Hotel",
       "expression": "perder",
       "translation": "verlieren",
-      "isVocabulary": true,
       "example": "Perdi a chave do quarto.",
-      "exampleTranslation": "Ich habe den Zimmerschlüssel verloren.",
-      "explanation": "Perder bedeutet verlieren. Perdi ist hier die Vergangenheitsform ich habe verloren. A chave do quarto ist der Zimmerschlüssel aus dem vorherigen Paket; es wird ein bereits geschehenes Problem beschrieben."
+      "exampleTranslation": "Ich habe den Zimmerschl\u00FCssel verloren.",
+      "explanation": "Perder bedeutet verlieren. Perdi ist hier die Vergangenheitsform ich habe verloren. A chave do quarto ist der Zimmerschl\u00FCssel aus dem vorherigen Paket; es wird ein bereits geschehenes Problem beschrieben.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Kleine Probleme im Hotel",
       "expression": "cobertor",
       "translation": "Decke",
-      "isVocabulary": true,
       "example": "Tem um cobertor extra?",
-      "exampleTranslation": "Gibt es eine zusätzliche Decke?",
-      "explanation": "O cobertor, Plural cobertores, ist eine wärmende Decke, etwa fürs Bett. Extra bedeutet zusätzlich. Die deutsche Decke meint hier keine Zimmerdecke; die Frage betrifft ein Ausstattungsstück."
+      "exampleTranslation": "Gibt es eine zus\u00E4tzliche Decke?",
+      "explanation": "O cobertor, Plural cobertores, ist eine w\u00E4rmende Decke, etwa f\u00FCrs Bett. Extra bedeutet zus\u00E4tzlich. Die deutsche Decke meint hier keine Zimmerdecke; die Frage betrifft ein Ausstattungsst\u00FCck.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Kleine Probleme im Hotel",
       "expression": "barulhento",
       "translation": "laut",
-      "isVocabulary": true,
-      "example": "O quarto está muito barulhento.",
+      "example": "O quarto est\u00E1 muito barulhento.",
       "exampleTranslation": "Das Zimmer ist sehr laut.",
-      "explanation": "Barulhento bedeutet hier laut beziehungsweise voller störender Geräusche. Die männliche Form richtet sich nach o quarto; weiblich heißt es barulhenta. Muito verstärkt die Beschreibung zu sehr laut."
+      "explanation": "Barulhento bedeutet hier laut beziehungsweise voller st\u00F6render Ger\u00E4usche. Die m\u00E4nnliche Form richtet sich nach o quarto; weiblich hei\u00DFt es barulhenta. Muito verst\u00E4rkt die Beschreibung zu sehr laut.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Kleine Probleme im Hotel",
       "expression": "trocar",
       "translation": "wechseln",
-      "isVocabulary": true,
       "example": "Posso trocar de quarto?",
       "exampleTranslation": "Kann ich das Zimmer wechseln?",
-      "explanation": "Trocar de quarto heißt das Zimmer wechseln. Vergleiche trocar de linha aus Paket 26: Das Muster trocar de … bleibt gleich, der Bezug ändert sich. Posso …? fragt hier nach der Möglichkeit eines Wechsels."
+      "explanation": "Trocar de quarto hei\u00DFt das Zimmer wechseln. Vergleiche trocar de linha aus Paket 26: Das Muster trocar de \u2026 bleibt gleich, der Bezug \u00E4ndert sich. Posso \u2026? fragt hier nach der M\u00F6glichkeit eines Wechsels.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Im Hotel um fehlende Dinge oder Hilfe bei einfachen Zimmerproblemen bitten.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Handtuch: \u201EPreciso de uma ____ limpa.\u201C",
+        "explanation": "Toalha ist hier ein Handtuch. Limpa passt zum weiblichen Nomen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "toalha"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr eine w\u00E4rmende Bettdecke aus diesem Paket: \u201ETem um ____ extra?\u201C",
+        "explanation": "Cobertor bezeichnet hier eine Decke f\u00FCrs Bett, keine Zimmerdecke.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "cobertor"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ar-condicionado \u2014 Klimaanlage. O ar-condicionado ist die Klimaanlage und wird mit Bindestrich geschrieben. N\u00E3o funciona hei\u00DFt funktioniert nicht. Der kurze Satz benennt hier das Problem; eine weitere Bitte kann anschlie\u00DFend folgen. O ar-condicionado n\u00E3o funciona. \u2014 Die Klimaanlage funktioniert nicht.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Decke"
+          },
+          {
+            "id": "answer",
+            "text": "Klimaanlage"
+          },
+          {
+            "id": "d1",
+            "text": "verlieren"
+          },
+          {
+            "id": "d2",
+            "text": "laut"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ar-condicionado",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ear-condicionado\u201C?",
+        "explanation": "ar-condicionado \u2014 Klimaanlage. O ar-condicionado ist die Klimaanlage und wird mit Bindestrich geschrieben. N\u00E3o funciona hei\u00DFt funktioniert nicht. Der kurze Satz benennt hier das Problem; eine weitere Bitte kann anschlie\u00DFend folgen. O ar-condicionado n\u00E3o funciona. \u2014 Die Klimaanlage funktioniert nicht.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "reinigen"
+          },
+          {
+            "id": "d3",
+            "text": "Decke"
+          },
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "answer",
+            "text": "Klimaanlage"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o tem \u00E1gua quente.\u201C",
+        "explanation": "\u00E1gua quente \u2014 warmes Wasser. \u00C1gua quente ist hier warmes Wasser. Quente bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich und kann je nach Zusammenhang auch hei\u00DF bedeuten. N\u00E3o tem \u2026 hei\u00DFt im brasilianischen Alltag hier es gibt kein \u2026 N\u00E3o tem \u00E1gua quente. \u2014 Es gibt kein warmes Wasser.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "warmes Wasser"
+          },
+          {
+            "id": "d0",
+            "text": "reinigen"
+          },
+          {
+            "id": "d4",
+            "text": "Klimaanlage"
+          },
+          {
+            "id": "d3",
+            "text": "Decke"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "\u00E1gua quente",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201E\u00E1gua quente\u201C in diesem Beispiel? \u201EN\u00E3o tem \u00E1gua quente.\u201C",
+        "explanation": "\u00E1gua quente \u2014 warmes Wasser. \u00C1gua quente ist hier warmes Wasser. Quente bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich und kann je nach Zusammenhang auch hei\u00DF bedeuten. N\u00E3o tem \u2026 hei\u00DFt im brasilianischen Alltag hier es gibt kein \u2026 N\u00E3o tem \u00E1gua quente. \u2014 Es gibt kein warmes Wasser.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Decke"
+          },
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "d2",
+            "text": "laut"
+          },
+          {
+            "id": "answer",
+            "text": "warmes Wasser"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPode limpar o quarto amanh\u00E3?\u201C",
+        "explanation": "limpar \u2014 reinigen. Limpar bedeutet reinigen oder sauber machen. Pode limpar \u2026? ist hier eine h\u00F6fliche Bitte; o quarto ist das Hotelzimmer. Amanh\u00E3 bedeutet morgen und nennt den gew\u00FCnschten Tag, noch keine bestimmte Uhrzeit. Pode limpar o quarto amanh\u00E3? \u2014 K\u00F6nnen Sie das Zimmer morgen reinigen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Klimaanlage"
+          },
+          {
+            "id": "d4",
+            "text": "warmes Wasser"
+          },
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "answer",
+            "text": "reinigen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "limpar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Elimpar\u201C in diesem Beispiel? \u201EPode limpar o quarto amanh\u00E3?\u201C",
+        "explanation": "limpar \u2014 reinigen. Limpar bedeutet reinigen oder sauber machen. Pode limpar \u2026? ist hier eine h\u00F6fliche Bitte; o quarto ist das Hotelzimmer. Amanh\u00E3 bedeutet morgen und nennt den gew\u00FCnschten Tag, noch keine bestimmte Uhrzeit. Pode limpar o quarto amanh\u00E3? \u2014 K\u00F6nnen Sie das Zimmer morgen reinigen?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "warmes Wasser"
+          },
+          {
+            "id": "answer",
+            "text": "reinigen"
+          },
+          {
+            "id": "d3",
+            "text": "Klimaanlage"
+          },
+          {
+            "id": "d0",
+            "text": "verlieren"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "perder \u2014 verlieren. Perder bedeutet verlieren. Perdi ist hier die Vergangenheitsform ich habe verloren. A chave do quarto ist der Zimmerschl\u00FCssel aus dem vorherigen Paket; es wird ein bereits geschehenes Problem beschrieben. Perdi a chave do quarto. \u2014 Ich habe den Zimmerschl\u00FCssel verloren.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "verirrt (weiblich)"
+          },
+          {
+            "id": "answer",
+            "text": "verlieren"
+          },
+          {
+            "id": "d2",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "d7",
+            "text": "laut"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "perder",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eperder\u201C?",
+        "explanation": "perder \u2014 verlieren. Perder bedeutet verlieren. Perdi ist hier die Vergangenheitsform ich habe verloren. A chave do quarto ist der Zimmerschl\u00FCssel aus dem vorherigen Paket; es wird ein bereits geschehenes Problem beschrieben. Perdi a chave do quarto. \u2014 Ich habe den Zimmerschl\u00FCssel verloren.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Decke"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "answer",
+            "text": "verlieren"
+          },
+          {
+            "id": "d6",
+            "text": "helfen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO quarto est\u00E1 muito barulhento.\u201C",
+        "explanation": "barulhento \u2014 laut. Barulhento bedeutet hier laut beziehungsweise voller st\u00F6render Ger\u00E4usche. Die m\u00E4nnliche Form richtet sich nach o quarto; weiblich hei\u00DFt es barulhenta. Muito verst\u00E4rkt die Beschreibung zu sehr laut. O quarto est\u00E1 muito barulhento. \u2014 Das Zimmer ist sehr laut.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Handtuch"
+          },
+          {
+            "id": "answer",
+            "text": "laut"
+          },
+          {
+            "id": "d1",
+            "text": "verlieren"
+          },
+          {
+            "id": "d0",
+            "text": "reinigen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "barulhento",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebarulhento\u201C in diesem Beispiel? \u201EO quarto est\u00E1 muito barulhento.\u201C",
+        "explanation": "barulhento \u2014 laut. Barulhento bedeutet hier laut beziehungsweise voller st\u00F6render Ger\u00E4usche. Die m\u00E4nnliche Form richtet sich nach o quarto; weiblich hei\u00DFt es barulhenta. Muito verst\u00E4rkt die Beschreibung zu sehr laut. O quarto est\u00E1 muito barulhento. \u2014 Das Zimmer ist sehr laut.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "wechseln"
+          },
+          {
+            "id": "d6",
+            "text": "Handtuch"
+          },
+          {
+            "id": "d0",
+            "text": "reinigen"
+          },
+          {
+            "id": "answer",
+            "text": "laut"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPosso trocar de quarto?\u201C",
+        "explanation": "trocar \u2014 wechseln. Trocar de quarto hei\u00DFt das Zimmer wechseln. Vergleiche trocar de linha aus Paket 26: Das Muster trocar de \u2026 bleibt gleich, der Bezug \u00E4ndert sich. Posso \u2026? fragt hier nach der M\u00F6glichkeit eines Wechsels. Posso trocar de quarto? \u2014 Kann ich das Zimmer wechseln?",
+        "options": [
+          {
+            "id": "d11",
+            "text": "warmes Wasser"
+          },
+          {
+            "id": "d3",
+            "text": "Linie"
+          },
+          {
+            "id": "answer",
+            "text": "wechseln"
+          },
+          {
+            "id": "d7",
+            "text": "laut"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "trocar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etrocar\u201C in diesem Beispiel? \u201EPosso trocar de quarto?\u201C",
+        "explanation": "trocar \u2014 wechseln. Trocar de quarto hei\u00DFt das Zimmer wechseln. Vergleiche trocar de linha aus Paket 26: Das Muster trocar de \u2026 bleibt gleich, der Bezug \u00E4ndert sich. Posso \u2026? fragt hier nach der M\u00F6glichkeit eines Wechsels. Posso trocar de quarto? \u2014 Kann ich das Zimmer wechseln?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "reinigen"
+          },
+          {
+            "id": "answer",
+            "text": "wechseln"
+          },
+          {
+            "id": "d5",
+            "text": "Fahrkarte"
+          },
+          {
+            "id": "d7",
+            "text": "laut"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKlimaanlage\u201C?",
+        "explanation": "ar-condicionado \u2014 Klimaanlage. O ar-condicionado ist die Klimaanlage und wird mit Bindestrich geschrieben. N\u00E3o funciona hei\u00DFt funktioniert nicht. Der kurze Satz benennt hier das Problem; eine weitere Bitte kann anschlie\u00DFend folgen. O ar-condicionado n\u00E3o funciona. \u2014 Die Klimaanlage funktioniert nicht.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "toalha"
+          },
+          {
+            "id": "answer",
+            "text": "ar-condicionado"
+          },
+          {
+            "id": "d3",
+            "text": "cobertor"
+          },
+          {
+            "id": "d2",
+            "text": "barulhento"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage meldet, dass die Klimaanlage nicht funktioniert?",
+        "explanation": "N\u00E3o funciona bedeutet funktioniert nicht. Ar-condicionado wird mit Bindestrich geschrieben.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O ar-condicionado n\u00E3o funciona."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O ar-condicionado funciona."
+          },
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o tem \u00E1gua quente."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O elevador n\u00E3o funciona."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ewarmes Wasser\u201C? Zusammenhang: bei einer Beschwerde \u00FCber das Wasser im Hotel.",
+        "explanation": "\u00E1gua quente \u2014 warmes Wasser. \u00C1gua quente ist hier warmes Wasser. Quente bleibt in der Einzahl bei m\u00E4nnlichen und weiblichen Nomen gleich und kann je nach Zusammenhang auch hei\u00DF bedeuten. N\u00E3o tem \u2026 hei\u00DFt im brasilianischen Alltag hier es gibt kein \u2026 N\u00E3o tem \u00E1gua quente. \u2014 Es gibt kein warmes Wasser.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "limpar"
+          },
+          {
+            "id": "d4",
+            "text": "ar-condicionado"
+          },
+          {
+            "id": "d1",
+            "text": "perder"
+          },
+          {
+            "id": "answer",
+            "text": "\u00E1gua quente"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage meldet, dass es kein warmes Wasser gibt?",
+        "explanation": "N\u00E3o tem \u00E1gua quente. verneint die Verf\u00FCgbarkeit von warmem Wasser. Quente kann je nach Kontext auch hei\u00DF hei\u00DFen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o tem toalha limpa."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tem \u00E1gua quente."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o tem \u00E1gua quente."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O ar-condicionado n\u00E3o funciona."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ereinigen\u201C? Zusammenhang: bei einer Bitte zum Zustand des Hotelzimmers.",
+        "explanation": "limpar \u2014 reinigen. Limpar bedeutet reinigen oder sauber machen. Pode limpar \u2026? ist hier eine h\u00F6fliche Bitte; o quarto ist das Hotelzimmer. Amanh\u00E3 bedeutet morgen und nennt den gew\u00FCnschten Tag, noch keine bestimmte Uhrzeit. Pode limpar o quarto amanh\u00E3? \u2014 K\u00F6nnen Sie das Zimmer morgen reinigen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "limpar"
+          },
+          {
+            "id": "d4",
+            "text": "\u00E1gua quente"
+          },
+          {
+            "id": "d1",
+            "text": "barulhento"
+          },
+          {
+            "id": "d0",
+            "text": "perder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bittest darum, das Zimmer morgen zu reinigen. Welche Frage passt?",
+        "explanation": "Amanh\u00E3 hei\u00DFt morgen. Pode limpar o quarto amanh\u00E3? bittet um die Reinigung des Zimmers an diesem Tag.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode limpar o banheiro amanh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode limpar o quarto hoje?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode limpar o quarto amanh\u00E3?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Posso trocar de quarto?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Everlieren\u201C?",
+        "explanation": "perder \u2014 verlieren. Perder bedeutet verlieren. Perdi ist hier die Vergangenheitsform ich habe verloren. A chave do quarto ist der Zimmerschl\u00FCssel aus dem vorherigen Paket; es wird ein bereits geschehenes Problem beschrieben. Perdi a chave do quarto. \u2014 Ich habe den Zimmerschl\u00FCssel verloren.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "cobertor"
+          },
+          {
+            "id": "d7",
+            "text": "barulhento"
+          },
+          {
+            "id": "d4",
+            "text": "perdida"
+          },
+          {
+            "id": "answer",
+            "text": "perder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du den Zimmerschl\u00FCssel bereits verloren hast?",
+        "explanation": "Perdi ist die Vergangenheitsform ich habe verloren. Chave do quarto bezeichnet den Zimmerschl\u00FCssel.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Perdi meu passaporte."
+          },
+          {
+            "id": "answer",
+            "text": "Perdi a chave do quarto."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso da chave do quarto."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Achei a chave do quarto."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Elaut\u201C? Zusammenhang: bei einer Beschwerde \u00FCber Ger\u00E4usche im Zimmer.",
+        "explanation": "barulhento \u2014 laut. Barulhento bedeutet hier laut beziehungsweise voller st\u00F6render Ger\u00E4usche. Die m\u00E4nnliche Form richtet sich nach o quarto; weiblich hei\u00DFt es barulhenta. Muito verst\u00E4rkt die Beschreibung zu sehr laut. O quarto est\u00E1 muito barulhento. \u2014 Das Zimmer ist sehr laut.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "barulhento"
+          },
+          {
+            "id": "d5",
+            "text": "trocar"
+          },
+          {
+            "id": "d2",
+            "text": "cobertor"
+          },
+          {
+            "id": "d1",
+            "text": "perder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt das Zimmer als sehr laut?",
+        "explanation": "Barulhento bezeichnet hier st\u00F6rende Ger\u00E4usche. Muito hei\u00DFt sehr; die m\u00E4nnliche Form passt zu quarto.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O quarto est\u00E1 muito silencioso."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O quarto est\u00E1 muito frio."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O quarto est\u00E1 muito quente."
+          },
+          {
+            "id": "answer",
+            "text": "O quarto est\u00E1 muito barulhento."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ewechseln\u201C? Zusammenhang: bei einer Frage zu einem anderen Hotelzimmer.",
+        "explanation": "trocar \u2014 wechseln. Trocar de quarto hei\u00DFt das Zimmer wechseln. Vergleiche trocar de linha aus Paket 26: Das Muster trocar de \u2026 bleibt gleich, der Bezug \u00E4ndert sich. Posso \u2026? fragt hier nach der M\u00F6glichkeit eines Wechsels. Posso trocar de quarto? \u2014 Kann ich das Zimmer wechseln?",
+        "options": [
+          {
+            "id": "d9",
+            "text": "ar-condicionado"
+          },
+          {
+            "id": "d5",
+            "text": "passagem"
+          },
+          {
+            "id": "d2",
+            "text": "metr\u00F4"
+          },
+          {
+            "id": "answer",
+            "text": "trocar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest wissen, ob du das Hotelzimmer wechseln kannst. Welche Frage passt?",
+        "explanation": "Trocar de quarto hei\u00DFt das Zimmer wechseln. Die Frage betrifft keine Verkehrslinie.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode limpar o quarto amanh\u00E3?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o elevador?"
+          },
+          {
+            "id": "answer",
+            "text": "Posso trocar de quarto?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho que trocar de linha?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

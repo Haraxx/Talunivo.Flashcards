@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-25-wegbeschreibung",
-  "packageVersion": 4,
-  "title": "25 · Nach dem Weg fragen",
+  "packageVersion": 6,
+  "title": "25 \u00B7 Nach dem Weg fragen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Nach dem Weg fragen",
       "expression": "centro",
       "translation": "Zentrum",
-      "isVocabulary": true,
       "example": "Como chego ao centro?",
       "exampleTranslation": "Wie komme ich ins Zentrum?",
-      "explanation": "O centro ist hier das Stadtzentrum. Como chego …? bedeutet wie komme ich …? Ao ist a + o; ao centro nennt das Ziel ins beziehungsweise zum Zentrum."
+      "explanation": "O centro ist hier das Stadtzentrum. Como chego \u2026? bedeutet wie komme ich \u2026? Ao ist a \u002B o; ao centro nennt das Ziel ins beziehungsweise zum Zentrum.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Nach dem Weg fragen",
       "expression": "em frente",
       "translation": "geradeaus",
-      "isVocabulary": true,
       "example": "Siga em frente.",
       "exampleTranslation": "Gehen Sie geradeaus.",
-      "explanation": "Siga ist hier eine höfliche Weganweisung. Em frente bedeutet in diesem Satz geradeaus. Das ist ein anderes Muster als em frente a einem Bezugspunkt, das eine Lage vor oder gegenüber etwas beschreibt."
+      "explanation": "Siga ist hier eine h\u00F6fliche Weganweisung. Em frente bedeutet in diesem Satz geradeaus. Das ist ein anderes Muster als em frente a einem Bezugspunkt, das eine Lage vor oder gegen\u00FCber etwas beschreibt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Nach dem Weg fragen",
-      "expression": "à direita",
+      "expression": "\u00E0 direita",
       "translation": "nach rechts",
-      "isVocabulary": true,
-      "example": "Vire à direita.",
+      "example": "Vire \u00E0 direita.",
       "exampleTranslation": "Biegen Sie rechts ab.",
-      "explanation": "Vire bedeutet hier biegen Sie ab. À direita gibt in dieser Anweisung die Richtung nach rechts an; das à gehört zur Wendung. Bei einer Lagebeschreibung kann à direita rechts gelegen bedeuten."
+      "explanation": "Vire bedeutet hier biegen Sie ab. \u00C0 direita gibt in dieser Anweisung die Richtung nach rechts an; das \u00E0 geh\u00F6rt zur Wendung. Bei einer Lagebeschreibung kann \u00E0 direita rechts gelegen bedeuten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Nach dem Weg fragen",
-      "expression": "à esquerda",
+      "expression": "\u00E0 esquerda",
       "translation": "nach links",
-      "isVocabulary": true,
-      "example": "Vire à esquerda.",
+      "example": "Vire \u00E0 esquerda.",
       "exampleTranslation": "Biegen Sie links ab.",
-      "explanation": "À esquerda bedeutet in dieser Weganweisung nach links. Vire heißt hier biegen Sie ab. Vergleiche à esquerda mit à direita = nach rechts; die Perspektive ist die der Person, die dem Weg folgt."
+      "explanation": "\u00C0 esquerda bedeutet in dieser Weganweisung nach links. Vire hei\u00DFt hier biegen Sie ab. Vergleiche \u00E0 esquerda mit \u00E0 direita = nach rechts; die Perspektive ist die der Person, die dem Weg folgt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Nach dem Weg fragen",
       "expression": "rua",
-      "translation": "Straße",
-      "isVocabulary": true,
+      "translation": "Stra\u00DFe",
       "example": "Atravesse a rua.",
-      "exampleTranslation": "Überqueren Sie die Straße.",
-      "explanation": "A rua, Plural ruas. Atravesse ist hier die Anweisung überqueren Sie. Gemeint ist ein Wechsel auf die andere Straßenseite, nicht das Weitergehen entlang der Straße."
+      "exampleTranslation": "\u00DCberqueren Sie die Stra\u00DFe.",
+      "explanation": "A rua, Plural ruas. Atravesse ist hier die Anweisung \u00FCberqueren Sie. Gemeint ist ein Wechsel auf die andere Stra\u00DFenseite, nicht das Weitergehen entlang der Stra\u00DFe.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Nach dem Weg fragen",
-      "expression": "semáforo",
+      "expression": "sem\u00E1foro",
       "translation": "Ampel",
-      "isVocabulary": true,
-      "example": "Vire à direita depois do semáforo.",
+      "example": "Vire \u00E0 direita depois do sem\u00E1foro.",
       "exampleTranslation": "Biegen Sie nach der Ampel rechts ab.",
-      "explanation": "O semáforo, Plural semáforos, ist eine Ampel. Depois do bedeutet hier nach dem Passieren des Bezugspunkts; do ist de + o. Die Anweisung verbindet die bekannte Rechtsabbiegung mit der Ampel."
+      "explanation": "O sem\u00E1foro, Plural sem\u00E1foros, ist eine Ampel. Depois do bedeutet hier nach dem Passieren des Bezugspunkts; do ist de \u002B o. Die Anweisung verbindet die bekannte Rechtsabbiegung mit der Ampel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Nach dem Weg fragen",
       "expression": "ao lado",
       "translation": "daneben",
-      "isVocabulary": true,
       "example": "Fica ao lado do banco.",
       "exampleTranslation": "Es liegt neben der Bank.",
-      "explanation": "Ao lado bedeutet daneben. Mit einem genannten Bezugspunkt verwendet man ao lado de: ao lado do banco = neben der Bank. Do ist de + o. Die Angabe allein legt nicht fest, ob links oder rechts daneben gemeint ist."
+      "explanation": "Ao lado bedeutet daneben. Mit einem genannten Bezugspunkt verwendet man ao lado de: ao lado do banco = neben der Bank. Do ist de \u002B o. Die Angabe allein legt nicht fest, ob links oder rechts daneben gemeint ist.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Nach dem Weg fragen",
       "expression": "mapa",
       "translation": "Karte; Stadtplan",
-      "isVocabulary": true,
       "example": "Pode me mostrar no mapa?",
-      "exampleTranslation": "Können Sie es mir auf der Karte zeigen?",
-      "explanation": "O mapa, Plural mapas, ist trotz -a männlich und bezeichnet hier eine geografische Karte oder einen Stadtplan. No mapa ist em + o mapa: auf der Karte. Mostrar bedeutet zeigen; gemeint ist keine Zahlungs- oder Speisekarte."
+      "exampleTranslation": "K\u00F6nnen Sie es mir auf der Karte zeigen?",
+      "explanation": "O mapa, Plural mapas, ist trotz -a m\u00E4nnlich und bezeichnet hier eine geografische Karte oder einen Stadtplan. No mapa ist em \u002B o mapa: auf der Karte. Mostrar bedeutet zeigen; gemeint ist keine Zahlungs- oder Speisekarte.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Nach dem Weg fragen und einfache Richtungs- und Lageangaben verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Zweiwort-Wendung f\u00FCr nach rechts, aus Sicht der gehenden Person: \u201EVire ____.\u201C",
+        "explanation": "\u00C0 direita bedeutet nach rechts. Der Gravis auf \u00E0 geh\u00F6rt zur gelernten Wendung.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "\u00E0 direita"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Zweiwort-Wendung f\u00FCr nach links, aus Sicht der gehenden Person: \u201EVire ____.\u201C",
+        "explanation": "\u00C0 esquerda bedeutet nach links. Der Gravis auf \u00E0 geh\u00F6rt zur gelernten Wendung.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "\u00E0 esquerda"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "centro \u2014 Zentrum. O centro ist hier das Stadtzentrum. Como chego \u2026? bedeutet wie komme ich \u2026? Ao ist a \u002B o; ao centro nennt das Ziel ins beziehungsweise zum Zentrum. Como chego ao centro? \u2014 Wie komme ich ins Zentrum?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Karte; Stadtplan"
+          },
+          {
+            "id": "answer",
+            "text": "Zentrum"
+          },
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "centro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecentro\u201C?",
+        "explanation": "centro \u2014 Zentrum. O centro ist hier das Stadtzentrum. Como chego \u2026? bedeutet wie komme ich \u2026? Ao ist a \u002B o; ao centro nennt das Ziel ins beziehungsweise zum Zentrum. Como chego ao centro? \u2014 Wie komme ich ins Zentrum?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Karte; Stadtplan"
+          },
+          {
+            "id": "answer",
+            "text": "Zentrum"
+          },
+          {
+            "id": "d2",
+            "text": "geradeaus"
+          },
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ESiga em frente.\u201C",
+        "explanation": "em frente \u2014 geradeaus. Siga ist hier eine h\u00F6fliche Weganweisung. Em frente bedeutet in diesem Satz geradeaus. Das ist ein anderes Muster als em frente a einem Bezugspunkt, das eine Lage vor oder gegen\u00FCber etwas beschreibt. Siga em frente. \u2014 Gehen Sie geradeaus.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Zentrum"
+          },
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d4",
+            "text": "Ampel"
+          },
+          {
+            "id": "answer",
+            "text": "geradeaus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "em frente",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eem frente\u201C in diesem Beispiel? \u201ESiga em frente.\u201C",
+        "explanation": "em frente \u2014 geradeaus. Siga ist hier eine h\u00F6fliche Weganweisung. Em frente bedeutet in diesem Satz geradeaus. Das ist ein anderes Muster als em frente a einem Bezugspunkt, das eine Lage vor oder gegen\u00FCber etwas beschreibt. Siga em frente. \u2014 Gehen Sie geradeaus.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "geradeaus"
+          },
+          {
+            "id": "d3",
+            "text": "daneben"
+          },
+          {
+            "id": "d4",
+            "text": "Ampel"
+          },
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "rua \u2014 Stra\u00DFe. A rua, Plural ruas. Atravesse ist hier die Anweisung \u00FCberqueren Sie. Gemeint ist ein Wechsel auf die andere Stra\u00DFenseite, nicht das Weitergehen entlang der Stra\u00DFe. Atravesse a rua. \u2014 \u00DCberqueren Sie die Stra\u00DFe.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Ampel"
+          },
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          },
+          {
+            "id": "answer",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d2",
+            "text": "Zentrum"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "rua",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Erua\u201C?",
+        "explanation": "rua \u2014 Stra\u00DFe. A rua, Plural ruas. Atravesse ist hier die Anweisung \u00FCberqueren Sie. Gemeint ist ein Wechsel auf die andere Stra\u00DFenseite, nicht das Weitergehen entlang der Stra\u00DFe. Atravesse a rua. \u2014 \u00DCberqueren Sie die Stra\u00DFe.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "nach links"
+          },
+          {
+            "id": "d2",
+            "text": "Zentrum"
+          },
+          {
+            "id": "answer",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d1",
+            "text": "geradeaus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sem\u00E1foro \u2014 Ampel. O sem\u00E1foro, Plural sem\u00E1foros, ist eine Ampel. Depois do bedeutet hier nach dem Passieren des Bezugspunkts; do ist de \u002B o. Die Anweisung verbindet die bekannte Rechtsabbiegung mit der Ampel. Vire \u00E0 direita depois do sem\u00E1foro. \u2014 Biegen Sie nach der Ampel rechts ab.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ampel"
+          },
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          },
+          {
+            "id": "d4",
+            "text": "daneben"
+          },
+          {
+            "id": "d3",
+            "text": "Zentrum"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sem\u00E1foro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esem\u00E1foro\u201C?",
+        "explanation": "sem\u00E1foro \u2014 Ampel. O sem\u00E1foro, Plural sem\u00E1foros, ist eine Ampel. Depois do bedeutet hier nach dem Passieren des Bezugspunkts; do ist de \u002B o. Die Anweisung verbindet die bekannte Rechtsabbiegung mit der Ampel. Vire \u00E0 direita depois do sem\u00E1foro. \u2014 Biegen Sie nach der Ampel rechts ab.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          },
+          {
+            "id": "answer",
+            "text": "Ampel"
+          },
+          {
+            "id": "d5",
+            "text": "nach links"
+          },
+          {
+            "id": "d4",
+            "text": "daneben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EFica ao lado do banco.\u201C",
+        "explanation": "ao lado \u2014 daneben. Ao lado bedeutet daneben. Mit einem genannten Bezugspunkt verwendet man ao lado de: ao lado do banco = neben der Bank. Do ist de \u002B o. Die Angabe allein legt nicht fest, ob links oder rechts daneben gemeint ist. Fica ao lado do banco. \u2014 Es liegt neben der Bank.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Zentrum"
+          },
+          {
+            "id": "answer",
+            "text": "daneben"
+          },
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d2",
+            "text": "geradeaus"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ao lado",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eao lado\u201C in diesem Beispiel? \u201EFica ao lado do banco.\u201C",
+        "explanation": "ao lado \u2014 daneben. Ao lado bedeutet daneben. Mit einem genannten Bezugspunkt verwendet man ao lado de: ao lado do banco = neben der Bank. Do ist de \u002B o. Die Angabe allein legt nicht fest, ob links oder rechts daneben gemeint ist. Fica ao lado do banco. \u2014 Es liegt neben der Bank.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          },
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "answer",
+            "text": "daneben"
+          },
+          {
+            "id": "d4",
+            "text": "Ampel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPode me mostrar no mapa?\u201C",
+        "explanation": "mapa \u2014 Karte; Stadtplan. O mapa, Plural mapas, ist trotz -a m\u00E4nnlich und bezeichnet hier eine geografische Karte oder einen Stadtplan. No mapa ist em \u002B o mapa: auf der Karte. Mostrar bedeutet zeigen; gemeint ist keine Zahlungs- oder Speisekarte. Pode me mostrar no mapa? \u2014 K\u00F6nnen Sie es mir auf der Karte zeigen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Zentrum"
+          },
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d5",
+            "text": "Ampel"
+          },
+          {
+            "id": "answer",
+            "text": "Karte; Stadtplan"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "mapa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emapa\u201C in diesem Beispiel? \u201EPode me mostrar no mapa?\u201C",
+        "explanation": "mapa \u2014 Karte; Stadtplan. O mapa, Plural mapas, ist trotz -a m\u00E4nnlich und bezeichnet hier eine geografische Karte oder einen Stadtplan. No mapa ist em \u002B o mapa: auf der Karte. Mostrar bedeutet zeigen; gemeint ist keine Zahlungs- oder Speisekarte. Pode me mostrar no mapa? \u2014 K\u00F6nnen Sie es mir auf der Karte zeigen?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Stra\u00DFe"
+          },
+          {
+            "id": "d5",
+            "text": "Ampel"
+          },
+          {
+            "id": "answer",
+            "text": "Karte; Stadtplan"
+          },
+          {
+            "id": "d0",
+            "text": "nach rechts"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EVoc\u00EA precisa de ajuda para chegar ao centro?\u201C \u2013 Welche Frage bittet um eine Wegbeschreibung ins Stadtzentrum?",
+        "explanation": "Como chego ao centro? fragt nach dem Weg ins Zentrum.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o provador?"
+          },
+          {
+            "id": "answer",
+            "text": "Como chego ao centro?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "O centro fica longe?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Como chego \u00E0 praia?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EZentrum\u201C?",
+        "explanation": "centro \u2014 Zentrum. O centro ist hier das Stadtzentrum. Como chego \u2026? bedeutet wie komme ich \u2026? Ao ist a \u002B o; ao centro nennt das Ziel ins beziehungsweise zum Zentrum. Como chego ao centro? \u2014 Wie komme ich ins Zentrum?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "em frente"
+          },
+          {
+            "id": "d0",
+            "text": "\u00E0 direita"
+          },
+          {
+            "id": "answer",
+            "text": "centro"
+          },
+          {
+            "id": "d1",
+            "text": "rua"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Anweisung fordert dazu auf, geradeaus weiterzugehen?",
+        "explanation": "Em frente bedeutet bei siga geradeaus. Em frente a beschreibt dagegen eine Lage.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Atravesse a rua."
+          },
+          {
+            "id": "answer",
+            "text": "Siga em frente."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vire \u00E0 direita."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vire \u00E0 esquerda."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Egeradeaus\u201C? Gemeint ist: geradeaus als Bewegungsrichtung, keine Lage vor einem Geb\u00E4ude.",
+        "explanation": "em frente \u2014 geradeaus. Siga ist hier eine h\u00F6fliche Weganweisung. Em frente bedeutet in diesem Satz geradeaus. Das ist ein anderes Muster als em frente a einem Bezugspunkt, das eine Lage vor oder gegen\u00FCber etwas beschreibt. Siga em frente. \u2014 Gehen Sie geradeaus.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "\u00E0 esquerda"
+          },
+          {
+            "id": "d4",
+            "text": "sem\u00E1foro"
+          },
+          {
+            "id": "d2",
+            "text": "centro"
+          },
+          {
+            "id": "answer",
+            "text": "em frente"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Anweisung fordert dazu auf, die Stra\u00DFe zu \u00FCberqueren?",
+        "explanation": "Atravesse a rua bedeutet \u00FCberqueren Sie die Stra\u00DFe.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vire \u00E0 direita."
+          },
+          {
+            "id": "answer",
+            "text": "Atravesse a rua."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Siga em frente."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vire \u00E0 esquerda."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EStra\u00DFe\u201C?",
+        "explanation": "rua \u2014 Stra\u00DFe. A rua, Plural ruas. Atravesse ist hier die Anweisung \u00FCberqueren Sie. Gemeint ist ein Wechsel auf die andere Stra\u00DFenseite, nicht das Weitergehen entlang der Stra\u00DFe. Atravesse a rua. \u2014 \u00DCberqueren Sie die Stra\u00DFe.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "rua"
+          },
+          {
+            "id": "d6",
+            "text": "mapa"
+          },
+          {
+            "id": "d4",
+            "text": "sem\u00E1foro"
+          },
+          {
+            "id": "d3",
+            "text": "ao lado"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Anweisung fordert zum Rechtsabbiegen erst nach der Ampel auf?",
+        "explanation": "Depois do hei\u00DFt nach dem, antes do vor dem. Sem\u00E1foro hei\u00DFt Ampel.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Vire \u00E0 direita antes do sem\u00E1foro."
+          },
+          {
+            "id": "answer",
+            "text": "Vire \u00E0 direita depois do sem\u00E1foro."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vire \u00E0 esquerda depois do sem\u00E1foro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Siga em frente depois do sem\u00E1foro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EAmpel\u201C?",
+        "explanation": "sem\u00E1foro \u2014 Ampel. O sem\u00E1foro, Plural sem\u00E1foros, ist eine Ampel. Depois do bedeutet hier nach dem Passieren des Bezugspunkts; do ist de \u002B o. Die Anweisung verbindet die bekannte Rechtsabbiegung mit der Ampel. Vire \u00E0 direita depois do sem\u00E1foro. \u2014 Biegen Sie nach der Ampel rechts ab.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "\u00E0 direita"
+          },
+          {
+            "id": "d4",
+            "text": "ao lado"
+          },
+          {
+            "id": "d6",
+            "text": "mapa"
+          },
+          {
+            "id": "answer",
+            "text": "sem\u00E1foro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt eine Lage neben der Bank, ohne links oder rechts festzulegen?",
+        "explanation": "Ao lado do banco hei\u00DFt neben der Bank. Die Seite wird nicht festgelegt.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Fica longe do banco."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Fica atr\u00E1s do banco."
+          },
+          {
+            "id": "answer",
+            "text": "Fica ao lado do banco."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Fica em frente ao banco."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Edaneben\u201C? Gemeint ist: daneben als Lage neben einem Bezugspunkt.",
+        "explanation": "ao lado \u2014 daneben. Ao lado bedeutet daneben. Mit einem genannten Bezugspunkt verwendet man ao lado de: ao lado do banco = neben der Bank. Do ist de \u002B o. Die Angabe allein legt nicht fest, ob links oder rechts daneben gemeint ist. Fica ao lado do banco. \u2014 Es liegt neben der Bank.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "em frente"
+          },
+          {
+            "id": "answer",
+            "text": "ao lado"
+          },
+          {
+            "id": "d1",
+            "text": "rua"
+          },
+          {
+            "id": "d6",
+            "text": "mapa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EVoc\u00EA quer ver o caminho no mapa?\u201C \u2013 Welche Bitte l\u00E4sst dir den Weg auf dem Stadtplan zeigen?",
+        "explanation": "Mapa ist hier eine geografische Karte oder ein Stadtplan.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Posso experimentar esta jaqueta?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode repetir o pre\u00E7o?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode me dar o recibo?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode me mostrar no mapa?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EKarte; Stadtplan\u201C? Gemeint ist: eine geografische Karte oder ein Stadtplan.",
+        "explanation": "mapa \u2014 Karte; Stadtplan. O mapa, Plural mapas, ist trotz -a m\u00E4nnlich und bezeichnet hier eine geografische Karte oder einen Stadtplan. No mapa ist em \u002B o mapa: auf der Karte. Mostrar bedeutet zeigen; gemeint ist keine Zahlungs- oder Speisekarte. Pode me mostrar no mapa? \u2014 K\u00F6nnen Sie es mir auf der Karte zeigen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "centro"
+          },
+          {
+            "id": "answer",
+            "text": "mapa"
+          },
+          {
+            "id": "d1",
+            "text": "rua"
+          },
+          {
+            "id": "d5",
+            "text": "sem\u00E1foro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

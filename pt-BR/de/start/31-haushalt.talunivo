@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-31-haushalt",
-  "packageVersion": 4,
-  "title": "31 · Im Haushalt",
+  "packageVersion": 6,
+  "title": "31 \u00B7 Im Haushalt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Im Haushalt",
-      "expression": "louça",
+      "expression": "lou\u00E7a",
       "translation": "Geschirr",
-      "isVocabulary": true,
-      "example": "Lavo a louça depois do almoço.",
-      "exampleTranslation": "Ich spüle nach dem Mittagessen das Geschirr.",
-      "explanation": "A louça bezeichnet hier das Geschirr als Gesamtheit. Lavar a louça heißt das Geschirr spülen; lavo ist die Ich-Form von lavar. Depois do almoço bedeutet nach dem Mittagessen."
+      "example": "Lavo a lou\u00E7a depois do almo\u00E7o.",
+      "exampleTranslation": "Ich sp\u00FCle nach dem Mittagessen das Geschirr.",
+      "explanation": "A lou\u00E7a bezeichnet hier das Geschirr als Gesamtheit. Lavar a lou\u00E7a hei\u00DFt das Geschirr sp\u00FClen; lavo ist die Ich-Form von lavar. Depois do almo\u00E7o bedeutet nach dem Mittagessen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Im Haushalt",
       "expression": "roupa",
-      "translation": "Wäsche; Kleidung",
-      "isVocabulary": true,
+      "translation": "W\u00E4sche; Kleidung",
       "example": "Preciso lavar a roupa.",
-      "exampleTranslation": "Ich muss die Wäsche waschen.",
-      "explanation": "A roupa bedeutet Kleidung oder, beim Waschen, Wäsche. Preciso lavar heißt ich muss waschen: Nach preciso folgt hier der Infinitiv. Für einzelne Kleidungsstücke kann man peças de roupa sagen."
+      "exampleTranslation": "Ich muss die W\u00E4sche waschen.",
+      "explanation": "A roupa bedeutet Kleidung oder, beim Waschen, W\u00E4sche. Preciso lavar hei\u00DFt ich muss waschen: Nach preciso folgt hier der Infinitiv. F\u00FCr einzelne Kleidungsst\u00FCcke kann man pe\u00E7as de roupa sagen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Im Haushalt",
       "expression": "cama",
       "translation": "Bett",
-      "isVocabulary": true,
       "example": "Vou arrumar a cama.",
       "exampleTranslation": "Ich werde das Bett machen.",
-      "explanation": "A cama, Plural camas, ist das Bett. Arrumar a cama bedeutet das Bett machen. Vou + Infinitiv kündigt hier eine beabsichtigte Handlung an."
+      "explanation": "A cama, Plural camas, ist das Bett. Arrumar a cama bedeutet das Bett machen. Vou \u002B Infinitiv k\u00FCndigt hier eine beabsichtigte Handlung an.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Im Haushalt",
       "expression": "fechar",
-      "translation": "schließen",
-      "isVocabulary": true,
+      "translation": "schlie\u00DFen",
       "example": "Pode fechar a janela, por favor?",
-      "exampleTranslation": "Kannst du bitte das Fenster schließen?",
-      "explanation": "Fechar heißt schließen. A janela ist das Fenster. Pode + Infinitiv fragt hier höflich nach einer Handlung; por favor ergänzt die Bitte. Das Gegenteil von fechar ist abrir."
+      "exampleTranslation": "Kannst du bitte das Fenster schlie\u00DFen?",
+      "explanation": "Fechar hei\u00DFt schlie\u00DFen. A janela ist das Fenster. Pode \u002B Infinitiv fragt hier h\u00F6flich nach einer Handlung; por favor erg\u00E4nzt die Bitte. Das Gegenteil von fechar ist abrir.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Im Haushalt",
       "expression": "abrir",
-      "translation": "öffnen",
-      "isVocabulary": true,
+      "translation": "\u00F6ffnen",
       "example": "Pode abrir a porta, por favor?",
-      "exampleTranslation": "Kannst du bitte die Tür öffnen?",
-      "explanation": "Abrir heißt öffnen; a porta ist die Tür. Pode abrir …? ist eine Bitte, etwas zu öffnen. Fechar bedeutet dagegen schließen. Das Verb bleibt nach pode im Infinitiv."
+      "exampleTranslation": "Kannst du bitte die T\u00FCr \u00F6ffnen?",
+      "explanation": "Abrir hei\u00DFt \u00F6ffnen; a porta ist die T\u00FCr. Pode abrir \u2026? ist eine Bitte, etwas zu \u00F6ffnen. Fechar bedeutet dagegen schlie\u00DFen. Das Verb bleibt nach pode im Infinitiv.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Im Haushalt",
       "expression": "luz",
       "translation": "Licht",
-      "isVocabulary": true,
-      "example": "A luz está acesa.",
+      "example": "A luz est\u00E1 acesa.",
       "exampleTranslation": "Das Licht ist an.",
-      "explanation": "A luz, Plural luzes, bedeutet Licht. Acesa heißt hier an oder eingeschaltet und passt zur weiblichen Form luz. Está beschreibt den aktuellen Zustand."
+      "explanation": "A luz, Plural luzes, bedeutet Licht. Acesa hei\u00DFt hier an oder eingeschaltet und passt zur weiblichen Form luz. Est\u00E1 beschreibt den aktuellen Zustand.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Im Haushalt",
       "expression": "apagar",
       "translation": "ausschalten",
-      "isVocabulary": true,
       "example": "Apague a luz, por favor.",
       "exampleTranslation": "Mach bitte das Licht aus.",
-      "explanation": "Apagar a luz heißt das Licht ausschalten. Apague ist hier die Aufforderungsform zur Ansprache mit você. Apagar kann in anderem Kontext löschen bedeuten; für Geräte wird häufig desligar verwendet."
+      "explanation": "Apagar a luz hei\u00DFt das Licht ausschalten. Apague ist hier die Aufforderungsform zur Ansprache mit voc\u00EA. Apagar kann in anderem Kontext l\u00F6schen bedeuten; f\u00FCr Ger\u00E4te wird h\u00E4ufig desligar verwendet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Im Haushalt",
       "expression": "lixo",
-      "translation": "Müll",
-      "isVocabulary": true,
-      "example": "O lixo fica lá fora.",
-      "exampleTranslation": "Der Müll ist draußen.",
-      "explanation": "O lixo bezeichnet Müll als Sammelbegriff. Fica nennt hier den Ort; lá fora bedeutet dort draußen. Der Satz sagt, wo der Müll ist, und fordert nicht zum Hinaustragen auf."
+      "translation": "M\u00FCll",
+      "example": "O lixo fica l\u00E1 fora.",
+      "exampleTranslation": "Der M\u00FCll ist drau\u00DFen.",
+      "explanation": "O lixo bezeichnet M\u00FCll als Sammelbegriff. Fica nennt hier den Ort; l\u00E1 fora bedeutet dort drau\u00DFen. Der Satz sagt, wo der M\u00FCll ist, und fordert nicht zum Hinaustragen auf.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Haushaltst\u00E4tigkeiten verstehen und Gegenst\u00E4nde beim Aufr\u00E4umen oder Reinigen benennen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Sammelnomen f\u00FCr Geschirr: \u201ELavo a ____ depois do almo\u00E7o.\u201C",
+        "explanation": "Lou\u00E7a bezeichnet hier das Geschirr als Gesamtheit. Die Cedille geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "lou\u00E7a"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Sammelnomen f\u00FCr M\u00FCll: \u201EO ____ fica l\u00E1 fora.\u201C",
+        "explanation": "Lixo bezeichnet M\u00FCll als Sammelbegriff. L\u00E1 fora nennt den Ort drau\u00DFen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "lixo"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPreciso lavar a roupa.\u201C",
+        "explanation": "roupa \u2014 W\u00E4sche; Kleidung. A roupa bedeutet Kleidung oder, beim Waschen, W\u00E4sche. Preciso lavar hei\u00DFt ich muss waschen: Nach preciso folgt hier der Infinitiv. F\u00FCr einzelne Kleidungsst\u00FCcke kann man pe\u00E7as de roupa sagen. Preciso lavar a roupa. \u2014 Ich muss die W\u00E4sche waschen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "W\u00E4sche; Kleidung"
+          },
+          {
+            "id": "d0",
+            "text": "Licht"
+          },
+          {
+            "id": "d4",
+            "text": "Geschirr"
+          },
+          {
+            "id": "d3",
+            "text": "schlie\u00DFen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "roupa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eroupa\u201C in diesem Beispiel? \u201EPreciso lavar a roupa.\u201C",
+        "explanation": "roupa \u2014 W\u00E4sche; Kleidung. A roupa bedeutet Kleidung oder, beim Waschen, W\u00E4sche. Preciso lavar hei\u00DFt ich muss waschen: Nach preciso folgt hier der Infinitiv. F\u00FCr einzelne Kleidungsst\u00FCcke kann man pe\u00E7as de roupa sagen. Preciso lavar a roupa. \u2014 Ich muss die W\u00E4sche waschen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Licht"
+          },
+          {
+            "id": "answer",
+            "text": "W\u00E4sche; Kleidung"
+          },
+          {
+            "id": "d5",
+            "text": "M\u00FCll"
+          },
+          {
+            "id": "d4",
+            "text": "Geschirr"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cama \u2014 Bett. A cama, Plural camas, ist das Bett. Arrumar a cama bedeutet das Bett machen. Vou \u002B Infinitiv k\u00FCndigt hier eine beabsichtigte Handlung an. Vou arrumar a cama. \u2014 Ich werde das Bett machen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "schlie\u00DFen"
+          },
+          {
+            "id": "d1",
+            "text": "ausschalten"
+          },
+          {
+            "id": "d5",
+            "text": "M\u00FCll"
+          },
+          {
+            "id": "answer",
+            "text": "Bett"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cama",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecama\u201C?",
+        "explanation": "cama \u2014 Bett. A cama, Plural camas, ist das Bett. Arrumar a cama bedeutet das Bett machen. Vou \u002B Infinitiv k\u00FCndigt hier eine beabsichtigte Handlung an. Vou arrumar a cama. \u2014 Ich werde das Bett machen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "ausschalten"
+          },
+          {
+            "id": "d5",
+            "text": "M\u00FCll"
+          },
+          {
+            "id": "answer",
+            "text": "Bett"
+          },
+          {
+            "id": "d0",
+            "text": "Licht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "fechar \u2014 schlie\u00DFen. Fechar hei\u00DFt schlie\u00DFen. A janela ist das Fenster. Pode \u002B Infinitiv fragt hier h\u00F6flich nach einer Handlung; por favor erg\u00E4nzt die Bitte. Das Gegenteil von fechar ist abrir. Pode fechar a janela, por favor? \u2014 Kannst du bitte das Fenster schlie\u00DFen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Geschirr"
+          },
+          {
+            "id": "answer",
+            "text": "schlie\u00DFen"
+          },
+          {
+            "id": "d1",
+            "text": "ausschalten"
+          },
+          {
+            "id": "d2",
+            "text": "\u00F6ffnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "fechar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efechar\u201C?",
+        "explanation": "fechar \u2014 schlie\u00DFen. Fechar hei\u00DFt schlie\u00DFen. A janela ist das Fenster. Pode \u002B Infinitiv fragt hier h\u00F6flich nach einer Handlung; por favor erg\u00E4nzt die Bitte. Das Gegenteil von fechar ist abrir. Pode fechar a janela, por favor? \u2014 Kannst du bitte das Fenster schlie\u00DFen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Licht"
+          },
+          {
+            "id": "d3",
+            "text": "Geschirr"
+          },
+          {
+            "id": "d5",
+            "text": "W\u00E4sche; Kleidung"
+          },
+          {
+            "id": "answer",
+            "text": "schlie\u00DFen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "abrir \u2014 \u00F6ffnen. Abrir hei\u00DFt \u00F6ffnen; a porta ist die T\u00FCr. Pode abrir \u2026? ist eine Bitte, etwas zu \u00F6ffnen. Fechar bedeutet dagegen schlie\u00DFen. Das Verb bleibt nach pode im Infinitiv. Pode abrir a porta, por favor? \u2014 Kannst du bitte die T\u00FCr \u00F6ffnen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "d6",
+            "text": "Geschirr"
+          },
+          {
+            "id": "d0",
+            "text": "Licht"
+          },
+          {
+            "id": "d7",
+            "text": "rauchen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "abrir",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eabrir\u201C?",
+        "explanation": "abrir \u2014 \u00F6ffnen. Abrir hei\u00DFt \u00F6ffnen; a porta ist die T\u00FCr. Pode abrir \u2026? ist eine Bitte, etwas zu \u00F6ffnen. Fechar bedeutet dagegen schlie\u00DFen. Das Verb bleibt nach pode im Infinitiv. Pode abrir a porta, por favor? \u2014 Kannst du bitte die T\u00FCr \u00F6ffnen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "sich setzen"
+          },
+          {
+            "id": "d9",
+            "text": "W\u00E4sche; Kleidung"
+          },
+          {
+            "id": "d1",
+            "text": "ausschalten"
+          },
+          {
+            "id": "answer",
+            "text": "\u00F6ffnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "luz \u2014 Licht. A luz, Plural luzes, bedeutet Licht. Acesa hei\u00DFt hier an oder eingeschaltet und passt zur weiblichen Form luz. Est\u00E1 beschreibt den aktuellen Zustand. A luz est\u00E1 acesa. \u2014 Das Licht ist an.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "M\u00FCll"
+          },
+          {
+            "id": "d0",
+            "text": "ausschalten"
+          },
+          {
+            "id": "answer",
+            "text": "Licht"
+          },
+          {
+            "id": "d2",
+            "text": "schlie\u00DFen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "luz",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eluz\u201C?",
+        "explanation": "luz \u2014 Licht. A luz, Plural luzes, bedeutet Licht. Acesa hei\u00DFt hier an oder eingeschaltet und passt zur weiblichen Form luz. Est\u00E1 beschreibt den aktuellen Zustand. A luz est\u00E1 acesa. \u2014 Das Licht ist an.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "W\u00E4sche; Kleidung"
+          },
+          {
+            "id": "d2",
+            "text": "schlie\u00DFen"
+          },
+          {
+            "id": "answer",
+            "text": "Licht"
+          },
+          {
+            "id": "d1",
+            "text": "\u00F6ffnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EApague a luz, por favor.\u201C",
+        "explanation": "apagar \u2014 ausschalten. Apagar a luz hei\u00DFt das Licht ausschalten. Apague ist hier die Aufforderungsform zur Ansprache mit voc\u00EA. Apagar kann in anderem Kontext l\u00F6schen bedeuten; f\u00FCr Ger\u00E4te wird h\u00E4ufig desligar verwendet. Apague a luz, por favor. \u2014 Mach bitte das Licht aus.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "schlie\u00DFen"
+          },
+          {
+            "id": "d1",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "d4",
+            "text": "M\u00FCll"
+          },
+          {
+            "id": "answer",
+            "text": "ausschalten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "apagar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eapagar\u201C in diesem Beispiel? \u201EApague a luz, por favor.\u201C",
+        "explanation": "apagar \u2014 ausschalten. Apagar a luz hei\u00DFt das Licht ausschalten. Apague ist hier die Aufforderungsform zur Ansprache mit voc\u00EA. Apagar kann in anderem Kontext l\u00F6schen bedeuten; f\u00FCr Ger\u00E4te wird h\u00E4ufig desligar verwendet. Apague a luz, por favor. \u2014 Mach bitte das Licht aus.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "ausschalten"
+          },
+          {
+            "id": "d3",
+            "text": "Geschirr"
+          },
+          {
+            "id": "d4",
+            "text": "M\u00FCll"
+          },
+          {
+            "id": "d0",
+            "text": "Licht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EW\u00E4sche; Kleidung\u201C? Zusammenhang: beim Waschen im Haushalt.",
+        "explanation": "roupa \u2014 W\u00E4sche; Kleidung. A roupa bedeutet Kleidung oder, beim Waschen, W\u00E4sche. Preciso lavar hei\u00DFt ich muss waschen: Nach preciso folgt hier der Infinitiv. F\u00FCr einzelne Kleidungsst\u00FCcke kann man pe\u00E7as de roupa sagen. Preciso lavar a roupa. \u2014 Ich muss die W\u00E4sche waschen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "luz"
+          },
+          {
+            "id": "d4",
+            "text": "lou\u00E7a"
+          },
+          {
+            "id": "d6",
+            "text": "cama"
+          },
+          {
+            "id": "answer",
+            "text": "roupa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du die W\u00E4sche waschen musst?",
+        "explanation": "Roupa bezeichnet beim Waschen die W\u00E4sche. Preciso lavar hei\u00DFt ich muss waschen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou arrumar a cama."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso lavar a lou\u00E7a."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso lavar a roupa."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode fechar a janela, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBett\u201C?",
+        "explanation": "cama \u2014 Bett. A cama, Plural camas, ist das Bett. Arrumar a cama bedeutet das Bett machen. Vou \u002B Infinitiv k\u00FCndigt hier eine beabsichtigte Handlung an. Vou arrumar a cama. \u2014 Ich werde das Bett machen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "luz"
+          },
+          {
+            "id": "answer",
+            "text": "cama"
+          },
+          {
+            "id": "d5",
+            "text": "lixo"
+          },
+          {
+            "id": "d2",
+            "text": "abrir"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage k\u00FCndigt an, dass du das Bett machen wirst?",
+        "explanation": "Arrumar a cama hei\u00DFt das Bett machen. Vou k\u00FCndigt hier eine beabsichtigte Handlung an.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou apagar a luz."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vou abrir a porta."
+          },
+          {
+            "id": "answer",
+            "text": "Vou arrumar a cama."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou lavar a roupa."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eschlie\u00DFen\u201C?",
+        "explanation": "fechar \u2014 schlie\u00DFen. Fechar hei\u00DFt schlie\u00DFen. A janela ist das Fenster. Pode \u002B Infinitiv fragt hier h\u00F6flich nach einer Handlung; por favor erg\u00E4nzt die Bitte. Das Gegenteil von fechar ist abrir. Pode fechar a janela, por favor? \u2014 Kannst du bitte das Fenster schlie\u00DFen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "abrir"
+          },
+          {
+            "id": "answer",
+            "text": "fechar"
+          },
+          {
+            "id": "d5",
+            "text": "roupa"
+          },
+          {
+            "id": "d1",
+            "text": "apagar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bittest h\u00F6flich darum, das Fenster zu schlie\u00DFen. Welche Frage passt?",
+        "explanation": "Fechar bedeutet schlie\u00DFen, janela Fenster. Abrir bedeutet dagegen \u00F6ffnen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode fechar a porta, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode apagar a luz, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode fechar a janela, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode abrir a janela, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201E\u00F6ffnen\u201C?",
+        "explanation": "abrir \u2014 \u00F6ffnen. Abrir hei\u00DFt \u00F6ffnen; a porta ist die T\u00FCr. Pode abrir \u2026? ist eine Bitte, etwas zu \u00F6ffnen. Fechar bedeutet dagegen schlie\u00DFen. Das Verb bleibt nach pode im Infinitiv. Pode abrir a porta, por favor? \u2014 Kannst du bitte die T\u00FCr \u00F6ffnen?",
+        "options": [
+          {
+            "id": "d8",
+            "text": "lixo"
+          },
+          {
+            "id": "d1",
+            "text": "apagar"
+          },
+          {
+            "id": "answer",
+            "text": "abrir"
+          },
+          {
+            "id": "d2",
+            "text": "sentar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bittest h\u00F6flich darum, die T\u00FCr zu \u00F6ffnen. Welche Frage passt?",
+        "explanation": "Abrir hei\u00DFt \u00F6ffnen. A porta ist die T\u00FCr, a janela das Fenster.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Pode abrir a janela, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode abrir a porta, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode fechar a janela, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode fechar a porta, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ELicht\u201C?",
+        "explanation": "luz \u2014 Licht. A luz, Plural luzes, bedeutet Licht. Acesa hei\u00DFt hier an oder eingeschaltet und passt zur weiblichen Form luz. Est\u00E1 beschreibt den aktuellen Zustand. A luz est\u00E1 acesa. \u2014 Das Licht ist an.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "abrir"
+          },
+          {
+            "id": "answer",
+            "text": "luz"
+          },
+          {
+            "id": "d4",
+            "text": "lixo"
+          },
+          {
+            "id": "d6",
+            "text": "cama"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass das Licht an ist?",
+        "explanation": "Luz hei\u00DFt Licht. Acesa bedeutet hier an oder eingeschaltet und passt zum weiblichen Nomen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "A porta est\u00E1 aberta."
+          },
+          {
+            "id": "answer",
+            "text": "A luz est\u00E1 acesa."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A janela est\u00E1 fechada."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A luz est\u00E1 apagada."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eausschalten\u201C? Zusammenhang: bei einer Aufforderung zur Beleuchtung.",
+        "explanation": "apagar \u2014 ausschalten. Apagar a luz hei\u00DFt das Licht ausschalten. Apague ist hier die Aufforderungsform zur Ansprache mit voc\u00EA. Apagar kann in anderem Kontext l\u00F6schen bedeuten; f\u00FCr Ger\u00E4te wird h\u00E4ufig desligar verwendet. Apague a luz, por favor. \u2014 Mach bitte das Licht aus.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "cama"
+          },
+          {
+            "id": "d3",
+            "text": "lou\u00E7a"
+          },
+          {
+            "id": "answer",
+            "text": "apagar"
+          },
+          {
+            "id": "d0",
+            "text": "luz"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aufforderung bittet darum, das Licht auszuschalten?",
+        "explanation": "Apague a luz hei\u00DFt Machen Sie das Licht aus. Apague ist die Aufforderungsform zur Ansprache mit voc\u00EA.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Arrume a cama, por favor."
+          },
+          {
+            "id": "answer",
+            "text": "Apague a luz, por favor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Abra a porta, por favor."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Feche a janela, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

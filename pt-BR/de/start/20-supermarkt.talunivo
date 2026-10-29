@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-20-supermarkt",
-  "packageVersion": 4,
-  "title": "20 · Im Supermarkt",
+  "packageVersion": 6,
+  "title": "20 \u00B7 Im Supermarkt",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Im Supermarkt",
       "expression": "supermercado",
       "translation": "Supermarkt",
-      "isVocabulary": true,
       "example": "Onde fica o supermercado?",
       "exampleTranslation": "Wo ist der Supermarkt?",
-      "explanation": "O supermercado, Plural supermercados. Onde fica …? fragt nach dem Ort und greift das bekannte Muster für Räume auf. Es wird hier der Supermarkt gesucht, nicht schon ein einzelnes Produkt."
+      "explanation": "O supermercado, Plural supermercados. Onde fica \u2026? fragt nach dem Ort und greift das bekannte Muster f\u00FCr R\u00E4ume auf. Es wird hier der Supermarkt gesucht, nicht schon ein einzelnes Produkt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Im Supermarkt",
       "expression": "litro",
       "translation": "Liter",
-      "isVocabulary": true,
       "example": "Preciso de um litro de leite.",
       "exampleTranslation": "Ich brauche einen Liter Milch.",
-      "explanation": "O litro, Plural litros. Um litro de leite bedeutet ein Liter Milch; de verbindet die Menge mit dem Lebensmittel. Preciso de … heißt ich brauche … Die Menge im Beispiel ist ein Liter."
+      "explanation": "O litro, Plural litros. Um litro de leite bedeutet ein Liter Milch; de verbindet die Menge mit dem Lebensmittel. Preciso de \u2026 hei\u00DFt ich brauche \u2026 Die Menge im Beispiel ist ein Liter.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Im Supermarkt",
       "expression": "meio quilo",
       "translation": "halbes Kilo",
-      "isVocabulary": true,
       "example": "Quero meio quilo de arroz.",
-      "exampleTranslation": "Ich möchte ein halbes Kilo Reis.",
-      "explanation": "O quilo ist männlich, deshalb meio quilo: ein halbes Kilo, also 500 Gramm. Meio richtet sich nach quilo, nicht nach arroz. Bei der Uhrzeit e meia aus Paket 09 ist dagegen die weibliche hora der Bezug."
+      "exampleTranslation": "Ich m\u00F6chte ein halbes Kilo Reis.",
+      "explanation": "O quilo ist m\u00E4nnlich, deshalb meio quilo: ein halbes Kilo, also 500 Gramm. Meio richtet sich nach quilo, nicht nach arroz. Bei der Uhrzeit e meia aus Paket 09 ist dagegen die weibliche hora der Bezug.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Im Supermarkt",
-      "expression": "maçãs",
-      "translation": "Äpfel",
-      "isVocabulary": true,
-      "example": "As maçãs estão frescas?",
-      "exampleTranslation": "Sind die Äpfel frisch?",
-      "explanation": "A maçã ist ein Apfel; maçãs ist die Mehrzahl Äpfel. As, estão und frescas stehen hier passend zur weiblichen Mehrzahl. Die Frage betrifft die Frische, nicht den Preis oder die Anzahl der Äpfel."
+      "expression": "ma\u00E7\u00E3s",
+      "translation": "\u00C4pfel",
+      "example": "As ma\u00E7\u00E3s est\u00E3o frescas?",
+      "exampleTranslation": "Sind die \u00C4pfel frisch?",
+      "explanation": "A ma\u00E7\u00E3 ist ein Apfel; ma\u00E7\u00E3s ist die Mehrzahl \u00C4pfel. As, est\u00E3o und frescas stehen hier passend zur weiblichen Mehrzahl. Die Frage betrifft die Frische, nicht den Preis oder die Anzahl der \u00C4pfel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Im Supermarkt",
       "expression": "pacote",
       "translation": "Packung",
-      "isVocabulary": true,
       "example": "Quanto custa este pacote?",
       "exampleTranslation": "Wie viel kostet diese Packung?",
-      "explanation": "O pacote, Plural pacotes. Quanto custa …? fragt nach einem Preis. Este richtet sich nach dem männlichen portugiesischen pacote. Der Satz bezieht sich auf die gezeigte Packung; ihr Inhalt oder Gewicht wird nicht genannt."
+      "explanation": "O pacote, Plural pacotes. Quanto custa \u2026? fragt nach einem Preis. Este richtet sich nach dem m\u00E4nnlichen portugiesischen pacote. Der Satz bezieht sich auf die gezeigte Packung; ihr Inhalt oder Gewicht wird nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Im Supermarkt",
       "expression": "sacola",
-      "translation": "Tüte",
-      "isVocabulary": true,
+      "translation": "T\u00FCte",
       "example": "Tem uma sacola?",
-      "exampleTranslation": "Gibt es eine Tüte?",
-      "explanation": "A sacola, Plural sacolas, bezeichnet hier eine Einkaufstüte. Tem uma sacola? fragt nach einer Tüte. Anders als bolsa aus Paket 14 steht sacola hier ausdrücklich im Einkaufskontext."
+      "exampleTranslation": "Gibt es eine T\u00FCte?",
+      "explanation": "A sacola, Plural sacolas, bezeichnet hier eine Einkaufst\u00FCte. Tem uma sacola? fragt nach einer T\u00FCte. Anders als bolsa aus Paket 14 steht sacola hier ausdr\u00FCcklich im Einkaufskontext.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Im Supermarkt",
       "expression": "precisar",
       "translation": "brauchen",
-      "isVocabulary": true,
-      "example": "Não preciso de sacola.",
-      "exampleTranslation": "Ich brauche keine Tüte.",
-      "explanation": "Precisar bedeutet brauchen. Vor einem Nomen steht hier de: preciso de sacola. Não verneint die Aussage. Vor einer Handlung lautet ein anderes Muster preciso comprar leite = ich muss Milch kaufen, ohne de vor comprar."
+      "example": "N\u00E3o preciso de sacola.",
+      "exampleTranslation": "Ich brauche keine T\u00FCte.",
+      "explanation": "Precisar bedeutet brauchen. Vor einem Nomen steht hier de: preciso de sacola. N\u00E3o verneint die Aussage. Vor einer Handlung lautet ein anderes Muster preciso comprar leite = ich muss Milch kaufen, ohne de vor comprar.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Im Supermarkt",
       "expression": "caixa",
       "translation": "Kasse",
-      "isVocabulary": true,
       "example": "Onde fica o caixa?",
       "exampleTranslation": "Wo ist die Kasse?",
-      "explanation": "O caixa bezeichnet hier die Kasse beziehungsweise den Kassenbereich. Trotz des deutschen Artikels die steht im Beispiel o. A caixa kann eine Schachtel oder eine Kassiererin bezeichnen; Artikel und Situation helfen, die Bedeutung zu erkennen."
+      "explanation": "O caixa bezeichnet hier die Kasse beziehungsweise den Kassenbereich. Trotz des deutschen Artikels die steht im Beispiel o. A caixa kann eine Schachtel oder eine Kassiererin bezeichnen; Artikel und Situation helfen, die Bedeutung zu erkennen.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Gelernte Fragen zu Waren, Verpackungen und Kasse verstehen sowie Mengen und Einkaufsw\u00FCnsche mit passenden Wendungen ausdr\u00FCcken.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Liter als Wort: \u201EPreciso de um ____ de leite.\u201C",
+        "explanation": "Litro ist die Einzahl, litros die Mehrzahl. Um litro de leite ist ein Liter Milch.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "litro"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr \u00C4pfel: \u201EAs ____ est\u00E3o frescas?\u201C",
+        "explanation": "Ma\u00E7\u00E3s ist die Mehrzahl von ma\u00E7\u00E3. \u00C7 und die Tilde geh\u00F6ren zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "ma\u00E7\u00E3s"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "supermercado \u2014 Supermarkt. O supermercado, Plural supermercados. Onde fica \u2026? fragt nach dem Ort und greift das bekannte Muster f\u00FCr R\u00E4ume auf. Es wird hier der Supermarkt gesucht, nicht schon ein einzelnes Produkt. Onde fica o supermercado? \u2014 Wo ist der Supermarkt?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Packung"
+          },
+          {
+            "id": "d0",
+            "text": "Liter"
+          },
+          {
+            "id": "answer",
+            "text": "Supermarkt"
+          },
+          {
+            "id": "d2",
+            "text": "Kasse"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "supermercado",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esupermercado\u201C?",
+        "explanation": "supermercado \u2014 Supermarkt. O supermercado, Plural supermercados. Onde fica \u2026? fragt nach dem Ort und greift das bekannte Muster f\u00FCr R\u00E4ume auf. Es wird hier der Supermarkt gesucht, nicht schon ein einzelnes Produkt. Onde fica o supermercado? \u2014 Wo ist der Supermarkt?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "brauchen"
+          },
+          {
+            "id": "d2",
+            "text": "Kasse"
+          },
+          {
+            "id": "answer",
+            "text": "Supermarkt"
+          },
+          {
+            "id": "d1",
+            "text": "T\u00FCte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "meio quilo \u2014 halbes Kilo. O quilo ist m\u00E4nnlich, deshalb meio quilo: ein halbes Kilo, also 500 Gramm. Meio richtet sich nach quilo, nicht nach arroz. Bei der Uhrzeit e meia aus Paket 09 ist dagegen die weibliche hora der Bezug. Quero meio quilo de arroz. \u2014 Ich m\u00F6chte ein halbes Kilo Reis.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Kasse"
+          },
+          {
+            "id": "d1",
+            "text": "Liter"
+          },
+          {
+            "id": "d5",
+            "text": "Packung"
+          },
+          {
+            "id": "answer",
+            "text": "halbes Kilo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "meio quilo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emeio quilo\u201C?",
+        "explanation": "meio quilo \u2014 halbes Kilo. O quilo ist m\u00E4nnlich, deshalb meio quilo: ein halbes Kilo, also 500 Gramm. Meio richtet sich nach quilo, nicht nach arroz. Bei der Uhrzeit e meia aus Paket 09 ist dagegen die weibliche hora der Bezug. Quero meio quilo de arroz. \u2014 Ich m\u00F6chte ein halbes Kilo Reis.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Liter"
+          },
+          {
+            "id": "d5",
+            "text": "Packung"
+          },
+          {
+            "id": "answer",
+            "text": "halbes Kilo"
+          },
+          {
+            "id": "d0",
+            "text": "Supermarkt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "pacote \u2014 Packung. O pacote, Plural pacotes. Quanto custa \u2026? fragt nach einem Preis. Este richtet sich nach dem m\u00E4nnlichen portugiesischen pacote. Der Satz bezieht sich auf die gezeigte Packung; ihr Inhalt oder Gewicht wird nicht genannt. Quanto custa este pacote? \u2014 Wie viel kostet diese Packung?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Kasse"
+          },
+          {
+            "id": "answer",
+            "text": "Packung"
+          },
+          {
+            "id": "d1",
+            "text": "Liter"
+          },
+          {
+            "id": "d2",
+            "text": "T\u00FCte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "pacote",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epacote\u201C?",
+        "explanation": "pacote \u2014 Packung. O pacote, Plural pacotes. Quanto custa \u2026? fragt nach einem Preis. Este richtet sich nach dem m\u00E4nnlichen portugiesischen pacote. Der Satz bezieht sich auf die gezeigte Packung; ihr Inhalt oder Gewicht wird nicht genannt. Quanto custa este pacote? \u2014 Wie viel kostet diese Packung?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Supermarkt"
+          },
+          {
+            "id": "d1",
+            "text": "Liter"
+          },
+          {
+            "id": "answer",
+            "text": "Packung"
+          },
+          {
+            "id": "d4",
+            "text": "\u00C4pfel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ETem uma sacola?\u201C",
+        "explanation": "sacola \u2014 T\u00FCte. A sacola, Plural sacolas, bezeichnet hier eine Einkaufst\u00FCte. Tem uma sacola? fragt nach einer T\u00FCte. Anders als bolsa aus Paket 14 steht sacola hier ausdr\u00FCcklich im Einkaufskontext. Tem uma sacola? \u2014 Gibt es eine T\u00FCte?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Kasse"
+          },
+          {
+            "id": "d1",
+            "text": "Liter"
+          },
+          {
+            "id": "d4",
+            "text": "Packung"
+          },
+          {
+            "id": "answer",
+            "text": "T\u00FCte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sacola",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esacola\u201C in diesem Beispiel? \u201ETem uma sacola?\u201C",
+        "explanation": "sacola \u2014 T\u00FCte. A sacola, Plural sacolas, bezeichnet hier eine Einkaufst\u00FCte. Tem uma sacola? fragt nach einer T\u00FCte. Anders als bolsa aus Paket 14 steht sacola hier ausdr\u00FCcklich im Einkaufskontext. Tem uma sacola? \u2014 Gibt es eine T\u00FCte?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "T\u00FCte"
+          },
+          {
+            "id": "d3",
+            "text": "\u00C4pfel"
+          },
+          {
+            "id": "d4",
+            "text": "Packung"
+          },
+          {
+            "id": "d0",
+            "text": "Supermarkt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "precisar \u2014 brauchen. Precisar bedeutet brauchen. Vor einem Nomen steht hier de: preciso de sacola. N\u00E3o verneint die Aussage. Vor einer Handlung lautet ein anderes Muster preciso comprar leite = ich muss Milch kaufen, ohne de vor comprar. N\u00E3o preciso de sacola. \u2014 Ich brauche keine T\u00FCte.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "brauchen"
+          },
+          {
+            "id": "d0",
+            "text": "Supermarkt"
+          },
+          {
+            "id": "d4",
+            "text": "\u00C4pfel"
+          },
+          {
+            "id": "d3",
+            "text": "Kasse"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "precisar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eprecisar\u201C?",
+        "explanation": "precisar \u2014 brauchen. Precisar bedeutet brauchen. Vor einem Nomen steht hier de: preciso de sacola. N\u00E3o verneint die Aussage. Vor einer Handlung lautet ein anderes Muster preciso comprar leite = ich muss Milch kaufen, ohne de vor comprar. N\u00E3o preciso de sacola. \u2014 Ich brauche keine T\u00FCte.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Supermarkt"
+          },
+          {
+            "id": "answer",
+            "text": "brauchen"
+          },
+          {
+            "id": "d5",
+            "text": "Packung"
+          },
+          {
+            "id": "d4",
+            "text": "\u00C4pfel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EOnde fica o caixa?\u201C",
+        "explanation": "caixa \u2014 Kasse. O caixa bezeichnet hier die Kasse beziehungsweise den Kassenbereich. Trotz des deutschen Artikels die steht im Beispiel o. A caixa kann eine Schachtel oder eine Kassiererin bezeichnen; Artikel und Situation helfen, die Bedeutung zu erkennen. Onde fica o caixa? \u2014 Wo ist die Kasse?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "halbes Kilo"
+          },
+          {
+            "id": "answer",
+            "text": "Kasse"
+          },
+          {
+            "id": "d1",
+            "text": "Liter"
+          },
+          {
+            "id": "d0",
+            "text": "Supermarkt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "caixa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecaixa\u201C in diesem Beispiel? \u201EOnde fica o caixa?\u201C",
+        "explanation": "caixa \u2014 Kasse. O caixa bezeichnet hier die Kasse beziehungsweise den Kassenbereich. Trotz des deutschen Artikels die steht im Beispiel o. A caixa kann eine Schachtel oder eine Kassiererin bezeichnen; Artikel und Situation helfen, die Bedeutung zu erkennen. Onde fica o caixa? \u2014 Wo ist die Kasse?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "halbes Kilo"
+          },
+          {
+            "id": "answer",
+            "text": "Kasse"
+          },
+          {
+            "id": "d2",
+            "text": "T\u00FCte"
+          },
+          {
+            "id": "d1",
+            "text": "Liter"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESupermarkt\u201C?",
+        "explanation": "supermercado \u2014 Supermarkt. O supermercado, Plural supermercados. Onde fica \u2026? fragt nach dem Ort und greift das bekannte Muster f\u00FCr R\u00E4ume auf. Es wird hier der Supermarkt gesucht, nicht schon ein einzelnes Produkt. Onde fica o supermercado? \u2014 Wo ist der Supermarkt?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "supermercado"
+          },
+          {
+            "id": "d6",
+            "text": "meio quilo"
+          },
+          {
+            "id": "d4",
+            "text": "pacote"
+          },
+          {
+            "id": "d3",
+            "text": "ma\u00E7\u00E3s"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst den Supermarkt. Welche Frage passt?",
+        "explanation": "Onde fica? fragt nach dem Ort des Supermarkts, noch nicht nach einem einzelnen Produkt.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quanto custa este pacote?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde fica o supermercado?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o banheiro?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem uma sacola?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ehalbes Kilo\u201C?",
+        "explanation": "meio quilo \u2014 halbes Kilo. O quilo ist m\u00E4nnlich, deshalb meio quilo: ein halbes Kilo, also 500 Gramm. Meio richtet sich nach quilo, nicht nach arroz. Bei der Uhrzeit e meia aus Paket 09 ist dagegen die weibliche hora der Bezug. Quero meio quilo de arroz. \u2014 Ich m\u00F6chte ein halbes Kilo Reis.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "caixa"
+          },
+          {
+            "id": "answer",
+            "text": "meio quilo"
+          },
+          {
+            "id": "d1",
+            "text": "litro"
+          },
+          {
+            "id": "d5",
+            "text": "pacote"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest 500 Gramm Reis kaufen. Welche Mengenangabe passt?",
+        "explanation": "Meio quilo sind ein halbes Kilo oder 500 Gramm. Meio richtet sich nach dem m\u00E4nnlichen quilo.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Preciso de um litro de leite."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quero um quilo de arroz."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero dois quilos de arroz."
+          },
+          {
+            "id": "answer",
+            "text": "Quero meio quilo de arroz."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EPackung\u201C?",
+        "explanation": "pacote \u2014 Packung. O pacote, Plural pacotes. Quanto custa \u2026? fragt nach einem Preis. Este richtet sich nach dem m\u00E4nnlichen portugiesischen pacote. Der Satz bezieht sich auf die gezeigte Packung; ihr Inhalt oder Gewicht wird nicht genannt. Quanto custa este pacote? \u2014 Wie viel kostet diese Packung?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "sacola"
+          },
+          {
+            "id": "answer",
+            "text": "pacote"
+          },
+          {
+            "id": "d1",
+            "text": "litro"
+          },
+          {
+            "id": "d6",
+            "text": "meio quilo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt nach dem Preis der gezeigten Packung?",
+        "explanation": "Pacote hei\u00DFt Packung. Die Frage nennt weder Inhalt noch Gewicht dieser Packung.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quanto custa este p\u00E3o?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem uma sacola?"
+          },
+          {
+            "id": "answer",
+            "text": "Quanto custa este pacote?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde est\u00E1 este pacote?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201ET\u00FCte\u201C? Gemeint ist: eine Einkaufst\u00FCte.",
+        "explanation": "sacola \u2014 T\u00FCte. A sacola, Plural sacolas, bezeichnet hier eine Einkaufst\u00FCte. Tem uma sacola? fragt nach einer T\u00FCte. Anders als bolsa aus Paket 14 steht sacola hier ausdr\u00FCcklich im Einkaufskontext. Tem uma sacola? \u2014 Gibt es eine T\u00FCte?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "precisar"
+          },
+          {
+            "id": "d4",
+            "text": "pacote"
+          },
+          {
+            "id": "d2",
+            "text": "caixa"
+          },
+          {
+            "id": "answer",
+            "text": "sacola"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst nach einer Einkaufst\u00FCte. Welche gelernte Frage passt?",
+        "explanation": "Sacola ist hier eine Einkaufst\u00FCte. Die Aufgabe fragt nicht nach einem Trinkgef\u00E4\u00DF oder Teller.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tem um prato?"
+          },
+          {
+            "id": "answer",
+            "text": "Tem uma sacola?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tem uma x\u00EDcara?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem um copo?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ebrauchen\u201C?",
+        "explanation": "precisar \u2014 brauchen. Precisar bedeutet brauchen. Vor einem Nomen steht hier de: preciso de sacola. N\u00E3o verneint die Aussage. Vor einer Handlung lautet ein anderes Muster preciso comprar leite = ich muss Milch kaufen, ohne de vor comprar. N\u00E3o preciso de sacola. \u2014 Ich brauche keine T\u00FCte.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "supermercado"
+          },
+          {
+            "id": "d4",
+            "text": "ma\u00E7\u00E3s"
+          },
+          {
+            "id": "d6",
+            "text": "meio quilo"
+          },
+          {
+            "id": "answer",
+            "text": "precisar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EIch brauche keine T\u00FCte\u201C?",
+        "explanation": "Precisar hei\u00DFt brauchen; vor dem Nomen steht de. N\u00E3o verneint die Aussage.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Preciso de sacola."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o preciso de sacola."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o preciso de leite."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero meio quilo de arroz."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EKasse\u201C? Gemeint ist: der Kassenbereich im Supermarkt, nicht eine Person oder Schachtel.",
+        "explanation": "caixa \u2014 Kasse. O caixa bezeichnet hier die Kasse beziehungsweise den Kassenbereich. Trotz des deutschen Artikels die steht im Beispiel o. A caixa kann eine Schachtel oder eine Kassiererin bezeichnen; Artikel und Situation helfen, die Bedeutung zu erkennen. Onde fica o caixa? \u2014 Wo ist die Kasse?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "sacola"
+          },
+          {
+            "id": "d0",
+            "text": "supermercado"
+          },
+          {
+            "id": "answer",
+            "text": "caixa"
+          },
+          {
+            "id": "d1",
+            "text": "litro"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst den Kassenbereich im Supermarkt. Welche Frage passt?",
+        "explanation": "O caixa ist hier der Kassenbereich. A caixa kann zum Beispiel eine Schachtel oder eine Kassiererin bezeichnen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o banheiro?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde fica o caixa?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quanto custa este pacote?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica o supermercado?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

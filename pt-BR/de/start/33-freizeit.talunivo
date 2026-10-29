@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-33-freizeit",
-  "packageVersion": 4,
-  "title": "33 · Freizeit und Hobbys",
+  "packageVersion": 6,
+  "title": "33 \u00B7 Freizeit und Hobbys",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Freizeit und Hobbys",
       "expression": "ler",
       "translation": "lesen",
-      "isVocabulary": true,
       "example": "No tempo livre, leio.",
       "exampleTranslation": "In meiner Freizeit lese ich.",
-      "explanation": "Ler heißt lesen; leio ist die unregelmäßige Ich-Form im Präsens. No tempo livre bedeutet in der Freizeit. Paket 32 verwendet denselben Infinitiv nach gosto de; hier steht das Verb selbst in der Ich-Form."
+      "explanation": "Ler hei\u00DFt lesen; leio ist die unregelm\u00E4\u00DFige Ich-Form im Pr\u00E4sens. No tempo livre bedeutet in der Freizeit. Paket 32 verwendet denselben Infinitiv nach gosto de; hier steht das Verb selbst in der Ich-Form.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Freizeit und Hobbys",
       "expression": "ouvir",
-      "translation": "hören",
-      "isVocabulary": true,
-      "example": "Ouço música no ônibus.",
-      "exampleTranslation": "Ich höre im Bus Musik.",
-      "explanation": "Ouvir heißt hören; ouço ist die unregelmäßige Ich-Form. Ouço música bedeutet ich höre Musik. No ônibus heißt im Bus; der Satz beschreibt einen Ort der Tätigkeit."
+      "translation": "h\u00F6ren",
+      "example": "Ou\u00E7o m\u00FAsica no \u00F4nibus.",
+      "exampleTranslation": "Ich h\u00F6re im Bus Musik.",
+      "explanation": "Ouvir hei\u00DFt h\u00F6ren; ou\u00E7o ist die unregelm\u00E4\u00DFige Ich-Form. Ou\u00E7o m\u00FAsica bedeutet ich h\u00F6re Musik. No \u00F4nibus hei\u00DFt im Bus; der Satz beschreibt einen Ort der T\u00E4tigkeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Freizeit und Hobbys",
       "expression": "filmes",
       "translation": "Filme",
-      "isVocabulary": true,
       "example": "Assisto a filmes em casa.",
       "exampleTranslation": "Ich schaue zu Hause Filme.",
-      "explanation": "O filme, Plural os filmes, heißt Film beziehungsweise Filme. Assisto a filmes ist hier das Muster für ich schaue Filme. Em casa bedeutet zu Hause. Im brasilianischen Alltag hört man assistir auch ohne a."
+      "explanation": "O filme, Plural os filmes, hei\u00DFt Film beziehungsweise Filme. Assisto a filmes ist hier das Muster f\u00FCr ich schaue Filme. Em casa bedeutet zu Hause. Im brasilianischen Alltag h\u00F6rt man assistir auch ohne a.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Freizeit und Hobbys",
       "expression": "jogar",
       "translation": "spielen (Sport)",
-      "isVocabulary": true,
-      "example": "Jogo futebol aos sábados.",
-      "exampleTranslation": "Ich spiele samstags Fußball.",
-      "explanation": "Jogar heißt bei Sport und Spielen spielen; jogo ist die Ich-Form. Aos sábados bedeutet samstags, also wiederholt. Ein Instrument spielen heißt tocar; jogar ist nicht auf Sport beschränkt."
+      "example": "Jogo futebol aos s\u00E1bados.",
+      "exampleTranslation": "Ich spiele samstags Fu\u00DFball.",
+      "explanation": "Jogar hei\u00DFt bei Sport und Spielen spielen; jogo ist die Ich-Form. Aos s\u00E1bados bedeutet samstags, also wiederholt. Ein Instrument spielen hei\u00DFt tocar; jogar ist nicht auf Sport beschr\u00E4nkt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Freizeit und Hobbys",
       "expression": "caminhada",
       "translation": "Spaziergang",
-      "isVocabulary": true,
-      "example": "Faço uma caminhada no parque.",
+      "example": "Fa\u00E7o uma caminhada no parque.",
       "exampleTranslation": "Ich gehe im Park spazieren.",
-      "explanation": "A caminhada, Plural caminhadas, bezeichnet hier einen Spaziergang. Faço ist die Ich-Form von fazer. Fazer uma caminhada bedeutet spazieren gehen; je nach Strecke kann caminhada auch eine Wanderung bezeichnen."
+      "explanation": "A caminhada, Plural caminhadas, bezeichnet hier einen Spaziergang. Fa\u00E7o ist die Ich-Form von fazer. Fazer uma caminhada bedeutet spazieren gehen; je nach Strecke kann caminhada auch eine Wanderung bezeichnen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Freizeit und Hobbys",
       "expression": "fotos",
       "translation": "Fotos",
-      "isVocabulary": true,
       "example": "Tiro fotos da cidade.",
       "exampleTranslation": "Ich fotografiere die Stadt.",
-      "explanation": "A foto, Plural as fotos, heißt Foto beziehungsweise Fotos. Tirar fotos bedeutet Fotos machen; tiro ist die Ich-Form. Da cidade heißt hier von der Stadt und bezeichnet das Motiv."
+      "explanation": "A foto, Plural as fotos, hei\u00DFt Foto beziehungsweise Fotos. Tirar fotos bedeutet Fotos machen; tiro ist die Ich-Form. Da cidade hei\u00DFt hier von der Stadt und bezeichnet das Motiv.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Freizeit und Hobbys",
       "expression": "nadar",
       "translation": "schwimmen",
-      "isVocabulary": true,
       "example": "Gosto de nadar no mar.",
       "exampleTranslation": "Ich schwimme gern im Meer.",
-      "explanation": "Nadar heißt schwimmen. Nach gosto de steht der Infinitiv; no mar bedeutet im Meer. Das Beispiel beschreibt eine Vorliebe und gibt keine Auskunft über die Schwimmfähigkeit oder Bedingungen an einem bestimmten Ort."
+      "explanation": "Nadar hei\u00DFt schwimmen. Nach gosto de steht der Infinitiv; no mar bedeutet im Meer. Das Beispiel beschreibt eine Vorliebe und gibt keine Auskunft \u00FCber die Schwimmf\u00E4higkeit oder Bedingungen an einem bestimmten Ort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Freizeit und Hobbys",
       "expression": "desenhar",
       "translation": "zeichnen",
-      "isVocabulary": true,
       "example": "No tempo livre, desenho.",
       "exampleTranslation": "In meiner Freizeit zeichne ich.",
-      "explanation": "Desenhar heißt zeichnen; desenho ist hier die Ich-Form im Präsens. Als Nomen bedeutet o desenho die Zeichnung. Im Beispielsatz zeigt die Satzstellung die Tätigkeit an."
+      "explanation": "Desenhar hei\u00DFt zeichnen; desenho ist hier die Ich-Form im Pr\u00E4sens. Als Nomen bedeutet o desenho die Zeichnung. Im Beispielsatz zeigt die Satzstellung die T\u00E4tigkeit an.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Freizeitaktivit\u00E4ten benennen und entsprechende Aussagen verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr Filme: \u201EAssisto a ____ em casa.\u201C",
+        "explanation": "Filmes ist die Mehrzahl von filme. Die Aufgabe verlangt ausdr\u00FCcklich den Plural.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "filmes"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte kurze Pluralform f\u00FCr Fotos aus diesem Paket: \u201ETiro ____ da cidade.\u201C",
+        "explanation": "Fotos ist die kurze Mehrzahl von foto. Die l\u00E4ngere Form fotografias wird hier nicht abgefragt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "fotos"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ENo tempo livre, leio.\u201C",
+        "explanation": "ler \u2014 lesen. Ler hei\u00DFt lesen; leio ist die unregelm\u00E4\u00DFige Ich-Form im Pr\u00E4sens. No tempo livre bedeutet in der Freizeit. Paket 32 verwendet denselben Infinitiv nach gosto de; hier steht das Verb selbst in der Ich-Form. No tempo livre, leio. \u2014 In meiner Freizeit lese ich.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "zeichnen"
+          },
+          {
+            "id": "answer",
+            "text": "lesen"
+          },
+          {
+            "id": "d2",
+            "text": "h\u00F6ren"
+          },
+          {
+            "id": "d7",
+            "text": "Spaziergang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ler",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eler\u201C in diesem Beispiel? \u201ENo tempo livre, leio.\u201C",
+        "explanation": "ler \u2014 lesen. Ler hei\u00DFt lesen; leio ist die unregelm\u00E4\u00DFige Ich-Form im Pr\u00E4sens. No tempo livre bedeutet in der Freizeit. Paket 32 verwendet denselben Infinitiv nach gosto de; hier steht das Verb selbst in der Ich-Form. No tempo livre, leio. \u2014 In meiner Freizeit lese ich.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "zeichnen"
+          },
+          {
+            "id": "answer",
+            "text": "lesen"
+          },
+          {
+            "id": "d10",
+            "text": "Fu\u00DFball"
+          },
+          {
+            "id": "d0",
+            "text": "tanzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ouvir \u2014 h\u00F6ren. Ouvir hei\u00DFt h\u00F6ren; ou\u00E7o ist die unregelm\u00E4\u00DFige Ich-Form. Ou\u00E7o m\u00FAsica bedeutet ich h\u00F6re Musik. No \u00F4nibus hei\u00DFt im Bus; der Satz beschreibt einen Ort der T\u00E4tigkeit. Ou\u00E7o m\u00FAsica no \u00F4nibus. \u2014 Ich h\u00F6re im Bus Musik.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Fotos"
+          },
+          {
+            "id": "answer",
+            "text": "h\u00F6ren"
+          },
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "d0",
+            "text": "schwimmen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ouvir",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eouvir\u201C?",
+        "explanation": "ouvir \u2014 h\u00F6ren. Ouvir hei\u00DFt h\u00F6ren; ou\u00E7o ist die unregelm\u00E4\u00DFige Ich-Form. Ou\u00E7o m\u00FAsica bedeutet ich h\u00F6re Musik. No \u00F4nibus hei\u00DFt im Bus; der Satz beschreibt einen Ort der T\u00E4tigkeit. Ou\u00E7o m\u00FAsica no \u00F4nibus. \u2014 Ich h\u00F6re im Bus Musik.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Filme"
+          },
+          {
+            "id": "d6",
+            "text": "Fotos"
+          },
+          {
+            "id": "d0",
+            "text": "schwimmen"
+          },
+          {
+            "id": "answer",
+            "text": "h\u00F6ren"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EJogo futebol aos s\u00E1bados.\u201C",
+        "explanation": "jogar \u2014 spielen (Sport). Jogar hei\u00DFt bei Sport und Spielen spielen; jogo ist die Ich-Form. Aos s\u00E1bados bedeutet samstags, also wiederholt. Ein Instrument spielen hei\u00DFt tocar; jogar ist nicht auf Sport beschr\u00E4nkt. Jogo futebol aos s\u00E1bados. \u2014 Ich spiele samstags Fu\u00DFball.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "spielen (Sport)"
+          },
+          {
+            "id": "d0",
+            "text": "schwimmen"
+          },
+          {
+            "id": "d4",
+            "text": "Spaziergang"
+          },
+          {
+            "id": "d3",
+            "text": "zeichnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "jogar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ejogar\u201C in diesem Beispiel? \u201EJogo futebol aos s\u00E1bados.\u201C",
+        "explanation": "jogar \u2014 spielen (Sport). Jogar hei\u00DFt bei Sport und Spielen spielen; jogo ist die Ich-Form. Aos s\u00E1bados bedeutet samstags, also wiederholt. Ein Instrument spielen hei\u00DFt tocar; jogar ist nicht auf Sport beschr\u00E4nkt. Jogo futebol aos s\u00E1bados. \u2014 Ich spiele samstags Fu\u00DFball.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "schwimmen"
+          },
+          {
+            "id": "answer",
+            "text": "spielen (Sport)"
+          },
+          {
+            "id": "d5",
+            "text": "Filme"
+          },
+          {
+            "id": "d4",
+            "text": "Spaziergang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EFa\u00E7o uma caminhada no parque.\u201C",
+        "explanation": "caminhada \u2014 Spaziergang. A caminhada, Plural caminhadas, bezeichnet hier einen Spaziergang. Fa\u00E7o ist die Ich-Form von fazer. Fazer uma caminhada bedeutet spazieren gehen; je nach Strecke kann caminhada auch eine Wanderung bezeichnen. Fa\u00E7o uma caminhada no parque. \u2014 Ich gehe im Park spazieren.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "zeichnen"
+          },
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "d5",
+            "text": "Filme"
+          },
+          {
+            "id": "answer",
+            "text": "Spaziergang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "caminhada",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecaminhada\u201C in diesem Beispiel? \u201EFa\u00E7o uma caminhada no parque.\u201C",
+        "explanation": "caminhada \u2014 Spaziergang. A caminhada, Plural caminhadas, bezeichnet hier einen Spaziergang. Fa\u00E7o ist die Ich-Form von fazer. Fazer uma caminhada bedeutet spazieren gehen; je nach Strecke kann caminhada auch eine Wanderung bezeichnen. Fa\u00E7o uma caminhada no parque. \u2014 Ich gehe im Park spazieren.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "d5",
+            "text": "Filme"
+          },
+          {
+            "id": "answer",
+            "text": "Spaziergang"
+          },
+          {
+            "id": "d0",
+            "text": "schwimmen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "nadar \u2014 schwimmen. Nadar hei\u00DFt schwimmen. Nach gosto de steht der Infinitiv; no mar bedeutet im Meer. Das Beispiel beschreibt eine Vorliebe und gibt keine Auskunft \u00FCber die Schwimmf\u00E4higkeit oder Bedingungen an einem bestimmten Ort. Gosto de nadar no mar. \u2014 Ich schwimme gern im Meer.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Spaziergang"
+          },
+          {
+            "id": "d0",
+            "text": "lesen"
+          },
+          {
+            "id": "answer",
+            "text": "schwimmen"
+          },
+          {
+            "id": "d2",
+            "text": "zeichnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "nadar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Enadar\u201C?",
+        "explanation": "nadar \u2014 schwimmen. Nadar hei\u00DFt schwimmen. Nach gosto de steht der Infinitiv; no mar bedeutet im Meer. Das Beispiel beschreibt eine Vorliebe und gibt keine Auskunft \u00FCber die Schwimmf\u00E4higkeit oder Bedingungen an einem bestimmten Ort. Gosto de nadar no mar. \u2014 Ich schwimme gern im Meer.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Filme"
+          },
+          {
+            "id": "d2",
+            "text": "zeichnen"
+          },
+          {
+            "id": "answer",
+            "text": "schwimmen"
+          },
+          {
+            "id": "d1",
+            "text": "h\u00F6ren"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "desenhar \u2014 zeichnen. Desenhar hei\u00DFt zeichnen; desenho ist hier die Ich-Form im Pr\u00E4sens. Als Nomen bedeutet o desenho die Zeichnung. Im Beispielsatz zeigt die Satzstellung die T\u00E4tigkeit an. No tempo livre, desenho. \u2014 In meiner Freizeit zeichne ich.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "spielen (Sport)"
+          },
+          {
+            "id": "answer",
+            "text": "zeichnen"
+          },
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "d2",
+            "text": "h\u00F6ren"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "desenhar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edesenhar\u201C?",
+        "explanation": "desenhar \u2014 zeichnen. Desenhar hei\u00DFt zeichnen; desenho ist hier die Ich-Form im Pr\u00E4sens. Als Nomen bedeutet o desenho die Zeichnung. Im Beispielsatz zeigt die Satzstellung die T\u00E4tigkeit an. No tempo livre, desenho. \u2014 In meiner Freizeit zeichne ich.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "schwimmen"
+          },
+          {
+            "id": "d3",
+            "text": "spielen (Sport)"
+          },
+          {
+            "id": "d5",
+            "text": "Filme"
+          },
+          {
+            "id": "answer",
+            "text": "zeichnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Elesen\u201C? Zusammenhang: bei einer Aussage \u00FCber eine T\u00E4tigkeit in der Freizeit.",
+        "explanation": "ler \u2014 lesen. Ler hei\u00DFt lesen; leio ist die unregelm\u00E4\u00DFige Ich-Form im Pr\u00E4sens. No tempo livre bedeutet in der Freizeit. Paket 32 verwendet denselben Infinitiv nach gosto de; hier steht das Verb selbst in der Ich-Form. No tempo livre, leio. \u2014 In meiner Freizeit lese ich.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "m\u00FAsica"
+          },
+          {
+            "id": "d8",
+            "text": "filmes"
+          },
+          {
+            "id": "d4",
+            "text": "desenhar"
+          },
+          {
+            "id": "answer",
+            "text": "ler"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du in deiner Freizeit liest, ohne die St\u00E4rke einer Vorliebe zu nennen?",
+        "explanation": "Leio ist die Ich-Form von ler. No tempo livre bedeutet in der Freizeit.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "No tempo livre, nado."
+          },
+          {
+            "id": "answer",
+            "text": "No tempo livre, leio."
+          },
+          {
+            "id": "wrong-0",
+            "text": "No tempo livre, desenho."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Gosto muito de ler."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eh\u00F6ren\u201C?",
+        "explanation": "ouvir \u2014 h\u00F6ren. Ouvir hei\u00DFt h\u00F6ren; ou\u00E7o ist die unregelm\u00E4\u00DFige Ich-Form. Ou\u00E7o m\u00FAsica bedeutet ich h\u00F6re Musik. No \u00F4nibus hei\u00DFt im Bus; der Satz beschreibt einen Ort der T\u00E4tigkeit. Ou\u00E7o m\u00FAsica no \u00F4nibus. \u2014 Ich h\u00F6re im Bus Musik.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "desenhar"
+          },
+          {
+            "id": "d0",
+            "text": "nadar"
+          },
+          {
+            "id": "answer",
+            "text": "ouvir"
+          },
+          {
+            "id": "d1",
+            "text": "ler"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du im Bus Musik h\u00F6rst?",
+        "explanation": "Ou\u00E7o hei\u00DFt ich h\u00F6re. No \u00F4nibus nennt den Bus als Ort der T\u00E4tigkeit.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Leio no \u00F4nibus."
+          },
+          {
+            "id": "answer",
+            "text": "Ou\u00E7o m\u00FAsica no \u00F4nibus."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tiro fotos da cidade."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Ou\u00E7o m\u00FAsica em casa."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Espielen (Sport)\u201C? Zusammenhang: beim Fu\u00DFball als Freizeitaktivit\u00E4t.",
+        "explanation": "jogar \u2014 spielen (Sport). Jogar hei\u00DFt bei Sport und Spielen spielen; jogo ist die Ich-Form. Aos s\u00E1bados bedeutet samstags, also wiederholt. Ein Instrument spielen hei\u00DFt tocar; jogar ist nicht auf Sport beschr\u00E4nkt. Jogo futebol aos s\u00E1bados. \u2014 Ich spiele samstags Fu\u00DFball.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "fotos"
+          },
+          {
+            "id": "d3",
+            "text": "desenhar"
+          },
+          {
+            "id": "answer",
+            "text": "jogar"
+          },
+          {
+            "id": "d0",
+            "text": "nadar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du regelm\u00E4\u00DFig samstags Fu\u00DFball spielst?",
+        "explanation": "Jogo ist die Ich-Form von jogar. Aos s\u00E1bados bedeutet regelm\u00E4\u00DFig samstags.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Jogo futebol aos domingos."
+          },
+          {
+            "id": "answer",
+            "text": "Jogo futebol aos s\u00E1bados."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Jogo basquete aos s\u00E1bados."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Assisto a filmes em casa."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201ESpaziergang\u201C? Zusammenhang: bei einer Aktivit\u00E4t zu Fu\u00DF im Park.",
+        "explanation": "caminhada \u2014 Spaziergang. A caminhada, Plural caminhadas, bezeichnet hier einen Spaziergang. Fa\u00E7o ist die Ich-Form von fazer. Fazer uma caminhada bedeutet spazieren gehen; je nach Strecke kann caminhada auch eine Wanderung bezeichnen. Fa\u00E7o uma caminhada no parque. \u2014 Ich gehe im Park spazieren.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "nadar"
+          },
+          {
+            "id": "answer",
+            "text": "caminhada"
+          },
+          {
+            "id": "d5",
+            "text": "filmes"
+          },
+          {
+            "id": "d2",
+            "text": "ouvir"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt einen Spaziergang im Park?",
+        "explanation": "Fazer uma caminhada bedeutet einen Spaziergang machen. No parque nennt den Ort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Tiro fotos da cidade."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Assisto a filmes em casa."
+          },
+          {
+            "id": "answer",
+            "text": "Fa\u00E7o uma caminhada no parque."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Fa\u00E7o uma caminhada na praia."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eschwimmen\u201C?",
+        "explanation": "nadar \u2014 schwimmen. Nadar hei\u00DFt schwimmen. Nach gosto de steht der Infinitiv; no mar bedeutet im Meer. Das Beispiel beschreibt eine Vorliebe und gibt keine Auskunft \u00FCber die Schwimmf\u00E4higkeit oder Bedingungen an einem bestimmten Ort. Gosto de nadar no mar. \u2014 Ich schwimme gern im Meer.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "ouvir"
+          },
+          {
+            "id": "d2",
+            "text": "desenhar"
+          },
+          {
+            "id": "answer",
+            "text": "nadar"
+          },
+          {
+            "id": "d6",
+            "text": "fotos"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt Schwimmen im Meer als Vorliebe?",
+        "explanation": "Nadar hei\u00DFt schwimmen. No mar bedeutet im Meer; die Aussage bewertet keine Bedingungen an einem Ort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Gosto de caminhar no parque."
+          },
+          {
+            "id": "answer",
+            "text": "Gosto de nadar no mar."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Gosto de ouvir m\u00FAsica."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Gosto de nadar na piscina."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezeichnen\u201C?",
+        "explanation": "desenhar \u2014 zeichnen. Desenhar hei\u00DFt zeichnen; desenho ist hier die Ich-Form im Pr\u00E4sens. Als Nomen bedeutet o desenho die Zeichnung. Im Beispielsatz zeigt die Satzstellung die T\u00E4tigkeit an. No tempo livre, desenho. \u2014 In meiner Freizeit zeichne ich.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "desenhar"
+          },
+          {
+            "id": "d3",
+            "text": "jogar"
+          },
+          {
+            "id": "d5",
+            "text": "filmes"
+          },
+          {
+            "id": "d2",
+            "text": "ouvir"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du in der Freizeit zeichnest?",
+        "explanation": "Desenho ist hier die Ich-Form von desenhar. Im Satz geht es um die T\u00E4tigkeit Zeichnen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "No tempo livre, nado."
+          },
+          {
+            "id": "wrong-2",
+            "text": "No tempo livre, jogo futebol."
+          },
+          {
+            "id": "answer",
+            "text": "No tempo livre, desenho."
+          },
+          {
+            "id": "wrong-0",
+            "text": "No tempo livre, leio."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

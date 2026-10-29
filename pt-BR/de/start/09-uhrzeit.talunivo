@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-09-uhrzeit",
-  "packageVersion": 4,
-  "title": "09 · Uhrzeit und Verabredungen",
+  "packageVersion": 5,
+  "title": "09 \u00B7 Uhrzeit und Verabredungen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Uhrzeit und Verabredungen",
       "expression": "hora",
       "translation": "Stunde; Uhrzeit",
-      "isVocabulary": true,
-      "example": "Que horas são?",
-      "exampleTranslation": "Wie spät ist es?",
-      "explanation": "A hora, Plural horas. Que horas são? ist die feste Frage nach der Uhrzeit. Hora kann auch eine Zeitdauer von einer Stunde bezeichnen; hier geht es um die Uhrzeit."
+      "example": "Que horas s\u00E3o?",
+      "exampleTranslation": "Wie sp\u00E4t ist es?",
+      "explanation": "A hora, Plural horas. Que horas s\u00E3o? ist die feste Frage nach der Uhrzeit. Hora kann auch eine Zeitdauer von einer Stunde bezeichnen; hier geht es um die Uhrzeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "uma hora",
       "translation": "ein Uhr",
-      "isVocabulary": true,
-      "example": "É uma hora.",
+      "example": "\u00C9 uma hora.",
       "exampleTranslation": "Es ist ein Uhr.",
-      "explanation": "Für ein Uhr sagt man É uma hora, mit é im Singular. Hora ist weiblich, deshalb uma. In einer anderen Satzumgebung kann uma hora eine Stunde Dauer bedeuten; hier wird ein Uhr angegeben."
+      "explanation": "F\u00FCr ein Uhr sagt man \u00C9 uma hora, mit \u00E9 im Singular. Hora ist weiblich, deshalb uma. In einer anderen Satzumgebung kann uma hora eine Stunde Dauer bedeuten; hier wird ein Uhr angegeben.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "duas horas",
       "translation": "zwei Uhr",
-      "isVocabulary": true,
-      "example": "São duas horas.",
+      "example": "S\u00E3o duas horas.",
       "exampleTranslation": "Es ist zwei Uhr.",
-      "explanation": "Für zwei Uhr sagt man São duas horas, mit são im Plural. Horas ist weiblich, deshalb duas. Vergleiche É uma hora für ein Uhr mit São duas horas für zwei Uhr."
+      "explanation": "F\u00FCr zwei Uhr sagt man S\u00E3o duas horas, mit s\u00E3o im Plural. Horas ist weiblich, deshalb duas. Vergleiche \u00C9 uma hora f\u00FCr ein Uhr mit S\u00E3o duas horas f\u00FCr zwei Uhr.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "meia",
       "translation": "halb",
-      "isVocabulary": true,
-      "example": "São três e meia.",
+      "example": "S\u00E3o tr\u00EAs e meia.",
       "exampleTranslation": "Es ist halb vier.",
-      "explanation": "Bei Uhrzeiten bedeutet e meia eine halbe Stunde nach der genannten Stunde. Três e meia ist 3:30, auf Deutsch halb vier. Meia bezieht sich auf die weibliche hora; es heißt hier nicht meio."
+      "explanation": "Bei Uhrzeiten bedeutet e meia eine halbe Stunde nach der genannten Stunde. Tr\u00EAs e meia ist 3:30, auf Deutsch halb vier. Meia bezieht sich auf die weibliche hora; es hei\u00DFt hier nicht meio.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "quinze",
-      "translation": "fünfzehn",
-      "isVocabulary": true,
-      "example": "São quatro e quinze.",
+      "translation": "f\u00FCnfzehn",
+      "example": "S\u00E3o quatro e quinze.",
       "exampleTranslation": "Es ist Viertel nach vier.",
-      "explanation": "Quinze ist 15. Bei São quatro e quinze sind fünfzehn Minuten nach vier gemeint: 4:15 oder Viertel nach vier. Die Zahl aus dem Preispaket wird hier für Minuten verwendet."
+      "explanation": "Quinze ist 15. Bei S\u00E3o quatro e quinze sind f\u00FCnfzehn Minuten nach vier gemeint: 4:15 oder Viertel nach vier. Die Zahl aus dem Preispaket wird hier f\u00FCr Minuten verwendet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "dez para",
       "translation": "zehn vor (bei Uhrzeiten)",
-      "isVocabulary": true,
-      "example": "São dez para as cinco.",
-      "exampleTranslation": "Es ist zehn vor fünf.",
-      "explanation": "Dez para as cinco bedeutet zehn Minuten vor fünf, also 4:50. Die Zielstunde steht nach para as. Dez para allein nennt noch keine vollständige Uhrzeit."
+      "example": "S\u00E3o dez para as cinco.",
+      "exampleTranslation": "Es ist zehn vor f\u00FCnf.",
+      "explanation": "Dez para as cinco bedeutet zehn Minuten vor f\u00FCnf, also 4:50. Die Zielstunde steht nach para as. Dez para allein nennt noch keine vollst\u00E4ndige Uhrzeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "aula",
       "translation": "Unterricht",
-      "isVocabulary": true,
-      "example": "A aula começa às oito.",
+      "example": "A aula come\u00E7a \u00E0s oito.",
       "exampleTranslation": "Der Unterricht beginnt um acht.",
-      "explanation": "A aula, Plural aulas. Começa bedeutet beginnt; às oito heißt um acht Uhr. Vergleiche São oito horas = Es ist acht Uhr mit às oito = um acht Uhr. Für um ein Uhr heißt es à uma."
+      "explanation": "A aula, Plural aulas. Come\u00E7a bedeutet beginnt; \u00E0s oito hei\u00DFt um acht Uhr. Vergleiche S\u00E3o oito horas = Es ist acht Uhr mit \u00E0s oito = um acht Uhr. F\u00FCr um ein Uhr hei\u00DFt es \u00E0 uma.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Uhrzeit und Verabredungen",
       "expression": "meio-dia",
-      "translation": "Mittag; zwölf Uhr mittags",
-      "isVocabulary": true,
-      "example": "É meio-dia.",
-      "exampleTranslation": "Es ist zwölf Uhr mittags.",
-      "explanation": "O meio-dia bezeichnet Mittag, also zwölf Uhr mittags. É meio-dia nennt die Uhrzeit. Ao meio-dia bedeutet dagegen um zwölf Uhr mittags und nennt einen Zeitpunkt für eine Handlung."
+      "translation": "Mittag; zw\u00F6lf Uhr mittags",
+      "example": "\u00C9 meio-dia.",
+      "exampleTranslation": "Es ist zw\u00F6lf Uhr mittags.",
+      "explanation": "O meio-dia bezeichnet Mittag, also zw\u00F6lf Uhr mittags. \u00C9 meio-dia nennt die Uhrzeit. Ao meio-dia bedeutet dagegen um zw\u00F6lf Uhr mittags und nennt einen Zeitpunkt f\u00FCr eine Handlung.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Nach der Uhrzeit fragen und volle Stunden, Minuten und Tageszeiten unterscheiden.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Uhrzeit f\u00FCr ein Uhr mit zwei W\u00F6rtern: \u201E\u00C9 ____.\u201C",
+        "explanation": "F\u00FCr ein Uhr sagt man \u00C9 uma hora, mit \u00E9 im Singular. Hora ist weiblich, deshalb uma. In einer anderen Satzumgebung kann uma hora eine Stunde Dauer bedeuten; hier wird ein Uhr angegeben.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "uma hora"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Uhrzeit f\u00FCr zwei Uhr mit zwei W\u00F6rtern: \u201ES\u00E3o ____.\u201C",
+        "explanation": "F\u00FCr zwei Uhr sagt man S\u00E3o duas horas, mit s\u00E3o im Plural. Horas ist weiblich, deshalb duas. Vergleiche \u00C9 uma hora f\u00FCr ein Uhr mit S\u00E3o duas horas f\u00FCr zwei Uhr.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "duas horas"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "hora \u2014 Stunde; Uhrzeit. A hora, Plural horas. Que horas s\u00E3o? ist die feste Frage nach der Uhrzeit. Hora kann auch eine Zeitdauer von einer Stunde bezeichnen; hier geht es um die Uhrzeit. Que horas s\u00E3o? \u2014 Wie sp\u00E4t ist es?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "ein Uhr"
+          },
+          {
+            "id": "d4",
+            "text": "halb"
+          },
+          {
+            "id": "answer",
+            "text": "Stunde; Uhrzeit"
+          },
+          {
+            "id": "d6",
+            "text": "zehn vor (bei Uhrzeiten)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "hora",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ehora\u201C?",
+        "explanation": "hora \u2014 Stunde; Uhrzeit. A hora, Plural horas. Que horas s\u00E3o? ist die feste Frage nach der Uhrzeit. Hora kann auch eine Zeitdauer von einer Stunde bezeichnen; hier geht es um die Uhrzeit. Que horas s\u00E3o? \u2014 Wie sp\u00E4t ist es?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "answer",
+            "text": "Stunde; Uhrzeit"
+          },
+          {
+            "id": "d3",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          },
+          {
+            "id": "d6",
+            "text": "zehn vor (bei Uhrzeiten)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "meia \u2014 halb. Bei Uhrzeiten bedeutet e meia eine halbe Stunde nach der genannten Stunde. Tr\u00EAs e meia ist 3:30, auf Deutsch halb vier. Meia bezieht sich auf die weibliche hora; es hei\u00DFt hier nicht meio. S\u00E3o tr\u00EAs e meia. \u2014 Es ist halb vier.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "ein Uhr"
+          },
+          {
+            "id": "answer",
+            "text": "halb"
+          },
+          {
+            "id": "d1",
+            "text": "zwei Uhr"
+          },
+          {
+            "id": "d2",
+            "text": "Stunde; Uhrzeit"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "meia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emeia\u201C?",
+        "explanation": "meia \u2014 halb. Bei Uhrzeiten bedeutet e meia eine halbe Stunde nach der genannten Stunde. Tr\u00EAs e meia ist 3:30, auf Deutsch halb vier. Meia bezieht sich auf die weibliche hora; es hei\u00DFt hier nicht meio. S\u00E3o tr\u00EAs e meia. \u2014 Es ist halb vier.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Stunde; Uhrzeit"
+          },
+          {
+            "id": "d5",
+            "text": "Unterricht"
+          },
+          {
+            "id": "answer",
+            "text": "halb"
+          },
+          {
+            "id": "d1",
+            "text": "zwei Uhr"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quinze \u2014 f\u00FCnfzehn. Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet. O almo\u00E7o custa quinze reais. \u2014 Das Mittagessen kostet f\u00FCnfzehn Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d9",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d6",
+            "text": "Flasche"
+          },
+          {
+            "id": "d2",
+            "text": "elf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quinze",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equinze\u201C?",
+        "explanation": "quinze \u2014 f\u00FCnfzehn. Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet. O almo\u00E7o custa quinze reais. \u2014 Das Mittagessen kostet f\u00FCnfzehn Reais.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "elf"
+          },
+          {
+            "id": "d11",
+            "text": "siebzig"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d3",
+            "text": "drei\u00DFig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dez para \u2014 zehn vor (bei Uhrzeiten). Dez para as cinco bedeutet zehn Minuten vor f\u00FCnf, also 4:50. Die Zielstunde steht nach para as. Dez para allein nennt noch keine vollst\u00E4ndige Uhrzeit. S\u00E3o dez para as cinco. \u2014 Es ist zehn vor f\u00FCnf.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "halb"
+          },
+          {
+            "id": "answer",
+            "text": "zehn vor (bei Uhrzeiten)"
+          },
+          {
+            "id": "d2",
+            "text": "Stunde; Uhrzeit"
+          },
+          {
+            "id": "d4",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dez para",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edez para\u201C?",
+        "explanation": "dez para \u2014 zehn vor (bei Uhrzeiten). Dez para as cinco bedeutet zehn Minuten vor f\u00FCnf, also 4:50. Die Zielstunde steht nach para as. Dez para allein nennt noch keine vollst\u00E4ndige Uhrzeit. S\u00E3o dez para as cinco. \u2014 Es ist zehn vor f\u00FCnf.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "answer",
+            "text": "zehn vor (bei Uhrzeiten)"
+          },
+          {
+            "id": "d6",
+            "text": "Unterricht"
+          },
+          {
+            "id": "d4",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "aula \u2014 Unterricht. A aula, Plural aulas. Come\u00E7a bedeutet beginnt; \u00E0s oito hei\u00DFt um acht Uhr. Vergleiche S\u00E3o oito horas = Es ist acht Uhr mit \u00E0s oito = um acht Uhr. F\u00FCr um ein Uhr hei\u00DFt es \u00E0 uma. A aula come\u00E7a \u00E0s oito. \u2014 Der Unterricht beginnt um acht.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Unterricht"
+          },
+          {
+            "id": "d5",
+            "text": "halb"
+          },
+          {
+            "id": "d4",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          },
+          {
+            "id": "d0",
+            "text": "f\u00FCnfzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "aula",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eaula\u201C?",
+        "explanation": "aula \u2014 Unterricht. A aula, Plural aulas. Come\u00E7a bedeutet beginnt; \u00E0s oito hei\u00DFt um acht Uhr. Vergleiche S\u00E3o oito horas = Es ist acht Uhr mit \u00E0s oito = um acht Uhr. F\u00FCr um ein Uhr hei\u00DFt es \u00E0 uma. A aula come\u00E7a \u00E0s oito. \u2014 Der Unterricht beginnt um acht.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "zehn vor (bei Uhrzeiten)"
+          },
+          {
+            "id": "d3",
+            "text": "ein Uhr"
+          },
+          {
+            "id": "d4",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          },
+          {
+            "id": "answer",
+            "text": "Unterricht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "meio-dia \u2014 Mittag; zw\u00F6lf Uhr mittags. O meio-dia bezeichnet Mittag, also zw\u00F6lf Uhr mittags. \u00C9 meio-dia nennt die Uhrzeit. Ao meio-dia bedeutet dagegen um zw\u00F6lf Uhr mittags und nennt einen Zeitpunkt f\u00FCr eine Handlung. \u00C9 meio-dia. \u2014 Es ist zw\u00F6lf Uhr mittags.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "zehn vor (bei Uhrzeiten)"
+          },
+          {
+            "id": "answer",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          },
+          {
+            "id": "d1",
+            "text": "zwei Uhr"
+          },
+          {
+            "id": "d0",
+            "text": "f\u00FCnfzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "meio-dia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emeio-dia\u201C?",
+        "explanation": "meio-dia \u2014 Mittag; zw\u00F6lf Uhr mittags. O meio-dia bezeichnet Mittag, also zw\u00F6lf Uhr mittags. \u00C9 meio-dia nennt die Uhrzeit. Ao meio-dia bedeutet dagegen um zw\u00F6lf Uhr mittags und nennt einen Zeitpunkt f\u00FCr eine Handlung. \u00C9 meio-dia. \u2014 Es ist zw\u00F6lf Uhr mittags.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "halb"
+          },
+          {
+            "id": "d3",
+            "text": "ein Uhr"
+          },
+          {
+            "id": "answer",
+            "text": "Mittag; zw\u00F6lf Uhr mittags"
+          },
+          {
+            "id": "d0",
+            "text": "f\u00FCnfzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EStunde; Uhrzeit\u201C?",
+        "explanation": "hora \u2014 Stunde; Uhrzeit. A hora, Plural horas. Que horas s\u00E3o? ist die feste Frage nach der Uhrzeit. Hora kann auch eine Zeitdauer von einer Stunde bezeichnen; hier geht es um die Uhrzeit. Que horas s\u00E3o? \u2014 Wie sp\u00E4t ist es?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "meio-dia"
+          },
+          {
+            "id": "answer",
+            "text": "hora"
+          },
+          {
+            "id": "d2",
+            "text": "uma hora"
+          },
+          {
+            "id": "d4",
+            "text": "meia"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest die aktuelle Uhrzeit erfahren. Welche Frage passt?",
+        "explanation": "Que horas s\u00E3o? fragt wie sp\u00E4t ist es? Hora bedeutet Stunde oder Uhrzeit.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Qual \u00E9 o seu nome?"
+          },
+          {
+            "id": "answer",
+            "text": "Que horas s\u00E3o?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "De onde voc\u00EA \u00E9?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quanto custa?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ehalb\u201C?",
+        "explanation": "meia \u2014 halb. Bei Uhrzeiten bedeutet e meia eine halbe Stunde nach der genannten Stunde. Tr\u00EAs e meia ist 3:30, auf Deutsch halb vier. Meia bezieht sich auf die weibliche hora; es hei\u00DFt hier nicht meio. S\u00E3o tr\u00EAs e meia. \u2014 Es ist halb vier.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "quinze"
+          },
+          {
+            "id": "answer",
+            "text": "meia"
+          },
+          {
+            "id": "d6",
+            "text": "dez para"
+          },
+          {
+            "id": "d3",
+            "text": "uma hora"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Uhrzeit ist halb vier (15:30)?",
+        "explanation": "Tr\u00EAs e meia ist halb vier: drei Uhr und eine halbe Stunde, also 15:30 im genannten Nachmittagskontext.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "S\u00E3o quatro horas da tarde."
+          },
+          {
+            "id": "wrong-0",
+            "text": "S\u00E3o quatro e meia da tarde."
+          },
+          {
+            "id": "wrong-1",
+            "text": "S\u00E3o tr\u00EAs e quinze da tarde."
+          },
+          {
+            "id": "answer",
+            "text": "S\u00E3o tr\u00EAs e meia da tarde."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ef\u00FCnfzehn\u201C?",
+        "explanation": "quinze \u2014 f\u00FCnfzehn. Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet. O almo\u00E7o custa quinze reais. \u2014 Das Mittagessen kostet f\u00FCnfzehn Reais.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "dezenove"
+          },
+          {
+            "id": "d0",
+            "text": "dezessete"
+          },
+          {
+            "id": "answer",
+            "text": "quinze"
+          },
+          {
+            "id": "d3",
+            "text": "trinta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Angabe entspricht 16:15 Uhr?",
+        "explanation": "Quatro e quinze sind vier Uhr und f\u00FCnfzehn Minuten; da tarde benennt den Nachmittag.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "S\u00E3o quatro e quinze da tarde."
+          },
+          {
+            "id": "wrong-2",
+            "text": "S\u00E3o quatro horas da tarde."
+          },
+          {
+            "id": "wrong-0",
+            "text": "S\u00E3o quatro e meia da tarde."
+          },
+          {
+            "id": "wrong-1",
+            "text": "S\u00E3o cinco e quinze da tarde."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezehn vor (bei Uhrzeiten)\u201C?",
+        "explanation": "dez para \u2014 zehn vor (bei Uhrzeiten). Dez para as cinco bedeutet zehn Minuten vor f\u00FCnf, also 4:50. Die Zielstunde steht nach para as. Dez para allein nennt noch keine vollst\u00E4ndige Uhrzeit. S\u00E3o dez para as cinco. \u2014 Es ist zehn vor f\u00FCnf.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "aula"
+          },
+          {
+            "id": "d5",
+            "text": "meia"
+          },
+          {
+            "id": "answer",
+            "text": "dez para"
+          },
+          {
+            "id": "d3",
+            "text": "uma hora"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Angabe entspricht 16:50 Uhr?",
+        "explanation": "Dez para as cinco bedeutet zehn vor f\u00FCnf, also im Nachmittagskontext 16:50.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "S\u00E3o quatro e dez da tarde."
+          },
+          {
+            "id": "wrong-0",
+            "text": "S\u00E3o dez para as quatro da tarde."
+          },
+          {
+            "id": "wrong-1",
+            "text": "S\u00E3o cinco e dez da tarde."
+          },
+          {
+            "id": "answer",
+            "text": "S\u00E3o dez para as cinco da tarde."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EUnterricht\u201C?",
+        "explanation": "aula \u2014 Unterricht. A aula, Plural aulas. Come\u00E7a bedeutet beginnt; \u00E0s oito hei\u00DFt um acht Uhr. Vergleiche S\u00E3o oito horas = Es ist acht Uhr mit \u00E0s oito = um acht Uhr. F\u00FCr um ein Uhr hei\u00DFt es \u00E0 uma. A aula come\u00E7a \u00E0s oito. \u2014 Der Unterricht beginnt um acht.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "meia"
+          },
+          {
+            "id": "d1",
+            "text": "duas horas"
+          },
+          {
+            "id": "answer",
+            "text": "aula"
+          },
+          {
+            "id": "d0",
+            "text": "quinze"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass der Unterricht um acht beginnt?",
+        "explanation": "Aula bezeichnet hier den Unterricht. Come\u00E7a hei\u00DFt beginnt; termina hei\u00DFt endet.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "A aula termina \u00E0s oito."
+          },
+          {
+            "id": "wrong-0",
+            "text": "A aula come\u00E7a \u00E0s nove."
+          },
+          {
+            "id": "answer",
+            "text": "A aula come\u00E7a \u00E0s oito."
+          },
+          {
+            "id": "wrong-2",
+            "text": "A loja abre \u00E0s oito."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMittag; zw\u00F6lf Uhr mittags\u201C?",
+        "explanation": "meio-dia \u2014 Mittag; zw\u00F6lf Uhr mittags. O meio-dia bezeichnet Mittag, also zw\u00F6lf Uhr mittags. \u00C9 meio-dia nennt die Uhrzeit. Ao meio-dia bedeutet dagegen um zw\u00F6lf Uhr mittags und nennt einen Zeitpunkt f\u00FCr eine Handlung. \u00C9 meio-dia. \u2014 Es ist zw\u00F6lf Uhr mittags.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "uma hora"
+          },
+          {
+            "id": "d0",
+            "text": "quinze"
+          },
+          {
+            "id": "d4",
+            "text": "meia"
+          },
+          {
+            "id": "answer",
+            "text": "meio-dia"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt zw\u00F6lf Uhr mittags?",
+        "explanation": "Meio-dia ist Mittag, meia-noite Mitternacht.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "\u00C9 uma hora."
+          },
+          {
+            "id": "answer",
+            "text": "\u00C9 meio-dia."
+          },
+          {
+            "id": "wrong-0",
+            "text": "\u00C9 meia-noite."
+          },
+          {
+            "id": "wrong-2",
+            "text": "S\u00E3o duas horas."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

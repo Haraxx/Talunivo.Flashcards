@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-06-herkunft",
-  "packageVersion": 4,
-  "title": "06 · Herkunft und Wohnort",
+  "packageVersion": 5,
+  "title": "06 \u00B7 Herkunft und Wohnort",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Herkunft und Wohnort",
       "expression": "onde",
       "translation": "wo",
-      "isVocabulary": true,
-      "example": "De onde você é?",
+      "example": "De onde voc\u00EA \u00E9?",
       "exampleTranslation": "Woher kommst du?",
-      "explanation": "Onde allein bedeutet wo. De onde bedeutet woher; De onde você é? fragt hier nach der Herkunft. Onde você mora? fragt dagegen nach dem Wohnort."
+      "explanation": "Onde allein bedeutet wo. De onde bedeutet woher; De onde voc\u00EA \u00E9? fragt hier nach der Herkunft. Onde voc\u00EA mora? fragt dagegen nach dem Wohnort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Herkunft und Wohnort",
       "expression": "Alemanha",
       "translation": "Deutschland",
-      "isVocabulary": true,
       "example": "Eu sou da Alemanha.",
       "exampleTranslation": "Ich komme aus Deutschland.",
-      "explanation": "A Alemanha ist Deutschland. Da entsteht aus de + a: da Alemanha = aus Deutschland. Eu sou da Alemanha nennt hier die Herkunft, nicht automatisch den aktuellen Wohnort."
+      "explanation": "A Alemanha ist Deutschland. Da entsteht aus de \u002B a: da Alemanha = aus Deutschland. Eu sou da Alemanha nennt hier die Herkunft, nicht automatisch den aktuellen Wohnort.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Herkunft und Wohnort",
       "expression": "Brasil",
       "translation": "Brasilien",
-      "isVocabulary": true,
       "example": "Eu sou do Brasil.",
       "exampleTranslation": "Ich komme aus Brasilien.",
-      "explanation": "O Brasil ist Brasilien. Do entsteht aus de + o: do Brasil = aus Brasilien. Vergleiche da Alemanha mit do Brasil; der Artikel des Landes ist verschieden."
+      "explanation": "O Brasil ist Brasilien. Do entsteht aus de \u002B o: do Brasil = aus Brasilien. Vergleiche da Alemanha mit do Brasil; der Artikel des Landes ist verschieden.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Herkunft und Wohnort",
-      "expression": "alemão",
+      "expression": "alem\u00E3o",
       "translation": "Deutscher",
-      "isVocabulary": true,
-      "example": "Sou alemão.",
+      "example": "Sou alem\u00E3o.",
       "exampleTranslation": "Ich bin Deutscher.",
-      "explanation": "Hier bezeichnet alemão einen Deutschen; die weibliche Form ist alemã. Sou alemão heißt ich bin Deutscher. In Você fala alemão? aus Paket 05 bezeichnet alemão dagegen die Sprache Deutsch."
+      "explanation": "Hier bezeichnet alem\u00E3o einen Deutschen; die weibliche Form ist alem\u00E3. Sou alem\u00E3o hei\u00DFt ich bin Deutscher. In Voc\u00EA fala alem\u00E3o? aus Paket 05 bezeichnet alem\u00E3o dagegen die Sprache Deutsch.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Herkunft und Wohnort",
       "expression": "brasileira",
       "translation": "Brasilianerin",
-      "isVocabulary": true,
       "example": "Sou brasileira.",
       "exampleTranslation": "Ich bin Brasilianerin.",
-      "explanation": "Brasileira bezeichnet hier eine Brasilianerin; die männliche Form ist brasileiro. Sou brasileira nennt eine Nationalität. Wohnort und Herkunft können davon verschieden sein."
+      "explanation": "Brasileira bezeichnet hier eine Brasilianerin; die m\u00E4nnliche Form ist brasileiro. Sou brasileira nennt eine Nationalit\u00E4t. Wohnort und Herkunft k\u00F6nnen davon verschieden sein.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Herkunft und Wohnort",
       "expression": "morar",
       "translation": "wohnen",
-      "isVocabulary": true,
-      "example": "Onde você mora?",
+      "example": "Onde voc\u00EA mora?",
       "exampleTranslation": "Wo wohnst du?",
-      "explanation": "Morar bedeutet wohnen. Bei você heißt es mora: Onde você mora? = Wo wohnst du? Die Antwort kann mit Moro em … beginnen: Ich wohne in …"
+      "explanation": "Morar bedeutet wohnen. Bei voc\u00EA hei\u00DFt es mora: Onde voc\u00EA mora? = Wo wohnst du? Die Antwort kann mit Moro em \u2026 beginnen: Ich wohne in \u2026",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Herkunft und Wohnort",
       "expression": "Berlim",
       "translation": "Berlin",
-      "isVocabulary": true,
       "example": "Moro em Berlim.",
       "exampleTranslation": "Ich wohne in Berlin.",
-      "explanation": "Berlim heißt Berlin. Für diesen Städtenamen sagt man em Berlim, ohne Artikel. Moro em Berlim ist ein Muster für den Wohnort; die Herkunft wird damit nicht festgelegt."
+      "explanation": "Berlim hei\u00DFt Berlin. F\u00FCr diesen St\u00E4dtenamen sagt man em Berlim, ohne Artikel. Moro em Berlim ist ein Muster f\u00FCr den Wohnort; die Herkunft wird damit nicht festgelegt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Herkunft und Wohnort",
       "expression": "cidade",
       "translation": "Stadt",
-      "isVocabulary": true,
       "example": "Moro numa cidade pequena.",
       "exampleTranslation": "Ich wohne in einer kleinen Stadt.",
-      "explanation": "A cidade, Plural cidades. Numa ist em uma: in einer. Pequena bedeutet klein und bezieht sich hier auf das weibliche Wort cidade. Moro numa cidade pequena beschreibt den Wohnort."
+      "explanation": "A cidade, Plural cidades. Numa ist em uma: in einer. Pequena bedeutet klein und bezieht sich hier auf das weibliche Wort cidade. Moro numa cidade pequena beschreibt den Wohnort.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Nach Herkunft und Wohnort fragen und passende Herkunfts- und Nationalit\u00E4tsangaben verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze den portugiesischen L\u00E4ndernamen f\u00FCr Deutschland: \u201EEu sou da ____.\u201C",
+        "explanation": "A Alemanha ist Deutschland. Da entsteht aus de \u002B a: da Alemanha = aus Deutschland. Eu sou da Alemanha nennt hier die Herkunft, nicht automatisch den aktuellen Wohnort.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "Alemanha"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze den portugiesischen L\u00E4ndernamen f\u00FCr Brasilien: \u201EEu sou do ____.\u201C",
+        "explanation": "O Brasil ist Brasilien. Do entsteht aus de \u002B o: do Brasil = aus Brasilien. Vergleiche da Alemanha mit do Brasil; der Artikel des Landes ist verschieden.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "Brasil"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "onde \u2014 wo. Onde allein bedeutet wo. De onde bedeutet woher; De onde voc\u00EA \u00E9? fragt hier nach der Herkunft. Onde voc\u00EA mora? fragt dagegen nach dem Wohnort. De onde voc\u00EA \u00E9? \u2014 Woher kommst du?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "wohnen"
+          },
+          {
+            "id": "answer",
+            "text": "wo"
+          },
+          {
+            "id": "d1",
+            "text": "Stadt"
+          },
+          {
+            "id": "d2",
+            "text": "Deutscher"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "onde",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eonde\u201C?",
+        "explanation": "onde \u2014 wo. Onde allein bedeutet wo. De onde bedeutet woher; De onde voc\u00EA \u00E9? fragt hier nach der Herkunft. Onde voc\u00EA mora? fragt dagegen nach dem Wohnort. De onde voc\u00EA \u00E9? \u2014 Woher kommst du?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Brasilianerin"
+          },
+          {
+            "id": "d1",
+            "text": "Stadt"
+          },
+          {
+            "id": "answer",
+            "text": "wo"
+          },
+          {
+            "id": "d4",
+            "text": "Brasilien"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "alem\u00E3o \u2014 Deutscher. Hier bezeichnet alem\u00E3o einen Deutschen; die weibliche Form ist alem\u00E3. Sou alem\u00E3o hei\u00DFt ich bin Deutscher. In Voc\u00EA fala alem\u00E3o? aus Paket 05 bezeichnet alem\u00E3o dagegen die Sprache Deutsch. Sou alem\u00E3o. \u2014 Ich bin Deutscher.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "wohnen"
+          },
+          {
+            "id": "d1",
+            "text": "Stadt"
+          },
+          {
+            "id": "d5",
+            "text": "Deutschland"
+          },
+          {
+            "id": "answer",
+            "text": "Deutscher"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "alem\u00E3o",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ealem\u00E3o\u201C?",
+        "explanation": "alem\u00E3o \u2014 Deutscher. Hier bezeichnet alem\u00E3o einen Deutschen; die weibliche Form ist alem\u00E3. Sou alem\u00E3o hei\u00DFt ich bin Deutscher. In Voc\u00EA fala alem\u00E3o? aus Paket 05 bezeichnet alem\u00E3o dagegen die Sprache Deutsch. Sou alem\u00E3o. \u2014 Ich bin Deutscher.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Stadt"
+          },
+          {
+            "id": "d5",
+            "text": "Deutschland"
+          },
+          {
+            "id": "answer",
+            "text": "Deutscher"
+          },
+          {
+            "id": "d0",
+            "text": "Brasilianerin"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "brasileira \u2014 Brasilianerin. Brasileira bezeichnet hier eine Brasilianerin; die m\u00E4nnliche Form ist brasileiro. Sou brasileira nennt eine Nationalit\u00E4t. Wohnort und Herkunft k\u00F6nnen davon verschieden sein. Sou brasileira. \u2014 Ich bin Brasilianerin.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Brasilianerin"
+          },
+          {
+            "id": "d0",
+            "text": "Stadt"
+          },
+          {
+            "id": "d4",
+            "text": "Brasilien"
+          },
+          {
+            "id": "d3",
+            "text": "wohnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "brasileira",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebrasileira\u201C?",
+        "explanation": "brasileira \u2014 Brasilianerin. Brasileira bezeichnet hier eine Brasilianerin; die m\u00E4nnliche Form ist brasileiro. Sou brasileira nennt eine Nationalit\u00E4t. Wohnort und Herkunft k\u00F6nnen davon verschieden sein. Sou brasileira. \u2014 Ich bin Brasilianerin.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Stadt"
+          },
+          {
+            "id": "answer",
+            "text": "Brasilianerin"
+          },
+          {
+            "id": "d5",
+            "text": "Deutschland"
+          },
+          {
+            "id": "d4",
+            "text": "Brasilien"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "morar \u2014 wohnen. Morar bedeutet wohnen. Bei voc\u00EA hei\u00DFt es mora: Onde voc\u00EA mora? = Wo wohnst du? Die Antwort kann mit Moro em \u2026 beginnen: Ich wohne in \u2026 Onde voc\u00EA mora? \u2014 Wo wohnst du?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Berlin"
+          },
+          {
+            "id": "answer",
+            "text": "wohnen"
+          },
+          {
+            "id": "d1",
+            "text": "Stadt"
+          },
+          {
+            "id": "d0",
+            "text": "Brasilianerin"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "morar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emorar\u201C?",
+        "explanation": "morar \u2014 wohnen. Morar bedeutet wohnen. Bei voc\u00EA hei\u00DFt es mora: Onde voc\u00EA mora? = Wo wohnst du? Die Antwort kann mit Moro em \u2026 beginnen: Ich wohne in \u2026 Onde voc\u00EA mora? \u2014 Wo wohnst du?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Berlin"
+          },
+          {
+            "id": "answer",
+            "text": "wohnen"
+          },
+          {
+            "id": "d2",
+            "text": "Deutscher"
+          },
+          {
+            "id": "d1",
+            "text": "Stadt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "Berlim \u2014 Berlin. Berlim hei\u00DFt Berlin. F\u00FCr diesen St\u00E4dtenamen sagt man em Berlim, ohne Artikel. Moro em Berlim ist ein Muster f\u00FCr den Wohnort; die Herkunft wird damit nicht festgelegt. Moro em Berlim. \u2014 Ich wohne in Berlin.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Deutscher"
+          },
+          {
+            "id": "d1",
+            "text": "Stadt"
+          },
+          {
+            "id": "d4",
+            "text": "wohnen"
+          },
+          {
+            "id": "answer",
+            "text": "Berlin"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "Berlim",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201EBerlim\u201C?",
+        "explanation": "Berlim \u2014 Berlin. Berlim hei\u00DFt Berlin. F\u00FCr diesen St\u00E4dtenamen sagt man em Berlim, ohne Artikel. Moro em Berlim ist ein Muster f\u00FCr den Wohnort; die Herkunft wird damit nicht festgelegt. Moro em Berlim. \u2014 Ich wohne in Berlin.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Berlin"
+          },
+          {
+            "id": "d3",
+            "text": "wo"
+          },
+          {
+            "id": "d4",
+            "text": "wohnen"
+          },
+          {
+            "id": "d0",
+            "text": "Brasilianerin"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cidade \u2014 Stadt. A cidade, Plural cidades. Numa ist em uma: in einer. Pequena bedeutet klein und bezieht sich hier auf das weibliche Wort cidade. Moro numa cidade pequena beschreibt den Wohnort. Moro numa cidade pequena. \u2014 Ich wohne in einer kleinen Stadt.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Brasilien"
+          },
+          {
+            "id": "d0",
+            "text": "Brasilianerin"
+          },
+          {
+            "id": "answer",
+            "text": "Stadt"
+          },
+          {
+            "id": "d2",
+            "text": "wo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cidade",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecidade\u201C?",
+        "explanation": "cidade \u2014 Stadt. A cidade, Plural cidades. Numa ist em uma: in einer. Pequena bedeutet klein und bezieht sich hier auf das weibliche Wort cidade. Moro numa cidade pequena beschreibt den Wohnort. Moro numa cidade pequena. \u2014 Ich wohne in einer kleinen Stadt.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Deutschland"
+          },
+          {
+            "id": "d2",
+            "text": "wo"
+          },
+          {
+            "id": "answer",
+            "text": "Stadt"
+          },
+          {
+            "id": "d1",
+            "text": "Deutscher"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ewo\u201C?",
+        "explanation": "onde \u2014 wo. Onde allein bedeutet wo. De onde bedeutet woher; De onde voc\u00EA \u00E9? fragt hier nach der Herkunft. Onde voc\u00EA mora? fragt dagegen nach dem Wohnort. De onde voc\u00EA \u00E9? \u2014 Woher kommst du?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "onde"
+          },
+          {
+            "id": "d1",
+            "text": "cidade"
+          },
+          {
+            "id": "d6",
+            "text": "Berlim"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst nach dem Herkunftsort. Welche Frage passt?",
+        "explanation": "De onde voc\u00EA \u00E9? fragt woher kommst du? Onde allein hei\u00DFt wo.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Que horas s\u00E3o?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quanto custa?"
+          },
+          {
+            "id": "answer",
+            "text": "De onde voc\u00EA \u00E9?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Como voc\u00EA se chama?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EDeutscher\u201C?",
+        "explanation": "alem\u00E3o \u2014 Deutscher. Hier bezeichnet alem\u00E3o einen Deutschen; die weibliche Form ist alem\u00E3. Sou alem\u00E3o hei\u00DFt ich bin Deutscher. In Voc\u00EA fala alem\u00E3o? aus Paket 05 bezeichnet alem\u00E3o dagegen die Sprache Deutsch. Sou alem\u00E3o. \u2014 Ich bin Deutscher.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "morar"
+          },
+          {
+            "id": "answer",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "d1",
+            "text": "cidade"
+          },
+          {
+            "id": "d5",
+            "text": "Alemanha"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Pedro bezeichnet sich ausdr\u00FCcklich als Deutschen. Welche Aussage passt?",
+        "explanation": "Alem\u00E3o ist hier die m\u00E4nnliche Nationalit\u00E4tsbezeichnung Deutscher, nicht der Sprachname in einer Frage nach Sprachkenntnissen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Sou alem\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Sou brasileiro."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Sou brasileira."
+          },
+          {
+            "id": "answer",
+            "text": "Sou alem\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBrasilianerin\u201C?",
+        "explanation": "brasileira \u2014 Brasilianerin. Brasileira bezeichnet hier eine Brasilianerin; die m\u00E4nnliche Form ist brasileiro. Sou brasileira nennt eine Nationalit\u00E4t. Wohnort und Herkunft k\u00F6nnen davon verschieden sein. Sou brasileira. \u2014 Ich bin Brasilianerin.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "cidade"
+          },
+          {
+            "id": "d4",
+            "text": "Brasil"
+          },
+          {
+            "id": "d6",
+            "text": "Berlim"
+          },
+          {
+            "id": "answer",
+            "text": "brasileira"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Ana bezeichnet sich ausdr\u00FCcklich als Brasilianerin. Welche Aussage passt?",
+        "explanation": "Brasileira ist die weibliche Form; brasileiro ist m\u00E4nnlich.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Sou brasileiro."
+          },
+          {
+            "id": "answer",
+            "text": "Sou brasileira."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Sou alem\u00E3."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Sou alem\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ewohnen\u201C?",
+        "explanation": "morar \u2014 wohnen. Morar bedeutet wohnen. Bei voc\u00EA hei\u00DFt es mora: Onde voc\u00EA mora? = Wo wohnst du? Die Antwort kann mit Moro em \u2026 beginnen: Ich wohne in \u2026 Onde voc\u00EA mora? \u2014 Wo wohnst du?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "d0",
+            "text": "brasileira"
+          },
+          {
+            "id": "answer",
+            "text": "morar"
+          },
+          {
+            "id": "d1",
+            "text": "cidade"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest nach dem Wohnort fragen. Welche Frage passt?",
+        "explanation": "Onde voc\u00EA mora? fragt nach dem Wohnort. De onde voc\u00EA \u00E9? fragt nach der Herkunft; beides muss nicht gleich sein.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Como voc\u00EA se chama?"
+          },
+          {
+            "id": "answer",
+            "text": "Onde voc\u00EA mora?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Que horas s\u00E3o?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "De onde voc\u00EA \u00E9?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBerlin\u201C?",
+        "explanation": "Berlim \u2014 Berlin. Berlim hei\u00DFt Berlin. F\u00FCr diesen St\u00E4dtenamen sagt man em Berlim, ohne Artikel. Moro em Berlim ist ein Muster f\u00FCr den Wohnort; die Herkunft wird damit nicht festgelegt. Moro em Berlim. \u2014 Ich wohne in Berlin.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Brasil"
+          },
+          {
+            "id": "d4",
+            "text": "morar"
+          },
+          {
+            "id": "d2",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "Berlim"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EIch wohne in Berlin\u201C?",
+        "explanation": "Moro em Berlim nennt Berlin als Wohnort; sou de Berlim nennt die Herkunft.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Moro numa cidade pequena."
+          },
+          {
+            "id": "answer",
+            "text": "Moro em Berlim."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Moro no Brasil."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Sou de Berlim."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EStadt\u201C?",
+        "explanation": "cidade \u2014 Stadt. A cidade, Plural cidades. Numa ist em uma: in einer. Pequena bedeutet klein und bezieht sich hier auf das weibliche Wort cidade. Moro numa cidade pequena beschreibt den Wohnort. Moro numa cidade pequena. \u2014 Ich wohne in einer kleinen Stadt.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "cidade"
+          },
+          {
+            "id": "d6",
+            "text": "Berlim"
+          },
+          {
+            "id": "d4",
+            "text": "Brasil"
+          },
+          {
+            "id": "d3",
+            "text": "morar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt ausdr\u00FCcklich eine kleine Stadt als Wohnort?",
+        "explanation": "Cidade ist Stadt, pequena hei\u00DFt klein. Casa bedeutet Haus.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Moro numa cidade grande."
+          },
+          {
+            "id": "answer",
+            "text": "Moro numa cidade pequena."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Moro numa casa pequena."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Moro no Brasil."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

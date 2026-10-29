@@ -1,101 +1,1079 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-21-obst-gemuese",
-  "packageVersion": 4,
-  "title": "21 · Obst und Gemüse",
+  "packageVersion": 6,
+  "title": "21 \u00B7 Obst und Gem\u00FCse",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "laranjas",
       "translation": "Orangen",
-      "isVocabulary": true,
       "example": "Quero duas laranjas.",
-      "exampleTranslation": "Ich möchte zwei Orangen.",
-      "explanation": "A laranja ist eine Orange; laranjas ist die Mehrzahl. Duas richtet sich nach dem weiblichen portugiesischen Nomen. Quero duas laranjas nennt hier genau zwei Orangen."
+      "exampleTranslation": "Ich m\u00F6chte zwei Orangen.",
+      "explanation": "A laranja ist eine Orange; laranjas ist die Mehrzahl. Duas richtet sich nach dem weiblichen portugiesischen Nomen. Quero duas laranjas nennt hier genau zwei Orangen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "abacaxi",
       "translation": "Ananas",
-      "isVocabulary": true,
-      "example": "O abacaxi está maduro.",
+      "example": "O abacaxi est\u00E1 maduro.",
       "exampleTranslation": "Die Ananas ist reif.",
-      "explanation": "O abacaxi, Plural abacaxis, ist in Brasilien die übliche Bezeichnung für Ananas. Maduro bedeutet hier reif und ist männlich wegen abacaxi, obwohl Ananas im Deutschen weiblich ist."
+      "explanation": "O abacaxi, Plural abacaxis, ist in Brasilien die \u00FCbliche Bezeichnung f\u00FCr Ananas. Maduro bedeutet hier reif und ist m\u00E4nnlich wegen abacaxi, obwohl Ananas im Deutschen weiblich ist.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "manga",
       "translation": "Mango",
-      "isVocabulary": true,
       "example": "Gosto de manga.",
       "exampleTranslation": "Ich mag Mango.",
-      "explanation": "A manga, Plural mangas, ist hier die Frucht Mango. Gosto de … bedeutet ich mag … In einem Kleidungskontext kann manga dagegen Ärmel bedeuten; hier wird eine Vorliebe für Obst ausgedrückt."
+      "explanation": "A manga, Plural mangas, ist hier die Frucht Mango. Gosto de \u2026 bedeutet ich mag \u2026 In einem Kleidungskontext kann manga dagegen \u00C4rmel bedeuten; hier wird eine Vorliebe f\u00FCr Obst ausgedr\u00FCckt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "tomates",
       "translation": "Tomaten",
-      "isVocabulary": true,
-      "example": "Estes tomates estão bonitos.",
-      "exampleTranslation": "Diese Tomaten sehen schön aus.",
-      "explanation": "O tomate ist eine Tomate; tomates ist die Mehrzahl. Estes und bonitos sind männliche Mehrzahlformen wegen tomates. Die Beschreibung betrifft hier das Aussehen, nicht automatisch Geschmack oder Qualität."
+      "example": "Estes tomates est\u00E3o bonitos.",
+      "exampleTranslation": "Diese Tomaten sehen sch\u00F6n aus.",
+      "explanation": "O tomate ist eine Tomate; tomates ist die Mehrzahl. Estes und bonitos sind m\u00E4nnliche Mehrzahlformen wegen tomates. Die Beschreibung betrifft hier das Aussehen, nicht automatisch Geschmack oder Qualit\u00E4t.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "batatas",
       "translation": "Kartoffeln",
-      "isVocabulary": true,
       "example": "Preciso de batatas.",
       "exampleTranslation": "Ich brauche Kartoffeln.",
-      "explanation": "A batata ist eine Kartoffel; batatas ist die Mehrzahl. Preciso de … heißt ich brauche … Der Satz nennt Kartoffeln allgemein, aber noch keine bestimmte Anzahl oder Gewichtsmenge."
+      "explanation": "A batata ist eine Kartoffel; batatas ist die Mehrzahl. Preciso de \u2026 hei\u00DFt ich brauche \u2026 Der Satz nennt Kartoffeln allgemein, aber noch keine bestimmte Anzahl oder Gewichtsmenge.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "cebola",
       "translation": "Zwiebel",
-      "isVocabulary": true,
       "example": "Preciso de uma cebola.",
       "exampleTranslation": "Ich brauche eine Zwiebel.",
-      "explanation": "A cebola, Plural cebolas. Uma cebola bezeichnet eine einzelne Zwiebel. Ohne Mengenwort kann cebola in einem Lebensmittelzusammenhang auch Zwiebeln allgemein meinen; hier legt uma die Einzelmenge fest."
+      "explanation": "A cebola, Plural cebolas. Uma cebola bezeichnet eine einzelne Zwiebel. Ohne Mengenwort kann cebola in einem Lebensmittelzusammenhang auch Zwiebeln allgemein meinen; hier legt uma die Einzelmenge fest.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06-2",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "alho",
       "translation": "Knoblauch",
-      "isVocabulary": true,
       "example": "Tem alho?",
       "exampleTranslation": "Gibt es Knoblauch?",
-      "explanation": "O alho ist Knoblauch. Tem alho? fragt im Einkaufskontext nach der Verfügbarkeit. Das Wort bezeichnet hier das Lebensmittel; eine bestimmte Anzahl an Knollen oder Zehen wird nicht genannt."
+      "explanation": "O alho ist Knoblauch. Tem alho? fragt im Einkaufskontext nach der Verf\u00FCgbarkeit. Das Wort bezeichnet hier das Lebensmittel; eine bestimmte Anzahl an Knollen oder Zehen wird nicht genannt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "alface",
       "translation": "Kopfsalat",
-      "isVocabulary": true,
       "example": "Quero uma alface pequena.",
-      "exampleTranslation": "Ich möchte einen kleinen Kopfsalat.",
-      "explanation": "A alface ist grammatisch weiblich; deshalb uma und pequena. Gemeint ist hier ein Kopfsalat als Pflanze. Salada aus Paket 19 bezeichnet dagegen einen Salat als Gericht."
+      "exampleTranslation": "Ich m\u00F6chte einen kleinen Kopfsalat.",
+      "explanation": "A alface ist grammatisch weiblich; deshalb uma und pequena. Gemeint ist hier ein Kopfsalat als Pflanze. Salada aus Paket 19 bezeichnet dagegen einen Salat als Gericht.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Obst und Gemüse",
+      "topic": "Obst und Gem\u00FCse",
       "expression": "cenouras",
       "translation": "Karotten",
-      "isVocabulary": true,
       "example": "Vou levar estas cenouras.",
       "exampleTranslation": "Ich nehme diese Karotten.",
-      "explanation": "A cenoura ist eine Karotte; cenouras ist die Mehrzahl. Vou levar … bedeutet beim Einkaufen hier ich nehme … Estas passt zur weiblichen Mehrzahl. Die Aussage wählt die gezeigten Karotten aus."
+      "explanation": "A cenoura ist eine Karotte; cenouras ist die Mehrzahl. Vou levar \u2026 bedeutet beim Einkaufen hier ich nehme \u2026 Estas passt zur weiblichen Mehrzahl. Die Aussage w\u00E4hlt die gezeigten Karotten aus.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Obst und Gem\u00FCse unterscheiden und einfache Kaufw\u00FCnsche formulieren.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-06-2",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr Orangen: \u201EQuero duas ____.\u201C",
+        "explanation": "Laranjas ist die Mehrzahl von laranja. Duas nennt genau zwei.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "laranjas"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Zwiebel: \u201EPreciso de uma ____.\u201C",
+        "explanation": "Uma cebola bezeichnet eine Zwiebel.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "cebola"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "abacaxi \u2014 Ananas. O abacaxi, Plural abacaxis, ist in Brasilien die \u00FCbliche Bezeichnung f\u00FCr Ananas. Maduro bedeutet hier reif und ist m\u00E4nnlich wegen abacaxi, obwohl Ananas im Deutschen weiblich ist. O abacaxi est\u00E1 maduro. \u2014 Die Ananas ist reif.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Kartoffeln"
+          },
+          {
+            "id": "d3",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "answer",
+            "text": "Ananas"
+          },
+          {
+            "id": "d1",
+            "text": "Knoblauch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "abacaxi",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eabacaxi\u201C?",
+        "explanation": "abacaxi \u2014 Ananas. O abacaxi, Plural abacaxis, ist in Brasilien die \u00FCbliche Bezeichnung f\u00FCr Ananas. Maduro bedeutet hier reif und ist m\u00E4nnlich wegen abacaxi, obwohl Ananas im Deutschen weiblich ist. O abacaxi est\u00E1 maduro. \u2014 Die Ananas ist reif.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ananas"
+          },
+          {
+            "id": "d0",
+            "text": "Orangen"
+          },
+          {
+            "id": "d1",
+            "text": "Knoblauch"
+          },
+          {
+            "id": "d4",
+            "text": "Zwiebel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EGosto de manga.\u201C",
+        "explanation": "manga \u2014 Mango. A manga, Plural mangas, ist hier die Frucht Mango. Gosto de \u2026 bedeutet ich mag \u2026 In einem Kleidungskontext kann manga dagegen \u00C4rmel bedeuten; hier wird eine Vorliebe f\u00FCr Obst ausgedr\u00FCckt. Gosto de manga. \u2014 Ich mag Mango.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Orangen"
+          },
+          {
+            "id": "answer",
+            "text": "Mango"
+          },
+          {
+            "id": "d2",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d5",
+            "text": "Karotten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "manga",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emanga\u201C in diesem Beispiel? \u201EGosto de manga.\u201C",
+        "explanation": "manga \u2014 Mango. A manga, Plural mangas, ist hier die Frucht Mango. Gosto de \u2026 bedeutet ich mag \u2026 In einem Kleidungskontext kann manga dagegen \u00C4rmel bedeuten; hier wird eine Vorliebe f\u00FCr Obst ausgedr\u00FCckt. Gosto de manga. \u2014 Ich mag Mango.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d3",
+            "text": "Zwiebel"
+          },
+          {
+            "id": "answer",
+            "text": "Mango"
+          },
+          {
+            "id": "d4",
+            "text": "Kartoffeln"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tomates \u2014 Tomaten. O tomate ist eine Tomate; tomates ist die Mehrzahl. Estes und bonitos sind m\u00E4nnliche Mehrzahlformen wegen tomates. Die Beschreibung betrifft hier das Aussehen, nicht automatisch Geschmack oder Qualit\u00E4t. Estes tomates est\u00E3o bonitos. \u2014 Diese Tomaten sehen sch\u00F6n aus.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Knoblauch"
+          },
+          {
+            "id": "d3",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d5",
+            "text": "Kartoffeln"
+          },
+          {
+            "id": "answer",
+            "text": "Tomaten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tomates",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etomates\u201C?",
+        "explanation": "tomates \u2014 Tomaten. O tomate ist eine Tomate; tomates ist die Mehrzahl. Estes und bonitos sind m\u00E4nnliche Mehrzahlformen wegen tomates. Die Beschreibung betrifft hier das Aussehen, nicht automatisch Geschmack oder Qualit\u00E4t. Estes tomates est\u00E3o bonitos. \u2014 Diese Tomaten sehen sch\u00F6n aus.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Zwiebel"
+          },
+          {
+            "id": "answer",
+            "text": "Tomaten"
+          },
+          {
+            "id": "d7",
+            "text": "Ananas"
+          },
+          {
+            "id": "d3",
+            "text": "Kopfsalat"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "batatas \u2014 Kartoffeln. A batata ist eine Kartoffel; batatas ist die Mehrzahl. Preciso de \u2026 hei\u00DFt ich brauche \u2026 Der Satz nennt Kartoffeln allgemein, aber noch keine bestimmte Anzahl oder Gewichtsmenge. Preciso de batatas. \u2014 Ich brauche Kartoffeln.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d4",
+            "text": "Zwiebel"
+          },
+          {
+            "id": "d0",
+            "text": "Orangen"
+          },
+          {
+            "id": "answer",
+            "text": "Kartoffeln"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "batatas",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebatatas\u201C?",
+        "explanation": "batatas \u2014 Kartoffeln. A batata ist eine Kartoffel; batatas ist die Mehrzahl. Preciso de \u2026 hei\u00DFt ich brauche \u2026 Der Satz nennt Kartoffeln allgemein, aber noch keine bestimmte Anzahl oder Gewichtsmenge. Preciso de batatas. \u2014 Ich brauche Kartoffeln.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Orangen"
+          },
+          {
+            "id": "answer",
+            "text": "Kartoffeln"
+          },
+          {
+            "id": "d1",
+            "text": "Knoblauch"
+          },
+          {
+            "id": "d2",
+            "text": "Mango"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "alho \u2014 Knoblauch. O alho ist Knoblauch. Tem alho? fragt im Einkaufskontext nach der Verf\u00FCgbarkeit. Das Wort bezeichnet hier das Lebensmittel; eine bestimmte Anzahl an Knollen oder Zehen wird nicht genannt. Tem alho? \u2014 Gibt es Knoblauch?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Zwiebel"
+          },
+          {
+            "id": "answer",
+            "text": "Knoblauch"
+          },
+          {
+            "id": "d0",
+            "text": "Orangen"
+          },
+          {
+            "id": "d1",
+            "text": "Mango"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "alho",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ealho\u201C?",
+        "explanation": "alho \u2014 Knoblauch. O alho ist Knoblauch. Tem alho? fragt im Einkaufskontext nach der Verf\u00FCgbarkeit. Das Wort bezeichnet hier das Lebensmittel; eine bestimmte Anzahl an Knollen oder Zehen wird nicht genannt. Tem alho? \u2014 Gibt es Knoblauch?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Knoblauch"
+          },
+          {
+            "id": "d2",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d6",
+            "text": "Ananas"
+          },
+          {
+            "id": "d5",
+            "text": "Karotten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuero uma alface pequena.\u201C",
+        "explanation": "alface \u2014 Kopfsalat. A alface ist grammatisch weiblich; deshalb uma und pequena. Gemeint ist hier ein Kopfsalat als Pflanze. Salada aus Paket 19 bezeichnet dagegen einen Salat als Gericht. Quero uma alface pequena. \u2014 Ich m\u00F6chte einen kleinen Kopfsalat.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Ananas"
+          },
+          {
+            "id": "d5",
+            "text": "Karotten"
+          },
+          {
+            "id": "d0",
+            "text": "Orangen"
+          },
+          {
+            "id": "answer",
+            "text": "Kopfsalat"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "alface",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ealface\u201C in diesem Beispiel? \u201EQuero uma alface pequena.\u201C",
+        "explanation": "alface \u2014 Kopfsalat. A alface ist grammatisch weiblich; deshalb uma und pequena. Gemeint ist hier ein Kopfsalat als Pflanze. Salada aus Paket 19 bezeichnet dagegen einen Salat als Gericht. Quero uma alface pequena. \u2014 Ich m\u00F6chte einen kleinen Kopfsalat.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d6",
+            "text": "Ananas"
+          },
+          {
+            "id": "d7",
+            "text": "Tomaten"
+          },
+          {
+            "id": "d3",
+            "text": "Zwiebel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cenouras \u2014 Karotten. A cenoura ist eine Karotte; cenouras ist die Mehrzahl. Vou levar \u2026 bedeutet beim Einkaufen hier ich nehme \u2026 Estas passt zur weiblichen Mehrzahl. Die Aussage w\u00E4hlt die gezeigten Karotten aus. Vou levar estas cenouras. \u2014 Ich nehme diese Karotten.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Karotten"
+          },
+          {
+            "id": "d2",
+            "text": "Mango"
+          },
+          {
+            "id": "d3",
+            "text": "Kopfsalat"
+          },
+          {
+            "id": "d5",
+            "text": "Kartoffeln"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cenouras",
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecenouras\u201C?",
+        "explanation": "cenouras \u2014 Karotten. A cenoura ist eine Karotte; cenouras ist die Mehrzahl. Vou levar \u2026 bedeutet beim Einkaufen hier ich nehme \u2026 Estas passt zur weiblichen Mehrzahl. Die Aussage w\u00E4hlt die gezeigten Karotten aus. Vou levar estas cenouras. \u2014 Ich nehme diese Karotten.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Mango"
+          },
+          {
+            "id": "answer",
+            "text": "Karotten"
+          },
+          {
+            "id": "d4",
+            "text": "Zwiebel"
+          },
+          {
+            "id": "d1",
+            "text": "Knoblauch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass die Ananas reif ist?",
+        "explanation": "Abacaxi hei\u00DFt Ananas. Maduro bedeutet hier reif.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O tomate est\u00E1 maduro."
+          },
+          {
+            "id": "answer",
+            "text": "O abacaxi est\u00E1 maduro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero uma cebola."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O abacaxi est\u00E1 verde."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EAnanas\u201C?",
+        "explanation": "abacaxi \u2014 Ananas. O abacaxi, Plural abacaxis, ist in Brasilien die \u00FCbliche Bezeichnung f\u00FCr Ananas. Maduro bedeutet hier reif und ist m\u00E4nnlich wegen abacaxi, obwohl Ananas im Deutschen weiblich ist. O abacaxi est\u00E1 maduro. \u2014 Die Ananas ist reif.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "abacaxi"
+          },
+          {
+            "id": "d3",
+            "text": "alface"
+          },
+          {
+            "id": "d5",
+            "text": "batatas"
+          },
+          {
+            "id": "d0",
+            "text": "laranjas"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass du Mango als Frucht magst?",
+        "explanation": "Manga bezeichnet hier die Frucht Mango. Bei Kleidung kann manga \u00C4rmel hei\u00DFen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Gosto de manga."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Gosto de banana."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Gosto de abacaxi."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de batatas."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EMango\u201C? Gemeint ist: die Frucht Mango.",
+        "explanation": "manga \u2014 Mango. A manga, Plural mangas, ist hier die Frucht Mango. Gosto de \u2026 bedeutet ich mag \u2026 In einem Kleidungskontext kann manga dagegen \u00C4rmel bedeuten; hier wird eine Vorliebe f\u00FCr Obst ausgedr\u00FCckt. Gosto de manga. \u2014 Ich mag Mango.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "tomates"
+          },
+          {
+            "id": "answer",
+            "text": "manga"
+          },
+          {
+            "id": "d4",
+            "text": "batatas"
+          },
+          {
+            "id": "d2",
+            "text": "alface"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt das sch\u00F6ne Aussehen dieser Tomaten?",
+        "explanation": "Bonitos beschreibt hier das Aussehen, nicht Geschmack oder Preis.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Estes tomates est\u00E3o bonitos."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estas cenouras est\u00E3o bonitas."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de tomates."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estes tomates est\u00E3o caros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ETomaten\u201C?",
+        "explanation": "tomates \u2014 Tomaten. O tomate ist eine Tomate; tomates ist die Mehrzahl. Estes und bonitos sind m\u00E4nnliche Mehrzahlformen wegen tomates. Die Beschreibung betrifft hier das Aussehen, nicht automatisch Geschmack oder Qualit\u00E4t. Estes tomates est\u00E3o bonitos. \u2014 Diese Tomaten sehen sch\u00F6n aus.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "alface"
+          },
+          {
+            "id": "answer",
+            "text": "tomates"
+          },
+          {
+            "id": "d2",
+            "text": "manga"
+          },
+          {
+            "id": "d0",
+            "text": "laranjas"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EIch brauche Kartoffeln\u201C?",
+        "explanation": "Batatas ist die Mehrzahl von batata. Eine bestimmte Menge wird nicht genannt.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Quero duas laranjas."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso de tomates."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Preciso de cebola."
+          },
+          {
+            "id": "answer",
+            "text": "Preciso de batatas."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKartoffeln\u201C?",
+        "explanation": "batatas \u2014 Kartoffeln. A batata ist eine Kartoffel; batatas ist die Mehrzahl. Preciso de \u2026 hei\u00DFt ich brauche \u2026 Der Satz nennt Kartoffeln allgemein, aber noch keine bestimmte Anzahl oder Gewichtsmenge. Preciso de batatas. \u2014 Ich brauche Kartoffeln.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "abacaxi"
+          },
+          {
+            "id": "d2",
+            "text": "manga"
+          },
+          {
+            "id": "answer",
+            "text": "batatas"
+          },
+          {
+            "id": "d1",
+            "text": "alho"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst, ob Knoblauch da ist. Welche Frage passt?",
+        "explanation": "Alho hei\u00DFt Knoblauch. Tem alho? fragt nach der Verf\u00FCgbarkeit.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Tem queijo?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem cebola?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem batatas?"
+          },
+          {
+            "id": "answer",
+            "text": "Tem alho?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKnoblauch\u201C?",
+        "explanation": "alho \u2014 Knoblauch. O alho ist Knoblauch. Tem alho? fragt im Einkaufskontext nach der Verf\u00FCgbarkeit. Das Wort bezeichnet hier das Lebensmittel; eine bestimmte Anzahl an Knollen oder Zehen wird nicht genannt. Tem alho? \u2014 Gibt es Knoblauch?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "manga"
+          },
+          {
+            "id": "answer",
+            "text": "alho"
+          },
+          {
+            "id": "d0",
+            "text": "laranjas"
+          },
+          {
+            "id": "d3",
+            "text": "cebola"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bestellst einen kleinen Kopf Salat als Gem\u00FCse. Welche Aussage passt?",
+        "explanation": "Alface ist hier Kopfsalat, salada ein zubereiteter Salat.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Quero uma salada pequena."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero uma cebola pequena."
+          },
+          {
+            "id": "answer",
+            "text": "Quero uma alface pequena."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero uma alface grande."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EKopfsalat\u201C? Gemeint ist: ein Kopf Salat als Gem\u00FCse, kein zubereiteter Salat.",
+        "explanation": "alface \u2014 Kopfsalat. A alface ist grammatisch weiblich; deshalb uma und pequena. Gemeint ist hier ein Kopfsalat als Pflanze. Salada aus Paket 19 bezeichnet dagegen einen Salat als Gericht. Quero uma alface pequena. \u2014 Ich m\u00F6chte einen kleinen Kopfsalat.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "tomates"
+          },
+          {
+            "id": "d1",
+            "text": "alho"
+          },
+          {
+            "id": "answer",
+            "text": "alface"
+          },
+          {
+            "id": "d5",
+            "text": "cenouras"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du diese Karotten nehmen wirst?",
+        "explanation": "Cenouras steht im Plural. Estas verweist auf die ausgew\u00E4hlten Karotten.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Vou levar estes tomates."
+          },
+          {
+            "id": "answer",
+            "text": "Vou levar estas cenouras."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de uma cebola."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou levar estas batatas."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKarotten\u201C?",
+        "explanation": "cenouras \u2014 Karotten. A cenoura ist eine Karotte; cenouras ist die Mehrzahl. Vou levar \u2026 bedeutet beim Einkaufen hier ich nehme \u2026 Estas passt zur weiblichen Mehrzahl. Die Aussage w\u00E4hlt die gezeigten Karotten aus. Vou levar estas cenouras. \u2014 Ich nehme diese Karotten.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "batatas"
+          },
+          {
+            "id": "d4",
+            "text": "cebola"
+          },
+          {
+            "id": "answer",
+            "text": "cenouras"
+          },
+          {
+            "id": "d6",
+            "text": "abacaxi"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-28-hotel",
-  "packageVersion": 4,
-  "title": "28 · Ankunft im Hotel",
+  "packageVersion": 6,
+  "title": "28 \u00B7 Ankunft im Hotel",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Ankunft im Hotel",
       "expression": "reserva",
       "translation": "Reservierung",
-      "isVocabulary": true,
       "example": "Tenho uma reserva.",
       "exampleTranslation": "Ich habe eine Reservierung.",
-      "explanation": "A reserva, Plural reservas. Tenho uma reserva heißt ich habe eine Reservierung. Personen- und Nächtezahl können anschließend ergänzt werden; im kurzen Satz sind sie noch nicht angegeben."
+      "explanation": "A reserva, Plural reservas. Tenho uma reserva hei\u00DFt ich habe eine Reservierung. Personen- und N\u00E4chtezahl k\u00F6nnen anschlie\u00DFend erg\u00E4nzt werden; im kurzen Satz sind sie noch nicht angegeben.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Ankunft im Hotel",
       "expression": "quarto",
       "translation": "Zimmer",
-      "isVocabulary": true,
       "example": "Quero um quarto para duas pessoas.",
-      "exampleTranslation": "Ich möchte ein Zimmer für zwei Personen.",
-      "explanation": "O quarto, Plural quartos, ist hier ein Hotelzimmer. Para duas pessoas heißt für zwei Personen; duas richtet sich nach pessoa, nicht nach quarto. Der Satz legt noch keine Bettenart fest."
+      "exampleTranslation": "Ich m\u00F6chte ein Zimmer f\u00FCr zwei Personen.",
+      "explanation": "O quarto, Plural quartos, ist hier ein Hotelzimmer. Para duas pessoas hei\u00DFt f\u00FCr zwei Personen; duas richtet sich nach pessoa, nicht nach quarto. Der Satz legt noch keine Bettenart fest.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Ankunft im Hotel",
       "expression": "noites",
-      "translation": "Nächte",
-      "isVocabulary": true,
-      "example": "Vou ficar três noites.",
-      "exampleTranslation": "Ich werde drei Nächte bleiben.",
-      "explanation": "A noite ist eine Nacht; noites ist die Mehrzahl. Vou ficar heißt hier ich werde bleiben. Três noites nennt eine Dauer von drei Nächten, aber noch kein Ankunfts- oder Abreisedatum."
+      "translation": "N\u00E4chte",
+      "example": "Vou ficar tr\u00EAs noites.",
+      "exampleTranslation": "Ich werde drei N\u00E4chte bleiben.",
+      "explanation": "A noite ist eine Nacht; noites ist die Mehrzahl. Vou ficar hei\u00DFt hier ich werde bleiben. Tr\u00EAs noites nennt eine Dauer von drei N\u00E4chten, aber noch kein Ankunfts- oder Abreisedatum.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Ankunft im Hotel",
-      "expression": "incluído",
+      "expression": "inclu\u00EDdo",
       "translation": "inbegriffen",
-      "isVocabulary": true,
-      "example": "O café da manhã está incluído?",
-      "exampleTranslation": "Ist das Frühstück inbegriffen?",
-      "explanation": "Incluído bedeutet inbegriffen und ist hier männlich wegen o café da manhã. Die weibliche Form heißt incluída. Die Frage erkundigt sich nach einer Leistung; sie sagt noch nicht, ob das Frühstück tatsächlich enthalten ist."
+      "example": "O caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo?",
+      "exampleTranslation": "Ist das Fr\u00FChst\u00FCck inbegriffen?",
+      "explanation": "Inclu\u00EDdo bedeutet inbegriffen und ist hier m\u00E4nnlich wegen o caf\u00E9 da manh\u00E3. Die weibliche Form hei\u00DFt inclu\u00EDda. Die Frage erkundigt sich nach einer Leistung; sie sagt noch nicht, ob das Fr\u00FChst\u00FCck tats\u00E4chlich enthalten ist.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Ankunft im Hotel",
-      "expression": "saída",
+      "expression": "sa\u00EDda",
       "translation": "Abreise; Ausgang",
-      "isVocabulary": true,
-      "example": "A que horas é a saída?",
+      "example": "A que horas \u00E9 a sa\u00EDda?",
       "exampleTranslation": "Um wie viel Uhr ist die Abreise?",
-      "explanation": "A saída ist hier die Abreise beziehungsweise der Check-out. A que horas …? fragt um wie viel Uhr …? In einer Ortsangabe oder auf einem Schild kann saída dagegen Ausgang bedeuten."
+      "explanation": "A sa\u00EDda ist hier die Abreise beziehungsweise der Check-out. A que horas \u2026? fragt um wie viel Uhr \u2026? In einer Ortsangabe oder auf einem Schild kann sa\u00EDda dagegen Ausgang bedeuten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Ankunft im Hotel",
       "expression": "passaporte",
       "translation": "Reisepass",
-      "isVocabulary": true,
-      "example": "Aqui está meu passaporte.",
+      "example": "Aqui est\u00E1 meu passaporte.",
       "exampleTranslation": "Hier ist mein Reisepass.",
-      "explanation": "O passaporte, Plural passaportes. Aqui está … heißt hier ist …; meu passaporte bedeutet mein Reisepass. Der Satz ist ein fiktives Gesprächsmuster und nennt keine Ausweisvorschrift."
+      "explanation": "O passaporte, Plural passaportes. Aqui est\u00E1 \u2026 hei\u00DFt hier ist \u2026; meu passaporte bedeutet mein Reisepass. Der Satz ist ein fiktives Gespr\u00E4chsmuster und nennt keine Ausweisvorschrift.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Ankunft im Hotel",
       "expression": "chave",
-      "translation": "Schlüssel",
-      "isVocabulary": true,
+      "translation": "Schl\u00FCssel",
       "example": "Pode me dar a chave do quarto?",
-      "exampleTranslation": "Können Sie mir den Zimmerschlüssel geben?",
-      "explanation": "A chave, Plural chaves. Do quarto ist de + o quarto: des Zimmers. Pode me dar …? ist die bekannte höfliche Bitte; die Wortgruppe a chave do quarto bezeichnet den Zimmerschlüssel."
+      "exampleTranslation": "K\u00F6nnen Sie mir den Zimmerschl\u00FCssel geben?",
+      "explanation": "A chave, Plural chaves. Do quarto ist de \u002B o quarto: des Zimmers. Pode me dar \u2026? ist die bekannte h\u00F6fliche Bitte; die Wortgruppe a chave do quarto bezeichnet den Zimmerschl\u00FCssel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Ankunft im Hotel",
       "expression": "elevador",
       "translation": "Aufzug",
-      "isVocabulary": true,
       "example": "Onde fica o elevador?",
       "exampleTranslation": "Wo ist der Aufzug?",
-      "explanation": "O elevador, Plural elevadores, ist ein Aufzug. Onde fica …? ist das bekannte Fragemuster nach einem Ort. Die Frage sagt noch nicht, in welche Etage gefahren werden soll."
+      "explanation": "O elevador, Plural elevadores, ist ein Aufzug. Onde fica \u2026? ist das bekannte Fragemuster nach einem Ort. Die Frage sagt noch nicht, in welche Etage gefahren werden soll.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Bei der Ankunft im Hotel Angaben zu Reservierung, Zimmer und Aufenthalt verstehen und erfragen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Reservierung: \u201ETenho uma ____.\u201C",
+        "explanation": "Reserva bezeichnet hier eine Hotelreservierung.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "reserva"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Schl\u00FCssel: \u201EPode me dar a ____ do quarto?\u201C",
+        "explanation": "Chave ist die Einzahl, chaves die Mehrzahl. Chave do quarto hei\u00DFt Zimmerschl\u00FCssel.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "chave"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuero um quarto para duas pessoas.\u201C",
+        "explanation": "quarto \u2014 Zimmer. O quarto, Plural quartos, ist hier ein Hotelzimmer. Para duas pessoas hei\u00DFt f\u00FCr zwei Personen; duas richtet sich nach pessoa, nicht nach quarto. Der Satz legt noch keine Bettenart fest. Quero um quarto para duas pessoas. \u2014 Ich m\u00F6chte ein Zimmer f\u00FCr zwei Personen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "N\u00E4chte"
+          },
+          {
+            "id": "answer",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d2",
+            "text": "Familie"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quarto",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equarto\u201C in diesem Beispiel? \u201EQuero um quarto para duas pessoas.\u201C",
+        "explanation": "quarto \u2014 Zimmer. O quarto, Plural quartos, ist hier ein Hotelzimmer. Para duas pessoas hei\u00DFt f\u00FCr zwei Personen; duas richtet sich nach pessoa, nicht nach quarto. Der Satz legt noch keine Bettenart fest. Quero um quarto para duas pessoas. \u2014 Ich m\u00F6chte ein Zimmer f\u00FCr zwei Personen.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Haus"
+          },
+          {
+            "id": "d11",
+            "text": "Abreise; Ausgang"
+          },
+          {
+            "id": "answer",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d9",
+            "text": "Reisepass"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVou ficar tr\u00EAs noites.\u201C",
+        "explanation": "noites \u2014 N\u00E4chte. A noite ist eine Nacht; noites ist die Mehrzahl. Vou ficar hei\u00DFt hier ich werde bleiben. Tr\u00EAs noites nennt eine Dauer von drei N\u00E4chten, aber noch kein Ankunfts- oder Abreisedatum. Vou ficar tr\u00EAs noites. \u2014 Ich werde drei N\u00E4chte bleiben.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "inbegriffen"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d4",
+            "text": "Zimmer"
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E4chte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "noites",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Enoites\u201C in diesem Beispiel? \u201EVou ficar tr\u00EAs noites.\u201C",
+        "explanation": "noites \u2014 N\u00E4chte. A noite ist eine Nacht; noites ist die Mehrzahl. Vou ficar hei\u00DFt hier ich werde bleiben. Tr\u00EAs noites nennt eine Dauer von drei N\u00E4chten, aber noch kein Ankunfts- oder Abreisedatum. Vou ficar tr\u00EAs noites. \u2014 Ich werde drei N\u00E4chte bleiben.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Reservierung"
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E4chte"
+          },
+          {
+            "id": "d6",
+            "text": "Abreise; Ausgang"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo?\u201C",
+        "explanation": "inclu\u00EDdo \u2014 inbegriffen. Inclu\u00EDdo bedeutet inbegriffen und ist hier m\u00E4nnlich wegen o caf\u00E9 da manh\u00E3. Die weibliche Form hei\u00DFt inclu\u00EDda. Die Frage erkundigt sich nach einer Leistung; sie sagt noch nicht, ob das Fr\u00FChst\u00FCck tats\u00E4chlich enthalten ist. O caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo? \u2014 Ist das Fr\u00FChst\u00FCck inbegriffen?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Abreise; Ausgang"
+          },
+          {
+            "id": "answer",
+            "text": "inbegriffen"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d0",
+            "text": "Reservierung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "inclu\u00EDdo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Einclu\u00EDdo\u201C in diesem Beispiel? \u201EO caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo?\u201C",
+        "explanation": "inclu\u00EDdo \u2014 inbegriffen. Inclu\u00EDdo bedeutet inbegriffen und ist hier m\u00E4nnlich wegen o caf\u00E9 da manh\u00E3. Die weibliche Form hei\u00DFt inclu\u00EDda. Die Frage erkundigt sich nach einer Leistung; sie sagt noch nicht, ob das Fr\u00FChst\u00FCck tats\u00E4chlich enthalten ist. O caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo? \u2014 Ist das Fr\u00FChst\u00FCck inbegriffen?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Abreise; Ausgang"
+          },
+          {
+            "id": "answer",
+            "text": "inbegriffen"
+          },
+          {
+            "id": "d2",
+            "text": "N\u00E4chte"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EA que horas \u00E9 a sa\u00EDda?\u201C",
+        "explanation": "sa\u00EDda \u2014 Abreise; Ausgang. A sa\u00EDda ist hier die Abreise beziehungsweise der Check-out. A que horas \u2026? fragt um wie viel Uhr \u2026? In einer Ortsangabe oder auf einem Schild kann sa\u00EDda dagegen Ausgang bedeuten. A que horas \u00E9 a sa\u00EDda? \u2014 Um wie viel Uhr ist die Abreise?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "inbegriffen"
+          },
+          {
+            "id": "d1",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d5",
+            "text": "Zimmer"
+          },
+          {
+            "id": "answer",
+            "text": "Abreise; Ausgang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sa\u00EDda",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esa\u00EDda\u201C in diesem Beispiel? \u201EA que horas \u00E9 a sa\u00EDda?\u201C",
+        "explanation": "sa\u00EDda \u2014 Abreise; Ausgang. A sa\u00EDda ist hier die Abreise beziehungsweise der Check-out. A que horas \u2026? fragt um wie viel Uhr \u2026? In einer Ortsangabe oder auf einem Schild kann sa\u00EDda dagegen Ausgang bedeuten. A que horas \u00E9 a sa\u00EDda? \u2014 Um wie viel Uhr ist die Abreise?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "N\u00E4chte"
+          },
+          {
+            "id": "d6",
+            "text": "Reisepass"
+          },
+          {
+            "id": "d3",
+            "text": "inbegriffen"
+          },
+          {
+            "id": "answer",
+            "text": "Abreise; Ausgang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "passaporte \u2014 Reisepass. O passaporte, Plural passaportes. Aqui est\u00E1 \u2026 hei\u00DFt hier ist \u2026; meu passaporte bedeutet mein Reisepass. Der Satz ist ein fiktives Gespr\u00E4chsmuster und nennt keine Ausweisvorschrift. Aqui est\u00E1 meu passaporte. \u2014 Hier ist mein Reisepass.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Reisepass"
+          },
+          {
+            "id": "d0",
+            "text": "Reservierung"
+          },
+          {
+            "id": "d4",
+            "text": "Schl\u00FCssel"
+          },
+          {
+            "id": "d3",
+            "text": "inbegriffen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "passaporte",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epassaporte\u201C?",
+        "explanation": "passaporte \u2014 Reisepass. O passaporte, Plural passaportes. Aqui est\u00E1 \u2026 hei\u00DFt hier ist \u2026; meu passaporte bedeutet mein Reisepass. Der Satz ist ein fiktives Gespr\u00E4chsmuster und nennt keine Ausweisvorschrift. Aqui est\u00E1 meu passaporte. \u2014 Hier ist mein Reisepass.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Reservierung"
+          },
+          {
+            "id": "answer",
+            "text": "Reisepass"
+          },
+          {
+            "id": "d5",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d4",
+            "text": "Schl\u00FCssel"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "elevador \u2014 Aufzug. O elevador, Plural elevadores, ist ein Aufzug. Onde fica \u2026? ist das bekannte Fragemuster nach einem Ort. Die Frage sagt noch nicht, in welche Etage gefahren werden soll. Onde fica o elevador? \u2014 Wo ist der Aufzug?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Zimmer"
+          },
+          {
+            "id": "d0",
+            "text": "Reservierung"
+          },
+          {
+            "id": "answer",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d2",
+            "text": "inbegriffen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "elevador",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eelevador\u201C?",
+        "explanation": "elevador \u2014 Aufzug. O elevador, Plural elevadores, ist ein Aufzug. Onde fica \u2026? ist das bekannte Fragemuster nach einem Ort. Die Frage sagt noch nicht, in welche Etage gefahren werden soll. Onde fica o elevador? \u2014 Wo ist der Aufzug?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Reisepass"
+          },
+          {
+            "id": "d2",
+            "text": "inbegriffen"
+          },
+          {
+            "id": "answer",
+            "text": "Aufzug"
+          },
+          {
+            "id": "d1",
+            "text": "N\u00E4chte"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EZimmer\u201C? Zusammenhang: bei der Buchung einer Unterkunft.",
+        "explanation": "quarto \u2014 Zimmer. O quarto, Plural quartos, ist hier ein Hotelzimmer. Para duas pessoas hei\u00DFt f\u00FCr zwei Personen; duas richtet sich nach pessoa, nicht nach quarto. Der Satz legt noch keine Bettenart fest. Quero um quarto para duas pessoas. \u2014 Ich m\u00F6chte ein Zimmer f\u00FCr zwei Personen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "quarto"
+          },
+          {
+            "id": "d2",
+            "text": "fam\u00EDlia"
+          },
+          {
+            "id": "d1",
+            "text": "elevador"
+          },
+          {
+            "id": "d7",
+            "text": "apartamento"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest ein Hotelzimmer f\u00FCr genau zwei Personen. Welche Aussage passt?",
+        "explanation": "Um quarto para duas pessoas nennt ein Zimmer f\u00FCr zwei Personen, ohne eine Bettenart festzulegen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quero uma mesa para duas pessoas."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho uma reserva."
+          },
+          {
+            "id": "answer",
+            "text": "Quero um quarto para duas pessoas."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quero um quarto para tr\u00EAs pessoas."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EN\u00E4chte\u201C? Zusammenhang: als Mehrzahl bei einer Aufenthaltsdauer.",
+        "explanation": "noites \u2014 N\u00E4chte. A noite ist eine Nacht; noites ist die Mehrzahl. Vou ficar hei\u00DFt hier ich werde bleiben. Tr\u00EAs noites nennt eine Dauer von drei N\u00E4chten, aber noch kein Ankunfts- oder Abreisedatum. Vou ficar tr\u00EAs noites. \u2014 Ich werde drei N\u00E4chte bleiben.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "passaporte"
+          },
+          {
+            "id": "d4",
+            "text": "quarto"
+          },
+          {
+            "id": "d2",
+            "text": "inclu\u00EDdo"
+          },
+          {
+            "id": "answer",
+            "text": "noites"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt eine Aufenthaltsdauer von drei N\u00E4chten?",
+        "explanation": "Tr\u00EAs noites hei\u00DFt drei N\u00E4chte. Daraus folgt noch kein Ankunftsdatum.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Vou ficar tr\u00EAs dias."
+          },
+          {
+            "id": "answer",
+            "text": "Vou ficar tr\u00EAs noites."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vou ficar duas noites."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vou ficar cinco noites."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Einbegriffen\u201C? Zusammenhang: bei einer Frage zum Fr\u00FChst\u00FCck im Zimmerpreis.",
+        "explanation": "inclu\u00EDdo \u2014 inbegriffen. Inclu\u00EDdo bedeutet inbegriffen und ist hier m\u00E4nnlich wegen o caf\u00E9 da manh\u00E3. Die weibliche Form hei\u00DFt inclu\u00EDda. Die Frage erkundigt sich nach einer Leistung; sie sagt noch nicht, ob das Fr\u00FChst\u00FCck tats\u00E4chlich enthalten ist. O caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo? \u2014 Ist das Fr\u00FChst\u00FCck inbegriffen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "noites"
+          },
+          {
+            "id": "d0",
+            "text": "reserva"
+          },
+          {
+            "id": "answer",
+            "text": "inclu\u00EDdo"
+          },
+          {
+            "id": "d1",
+            "text": "elevador"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst, ob das Fr\u00FChst\u00FCck im Preis enthalten ist. Welche Frage passt?",
+        "explanation": "Inclu\u00EDdo bedeutet hier inbegriffen. Die Frage best\u00E4tigt noch nicht, dass Fr\u00FChst\u00FCck enthalten ist.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O caf\u00E9 da manh\u00E3 est\u00E1 pronto?"
+          },
+          {
+            "id": "answer",
+            "text": "O caf\u00E9 da manh\u00E3 est\u00E1 inclu\u00EDdo?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o caf\u00E9 da manh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "A que horas \u00E9 o caf\u00E9 da manh\u00E3?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EAbreise; Ausgang\u201C? Zusammenhang: bei einer Frage zur Uhrzeit am Ende des Hotelaufenthalts.",
+        "explanation": "sa\u00EDda \u2014 Abreise; Ausgang. A sa\u00EDda ist hier die Abreise beziehungsweise der Check-out. A que horas \u2026? fragt um wie viel Uhr \u2026? In einer Ortsangabe oder auf einem Schild kann sa\u00EDda dagegen Ausgang bedeuten. A que horas \u00E9 a sa\u00EDda? \u2014 Um wie viel Uhr ist die Abreise?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "inclu\u00EDdo"
+          },
+          {
+            "id": "answer",
+            "text": "sa\u00EDda"
+          },
+          {
+            "id": "d1",
+            "text": "elevador"
+          },
+          {
+            "id": "d5",
+            "text": "quarto"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich nach der Uhrzeit der Abreise beziehungsweise des Check-outs?",
+        "explanation": "A que horas? fragt um wie viel Uhr. Sa\u00EDda bezeichnet hier den Check-out, nicht den Ort eines Ausgangs.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Onde fica a sa\u00EDda?"
+          },
+          {
+            "id": "answer",
+            "text": "A que horas \u00E9 a sa\u00EDda?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o elevador?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "A que horas \u00E9 o caf\u00E9 da manh\u00E3?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EReisepass\u201C?",
+        "explanation": "passaporte \u2014 Reisepass. O passaporte, Plural passaportes. Aqui est\u00E1 \u2026 hei\u00DFt hier ist \u2026; meu passaporte bedeutet mein Reisepass. Der Satz ist ein fiktives Gespr\u00E4chsmuster und nennt keine Ausweisvorschrift. Aqui est\u00E1 meu passaporte. \u2014 Hier ist mein Reisepass.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "chave"
+          },
+          {
+            "id": "answer",
+            "text": "passaporte"
+          },
+          {
+            "id": "d0",
+            "text": "reserva"
+          },
+          {
+            "id": "d1",
+            "text": "elevador"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EPode me mostrar seu passaporte?\u201C \u2013 Welche Antwort zeigt deinen Reisepass vor?",
+        "explanation": "Aqui est\u00E1 meu passaporte. bedeutet Hier ist mein Reisepass. Das fiktive Gespr\u00E4ch legt keine Ausweisvorschrift fest.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Aqui est\u00E1 a chave do quarto."
+          },
+          {
+            "id": "answer",
+            "text": "Aqui est\u00E1 meu passaporte."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Aqui est\u00E1 meu recibo."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho uma reserva."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EAufzug\u201C?",
+        "explanation": "elevador \u2014 Aufzug. O elevador, Plural elevadores, ist ein Aufzug. Onde fica \u2026? ist das bekannte Fragemuster nach einem Ort. Die Frage sagt noch nicht, in welche Etage gefahren werden soll. Onde fica o elevador? \u2014 Wo ist der Aufzug?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "inclu\u00EDdo"
+          },
+          {
+            "id": "d0",
+            "text": "reserva"
+          },
+          {
+            "id": "answer",
+            "text": "elevador"
+          },
+          {
+            "id": "d3",
+            "text": "chave"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst den Aufzug. Welche Frage passt?",
+        "explanation": "Elevador hei\u00DFt Aufzug. Die Ortsfrage nennt noch keine gew\u00FCnschte Etage.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Onde fica o elevador?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o ponto de \u00F4nibus?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Onde fica o quarto?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde fica a entrada?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

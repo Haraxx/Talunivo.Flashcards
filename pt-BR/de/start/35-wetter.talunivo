@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-35-wetter",
-  "packageVersion": 4,
-  "title": "35 · Wetter und Jahreszeiten",
+  "packageVersion": 6,
+  "title": "35 \u00B7 Wetter und Jahreszeiten",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,100 +12,1211 @@
       "topic": "Wetter und Jahreszeiten",
       "expression": "tempo",
       "translation": "Wetter",
-      "isVocabulary": true,
-      "example": "Como está o tempo hoje?",
+      "example": "Como est\u00E1 o tempo hoje?",
       "exampleTranslation": "Wie ist das Wetter heute?",
-      "explanation": "O tempo bedeutet in dieser Frage Wetter. Como está …? fragt hier nach dem aktuellen Zustand; hoje heißt heute. In Você tem tempo? aus Paket 34 bedeutet tempo dagegen Zeit."
+      "explanation": "O tempo bedeutet in dieser Frage Wetter. Como est\u00E1 \u2026? fragt hier nach dem aktuellen Zustand; hoje hei\u00DFt heute. In Voc\u00EA tem tempo? aus Paket 34 bedeutet tempo dagegen Zeit.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Wetter und Jahreszeiten",
       "expression": "quente",
-      "translation": "heiß",
-      "isVocabulary": true,
-      "example": "Hoje está quente.",
-      "exampleTranslation": "Heute ist es heiß.",
-      "explanation": "Quente heißt heiß, je nach Zusammenhang auch warm. Hoje está quente beschreibt das heutige Wetter. Quente hat dieselbe Form bei männlichen und weiblichen Nomen; die Mehrzahl lautet quentes."
+      "translation": "hei\u00DF",
+      "example": "Hoje est\u00E1 quente.",
+      "exampleTranslation": "Heute ist es hei\u00DF.",
+      "explanation": "Quente hei\u00DFt hei\u00DF, je nach Zusammenhang auch warm. Hoje est\u00E1 quente beschreibt das heutige Wetter. Quente hat dieselbe Form bei m\u00E4nnlichen und weiblichen Nomen; die Mehrzahl lautet quentes.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Wetter und Jahreszeiten",
       "expression": "frio",
       "translation": "kalt",
-      "isVocabulary": true,
-      "example": "Está fazendo frio.",
+      "example": "Est\u00E1 fazendo frio.",
       "exampleTranslation": "Es ist kalt.",
-      "explanation": "Frio heißt kalt. Está fazendo frio ist ein Wettermuster für es ist gerade kalt; frio steht darin unverändert. Bei einem beschriebenen Nomen passt sich das Adjektiv an: água fria heißt kaltes Wasser."
+      "explanation": "Frio hei\u00DFt kalt. Est\u00E1 fazendo frio ist ein Wettermuster f\u00FCr es ist gerade kalt; frio steht darin unver\u00E4ndert. Bei einem beschriebenen Nomen passt sich das Adjektiv an: \u00E1gua fria hei\u00DFt kaltes Wasser.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Wetter und Jahreszeiten",
       "expression": "chover",
       "translation": "regnen",
-      "isVocabulary": true,
-      "example": "Está chovendo muito.",
+      "example": "Est\u00E1 chovendo muito.",
       "exampleTranslation": "Es regnet stark.",
-      "explanation": "Chover heißt regnen; chovendo ist das Gerundium. Está chovendo ist hier die Verlaufsform und bedeutet es regnet gerade. Muito verstärkt zu stark oder viel. Der portugiesische Wettersatz braucht kein eigenes Wort für deutsches es."
+      "explanation": "Chover hei\u00DFt regnen; chovendo ist das Gerundium. Est\u00E1 chovendo ist hier die Verlaufsform und bedeutet es regnet gerade. Muito verst\u00E4rkt zu stark oder viel. Der portugiesische Wettersatz braucht kein eigenes Wort f\u00FCr deutsches es.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Wetter und Jahreszeiten",
       "expression": "nublado",
-      "translation": "bewölkt",
-      "isVocabulary": true,
-      "example": "O céu está nublado.",
-      "exampleTranslation": "Der Himmel ist bewölkt.",
-      "explanation": "Nublado heißt bewölkt und passt im Beispiel zum männlichen Nomen o céu, der Himmel. Mit einem weiblichen Nomen lautet die Form nublada. Die Aussage beschreibt den Zustand, ohne Regen zu behaupten."
+      "translation": "bew\u00F6lkt",
+      "example": "O c\u00E9u est\u00E1 nublado.",
+      "exampleTranslation": "Der Himmel ist bew\u00F6lkt.",
+      "explanation": "Nublado hei\u00DFt bew\u00F6lkt und passt im Beispiel zum m\u00E4nnlichen Nomen o c\u00E9u, der Himmel. Mit einem weiblichen Nomen lautet die Form nublada. Die Aussage beschreibt den Zustand, ohne Regen zu behaupten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Wetter und Jahreszeiten",
       "expression": "vento",
       "translation": "Wind",
-      "isVocabulary": true,
       "example": "Tem muito vento hoje.",
       "exampleTranslation": "Heute ist es sehr windig.",
-      "explanation": "O vento bedeutet Wind. Tem muito vento heißt im brasilianischen Alltagsgebrauch es gibt viel Wind, idiomatisch es ist sehr windig. Muito bezieht sich hier auf das männliche Nomen vento."
+      "explanation": "O vento bedeutet Wind. Tem muito vento hei\u00DFt im brasilianischen Alltagsgebrauch es gibt viel Wind, idiomatisch es ist sehr windig. Muito bezieht sich hier auf das m\u00E4nnliche Nomen vento.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Wetter und Jahreszeiten",
-      "expression": "verão",
+      "expression": "ver\u00E3o",
       "translation": "Sommer",
-      "isVocabulary": true,
-      "example": "No verão, gosto de ir à praia.",
+      "example": "No ver\u00E3o, gosto de ir \u00E0 praia.",
       "exampleTranslation": "Im Sommer gehe ich gern an den Strand.",
-      "explanation": "O verão, Plural verões, heißt Sommer. No verão bedeutet im Sommer; ir à praia heißt an den Strand gehen. Das Beispiel nennt eine Vorliebe, keine für alle Regionen geltende Sommeraktivität."
+      "explanation": "O ver\u00E3o, Plural ver\u00F5es, hei\u00DFt Sommer. No ver\u00E3o bedeutet im Sommer; ir \u00E0 praia hei\u00DFt an den Strand gehen. Das Beispiel nennt eine Vorliebe, keine f\u00FCr alle Regionen geltende Sommeraktivit\u00E4t.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Wetter und Jahreszeiten",
       "expression": "inverno",
       "translation": "Winter",
-      "isVocabulary": true,
       "example": "No inverno, uso um casaco.",
       "exampleTranslation": "Im Winter trage ich einen Mantel.",
-      "explanation": "O inverno, Plural invernos, heißt Winter; no inverno bedeutet im Winter. Uso ist hier die Ich-Form von usar im Sinn von tragen. Casaco kann je nach Kleidungsstück Mantel oder Jacke heißen."
+      "explanation": "O inverno, Plural invernos, hei\u00DFt Winter; no inverno bedeutet im Winter. Uso ist hier die Ich-Form von usar im Sinn von tragen. Casaco kann je nach Kleidungsst\u00FCck Mantel oder Jacke hei\u00DFen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-09",
       "topic": "Wetter und Jahreszeiten",
       "expression": "primavera",
-      "translation": "Frühling",
-      "isVocabulary": true,
+      "translation": "Fr\u00FChling",
       "example": "Na primavera, caminho no parque.",
-      "exampleTranslation": "Im Frühling gehe ich im Park spazieren.",
-      "explanation": "A primavera, Plural primaveras, heißt Frühling. Na verbindet em + a und bedeutet hier im. Caminho ist im Satz die Ich-Form von caminhar, gehen oder spazieren gehen; die Tätigkeit ist ein persönliches Beispiel."
+      "exampleTranslation": "Im Fr\u00FChling gehe ich im Park spazieren.",
+      "explanation": "A primavera, Plural primaveras, hei\u00DFt Fr\u00FChling. Na verbindet em \u002B a und bedeutet hier im. Caminho ist im Satz die Ich-Form von caminhar, gehen oder spazieren gehen; die T\u00E4tigkeit ist ein pers\u00F6nliches Beispiel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-10",
       "topic": "Wetter und Jahreszeiten",
       "expression": "outono",
       "translation": "Herbst",
-      "isVocabulary": true,
-      "example": "No outono, gosto de tomar chá.",
+      "example": "No outono, gosto de tomar ch\u00E1.",
       "exampleTranslation": "Im Herbst trinke ich gern Tee.",
-      "explanation": "O outono, Plural outonos, heißt Herbst. No verbindet em + o; no outono bedeutet im Herbst. Gosto de tomar chá heißt ich trinke gern Tee. Aus den Jahreszeitennamen folgen hier keine festen Monate oder Wetterbedingungen."
+      "explanation": "O outono, Plural outonos, hei\u00DFt Herbst. No verbindet em \u002B o; no outono bedeutet im Herbst. Gosto de tomar ch\u00E1 hei\u00DFt ich trinke gern Tee. Aus den Jahreszeitennamen folgen hier keine festen Monate oder Wetterbedingungen.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache Angaben zu Wetter, Temperaturen und Jahreszeiten verstehen und unterscheiden.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08",
+          "karte-09",
+          "karte-10"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr die Jahreszeit Sommer: \u201ENo ____, gosto de ir \u00E0 praia.\u201C",
+        "explanation": "Ver\u00E3o hei\u00DFt Sommer. Die Tilde geh\u00F6rt zur Schreibweise; daraus folgen keine festen Monate f\u00FCr alle Regionen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "ver\u00E3o"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr die Jahreszeit Winter: \u201ENo ____, uso um casaco.\u201C",
+        "explanation": "Inverno hei\u00DFt Winter. Das Beispiel nennt eine m\u00F6gliche Gewohnheit, keine allgemeine Wetterregel.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "inverno"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EComo est\u00E1 o tempo hoje?\u201C",
+        "explanation": "tempo \u2014 Wetter. O tempo bedeutet in dieser Frage Wetter. Como est\u00E1 \u2026? fragt hier nach dem aktuellen Zustand; hoje hei\u00DFt heute. In Voc\u00EA tem tempo? aus Paket 34 bedeutet tempo dagegen Zeit. Como est\u00E1 o tempo hoje? \u2014 Wie ist das Wetter heute?",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Sommer"
+          },
+          {
+            "id": "answer",
+            "text": "Wetter"
+          },
+          {
+            "id": "d4",
+            "text": "bew\u00F6lkt"
+          },
+          {
+            "id": "d3",
+            "text": "kalt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tempo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etempo\u201C in diesem Beispiel? \u201EComo est\u00E1 o tempo hoje?\u201C",
+        "explanation": "tempo \u2014 Wetter. O tempo bedeutet in dieser Frage Wetter. Como est\u00E1 \u2026? fragt hier nach dem aktuellen Zustand; hoje hei\u00DFt heute. In Voc\u00EA tem tempo? aus Paket 34 bedeutet tempo dagegen Zeit. Como est\u00E1 o tempo hoje? \u2014 Wie ist das Wetter heute?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "bew\u00F6lkt"
+          },
+          {
+            "id": "d5",
+            "text": "Wind"
+          },
+          {
+            "id": "answer",
+            "text": "Wetter"
+          },
+          {
+            "id": "d8",
+            "text": "Sommer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EHoje est\u00E1 quente.\u201C",
+        "explanation": "quente \u2014 hei\u00DF. Quente hei\u00DFt hei\u00DF, je nach Zusammenhang auch warm. Hoje est\u00E1 quente beschreibt das heutige Wetter. Quente hat dieselbe Form bei m\u00E4nnlichen und weiblichen Nomen; die Mehrzahl lautet quentes. Hoje est\u00E1 quente. \u2014 Heute ist es hei\u00DF.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "kalt"
+          },
+          {
+            "id": "answer",
+            "text": "hei\u00DF"
+          },
+          {
+            "id": "d4",
+            "text": "bew\u00F6lkt"
+          },
+          {
+            "id": "d1",
+            "text": "Herbst"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quente",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equente\u201C in diesem Beispiel? \u201EHoje est\u00E1 quente.\u201C",
+        "explanation": "quente \u2014 hei\u00DF. Quente hei\u00DFt hei\u00DF, je nach Zusammenhang auch warm. Hoje est\u00E1 quente beschreibt das heutige Wetter. Quente hat dieselbe Form bei m\u00E4nnlichen und weiblichen Nomen; die Mehrzahl lautet quentes. Hoje est\u00E1 quente. \u2014 Heute ist es hei\u00DF.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Wind"
+          },
+          {
+            "id": "d7",
+            "text": "Winter"
+          },
+          {
+            "id": "d1",
+            "text": "Herbst"
+          },
+          {
+            "id": "answer",
+            "text": "hei\u00DF"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEst\u00E1 fazendo frio.\u201C",
+        "explanation": "frio \u2014 kalt. Frio hei\u00DFt kalt. Est\u00E1 fazendo frio ist ein Wettermuster f\u00FCr es ist gerade kalt; frio steht darin unver\u00E4ndert. Bei einem beschriebenen Nomen passt sich das Adjektiv an: \u00E1gua fria hei\u00DFt kaltes Wasser. Est\u00E1 fazendo frio. \u2014 Es ist kalt.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "kalt"
+          },
+          {
+            "id": "d4",
+            "text": "bew\u00F6lkt"
+          },
+          {
+            "id": "d1",
+            "text": "Herbst"
+          },
+          {
+            "id": "d5",
+            "text": "Wind"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "frio",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efrio\u201C in diesem Beispiel? \u201EEst\u00E1 fazendo frio.\u201C",
+        "explanation": "frio \u2014 kalt. Frio hei\u00DFt kalt. Est\u00E1 fazendo frio ist ein Wettermuster f\u00FCr es ist gerade kalt; frio steht darin unver\u00E4ndert. Bei einem beschriebenen Nomen passt sich das Adjektiv an: \u00E1gua fria hei\u00DFt kaltes Wasser. Est\u00E1 fazendo frio. \u2014 Es ist kalt.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Herbst"
+          },
+          {
+            "id": "answer",
+            "text": "kalt"
+          },
+          {
+            "id": "d2",
+            "text": "Wetter"
+          },
+          {
+            "id": "d8",
+            "text": "Sommer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "chover \u2014 regnen. Chover hei\u00DFt regnen; chovendo ist das Gerundium. Est\u00E1 chovendo ist hier die Verlaufsform und bedeutet es regnet gerade. Muito verst\u00E4rkt zu stark oder viel. Der portugiesische Wettersatz braucht kein eigenes Wort f\u00FCr deutsches es. Est\u00E1 chovendo muito. \u2014 Es regnet stark.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Herbst"
+          },
+          {
+            "id": "answer",
+            "text": "regnen"
+          },
+          {
+            "id": "d5",
+            "text": "bew\u00F6lkt"
+          },
+          {
+            "id": "d0",
+            "text": "Fr\u00FChling"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "chover",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Echover\u201C?",
+        "explanation": "chover \u2014 regnen. Chover hei\u00DFt regnen; chovendo ist das Gerundium. Est\u00E1 chovendo ist hier die Verlaufsform und bedeutet es regnet gerade. Muito verst\u00E4rkt zu stark oder viel. Der portugiesische Wettersatz braucht kein eigenes Wort f\u00FCr deutsches es. Est\u00E1 chovendo muito. \u2014 Es regnet stark.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Wetter"
+          },
+          {
+            "id": "d6",
+            "text": "Wind"
+          },
+          {
+            "id": "d3",
+            "text": "hei\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "regnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "nublado \u2014 bew\u00F6lkt. Nublado hei\u00DFt bew\u00F6lkt und passt im Beispiel zum m\u00E4nnlichen Nomen o c\u00E9u, der Himmel. Mit einem weiblichen Nomen lautet die Form nublada. Die Aussage beschreibt den Zustand, ohne Regen zu behaupten. O c\u00E9u est\u00E1 nublado. \u2014 Der Himmel ist bew\u00F6lkt.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Winter"
+          },
+          {
+            "id": "d1",
+            "text": "Herbst"
+          },
+          {
+            "id": "d3",
+            "text": "hei\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "bew\u00F6lkt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "nublado",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Enublado\u201C?",
+        "explanation": "nublado \u2014 bew\u00F6lkt. Nublado hei\u00DFt bew\u00F6lkt und passt im Beispiel zum m\u00E4nnlichen Nomen o c\u00E9u, der Himmel. Mit einem weiblichen Nomen lautet die Form nublada. Die Aussage beschreibt den Zustand, ohne Regen zu behaupten. O c\u00E9u est\u00E1 nublado. \u2014 Der Himmel ist bew\u00F6lkt.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Sommer"
+          },
+          {
+            "id": "answer",
+            "text": "bew\u00F6lkt"
+          },
+          {
+            "id": "d2",
+            "text": "Wetter"
+          },
+          {
+            "id": "d7",
+            "text": "Winter"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "vento \u2014 Wind. O vento bedeutet Wind. Tem muito vento hei\u00DFt im brasilianischen Alltagsgebrauch es gibt viel Wind, idiomatisch es ist sehr windig. Muito bezieht sich hier auf das m\u00E4nnliche Nomen vento. Tem muito vento hoje. \u2014 Heute ist es sehr windig.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Winter"
+          },
+          {
+            "id": "d6",
+            "text": "regnen"
+          },
+          {
+            "id": "d2",
+            "text": "Wetter"
+          },
+          {
+            "id": "answer",
+            "text": "Wind"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "vento",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Evento\u201C?",
+        "explanation": "vento \u2014 Wind. O vento bedeutet Wind. Tem muito vento hei\u00DFt im brasilianischen Alltagsgebrauch es gibt viel Wind, idiomatisch es ist sehr windig. Muito bezieht sich hier auf das m\u00E4nnliche Nomen vento. Tem muito vento hoje. \u2014 Heute ist es sehr windig.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Fr\u00FChling"
+          },
+          {
+            "id": "answer",
+            "text": "Wind"
+          },
+          {
+            "id": "d7",
+            "text": "Winter"
+          },
+          {
+            "id": "d3",
+            "text": "hei\u00DF"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-09",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "primavera \u2014 Fr\u00FChling. A primavera, Plural primaveras, hei\u00DFt Fr\u00FChling. Na verbindet em \u002B a und bedeutet hier im. Caminho ist im Satz die Ich-Form von caminhar, gehen oder spazieren gehen; die T\u00E4tigkeit ist ein pers\u00F6nliches Beispiel. Na primavera, caminho no parque. \u2014 Im Fr\u00FChling gehe ich im Park spazieren.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Sommer"
+          },
+          {
+            "id": "d3",
+            "text": "kalt"
+          },
+          {
+            "id": "d2",
+            "text": "hei\u00DF"
+          },
+          {
+            "id": "answer",
+            "text": "Fr\u00FChling"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "primavera",
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-09",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eprimavera\u201C?",
+        "explanation": "primavera \u2014 Fr\u00FChling. A primavera, Plural primaveras, hei\u00DFt Fr\u00FChling. Na verbindet em \u002B a und bedeutet hier im. Caminho ist im Satz die Ich-Form von caminhar, gehen oder spazieren gehen; die T\u00E4tigkeit ist ein pers\u00F6nliches Beispiel. Na primavera, caminho no parque. \u2014 Im Fr\u00FChling gehe ich im Park spazieren.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Wind"
+          },
+          {
+            "id": "answer",
+            "text": "Fr\u00FChling"
+          },
+          {
+            "id": "d2",
+            "text": "hei\u00DF"
+          },
+          {
+            "id": "d4",
+            "text": "bew\u00F6lkt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-10",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "outono \u2014 Herbst. O outono, Plural outonos, hei\u00DFt Herbst. No verbindet em \u002B o; no outono bedeutet im Herbst. Gosto de tomar ch\u00E1 hei\u00DFt ich trinke gern Tee. Aus den Jahreszeitennamen folgen hier keine festen Monate oder Wetterbedingungen. No outono, gosto de tomar ch\u00E1. \u2014 Im Herbst trinke ich gern Tee.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "regnen"
+          },
+          {
+            "id": "d8",
+            "text": "Sommer"
+          },
+          {
+            "id": "answer",
+            "text": "Herbst"
+          },
+          {
+            "id": "d5",
+            "text": "Wind"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "outono",
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-10",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eoutono\u201C?",
+        "explanation": "outono \u2014 Herbst. O outono, Plural outonos, hei\u00DFt Herbst. No verbindet em \u002B o; no outono bedeutet im Herbst. Gosto de tomar ch\u00E1 hei\u00DFt ich trinke gern Tee. Aus den Jahreszeitennamen folgen hier keine festen Monate oder Wetterbedingungen. No outono, gosto de tomar ch\u00E1. \u2014 Im Herbst trinke ich gern Tee.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Fr\u00FChling"
+          },
+          {
+            "id": "d7",
+            "text": "Winter"
+          },
+          {
+            "id": "d3",
+            "text": "kalt"
+          },
+          {
+            "id": "answer",
+            "text": "Herbst"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EWetter\u201C? Zusammenhang: bei einer Frage zu Regen, Wind oder Temperatur.",
+        "explanation": "tempo \u2014 Wetter. O tempo bedeutet in dieser Frage Wetter. Como est\u00E1 \u2026? fragt hier nach dem aktuellen Zustand; hoje hei\u00DFt heute. In Voc\u00EA tem tempo? aus Paket 34 bedeutet tempo dagegen Zeit. Como est\u00E1 o tempo hoje? \u2014 Wie ist das Wetter heute?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "tempo"
+          },
+          {
+            "id": "d0",
+            "text": "primavera"
+          },
+          {
+            "id": "d7",
+            "text": "inverno"
+          },
+          {
+            "id": "d3",
+            "text": "frio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich ausdr\u00FCcklich nach dem heutigen Wetter?",
+        "explanation": "Como est\u00E1 o tempo hoje? fragt nach dem Wetter. Ter tempo hei\u00DFt in einem anderen Zusammenhang Zeit haben.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Que horas s\u00E3o?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Como voc\u00EA se chama?"
+          },
+          {
+            "id": "answer",
+            "text": "Como est\u00E1 o tempo hoje?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ehei\u00DF\u201C? Zusammenhang: bei einer Beschreibung der Lufttemperatur.",
+        "explanation": "quente \u2014 hei\u00DF. Quente hei\u00DFt hei\u00DF, je nach Zusammenhang auch warm. Hoje est\u00E1 quente beschreibt das heutige Wetter. Quente hat dieselbe Form bei m\u00E4nnlichen und weiblichen Nomen; die Mehrzahl lautet quentes. Hoje est\u00E1 quente. \u2014 Heute ist es hei\u00DF.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "quente"
+          },
+          {
+            "id": "d0",
+            "text": "primavera"
+          },
+          {
+            "id": "d1",
+            "text": "outono"
+          },
+          {
+            "id": "d4",
+            "text": "nublado"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt das heutige Wetter ausdr\u00FCcklich als hei\u00DF oder warm?",
+        "explanation": "Quente hei\u00DFt hei\u00DF oder warm. Die anderen Aussagen nennen K\u00E4lte, Bew\u00F6lkung oder Regen, ohne W\u00E4rme ausdr\u00FCcklich zu benennen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Hoje est\u00E1 frio."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O c\u00E9u est\u00E1 nublado."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Est\u00E1 chovendo muito."
+          },
+          {
+            "id": "answer",
+            "text": "Hoje est\u00E1 quente."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ekalt\u201C? Zusammenhang: bei einer Beschreibung der Lufttemperatur.",
+        "explanation": "frio \u2014 kalt. Frio hei\u00DFt kalt. Est\u00E1 fazendo frio ist ein Wettermuster f\u00FCr es ist gerade kalt; frio steht darin unver\u00E4ndert. Bei einem beschriebenen Nomen passt sich das Adjektiv an: \u00E1gua fria hei\u00DFt kaltes Wasser. Est\u00E1 fazendo frio. \u2014 Es ist kalt.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "primavera"
+          },
+          {
+            "id": "d3",
+            "text": "quente"
+          },
+          {
+            "id": "answer",
+            "text": "frio"
+          },
+          {
+            "id": "d5",
+            "text": "vento"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EComo est\u00E1 o tempo?\u201C \u2013 Welche Antwort sagt ausdr\u00FCcklich, dass es kalt ist?",
+        "explanation": "Est\u00E1 fazendo frio ist ein Wettermuster f\u00FCr Es ist kalt. Die anderen Angaben nennen andere Wettermerkmale.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O c\u00E9u est\u00E1 nublado."
+          },
+          {
+            "id": "answer",
+            "text": "Est\u00E1 fazendo frio."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem muito vento hoje."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Hoje est\u00E1 quente."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eregnen\u201C?",
+        "explanation": "chover \u2014 regnen. Chover hei\u00DFt regnen; chovendo ist das Gerundium. Est\u00E1 chovendo ist hier die Verlaufsform und bedeutet es regnet gerade. Muito verst\u00E4rkt zu stark oder viel. Der portugiesische Wettersatz braucht kein eigenes Wort f\u00FCr deutsches es. Est\u00E1 chovendo muito. \u2014 Es regnet stark.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "chover"
+          },
+          {
+            "id": "d1",
+            "text": "outono"
+          },
+          {
+            "id": "d5",
+            "text": "nublado"
+          },
+          {
+            "id": "d2",
+            "text": "tempo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass es gerade stark regnet?",
+        "explanation": "Est\u00E1 chovendo ist die Verlaufsform von chover. Muito verst\u00E4rkt hier zu stark oder viel.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Est\u00E1 chovendo muito."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O c\u00E9u est\u00E1 nublado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem muito vento hoje."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Hoje est\u00E1 quente."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ebew\u00F6lkt\u201C?",
+        "explanation": "nublado \u2014 bew\u00F6lkt. Nublado hei\u00DFt bew\u00F6lkt und passt im Beispiel zum m\u00E4nnlichen Nomen o c\u00E9u, der Himmel. Mit einem weiblichen Nomen lautet die Form nublada. Die Aussage beschreibt den Zustand, ohne Regen zu behaupten. O c\u00E9u est\u00E1 nublado. \u2014 Der Himmel ist bew\u00F6lkt.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "primavera"
+          },
+          {
+            "id": "d8",
+            "text": "ver\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "nublado"
+          },
+          {
+            "id": "d5",
+            "text": "vento"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage beschreibt den Himmel als bew\u00F6lkt, ohne ausdr\u00FCcklich Regen zu behaupten?",
+        "explanation": "Nublado hei\u00DFt bew\u00F6lkt. Diese Beschreibung allein behauptet keinen Regen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O c\u00E9u est\u00E1 nublado."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Est\u00E1 chovendo muito."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Hoje est\u00E1 quente."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O c\u00E9u est\u00E1 limpo."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EWind\u201C?",
+        "explanation": "vento \u2014 Wind. O vento bedeutet Wind. Tem muito vento hei\u00DFt im brasilianischen Alltagsgebrauch es gibt viel Wind, idiomatisch es ist sehr windig. Muito bezieht sich hier auf das m\u00E4nnliche Nomen vento. Tem muito vento hoje. \u2014 Heute ist es sehr windig.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "primavera"
+          },
+          {
+            "id": "answer",
+            "text": "vento"
+          },
+          {
+            "id": "d1",
+            "text": "outono"
+          },
+          {
+            "id": "d4",
+            "text": "frio"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass es heute sehr windig ist?",
+        "explanation": "Tem muito vento hei\u00DFt Es gibt viel Wind, idiomatisch Es ist sehr windig.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O c\u00E9u est\u00E1 nublado."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Est\u00E1 chovendo muito."
+          },
+          {
+            "id": "answer",
+            "text": "Tem muito vento hoje."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Hoje est\u00E1 quente."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-031",
+        "objectiveId": "goal-01",
+        "cardId": "karte-09",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFr\u00FChling\u201C?",
+        "explanation": "primavera \u2014 Fr\u00FChling. A primavera, Plural primaveras, hei\u00DFt Fr\u00FChling. Na verbindet em \u002B a und bedeutet hier im. Caminho ist im Satz die Ich-Form von caminhar, gehen oder spazieren gehen; die T\u00E4tigkeit ist ein pers\u00F6nliches Beispiel. Na primavera, caminho no parque. \u2014 Im Fr\u00FChling gehe ich im Park spazieren.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "ver\u00E3o"
+          },
+          {
+            "id": "d3",
+            "text": "frio"
+          },
+          {
+            "id": "answer",
+            "text": "primavera"
+          },
+          {
+            "id": "d2",
+            "text": "quente"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-032",
+        "objectiveId": "goal-01",
+        "cardId": "karte-09",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt einen Spaziergang im Park im Fr\u00FChling?",
+        "explanation": "Na primavera bedeutet im Fr\u00FChling. Caminho ist hier die Ich-Form von caminhar.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "No outono, gosto de tomar ch\u00E1."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Na primavera, nado no mar."
+          },
+          {
+            "id": "wrong-0",
+            "text": "No inverno, caminho no parque."
+          },
+          {
+            "id": "answer",
+            "text": "Na primavera, caminho no parque."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-033",
+        "objectiveId": "goal-01",
+        "cardId": "karte-10",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EHerbst\u201C?",
+        "explanation": "outono \u2014 Herbst. O outono, Plural outonos, hei\u00DFt Herbst. No verbindet em \u002B o; no outono bedeutet im Herbst. Gosto de tomar ch\u00E1 hei\u00DFt ich trinke gern Tee. Aus den Jahreszeitennamen folgen hier keine festen Monate oder Wetterbedingungen. No outono, gosto de tomar ch\u00E1. \u2014 Im Herbst trinke ich gern Tee.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "primavera"
+          },
+          {
+            "id": "answer",
+            "text": "outono"
+          },
+          {
+            "id": "d7",
+            "text": "inverno"
+          },
+          {
+            "id": "d6",
+            "text": "chover"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-034",
+        "objectiveId": "goal-01",
+        "cardId": "karte-10",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt Teetrinken im Herbst als Vorliebe?",
+        "explanation": "No outono bedeutet im Herbst. Der Satz beschreibt eine m\u00F6gliche Vorliebe und legt keine Jahreszeitenmonate fest.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Na primavera, caminho no parque."
+          },
+          {
+            "id": "wrong-1",
+            "text": "No outono, gosto de nadar."
+          },
+          {
+            "id": "answer",
+            "text": "No outono, gosto de tomar ch\u00E1."
+          },
+          {
+            "id": "wrong-0",
+            "text": "No ver\u00E3o, gosto de tomar ch\u00E1."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

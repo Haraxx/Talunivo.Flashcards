@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-16-fruehstueck",
-  "packageVersion": 4,
-  "title": "16 · Frühstück",
+  "packageVersion": 6,
+  "title": "16 \u00B7 Fr\u00FChst\u00FCck",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Frühstück",
-      "expression": "pão",
+      "topic": "Fr\u00FChst\u00FCck",
+      "expression": "p\u00E3o",
       "translation": "Brot",
-      "isVocabulary": true,
-      "example": "Como pão.",
+      "example": "Como p\u00E3o.",
       "exampleTranslation": "Ich esse Brot.",
-      "explanation": "O pão bedeutet Brot; die Mehrzahl lautet pães. Como heißt hier ich esse. Bei einer Bestellung kann um pão je nach Angebot auch ein Brötchen meinen; der Zusammenhang entscheidet."
+      "explanation": "O p\u00E3o bedeutet Brot; die Mehrzahl lautet p\u00E3es. Como hei\u00DFt hier ich esse. Bei einer Bestellung kann um p\u00E3o je nach Angebot auch ein Br\u00F6tchen meinen; der Zusammenhang entscheidet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Frühstück",
+      "topic": "Fr\u00FChst\u00FCck",
       "expression": "queijo",
-      "translation": "Käse",
-      "isVocabulary": true,
+      "translation": "K\u00E4se",
       "example": "Tem queijo?",
-      "exampleTranslation": "Gibt es Käse?",
-      "explanation": "O queijo ist Käse. Tem queijo? fragt im brasilianischen Alltag, ob Käse da ist. Com queijo bedeutet mit Käse und lässt sich mit einem Lebensmittel verbinden, etwa pão com queijo."
+      "exampleTranslation": "Gibt es K\u00E4se?",
+      "explanation": "O queijo ist K\u00E4se. Tem queijo? fragt im brasilianischen Alltag, ob K\u00E4se da ist. Com queijo bedeutet mit K\u00E4se und l\u00E4sst sich mit einem Lebensmittel verbinden, etwa p\u00E3o com queijo.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Frühstück",
+      "topic": "Fr\u00FChst\u00FCck",
       "expression": "banana",
       "translation": "Banane",
-      "isVocabulary": true,
       "example": "Eu como uma banana.",
       "exampleTranslation": "Ich esse eine Banane.",
-      "explanation": "A banana, Plural bananas. Eu como heißt ich esse; uma passt zum weiblichen Wort banana. Uma banana bezeichnet hier eine einzelne Banane."
+      "explanation": "A banana, Plural bananas. Eu como hei\u00DFt ich esse; uma passt zum weiblichen Wort banana. Uma banana bezeichnet hier eine einzelne Banane.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Frühstück",
+      "topic": "Fr\u00FChst\u00FCck",
       "expression": "ovos",
       "translation": "Eier",
-      "isVocabulary": true,
       "example": "Gosto de ovos.",
       "exampleTranslation": "Ich mag Eier.",
-      "explanation": "O ovo ist ein Ei; ovos ist die Mehrzahl Eier. Gosto de … heißt ich mag … Die Präposition de gehört zu diesem Muster. Der Beispielsatz drückt eine mögliche Vorliebe aus."
+      "explanation": "O ovo ist ein Ei; ovos ist die Mehrzahl Eier. Gosto de \u2026 hei\u00DFt ich mag \u2026 Die Pr\u00E4position de geh\u00F6rt zu diesem Muster. Der Beispielsatz dr\u00FCckt eine m\u00F6gliche Vorliebe aus.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Frühstück",
+      "topic": "Fr\u00FChst\u00FCck",
       "expression": "leite",
       "translation": "Milch",
-      "isVocabulary": true,
-      "example": "Bebo leite de manhã.",
+      "example": "Bebo leite de manh\u00E3.",
       "exampleTranslation": "Ich trinke morgens Milch.",
-      "explanation": "O leite ist im Portugiesischen männlich, obwohl Milch im Deutschen weiblich ist. Bebo heißt ich trinke; de manhã bedeutet morgens. Die Mengenangabe wäre zum Beispiel um litro de leite."
+      "explanation": "O leite ist im Portugiesischen m\u00E4nnlich, obwohl Milch im Deutschen weiblich ist. Bebo hei\u00DFt ich trinke; de manh\u00E3 bedeutet morgens. Die Mengenangabe w\u00E4re zum Beispiel um litro de leite.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Frühstück",
-      "expression": "café da manhã",
-      "translation": "Frühstück",
-      "isVocabulary": true,
-      "example": "O café da manhã está pronto.",
-      "exampleTranslation": "Das Frühstück ist fertig.",
-      "explanation": "O café da manhã ist in Brasilien das Frühstück als Mahlzeit. Die Wendung ist nicht gleichbedeutend mit einer Tasse Kaffee. Está pronto heißt hier ist fertig."
+      "topic": "Fr\u00FChst\u00FCck",
+      "expression": "caf\u00E9 da manh\u00E3",
+      "translation": "Fr\u00FChst\u00FCck",
+      "example": "O caf\u00E9 da manh\u00E3 est\u00E1 pronto.",
+      "exampleTranslation": "Das Fr\u00FChst\u00FCck ist fertig.",
+      "explanation": "O caf\u00E9 da manh\u00E3 ist in Brasilien das Fr\u00FChst\u00FCck als Mahlzeit. Die Wendung ist nicht gleichbedeutend mit einer Tasse Kaffee. Est\u00E1 pronto hei\u00DFt hier ist fertig.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Frühstück",
-      "expression": "açúcar",
+      "topic": "Fr\u00FChst\u00FCck",
+      "expression": "a\u00E7\u00FAcar",
       "translation": "Zucker",
-      "isVocabulary": true,
-      "example": "Não quero açúcar.",
-      "exampleTranslation": "Ich möchte keinen Zucker.",
-      "explanation": "O açúcar ist grammatisch männlich. Não quero … heißt ich möchte kein … oder keine … Sem açúcar bedeutet ohne Zucker und ist eine kurze Ergänzung bei einer Bestellung."
+      "example": "N\u00E3o quero a\u00E7\u00FAcar.",
+      "exampleTranslation": "Ich m\u00F6chte keinen Zucker.",
+      "explanation": "O a\u00E7\u00FAcar ist grammatisch m\u00E4nnlich. N\u00E3o quero \u2026 hei\u00DFt ich m\u00F6chte kein \u2026 oder keine \u2026 Sem a\u00E7\u00FAcar bedeutet ohne Zucker und ist eine kurze Erg\u00E4nzung bei einer Bestellung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Frühstück",
+      "topic": "Fr\u00FChst\u00FCck",
       "expression": "fruta",
       "translation": "Frucht",
-      "isVocabulary": true,
       "example": "Quero comer uma fruta.",
-      "exampleTranslation": "Ich möchte ein Stück Obst essen.",
-      "explanation": "A fruta, Plural frutas. Uma fruta ist eine einzelne Frucht; im Deutschen passt hier natürlich ein Stück Obst. Quero comer heißt ich möchte essen. Die Übersetzungen Frucht und Stück Obst können beide passen."
+      "exampleTranslation": "Ich m\u00F6chte ein St\u00FCck Obst essen.",
+      "explanation": "A fruta, Plural frutas. Uma fruta ist eine einzelne Frucht; im Deutschen passt hier nat\u00FCrlich ein St\u00FCck Obst. Quero comer hei\u00DFt ich m\u00F6chte essen. Die \u00DCbersetzungen Frucht und St\u00FCck Obst k\u00F6nnen beide passen.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Lebensmittel beim Fr\u00FChst\u00FCck benennen und einfache W\u00FCnsche zu Speisen ausdr\u00FCcken.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Brot aus diesem Paket: \u201EComo ____.\u201C",
+        "explanation": "P\u00E3o bedeutet Brot. Die Mehrzahl w\u00E4re p\u00E3es; die Tilde geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "p\u00E3o"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Zucker: \u201ESem ____, por favor.\u201C",
+        "explanation": "A\u00E7\u00FAcar hei\u00DFt Zucker. Sem a\u00E7\u00FAcar bedeutet ohne Zucker; \u00E7 und der Akut geh\u00F6ren zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "a\u00E7\u00FAcar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "queijo \u2014 K\u00E4se. O queijo ist K\u00E4se. Tem queijo? fragt im brasilianischen Alltag, ob K\u00E4se da ist. Com queijo bedeutet mit K\u00E4se und l\u00E4sst sich mit einem Lebensmittel verbinden, etwa p\u00E3o com queijo. Tem queijo? \u2014 Gibt es K\u00E4se?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Banane"
+          },
+          {
+            "id": "d1",
+            "text": "Zucker"
+          },
+          {
+            "id": "d4",
+            "text": "Frucht"
+          },
+          {
+            "id": "answer",
+            "text": "K\u00E4se"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "queijo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equeijo\u201C?",
+        "explanation": "queijo \u2014 K\u00E4se. O queijo ist K\u00E4se. Tem queijo? fragt im brasilianischen Alltag, ob K\u00E4se da ist. Com queijo bedeutet mit K\u00E4se und l\u00E4sst sich mit einem Lebensmittel verbinden, etwa p\u00E3o com queijo. Tem queijo? \u2014 Gibt es K\u00E4se?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "K\u00E4se"
+          },
+          {
+            "id": "d3",
+            "text": "Fr\u00FChst\u00FCck"
+          },
+          {
+            "id": "d4",
+            "text": "Frucht"
+          },
+          {
+            "id": "d0",
+            "text": "Eier"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "banana \u2014 Banane. A banana, Plural bananas. Eu como hei\u00DFt ich esse; uma passt zum weiblichen Wort banana. Uma banana bezeichnet hier eine einzelne Banane. Eu como uma banana. \u2014 Ich esse eine Banane.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Brot"
+          },
+          {
+            "id": "answer",
+            "text": "Banane"
+          },
+          {
+            "id": "d1",
+            "text": "Zucker"
+          },
+          {
+            "id": "d0",
+            "text": "Eier"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "banana",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ebanana\u201C?",
+        "explanation": "banana \u2014 Banane. A banana, Plural bananas. Eu como hei\u00DFt ich esse; uma passt zum weiblichen Wort banana. Uma banana bezeichnet hier eine einzelne Banane. Eu como uma banana. \u2014 Ich esse eine Banane.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Brot"
+          },
+          {
+            "id": "answer",
+            "text": "Banane"
+          },
+          {
+            "id": "d2",
+            "text": "K\u00E4se"
+          },
+          {
+            "id": "d1",
+            "text": "Zucker"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EGosto de ovos.\u201C",
+        "explanation": "ovos \u2014 Eier. O ovo ist ein Ei; ovos ist die Mehrzahl Eier. Gosto de \u2026 hei\u00DFt ich mag \u2026 Die Pr\u00E4position de geh\u00F6rt zu diesem Muster. Der Beispielsatz dr\u00FCckt eine m\u00F6gliche Vorliebe aus. Gosto de ovos. \u2014 Ich mag Eier.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Frucht"
+          },
+          {
+            "id": "d0",
+            "text": "Zucker"
+          },
+          {
+            "id": "answer",
+            "text": "Eier"
+          },
+          {
+            "id": "d2",
+            "text": "Banane"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ovos",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eovos\u201C in diesem Beispiel? \u201EGosto de ovos.\u201C",
+        "explanation": "ovos \u2014 Eier. O ovo ist ein Ei; ovos ist die Mehrzahl Eier. Gosto de \u2026 hei\u00DFt ich mag \u2026 Die Pr\u00E4position de geh\u00F6rt zu diesem Muster. Der Beispielsatz dr\u00FCckt eine m\u00F6gliche Vorliebe aus. Gosto de ovos. \u2014 Ich mag Eier.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Milch"
+          },
+          {
+            "id": "d2",
+            "text": "Banane"
+          },
+          {
+            "id": "answer",
+            "text": "Eier"
+          },
+          {
+            "id": "d1",
+            "text": "K\u00E4se"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "leite \u2014 Milch. O leite ist im Portugiesischen m\u00E4nnlich, obwohl Milch im Deutschen weiblich ist. Bebo hei\u00DFt ich trinke; de manh\u00E3 bedeutet morgens. Die Mengenangabe w\u00E4re zum Beispiel um litro de leite. Bebo leite de manh\u00E3. \u2014 Ich trinke morgens Milch.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Banane"
+          },
+          {
+            "id": "d1",
+            "text": "Zucker"
+          },
+          {
+            "id": "d5",
+            "text": "Frucht"
+          },
+          {
+            "id": "answer",
+            "text": "Milch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "leite",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eleite\u201C?",
+        "explanation": "leite \u2014 Milch. O leite ist im Portugiesischen m\u00E4nnlich, obwohl Milch im Deutschen weiblich ist. Bebo hei\u00DFt ich trinke; de manh\u00E3 bedeutet morgens. Die Mengenangabe w\u00E4re zum Beispiel um litro de leite. Bebo leite de manh\u00E3. \u2014 Ich trinke morgens Milch.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Zucker"
+          },
+          {
+            "id": "d5",
+            "text": "Frucht"
+          },
+          {
+            "id": "answer",
+            "text": "Milch"
+          },
+          {
+            "id": "d0",
+            "text": "Eier"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EO caf\u00E9 da manh\u00E3 est\u00E1 pronto.\u201C",
+        "explanation": "caf\u00E9 da manh\u00E3 \u2014 Fr\u00FChst\u00FCck. O caf\u00E9 da manh\u00E3 ist in Brasilien das Fr\u00FChst\u00FCck als Mahlzeit. Die Wendung ist nicht gleichbedeutend mit einer Tasse Kaffee. Est\u00E1 pronto hei\u00DFt hier ist fertig. O caf\u00E9 da manh\u00E3 est\u00E1 pronto. \u2014 Das Fr\u00FChst\u00FCck ist fertig.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Banane"
+          },
+          {
+            "id": "answer",
+            "text": "Fr\u00FChst\u00FCck"
+          },
+          {
+            "id": "d1",
+            "text": "Zucker"
+          },
+          {
+            "id": "d2",
+            "text": "K\u00E4se"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "caf\u00E9 da manh\u00E3",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecaf\u00E9 da manh\u00E3\u201C in diesem Beispiel? \u201EO caf\u00E9 da manh\u00E3 est\u00E1 pronto.\u201C",
+        "explanation": "caf\u00E9 da manh\u00E3 \u2014 Fr\u00FChst\u00FCck. O caf\u00E9 da manh\u00E3 ist in Brasilien das Fr\u00FChst\u00FCck als Mahlzeit. Die Wendung ist nicht gleichbedeutend mit einer Tasse Kaffee. Est\u00E1 pronto hei\u00DFt hier ist fertig. O caf\u00E9 da manh\u00E3 est\u00E1 pronto. \u2014 Das Fr\u00FChst\u00FCck ist fertig.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Eier"
+          },
+          {
+            "id": "d1",
+            "text": "Zucker"
+          },
+          {
+            "id": "answer",
+            "text": "Fr\u00FChst\u00FCck"
+          },
+          {
+            "id": "d4",
+            "text": "Frucht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQuero comer uma fruta.\u201C",
+        "explanation": "fruta \u2014 Frucht. A fruta, Plural frutas. Uma fruta ist eine einzelne Frucht; im Deutschen passt hier nat\u00FCrlich ein St\u00FCck Obst. Quero comer hei\u00DFt ich m\u00F6chte essen. Die \u00DCbersetzungen Frucht und St\u00FCck Obst k\u00F6nnen beide passen. Quero comer uma fruta. \u2014 Ich m\u00F6chte ein St\u00FCck Obst essen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Frucht"
+          },
+          {
+            "id": "d0",
+            "text": "Eier"
+          },
+          {
+            "id": "d4",
+            "text": "Fr\u00FChst\u00FCck"
+          },
+          {
+            "id": "d3",
+            "text": "Banane"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "fruta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efruta\u201C in diesem Beispiel? \u201EQuero comer uma fruta.\u201C",
+        "explanation": "fruta \u2014 Frucht. A fruta, Plural frutas. Uma fruta ist eine einzelne Frucht; im Deutschen passt hier nat\u00FCrlich ein St\u00FCck Obst. Quero comer hei\u00DFt ich m\u00F6chte essen. Die \u00DCbersetzungen Frucht und St\u00FCck Obst k\u00F6nnen beide passen. Quero comer uma fruta. \u2014 Ich m\u00F6chte ein St\u00FCck Obst essen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Eier"
+          },
+          {
+            "id": "answer",
+            "text": "Frucht"
+          },
+          {
+            "id": "d5",
+            "text": "Milch"
+          },
+          {
+            "id": "d4",
+            "text": "Fr\u00FChst\u00FCck"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EK\u00E4se\u201C?",
+        "explanation": "queijo \u2014 K\u00E4se. O queijo ist K\u00E4se. Tem queijo? fragt im brasilianischen Alltag, ob K\u00E4se da ist. Com queijo bedeutet mit K\u00E4se und l\u00E4sst sich mit einem Lebensmittel verbinden, etwa p\u00E3o com queijo. Tem queijo? \u2014 Gibt es K\u00E4se?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "leite"
+          },
+          {
+            "id": "d4",
+            "text": "fruta"
+          },
+          {
+            "id": "d2",
+            "text": "banana"
+          },
+          {
+            "id": "answer",
+            "text": "queijo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest wissen, ob K\u00E4se da ist. Welche Frage passt?",
+        "explanation": "Queijo hei\u00DFt K\u00E4se. Tem queijo? fragt nach der Verf\u00FCgbarkeit.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tem ovos?"
+          },
+          {
+            "id": "answer",
+            "text": "Tem queijo?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tem leite?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem p\u00E3o?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBanane\u201C?",
+        "explanation": "banana \u2014 Banane. A banana, Plural bananas. Eu como hei\u00DFt ich esse; uma passt zum weiblichen Wort banana. Uma banana bezeichnet hier eine einzelne Banane. Eu como uma banana. \u2014 Ich esse eine Banane.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "queijo"
+          },
+          {
+            "id": "d0",
+            "text": "ovos"
+          },
+          {
+            "id": "answer",
+            "text": "banana"
+          },
+          {
+            "id": "d1",
+            "text": "a\u00E7\u00FAcar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt genau eine Banane als das, was du isst?",
+        "explanation": "Uma banana bezeichnet eine einzelne Banane; como hei\u00DFt hier ich esse.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Eu como um ovo."
+          },
+          {
+            "id": "answer",
+            "text": "Eu como uma banana."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Eu bebo leite."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Eu como um p\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEier\u201C? Gemeint ist: Eier als Lebensmittel in der Mehrzahl.",
+        "explanation": "ovos \u2014 Eier. O ovo ist ein Ei; ovos ist die Mehrzahl Eier. Gosto de \u2026 hei\u00DFt ich mag \u2026 Die Pr\u00E4position de geh\u00F6rt zu diesem Muster. Der Beispielsatz dr\u00FCckt eine m\u00F6gliche Vorliebe aus. Gosto de ovos. \u2014 Ich mag Eier.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "ovos"
+          },
+          {
+            "id": "d6",
+            "text": "p\u00E3o"
+          },
+          {
+            "id": "d4",
+            "text": "fruta"
+          },
+          {
+            "id": "d3",
+            "text": "caf\u00E9 da manh\u00E3"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage dr\u00FCckt aus, dass du Eier magst?",
+        "explanation": "Ovos ist die Mehrzahl Eier. Gosto de dr\u00FCckt eine m\u00F6gliche Vorliebe aus; sie darf zum \u00DCben erfunden sein.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Gosto de leite."
+          },
+          {
+            "id": "answer",
+            "text": "Gosto de ovos."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Gosto de queijo."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Gosto de p\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMilch\u201C?",
+        "explanation": "leite \u2014 Milch. O leite ist im Portugiesischen m\u00E4nnlich, obwohl Milch im Deutschen weiblich ist. Bebo hei\u00DFt ich trinke; de manh\u00E3 bedeutet morgens. Die Mengenangabe w\u00E4re zum Beispiel um litro de leite. Bebo leite de manh\u00E3. \u2014 Ich trinke morgens Milch.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "banana"
+          },
+          {
+            "id": "answer",
+            "text": "leite"
+          },
+          {
+            "id": "d1",
+            "text": "a\u00E7\u00FAcar"
+          },
+          {
+            "id": "d5",
+            "text": "fruta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du morgens Milch trinkst?",
+        "explanation": "Leite hei\u00DFt Milch, bebo hei\u00DFt ich trinke und de manh\u00E3 bedeutet morgens.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Como p\u00E3o de manh\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Bebo \u00E1gua de manh\u00E3."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Bebo ch\u00E1 de manh\u00E3."
+          },
+          {
+            "id": "answer",
+            "text": "Bebo leite de manh\u00E3."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFr\u00FChst\u00FCck\u201C? Gemeint ist: die Mahlzeit Fr\u00FChst\u00FCck als vollst\u00E4ndige gelernte Wendung.",
+        "explanation": "caf\u00E9 da manh\u00E3 \u2014 Fr\u00FChst\u00FCck. O caf\u00E9 da manh\u00E3 ist in Brasilien das Fr\u00FChst\u00FCck als Mahlzeit. Die Wendung ist nicht gleichbedeutend mit einer Tasse Kaffee. Est\u00E1 pronto hei\u00DFt hier ist fertig. O caf\u00E9 da manh\u00E3 est\u00E1 pronto. \u2014 Das Fr\u00FChst\u00FCck ist fertig.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "queijo"
+          },
+          {
+            "id": "answer",
+            "text": "caf\u00E9 da manh\u00E3"
+          },
+          {
+            "id": "d1",
+            "text": "a\u00E7\u00FAcar"
+          },
+          {
+            "id": "d6",
+            "text": "p\u00E3o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du sagst, dass das Fr\u00FChst\u00FCck als Mahlzeit fertig ist. Welcher Satz passt?",
+        "explanation": "Caf\u00E9 da manh\u00E3 ist die vollst\u00E4ndige gelernte Wendung f\u00FCr die Mahlzeit Fr\u00FChst\u00FCck, nicht eine Tasse Kaffee.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O ch\u00E1 est\u00E1 pronto."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O leite est\u00E1 frio."
+          },
+          {
+            "id": "answer",
+            "text": "O caf\u00E9 da manh\u00E3 est\u00E1 pronto."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O caf\u00E9 est\u00E1 quente."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFrucht\u201C? Gemeint ist: eine einzelne Frucht oder ein St\u00FCck Obst.",
+        "explanation": "fruta \u2014 Frucht. A fruta, Plural frutas. Uma fruta ist eine einzelne Frucht; im Deutschen passt hier nat\u00FCrlich ein St\u00FCck Obst. Quero comer hei\u00DFt ich m\u00F6chte essen. Die \u00DCbersetzungen Frucht und St\u00FCck Obst k\u00F6nnen beide passen. Quero comer uma fruta. \u2014 Ich m\u00F6chte ein St\u00FCck Obst essen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "ovos"
+          },
+          {
+            "id": "d4",
+            "text": "caf\u00E9 da manh\u00E3"
+          },
+          {
+            "id": "d6",
+            "text": "p\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "fruta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du eine einzelne Frucht essen m\u00F6chtest?",
+        "explanation": "Uma fruta ist eine einzelne Frucht, auf Deutsch auch ein St\u00FCck Obst. Comer hei\u00DFt essen, beber trinken.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Quero comer um p\u00E3o."
+          },
+          {
+            "id": "answer",
+            "text": "Quero comer uma fruta."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quero comer um ovo."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero beber leite."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

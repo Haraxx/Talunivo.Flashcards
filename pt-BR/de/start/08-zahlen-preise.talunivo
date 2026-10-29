@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-08-zahlen-preise",
-  "packageVersion": 4,
-  "title": "08 · Zahlen und Preise bis hundert",
+  "packageVersion": 5,
+  "title": "08 \u00B7 Zahlen und Preise bis hundert",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,200 +12,3178 @@
       "topic": "Zahlen und Preise bis hundert",
       "expression": "onze",
       "translation": "elf",
-      "isVocabulary": true,
       "example": "O suco custa onze reais.",
       "exampleTranslation": "Der Saft kostet elf Reais.",
-      "explanation": "Onze steht für 11. Suco heißt Saft; custa onze reais bedeutet kostet elf Reais. Das Muster custa … reais kann mit weiteren Zahlen verwendet werden."
+      "explanation": "Onze steht f\u00FCr 11. Suco hei\u00DFt Saft; custa onze reais bedeutet kostet elf Reais. Das Muster custa \u2026 reais kann mit weiteren Zahlen verwendet werden.",
+      "isVocabulary": true
     },
     {
       "id": "karte-01-2",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "doze",
-      "translation": "zwölf",
-      "isVocabulary": true,
+      "translation": "zw\u00F6lf",
       "example": "A banana custa doze reais o quilo.",
-      "exampleTranslation": "Die Bananen kosten zwölf Reais pro Kilo.",
-      "explanation": "Doze steht für 12. Doze reais o quilo bedeutet zwölf Reais pro Kilo. A banana bezeichnet hier Bananen als Ware; der Preis bezieht sich auf das Kilo, nicht auf ein einzelnes Stück."
+      "exampleTranslation": "Die Bananen kosten zw\u00F6lf Reais pro Kilo.",
+      "explanation": "Doze steht f\u00FCr 12. Doze reais o quilo bedeutet zw\u00F6lf Reais pro Kilo. A banana bezeichnet hier Bananen als Ware; der Preis bezieht sich auf das Kilo, nicht auf ein einzelnes St\u00FCck.",
+      "isVocabulary": true
     },
     {
       "id": "karte-01-3",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "treze",
       "translation": "dreizehn",
-      "isVocabulary": true,
-      "example": "O sanduíche custa treze reais.",
+      "example": "O sandu\u00EDche custa treze reais.",
       "exampleTranslation": "Das Sandwich kostet dreizehn Reais.",
-      "explanation": "Treze steht für 13. Treze reais bedeutet dreizehn Reais; sanduíche heißt Sandwich. Unterscheide treze = dreizehn von três = drei."
+      "explanation": "Treze steht f\u00FCr 13. Treze reais bedeutet dreizehn Reais; sandu\u00EDche hei\u00DFt Sandwich. Unterscheide treze = dreizehn von tr\u00EAs = drei.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "quatorze",
       "translation": "vierzehn",
-      "isVocabulary": true,
       "example": "A passagem custa quatorze reais.",
       "exampleTranslation": "Die Fahrkarte kostet vierzehn Reais.",
-      "explanation": "Quatorze steht für 14; catorze ist ebenfalls eine korrekte Schreibweise. Passagem bezeichnet hier eine Fahrkarte. Beide Zahlformen benennen denselben Betrag."
+      "explanation": "Quatorze steht f\u00FCr 14; catorze ist ebenfalls eine korrekte Schreibweise. Passagem bezeichnet hier eine Fahrkarte. Beide Zahlformen benennen denselben Betrag.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02-2",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "quinze",
-      "translation": "fünfzehn",
-      "isVocabulary": true,
-      "example": "O almoço custa quinze reais.",
-      "exampleTranslation": "Das Mittagessen kostet fünfzehn Reais.",
-      "explanation": "Quinze steht für 15. Almoço bezeichnet hier das Mittagessen; quinze reais sind fünfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket für fünfzehn Minuten verwendet."
+      "translation": "f\u00FCnfzehn",
+      "example": "O almo\u00E7o custa quinze reais.",
+      "exampleTranslation": "Das Mittagessen kostet f\u00FCnfzehn Reais.",
+      "explanation": "Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02-3",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "dezesseis",
       "translation": "sechzehn",
-      "isVocabulary": true,
       "example": "O prato custa dezesseis reais.",
       "exampleTranslation": "Das Gericht kostet sechzehn Reais.",
-      "explanation": "Dezesseis steht für 16 in der hier gelernten brasilianischen Schreibweise. Prato bezeichnet hier das Gericht. Dezesseis reais bedeutet sechzehn Reais."
+      "explanation": "Dezesseis steht f\u00FCr 16 in der hier gelernten brasilianischen Schreibweise. Prato bezeichnet hier das Gericht. Dezesseis reais bedeutet sechzehn Reais.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "dezessete",
       "translation": "siebzehn",
-      "isVocabulary": true,
       "example": "Este livro custa dezessete reais.",
       "exampleTranslation": "Dieses Buch kostet siebzehn Reais.",
-      "explanation": "Dezessete steht für 17 in der hier gelernten brasilianischen Schreibweise. Este livro heißt dieses Buch. Unterscheide sete = sieben von dezessete = siebzehn."
+      "explanation": "Dezessete steht f\u00FCr 17 in der hier gelernten brasilianischen Schreibweise. Este livro hei\u00DFt dieses Buch. Unterscheide sete = sieben von dezessete = siebzehn.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03-2",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "dezoito",
       "translation": "achtzehn",
-      "isVocabulary": true,
       "example": "A salada custa dezoito reais.",
       "exampleTranslation": "Der Salat kostet achtzehn Reais.",
-      "explanation": "Dezoito steht für 18. Salada heißt Salat; dezoito reais bedeutet achtzehn Reais. Oito steht dagegen für 8."
+      "explanation": "Dezoito steht f\u00FCr 18. Salada hei\u00DFt Salat; dezoito reais bedeutet achtzehn Reais. Oito steht dagegen f\u00FCr 8.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03-3",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "dezenove",
       "translation": "neunzehn",
-      "isVocabulary": true,
       "example": "Esta camiseta custa dezenove reais.",
       "exampleTranslation": "Dieses T-Shirt kostet neunzehn Reais.",
-      "explanation": "Dezenove steht für 19. Esta camiseta heißt dieses T-Shirt; dezenove reais bedeutet neunzehn Reais. Nove steht dagegen für 9."
+      "explanation": "Dezenove steht f\u00FCr 19. Esta camiseta hei\u00DFt dieses T-Shirt; dezenove reais bedeutet neunzehn Reais. Nove steht dagegen f\u00FCr 9.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "vinte",
       "translation": "zwanzig",
-      "isVocabulary": true,
       "example": "Tenho vinte reais.",
       "exampleTranslation": "Ich habe zwanzig Reais.",
-      "explanation": "Vinte steht für 20. Tenho vinte reais heißt ich habe zwanzig Reais. Das ist ein vorhandener Geldbetrag; der Satz nennt keinen Kaufpreis."
+      "explanation": "Vinte steht f\u00FCr 20. Tenho vinte reais hei\u00DFt ich habe zwanzig Reais. Das ist ein vorhandener Geldbetrag; der Satz nennt keinen Kaufpreis.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04-2",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "trinta",
-      "translation": "dreißig",
-      "isVocabulary": true,
+      "translation": "drei\u00DFig",
       "example": "A conta deu trinta reais.",
-      "exampleTranslation": "Die Rechnung beträgt dreißig Reais.",
-      "explanation": "Trinta steht für 30. A conta deu … wird im brasilianischen Alltag für einen entstandenen Rechnungsbetrag verwendet: Die Rechnung macht … aus. Trinta nicht mit treze = dreizehn verwechseln."
+      "exampleTranslation": "Die Rechnung betr\u00E4gt drei\u00DFig Reais.",
+      "explanation": "Trinta steht f\u00FCr 30. A conta deu \u2026 wird im brasilianischen Alltag f\u00FCr einen entstandenen Rechnungsbetrag verwendet: Die Rechnung macht \u2026 aus. Trinta nicht mit treze = dreizehn verwechseln.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04-3",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "quarenta",
       "translation": "vierzig",
-      "isVocabulary": true,
       "example": "Esta bolsa custa quarenta reais.",
       "exampleTranslation": "Diese Tasche kostet vierzig Reais.",
-      "explanation": "Quarenta steht für 40. Esta bolsa heißt diese Tasche; quarenta reais bedeutet vierzig Reais. Quatro ist 4, quarenta ist 40."
+      "explanation": "Quarenta steht f\u00FCr 40. Esta bolsa hei\u00DFt diese Tasche; quarenta reais bedeutet vierzig Reais. Quatro ist 4, quarenta ist 40.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "cinquenta",
-      "translation": "fünfzig",
-      "isVocabulary": true,
+      "translation": "f\u00FCnfzig",
       "example": "O passeio custa cinquenta reais.",
-      "exampleTranslation": "Der Ausflug kostet fünfzig Reais.",
-      "explanation": "Cinquenta steht für 50. Passeio bezeichnet hier einen Ausflug. Cinquenta reais bedeutet fünfzig Reais; cinco ist dagegen 5."
+      "exampleTranslation": "Der Ausflug kostet f\u00FCnfzig Reais.",
+      "explanation": "Cinquenta steht f\u00FCr 50. Passeio bezeichnet hier einen Ausflug. Cinquenta reais bedeutet f\u00FCnfzig Reais; cinco ist dagegen 5.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05-2",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "sessenta",
       "translation": "sechzig",
-      "isVocabulary": true,
       "example": "Este sapato custa sessenta reais.",
       "exampleTranslation": "Dieser Schuh kostet sechzig Reais.",
-      "explanation": "Sessenta steht für 60 und wird mit doppeltem s geschrieben. Este sapato heißt dieser Schuh im Singular. Der Satz nennt nicht ausdrücklich den Preis eines Schuhpaars."
+      "explanation": "Sessenta steht f\u00FCr 60 und wird mit doppeltem s geschrieben. Este sapato hei\u00DFt dieser Schuh im Singular. Der Satz nennt nicht ausdr\u00FCcklich den Preis eines Schuhpaars.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05-3",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "setenta",
       "translation": "siebzig",
-      "isVocabulary": true,
-      "example": "Esta calça custa setenta reais.",
+      "example": "Esta cal\u00E7a custa setenta reais.",
       "exampleTranslation": "Diese Hose kostet siebzig Reais.",
-      "explanation": "Setenta steht für 70. A calça ist eine Hose; esta calça heißt diese Hose. Unterscheide setenta = siebzig von sessenta = sechzig."
+      "explanation": "Setenta steht f\u00FCr 70. A cal\u00E7a ist eine Hose; esta cal\u00E7a hei\u00DFt diese Hose. Unterscheide setenta = siebzig von sessenta = sechzig.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "oitenta",
       "translation": "achtzig",
-      "isVocabulary": true,
       "example": "A jaqueta custa oitenta reais.",
       "exampleTranslation": "Die Jacke kostet achtzig Reais.",
-      "explanation": "Oitenta steht für 80. Jaqueta heißt Jacke; oitenta reais bedeutet achtzig Reais. Oito ist 8, oitenta ist 80."
+      "explanation": "Oitenta steht f\u00FCr 80. Jaqueta hei\u00DFt Jacke; oitenta reais bedeutet achtzig Reais. Oito ist 8, oitenta ist 80.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06-2",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "noventa",
       "translation": "neunzig",
-      "isVocabulary": true,
       "example": "O quarto custa noventa reais por noite.",
       "exampleTranslation": "Das Zimmer kostet neunzig Reais pro Nacht.",
-      "explanation": "Noventa steht für 90. Quarto bezeichnet hier ein Zimmer; por noite bedeutet pro Nacht. Der Betrag gilt im Beispiel für eine Nacht, nicht automatisch für den gesamten Aufenthalt."
+      "explanation": "Noventa steht f\u00FCr 90. Quarto bezeichnet hier ein Zimmer; por noite bedeutet pro Nacht. Der Betrag gilt im Beispiel f\u00FCr eine Nacht, nicht automatisch f\u00FCr den gesamten Aufenthalt.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06-3",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "cem",
       "translation": "hundert",
-      "isVocabulary": true,
       "example": "Tenho cem reais.",
       "exampleTranslation": "Ich habe hundert Reais.",
-      "explanation": "Cem steht für genau 100. Tenho cem reais heißt ich habe hundert Reais. Für 101 verwendet man cento e um; cem und cento sind in diesem Gebrauch nicht austauschbar."
+      "explanation": "Cem steht f\u00FCr genau 100. Tenho cem reais hei\u00DFt ich habe hundert Reais. F\u00FCr 101 verwendet man cento e um; cem und cento sind in diesem Gebrauch nicht austauschbar.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "vinte e dois",
       "translation": "zweiundzwanzig",
-      "isVocabulary": true,
       "example": "Custa vinte e dois reais.",
       "exampleTranslation": "Es kostet zweiundzwanzig Reais.",
-      "explanation": "Vinte e dois ist 22: zuerst vinte = zwanzig, dann e = und, dann dois = zwei. Vor dem männlichen reais steht dois. Vor einem weiblichen Nomen wäre es vinte e duas."
+      "explanation": "Vinte e dois ist 22: zuerst vinte = zwanzig, dann e = und, dann dois = zwei. Vor dem m\u00E4nnlichen reais steht dois. Vor einem weiblichen Nomen w\u00E4re es vinte e duas.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Zahlen und Preise bis hundert",
       "expression": "garrafa",
       "translation": "Flasche",
-      "isVocabulary": true,
       "example": "Quanto custa esta garrafa?",
       "exampleTranslation": "Wie viel kostet diese Flasche?",
-      "explanation": "A garrafa, Plural garrafas. Quanto custa …? fragt wie viel kostet …? Esta garrafa bedeutet diese Flasche. Eine passende Antwort kann mit Custa … reais beginnen."
+      "explanation": "A garrafa, Plural garrafas. Quanto custa \u2026? fragt wie viel kostet \u2026? Esta garrafa bedeutet diese Flasche. Eine passende Antwort kann mit Custa \u2026 reais beginnen.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Zahlen und einfache Preisangaben in Real verstehen und unterscheiden.",
+        "cardIds": [
+          "karte-01",
+          "karte-01-2",
+          "karte-01-3",
+          "karte-02",
+          "karte-02-2",
+          "karte-02-3",
+          "karte-03",
+          "karte-03-2",
+          "karte-03-3",
+          "karte-04",
+          "karte-04-2",
+          "karte-04-3",
+          "karte-05",
+          "karte-05-2",
+          "karte-05-3",
+          "karte-06",
+          "karte-06-2",
+          "karte-06-3",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 12 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Doze steht f\u00FCr 12. Doze reais o quilo bedeutet zw\u00F6lf Reais pro Kilo. A banana bezeichnet hier Bananen als Ware; der Preis bezieht sich auf das Kilo, nicht auf ein einzelnes St\u00FCck.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "doze"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 13 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Treze steht f\u00FCr 13. Treze reais bedeutet dreizehn Reais; sandu\u00EDche hei\u00DFt Sandwich. Unterscheide treze = dreizehn von tr\u00EAs = drei.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "treze"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 11 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Onze steht f\u00FCr 11. Suco hei\u00DFt Saft; custa onze reais bedeutet kostet elf Reais. Das Muster custa \u2026 reais kann mit weiteren Zahlen verwendet werden.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "onze"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 15 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quinze"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 16 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Dezesseis steht f\u00FCr 16 in der hier gelernten brasilianischen Schreibweise. Prato bezeichnet hier das Gericht. Dezesseis reais bedeutet sechzehn Reais.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "dezesseis"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 14 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Quatorze und catorze sind beide Schreibweisen der Zahl 14. Vor reais bleibt diese Zahlform unver\u00E4ndert.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quatorze",
+          "catorze"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 18 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Dezoito steht f\u00FCr 18. Salada hei\u00DFt Salat; dezoito reais bedeutet achtzehn Reais. Oito steht dagegen f\u00FCr 8.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "dezoito"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 19 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Dezenove steht f\u00FCr 19. Esta camiseta hei\u00DFt dieses T-Shirt; dezenove reais bedeutet neunzehn Reais. Nove steht dagegen f\u00FCr 9.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "dezenove"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 17 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Dezessete steht f\u00FCr 17 in der hier gelernten brasilianischen Schreibweise. Este livro hei\u00DFt dieses Buch. Unterscheide sete = sieben von dezessete = siebzehn.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "dezessete"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 30 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Trinta steht f\u00FCr 30. A conta deu \u2026 wird im brasilianischen Alltag f\u00FCr einen entstandenen Rechnungsbetrag verwendet: Die Rechnung macht \u2026 aus. Trinta nicht mit treze = dreizehn verwechseln.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "trinta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 40 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Quarenta steht f\u00FCr 40. Esta bolsa hei\u00DFt diese Tasche; quarenta reais bedeutet vierzig Reais. Quatro ist 4, quarenta ist 40.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quarenta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 20 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Vinte steht f\u00FCr 20. Tenho vinte reais hei\u00DFt ich habe zwanzig Reais. Das ist ein vorhandener Geldbetrag; der Satz nennt keinen Kaufpreis.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "vinte"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 60 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Sessenta steht f\u00FCr 60 und wird mit doppeltem s geschrieben. Este sapato hei\u00DFt dieser Schuh im Singular. Der Satz nennt nicht ausdr\u00FCcklich den Preis eines Schuhpaars.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "sessenta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 70 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Setenta steht f\u00FCr 70. A cal\u00E7a ist eine Hose; esta cal\u00E7a hei\u00DFt diese Hose. Unterscheide setenta = siebzig von sessenta = sechzig.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "setenta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 50 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Cinquenta steht f\u00FCr 50. Passeio bezeichnet hier einen Ausflug. Cinquenta reais bedeutet f\u00FCnfzig Reais; cinco ist dagegen 5.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "cinquenta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 90 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Noventa steht f\u00FCr 90. Quarto bezeichnet hier ein Zimmer; por noite bedeutet pro Nacht. Der Betrag gilt im Beispiel f\u00FCr eine Nacht, nicht automatisch f\u00FCr den gesamten Aufenthalt.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "noventa"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 100 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Cem steht f\u00FCr genau 100. Tenho cem reais hei\u00DFt ich habe hundert Reais. F\u00FCr 101 verwendet man cento e um; cem und cento sind in diesem Gebrauch nicht austauschbar.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "cem"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 80 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Oitenta steht f\u00FCr 80. Jaqueta hei\u00DFt Jacke; oitenta reais bedeutet achtzig Reais. Oito ist 8, oitenta ist 80.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "oitenta"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 22 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ reais\u201C.",
+        "explanation": "Vinte e dois ist 22: zuerst vinte = zwanzig, dann e = und, dann dois = zwei. Vor dem m\u00E4nnlichen reais steht dois. Vor einem weiblichen Nomen w\u00E4re es vinte e duas.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "vinte e dois"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "doze \u2014 zw\u00F6lf. Doze steht f\u00FCr 12. Doze reais o quilo bedeutet zw\u00F6lf Reais pro Kilo. A banana bezeichnet hier Bananen als Ware; der Preis bezieht sich auf das Kilo, nicht auf ein einzelnes St\u00FCck. A banana custa doze reais o quilo. \u2014 Die Bananen kosten zw\u00F6lf Reais pro Kilo.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "neunzig"
+          },
+          {
+            "id": "answer",
+            "text": "zw\u00F6lf"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d6",
+            "text": "neunzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "doze",
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edoze\u201C?",
+        "explanation": "doze \u2014 zw\u00F6lf. Doze steht f\u00FCr 12. Doze reais o quilo bedeutet zw\u00F6lf Reais pro Kilo. A banana bezeichnet hier Bananen als Ware; der Preis bezieht sich auf das Kilo, nicht auf ein einzelnes St\u00FCck. A banana custa doze reais o quilo. \u2014 Die Bananen kosten zw\u00F6lf Reais pro Kilo.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "answer",
+            "text": "zw\u00F6lf"
+          },
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d11",
+            "text": "neunzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "treze \u2014 dreizehn. Treze steht f\u00FCr 13. Treze reais bedeutet dreizehn Reais; sandu\u00EDche hei\u00DFt Sandwich. Unterscheide treze = dreizehn von tr\u00EAs = drei. O sandu\u00EDche custa treze reais. \u2014 Das Sandwich kostet dreizehn Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "siebzig"
+          },
+          {
+            "id": "answer",
+            "text": "dreizehn"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "treze",
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etreze\u201C?",
+        "explanation": "treze \u2014 dreizehn. Treze steht f\u00FCr 13. Treze reais bedeutet dreizehn Reais; sandu\u00EDche hei\u00DFt Sandwich. Unterscheide treze = dreizehn von tr\u00EAs = drei. O sandu\u00EDche custa treze reais. \u2014 Das Sandwich kostet dreizehn Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "siebzig"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          },
+          {
+            "id": "answer",
+            "text": "dreizehn"
+          },
+          {
+            "id": "d11",
+            "text": "neunzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "onze \u2014 elf. Onze steht f\u00FCr 11. Suco hei\u00DFt Saft; custa onze reais bedeutet kostet elf Reais. Das Muster custa \u2026 reais kann mit weiteren Zahlen verwendet werden. O suco custa onze reais. \u2014 Der Saft kostet elf Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "neunzig"
+          },
+          {
+            "id": "answer",
+            "text": "elf"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "onze",
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eonze\u201C?",
+        "explanation": "onze \u2014 elf. Onze steht f\u00FCr 11. Suco hei\u00DFt Saft; custa onze reais bedeutet kostet elf Reais. Das Muster custa \u2026 reais kann mit weiteren Zahlen verwendet werden. O suco custa onze reais. \u2014 Der Saft kostet elf Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "answer",
+            "text": "elf"
+          },
+          {
+            "id": "d6",
+            "text": "Flasche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quinze \u2014 f\u00FCnfzehn. Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet. O almo\u00E7o custa quinze reais. \u2014 Das Mittagessen kostet f\u00FCnfzehn Reais.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d11",
+            "text": "siebzig"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quinze",
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equinze\u201C?",
+        "explanation": "quinze \u2014 f\u00FCnfzehn. Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet. O almo\u00E7o custa quinze reais. \u2014 Das Mittagessen kostet f\u00FCnfzehn Reais.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "zwei Uhr"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d3",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dezesseis \u2014 sechzehn. Dezesseis steht f\u00FCr 16 in der hier gelernten brasilianischen Schreibweise. Prato bezeichnet hier das Gericht. Dezesseis reais bedeutet sechzehn Reais. O prato custa dezesseis reais. \u2014 Das Gericht kostet sechzehn Reais.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d6",
+            "text": "neunzehn"
+          },
+          {
+            "id": "answer",
+            "text": "sechzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dezesseis",
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edezesseis\u201C?",
+        "explanation": "dezesseis \u2014 sechzehn. Dezesseis steht f\u00FCr 16 in der hier gelernten brasilianischen Schreibweise. Prato bezeichnet hier das Gericht. Dezesseis reais bedeutet sechzehn Reais. O prato custa dezesseis reais. \u2014 Das Gericht kostet sechzehn Reais.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d8",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "answer",
+            "text": "sechzehn"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quatorze \u2014 vierzehn. Quatorze steht f\u00FCr 14; catorze ist ebenfalls eine korrekte Schreibweise. Passagem bezeichnet hier eine Fahrkarte. Beide Zahlformen benennen denselben Betrag. A passagem custa quatorze reais. \u2014 Die Fahrkarte kostet vierzehn Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "vierzehn"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d3",
+            "text": "elf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quatorze",
+        "difficulty": 1
+      },
+      {
+        "id": "task-031",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equatorze\u201C?",
+        "explanation": "quatorze \u2014 vierzehn. Quatorze steht f\u00FCr 14; catorze ist ebenfalls eine korrekte Schreibweise. Passagem bezeichnet hier eine Fahrkarte. Beide Zahlformen benennen denselben Betrag. A passagem custa quatorze reais. \u2014 Die Fahrkarte kostet vierzehn Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "answer",
+            "text": "vierzehn"
+          },
+          {
+            "id": "d6",
+            "text": "neunzehn"
+          },
+          {
+            "id": "d10",
+            "text": "siebzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-032",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dezoito \u2014 achtzehn. Dezoito steht f\u00FCr 18. Salada hei\u00DFt Salat; dezoito reais bedeutet achtzehn Reais. Oito steht dagegen f\u00FCr 8. A salada custa dezoito reais. \u2014 Der Salat kostet achtzehn Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dezoito",
+        "difficulty": 1
+      },
+      {
+        "id": "task-033",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edezoito\u201C?",
+        "explanation": "dezoito \u2014 achtzehn. Dezoito steht f\u00FCr 18. Salada hei\u00DFt Salat; dezoito reais bedeutet achtzehn Reais. Oito steht dagegen f\u00FCr 8. A salada custa dezoito reais. \u2014 Der Salat kostet achtzehn Reais.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          },
+          {
+            "id": "answer",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d6",
+            "text": "neunzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-034",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dezenove \u2014 neunzehn. Dezenove steht f\u00FCr 19. Esta camiseta hei\u00DFt dieses T-Shirt; dezenove reais bedeutet neunzehn Reais. Nove steht dagegen f\u00FCr 9. Esta camiseta custa dezenove reais. \u2014 Dieses T-Shirt kostet neunzehn Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "neunzehn"
+          },
+          {
+            "id": "d3",
+            "text": "elf"
+          },
+          {
+            "id": "d6",
+            "text": "Flasche"
+          },
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dezenove",
+        "difficulty": 1
+      },
+      {
+        "id": "task-035",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edezenove\u201C?",
+        "explanation": "dezenove \u2014 neunzehn. Dezenove steht f\u00FCr 19. Esta camiseta hei\u00DFt dieses T-Shirt; dezenove reais bedeutet neunzehn Reais. Nove steht dagegen f\u00FCr 9. Esta camiseta custa dezenove reais. \u2014 Dieses T-Shirt kostet neunzehn Reais.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Flasche"
+          },
+          {
+            "id": "answer",
+            "text": "neunzehn"
+          },
+          {
+            "id": "d9",
+            "text": "siebzig"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-036",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dezessete \u2014 siebzehn. Dezessete steht f\u00FCr 17 in der hier gelernten brasilianischen Schreibweise. Este livro hei\u00DFt dieses Buch. Unterscheide sete = sieben von dezessete = siebzehn. Este livro custa dezessete reais. \u2014 Dieses Buch kostet siebzehn Reais.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "answer",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d0",
+            "text": "hundert"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dezessete",
+        "difficulty": 1
+      },
+      {
+        "id": "task-037",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edezessete\u201C?",
+        "explanation": "dezessete \u2014 siebzehn. Dezessete steht f\u00FCr 17 in der hier gelernten brasilianischen Schreibweise. Este livro hei\u00DFt dieses Buch. Unterscheide sete = sieben von dezessete = siebzehn. Este livro custa dezessete reais. \u2014 Dieses Buch kostet siebzehn Reais.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "answer",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          },
+          {
+            "id": "d8",
+            "text": "achtzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-038",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "trinta \u2014 drei\u00DFig. Trinta steht f\u00FCr 30. A conta deu \u2026 wird im brasilianischen Alltag f\u00FCr einen entstandenen Rechnungsbetrag verwendet: Die Rechnung macht \u2026 aus. Trinta nicht mit treze = dreizehn verwechseln. A conta deu trinta reais. \u2014 Die Rechnung betr\u00E4gt drei\u00DFig Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "achtzig"
+          },
+          {
+            "id": "d9",
+            "text": "siebzig"
+          },
+          {
+            "id": "answer",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "trinta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-039",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etrinta\u201C?",
+        "explanation": "trinta \u2014 drei\u00DFig. Trinta steht f\u00FCr 30. A conta deu \u2026 wird im brasilianischen Alltag f\u00FCr einen entstandenen Rechnungsbetrag verwendet: Die Rechnung macht \u2026 aus. Trinta nicht mit treze = dreizehn verwechseln. A conta deu trinta reais. \u2014 Die Rechnung betr\u00E4gt drei\u00DFig Reais.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d5",
+            "text": "neunzehn"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          },
+          {
+            "id": "answer",
+            "text": "drei\u00DFig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-040",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quarenta \u2014 vierzig. Quarenta steht f\u00FCr 40. Esta bolsa hei\u00DFt diese Tasche; quarenta reais bedeutet vierzig Reais. Quatro ist 4, quarenta ist 40. Esta bolsa custa quarenta reais. \u2014 Diese Tasche kostet vierzig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "vierzig"
+          },
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d11",
+            "text": "neunzig"
+          },
+          {
+            "id": "d10",
+            "text": "siebzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quarenta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-041",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equarenta\u201C?",
+        "explanation": "quarenta \u2014 vierzig. Quarenta steht f\u00FCr 40. Esta bolsa hei\u00DFt diese Tasche; quarenta reais bedeutet vierzig Reais. Quatro ist 4, quarenta ist 40. Esta bolsa custa quarenta reais. \u2014 Diese Tasche kostet vierzig Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "siebzig"
+          },
+          {
+            "id": "answer",
+            "text": "vierzig"
+          },
+          {
+            "id": "d8",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-042",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "vinte \u2014 zwanzig. Vinte steht f\u00FCr 20. Tenho vinte reais hei\u00DFt ich habe zwanzig Reais. Das ist ein vorhandener Geldbetrag; der Satz nennt keinen Kaufpreis. Tenho vinte reais. \u2014 Ich habe zwanzig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "zwanzig"
+          },
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d3",
+            "text": "elf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "vinte",
+        "difficulty": 1
+      },
+      {
+        "id": "task-043",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Evinte\u201C?",
+        "explanation": "vinte \u2014 zwanzig. Vinte steht f\u00FCr 20. Tenho vinte reais hei\u00DFt ich habe zwanzig Reais. Das ist ein vorhandener Geldbetrag; der Satz nennt keinen Kaufpreis. Tenho vinte reais. \u2014 Ich habe zwanzig Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d7",
+            "text": "Flasche"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "answer",
+            "text": "zwanzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-044",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sessenta \u2014 sechzig. Sessenta steht f\u00FCr 60 und wird mit doppeltem s geschrieben. Este sapato hei\u00DFt dieser Schuh im Singular. Der Satz nennt nicht ausdr\u00FCcklich den Preis eines Schuhpaars. Este sapato custa sessenta reais. \u2014 Dieser Schuh kostet sechzig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sechzig"
+          },
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d11",
+            "text": "neunzig"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sessenta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-045",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esessenta\u201C?",
+        "explanation": "sessenta \u2014 sechzig. Sessenta steht f\u00FCr 60 und wird mit doppeltem s geschrieben. Este sapato hei\u00DFt dieser Schuh im Singular. Der Satz nennt nicht ausdr\u00FCcklich den Preis eines Schuhpaars. Este sapato custa sessenta reais. \u2014 Dieser Schuh kostet sechzig Reais.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "neunzehn"
+          },
+          {
+            "id": "answer",
+            "text": "sechzig"
+          },
+          {
+            "id": "d7",
+            "text": "Flasche"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-046",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "setenta \u2014 siebzig. Setenta steht f\u00FCr 70. A cal\u00E7a ist eine Hose; esta cal\u00E7a hei\u00DFt diese Hose. Unterscheide setenta = siebzig von sessenta = sechzig. Esta cal\u00E7a custa setenta reais. \u2014 Diese Hose kostet siebzig Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          },
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "answer",
+            "text": "siebzig"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "setenta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-047",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esetenta\u201C?",
+        "explanation": "setenta \u2014 siebzig. Setenta steht f\u00FCr 70. A cal\u00E7a ist eine Hose; esta cal\u00E7a hei\u00DFt diese Hose. Unterscheide setenta = siebzig von sessenta = sechzig. Esta cal\u00E7a custa setenta reais. \u2014 Diese Hose kostet siebzig Reais.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          },
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "answer",
+            "text": "siebzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-048",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cinquenta \u2014 f\u00FCnfzig. Cinquenta steht f\u00FCr 50. Passeio bezeichnet hier einen Ausflug. Cinquenta reais bedeutet f\u00FCnfzig Reais; cinco ist dagegen 5. O passeio custa cinquenta reais. \u2014 Der Ausflug kostet f\u00FCnfzig Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          },
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnfzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cinquenta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-049",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecinquenta\u201C?",
+        "explanation": "cinquenta \u2014 f\u00FCnfzig. Cinquenta steht f\u00FCr 50. Passeio bezeichnet hier einen Ausflug. Cinquenta reais bedeutet f\u00FCnfzig Reais; cinco ist dagegen 5. O passeio custa cinquenta reais. \u2014 Der Ausflug kostet f\u00FCnfzig Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "neunzig"
+          },
+          {
+            "id": "d9",
+            "text": "achtzehn"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnfzig"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-050",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "noventa \u2014 neunzig. Noventa steht f\u00FCr 90. Quarto bezeichnet hier ein Zimmer; por noite bedeutet pro Nacht. Der Betrag gilt im Beispiel f\u00FCr eine Nacht, nicht automatisch f\u00FCr den gesamten Aufenthalt. O quarto custa noventa reais por noite. \u2014 Das Zimmer kostet neunzig Reais pro Nacht.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Flasche"
+          },
+          {
+            "id": "answer",
+            "text": "neunzig"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "noventa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-051",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Enoventa\u201C?",
+        "explanation": "noventa \u2014 neunzig. Noventa steht f\u00FCr 90. Quarto bezeichnet hier ein Zimmer; por noite bedeutet pro Nacht. Der Betrag gilt im Beispiel f\u00FCr eine Nacht, nicht automatisch f\u00FCr den gesamten Aufenthalt. O quarto custa noventa reais por noite. \u2014 Das Zimmer kostet neunzig Reais pro Nacht.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "answer",
+            "text": "neunzig"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          },
+          {
+            "id": "d7",
+            "text": "Flasche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-052",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cem \u2014 hundert. Cem steht f\u00FCr genau 100. Tenho cem reais hei\u00DFt ich habe hundert Reais. F\u00FCr 101 verwendet man cento e um; cem und cento sind in diesem Gebrauch nicht austauschbar. Tenho cem reais. \u2014 Ich habe hundert Reais.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d6",
+            "text": "Flasche"
+          },
+          {
+            "id": "answer",
+            "text": "hundert"
+          },
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cem",
+        "difficulty": 1
+      },
+      {
+        "id": "task-053",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecem\u201C?",
+        "explanation": "cem \u2014 hundert. Cem steht f\u00FCr genau 100. Tenho cem reais hei\u00DFt ich habe hundert Reais. F\u00FCr 101 verwendet man cento e um; cem und cento sind in diesem Gebrauch nicht austauschbar. Tenho cem reais. \u2014 Ich habe hundert Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          },
+          {
+            "id": "answer",
+            "text": "hundert"
+          },
+          {
+            "id": "d7",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d6",
+            "text": "Flasche"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-054",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "oitenta \u2014 achtzig. Oitenta steht f\u00FCr 80. Jaqueta hei\u00DFt Jacke; oitenta reais bedeutet achtzig Reais. Oito ist 8, oitenta ist 80. A jaqueta custa oitenta reais. \u2014 Die Jacke kostet achtzig Reais.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "drei\u00DFig"
+          },
+          {
+            "id": "answer",
+            "text": "achtzig"
+          },
+          {
+            "id": "d3",
+            "text": "elf"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "oitenta",
+        "difficulty": 1
+      },
+      {
+        "id": "task-055",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eoitenta\u201C?",
+        "explanation": "oitenta \u2014 achtzig. Oitenta steht f\u00FCr 80. Jaqueta hei\u00DFt Jacke; oitenta reais bedeutet achtzig Reais. Oito ist 8, oitenta ist 80. A jaqueta custa oitenta reais. \u2014 Die Jacke kostet achtzig Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          },
+          {
+            "id": "d8",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "answer",
+            "text": "achtzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-056",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "vinte e dois \u2014 zweiundzwanzig. Vinte e dois ist 22: zuerst vinte = zwanzig, dann e = und, dann dois = zwei. Vor dem m\u00E4nnlichen reais steht dois. Vor einem weiblichen Nomen w\u00E4re es vinte e duas. Custa vinte e dois reais. \u2014 Es kostet zweiundzwanzig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "zweiundzwanzig"
+          },
+          {
+            "id": "d8",
+            "text": "achtzehn"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "vinte e dois",
+        "difficulty": 1
+      },
+      {
+        "id": "task-057",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Evinte e dois\u201C?",
+        "explanation": "vinte e dois \u2014 zweiundzwanzig. Vinte e dois ist 22: zuerst vinte = zwanzig, dann e = und, dann dois = zwei. Vor dem m\u00E4nnlichen reais steht dois. Vor einem weiblichen Nomen w\u00E4re es vinte e duas. Custa vinte e dois reais. \u2014 Es kostet zweiundzwanzig Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          },
+          {
+            "id": "d2",
+            "text": "f\u00FCnfzehn"
+          },
+          {
+            "id": "d5",
+            "text": "achtzig"
+          },
+          {
+            "id": "answer",
+            "text": "zweiundzwanzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-058",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "garrafa \u2014 Flasche. A garrafa, Plural garrafas. Quanto custa \u2026? fragt wie viel kostet \u2026? Esta garrafa bedeutet diese Flasche. Eine passende Antwort kann mit Custa \u2026 reais beginnen. Quanto custa esta garrafa? \u2014 Wie viel kostet diese Flasche?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "achtzig"
+          },
+          {
+            "id": "answer",
+            "text": "Flasche"
+          },
+          {
+            "id": "d0",
+            "text": "siebzehn"
+          },
+          {
+            "id": "d1",
+            "text": "hundert"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "garrafa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-059",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Egarrafa\u201C?",
+        "explanation": "garrafa \u2014 Flasche. A garrafa, Plural garrafas. Quanto custa \u2026? fragt wie viel kostet \u2026? Esta garrafa bedeutet diese Flasche. Eine passende Antwort kann mit Custa \u2026 reais beginnen. Quanto custa esta garrafa? \u2014 Wie viel kostet diese Flasche?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "hundert"
+          },
+          {
+            "id": "answer",
+            "text": "Flasche"
+          },
+          {
+            "id": "d10",
+            "text": "neunzig"
+          },
+          {
+            "id": "d11",
+            "text": "zwanzig"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-060",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezw\u00F6lf\u201C?",
+        "explanation": "doze \u2014 zw\u00F6lf. Doze steht f\u00FCr 12. Doze reais o quilo bedeutet zw\u00F6lf Reais pro Kilo. A banana bezeichnet hier Bananen als Ware; der Preis bezieht sich auf das Kilo, nicht auf ein einzelnes St\u00FCck. A banana custa doze reais o quilo. \u2014 Die Bananen kosten zw\u00F6lf Reais pro Kilo.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "oitenta"
+          },
+          {
+            "id": "d3",
+            "text": "onze"
+          },
+          {
+            "id": "answer",
+            "text": "doze"
+          },
+          {
+            "id": "d6",
+            "text": "dezenove"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-061",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 12 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "doze bezeichnet die Zahl 12. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa quatorze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-062",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Edreizehn\u201C?",
+        "explanation": "treze \u2014 dreizehn. Treze steht f\u00FCr 13. Treze reais bedeutet dreizehn Reais; sandu\u00EDche hei\u00DFt Sandwich. Unterscheide treze = dreizehn von tr\u00EAs = drei. O sandu\u00EDche custa treze reais. \u2014 Das Sandwich kostet dreizehn Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "noventa"
+          },
+          {
+            "id": "d9",
+            "text": "dezoito"
+          },
+          {
+            "id": "d8",
+            "text": "vinte e dois"
+          },
+          {
+            "id": "answer",
+            "text": "treze"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-063",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 13 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "treze bezeichnet die Zahl 13. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa quatorze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-064",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eelf\u201C?",
+        "explanation": "onze \u2014 elf. Onze steht f\u00FCr 11. Suco hei\u00DFt Saft; custa onze reais bedeutet kostet elf Reais. Das Muster custa \u2026 reais kann mit weiteren Zahlen verwendet werden. O suco custa onze reais. \u2014 Der Saft kostet elf Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "onze"
+          },
+          {
+            "id": "d5",
+            "text": "dezenove"
+          },
+          {
+            "id": "d9",
+            "text": "setenta"
+          },
+          {
+            "id": "d1",
+            "text": "cem"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-065",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 11 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "onze bezeichnet die Zahl 11. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa quatorze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-066",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ef\u00FCnfzehn\u201C?",
+        "explanation": "quinze \u2014 f\u00FCnfzehn. Quinze steht f\u00FCr 15. Almo\u00E7o bezeichnet hier das Mittagessen; quinze reais sind f\u00FCnfzehn Reais. Dieselbe Zahl wird im Uhrzeitpaket f\u00FCr f\u00FCnfzehn Minuten verwendet. O almo\u00E7o custa quinze reais. \u2014 Das Mittagessen kostet f\u00FCnfzehn Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "quinze"
+          },
+          {
+            "id": "d9",
+            "text": "vinte e dois"
+          },
+          {
+            "id": "d7",
+            "text": "duas horas"
+          },
+          {
+            "id": "d11",
+            "text": "setenta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-067",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 15 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "quinze bezeichnet die Zahl 15. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O suco custa quinze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-068",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esechzehn\u201C?",
+        "explanation": "dezesseis \u2014 sechzehn. Dezesseis steht f\u00FCr 16 in der hier gelernten brasilianischen Schreibweise. Prato bezeichnet hier das Gericht. Dezesseis reais bedeutet sechzehn Reais. O prato custa dezesseis reais. \u2014 Das Gericht kostet sechzehn Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "setenta"
+          },
+          {
+            "id": "d9",
+            "text": "dezoito"
+          },
+          {
+            "id": "d8",
+            "text": "vinte e dois"
+          },
+          {
+            "id": "answer",
+            "text": "dezesseis"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-069",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 16 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "dezesseis bezeichnet die Zahl 16. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa dezesseis reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-070",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Evierzehn\u201C?",
+        "explanation": "quatorze \u2014 vierzehn. Quatorze steht f\u00FCr 14; catorze ist ebenfalls eine korrekte Schreibweise. Passagem bezeichnet hier eine Fahrkarte. Beide Zahlformen benennen denselben Betrag. A passagem custa quatorze reais. \u2014 Die Fahrkarte kostet vierzehn Reais.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "garrafa"
+          },
+          {
+            "id": "answer",
+            "text": "quatorze"
+          },
+          {
+            "id": "d1",
+            "text": "cem"
+          },
+          {
+            "id": "d8",
+            "text": "vinte e dois"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-071",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 14 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "quatorze bezeichnet die Zahl 14. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa quatorze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-072",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eachtzehn\u201C?",
+        "explanation": "dezoito \u2014 achtzehn. Dezoito steht f\u00FCr 18. Salada hei\u00DFt Salat; dezoito reais bedeutet achtzehn Reais. Oito steht dagegen f\u00FCr 8. A salada custa dezoito reais. \u2014 Der Salat kostet achtzehn Reais.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "dezessete"
+          },
+          {
+            "id": "answer",
+            "text": "dezoito"
+          },
+          {
+            "id": "d5",
+            "text": "oitenta"
+          },
+          {
+            "id": "d6",
+            "text": "dezenove"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-073",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 18 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "dezoito bezeichnet die Zahl 18. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O suco custa dezoito reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-074",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eneunzehn\u201C?",
+        "explanation": "dezenove \u2014 neunzehn. Dezenove steht f\u00FCr 19. Esta camiseta hei\u00DFt dieses T-Shirt; dezenove reais bedeutet neunzehn Reais. Nove steht dagegen f\u00FCr 9. Esta camiseta custa dezenove reais. \u2014 Dieses T-Shirt kostet neunzehn Reais.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "dezessete"
+          },
+          {
+            "id": "d9",
+            "text": "setenta"
+          },
+          {
+            "id": "d1",
+            "text": "cem"
+          },
+          {
+            "id": "answer",
+            "text": "dezenove"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-075",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 19 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "dezenove bezeichnet die Zahl 19. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa dezenove reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-076",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esiebzehn\u201C?",
+        "explanation": "dezessete \u2014 siebzehn. Dezessete steht f\u00FCr 17 in der hier gelernten brasilianischen Schreibweise. Este livro hei\u00DFt dieses Buch. Unterscheide sete = sieben von dezessete = siebzehn. Este livro custa dezessete reais. \u2014 Dieses Buch kostet siebzehn Reais.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "quinze"
+          },
+          {
+            "id": "d4",
+            "text": "oitenta"
+          },
+          {
+            "id": "answer",
+            "text": "dezessete"
+          },
+          {
+            "id": "d6",
+            "text": "garrafa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-077",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 17 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "dezessete bezeichnet die Zahl 17. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa dezessete reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-078",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Edrei\u00DFig\u201C?",
+        "explanation": "trinta \u2014 drei\u00DFig. Trinta steht f\u00FCr 30. A conta deu \u2026 wird im brasilianischen Alltag f\u00FCr einen entstandenen Rechnungsbetrag verwendet: Die Rechnung macht \u2026 aus. Trinta nicht mit treze = dreizehn verwechseln. A conta deu trinta reais. \u2014 Die Rechnung betr\u00E4gt drei\u00DFig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "trinta"
+          },
+          {
+            "id": "d9",
+            "text": "setenta"
+          },
+          {
+            "id": "d1",
+            "text": "cem"
+          },
+          {
+            "id": "d3",
+            "text": "onze"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-079",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 30 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "trinta bezeichnet die Zahl 30. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa trinta reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-080",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Evierzig\u201C?",
+        "explanation": "quarenta \u2014 vierzig. Quarenta steht f\u00FCr 40. Esta bolsa hei\u00DFt diese Tasche; quarenta reais bedeutet vierzig Reais. Quatro ist 4, quarenta ist 40. Esta bolsa custa quarenta reais. \u2014 Diese Tasche kostet vierzig Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "noventa"
+          },
+          {
+            "id": "d4",
+            "text": "trinta"
+          },
+          {
+            "id": "answer",
+            "text": "quarenta"
+          },
+          {
+            "id": "d7",
+            "text": "garrafa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-081",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 40 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "quarenta bezeichnet die Zahl 40. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa quarenta reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-082",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezwanzig\u201C?",
+        "explanation": "vinte \u2014 zwanzig. Vinte steht f\u00FCr 20. Tenho vinte reais hei\u00DFt ich habe zwanzig Reais. Das ist ein vorhandener Geldbetrag; der Satz nennt keinen Kaufpreis. Tenho vinte reais. \u2014 Ich habe zwanzig Reais.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "cem"
+          },
+          {
+            "id": "answer",
+            "text": "vinte"
+          },
+          {
+            "id": "d9",
+            "text": "dezoito"
+          },
+          {
+            "id": "d10",
+            "text": "setenta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-083",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 20 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "vinte bezeichnet die Zahl 20. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa vinte reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-084",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esechzig\u201C?",
+        "explanation": "sessenta \u2014 sechzig. Sessenta steht f\u00FCr 60 und wird mit doppeltem s geschrieben. Este sapato hei\u00DFt dieser Schuh im Singular. Der Satz nennt nicht ausdr\u00FCcklich den Preis eines Schuhpaars. Este sapato custa sessenta reais. \u2014 Dieser Schuh kostet sechzig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sessenta"
+          },
+          {
+            "id": "d7",
+            "text": "garrafa"
+          },
+          {
+            "id": "d3",
+            "text": "onze"
+          },
+          {
+            "id": "d8",
+            "text": "vinte e dois"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-085",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 60 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "sessenta bezeichnet die Zahl 60. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa sessenta reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-086",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esiebzig\u201C?",
+        "explanation": "setenta \u2014 siebzig. Setenta steht f\u00FCr 70. A cal\u00E7a ist eine Hose; esta cal\u00E7a hei\u00DFt diese Hose. Unterscheide setenta = siebzig von sessenta = sechzig. Esta cal\u00E7a custa setenta reais. \u2014 Diese Hose kostet siebzig Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "noventa"
+          },
+          {
+            "id": "answer",
+            "text": "setenta"
+          },
+          {
+            "id": "d1",
+            "text": "cem"
+          },
+          {
+            "id": "d4",
+            "text": "trinta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-087",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 70 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "setenta bezeichnet die Zahl 70. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "O suco custa setenta reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-088",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ef\u00FCnfzig\u201C?",
+        "explanation": "cinquenta \u2014 f\u00FCnfzig. Cinquenta steht f\u00FCr 50. Passeio bezeichnet hier einen Ausflug. Cinquenta reais bedeutet f\u00FCnfzig Reais; cinco ist dagegen 5. O passeio custa cinquenta reais. \u2014 Der Ausflug kostet f\u00FCnfzig Reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "cinquenta"
+          },
+          {
+            "id": "d4",
+            "text": "trinta"
+          },
+          {
+            "id": "d7",
+            "text": "garrafa"
+          },
+          {
+            "id": "d10",
+            "text": "setenta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-089",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 50 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "cinquenta bezeichnet die Zahl 50. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa cinquenta reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-090",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eneunzig\u201C?",
+        "explanation": "noventa \u2014 neunzig. Noventa steht f\u00FCr 90. Quarto bezeichnet hier ein Zimmer; por noite bedeutet pro Nacht. Der Betrag gilt im Beispiel f\u00FCr eine Nacht, nicht automatisch f\u00FCr den gesamten Aufenthalt. O quarto custa noventa reais por noite. \u2014 Das Zimmer kostet neunzig Reais pro Nacht.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "vinte e dois"
+          },
+          {
+            "id": "d1",
+            "text": "cem"
+          },
+          {
+            "id": "d4",
+            "text": "trinta"
+          },
+          {
+            "id": "answer",
+            "text": "noventa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-091",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 90 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "noventa bezeichnet die Zahl 90. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa noventa reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-092",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ehundert\u201C?",
+        "explanation": "cem \u2014 hundert. Cem steht f\u00FCr genau 100. Tenho cem reais hei\u00DFt ich habe hundert Reais. F\u00FCr 101 verwendet man cento e um; cem und cento sind in diesem Gebrauch nicht austauschbar. Tenho cem reais. \u2014 Ich habe hundert Reais.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "onze"
+          },
+          {
+            "id": "d8",
+            "text": "dezoito"
+          },
+          {
+            "id": "answer",
+            "text": "cem"
+          },
+          {
+            "id": "d3",
+            "text": "trinta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-093",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 100 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "cem bezeichnet die Zahl 100. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa cem reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-094",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eachtzig\u201C?",
+        "explanation": "oitenta \u2014 achtzig. Oitenta steht f\u00FCr 80. Jaqueta hei\u00DFt Jacke; oitenta reais bedeutet achtzig Reais. Oito ist 8, oitenta ist 80. A jaqueta custa oitenta reais. \u2014 Die Jacke kostet achtzig Reais.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "vinte"
+          },
+          {
+            "id": "answer",
+            "text": "oitenta"
+          },
+          {
+            "id": "d2",
+            "text": "quinze"
+          },
+          {
+            "id": "d10",
+            "text": "noventa"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-095",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 80 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "oitenta bezeichnet die Zahl 80. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa oitenta reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-096",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezweiundzwanzig\u201C?",
+        "explanation": "vinte e dois \u2014 zweiundzwanzig. Vinte e dois ist 22: zuerst vinte = zwanzig, dann e = und, dann dois = zwei. Vor dem m\u00E4nnlichen reais steht dois. Vor einem weiblichen Nomen w\u00E4re es vinte e duas. Custa vinte e dois reais. \u2014 Es kostet zweiundzwanzig Reais.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "noventa"
+          },
+          {
+            "id": "answer",
+            "text": "vinte e dois"
+          },
+          {
+            "id": "d6",
+            "text": "dezenove"
+          },
+          {
+            "id": "d0",
+            "text": "dezessete"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-097",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Der Saft kostet genau 22 Reais. Welche Aussage nennt diesen Preis?",
+        "explanation": "vinte e dois bezeichnet die Zahl 22. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "O suco custa treze reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "O suco custa doze reais."
+          },
+          {
+            "id": "answer",
+            "text": "O suco custa vinte e dois reais."
+          },
+          {
+            "id": "wrong-0",
+            "text": "O suco custa onze reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-098",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFlasche\u201C?",
+        "explanation": "garrafa \u2014 Flasche. A garrafa, Plural garrafas. Quanto custa \u2026? fragt wie viel kostet \u2026? Esta garrafa bedeutet diese Flasche. Eine passende Antwort kann mit Custa \u2026 reais beginnen. Quanto custa esta garrafa? \u2014 Wie viel kostet diese Flasche?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "garrafa"
+          },
+          {
+            "id": "d5",
+            "text": "oitenta"
+          },
+          {
+            "id": "d4",
+            "text": "trinta"
+          },
+          {
+            "id": "d7",
+            "text": "vinte e dois"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-099",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt nach dem Preis dieser Flasche?",
+        "explanation": "Quanto custa? fragt nach dem Preis. Garrafa hei\u00DFt Flasche.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Esta garrafa \u00E9 grande?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Onde est\u00E1 esta garrafa?"
+          },
+          {
+            "id": "answer",
+            "text": "Quanto custa esta garrafa?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Quanto custa este p\u00E3o?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

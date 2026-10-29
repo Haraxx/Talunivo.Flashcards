@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-40-hilfe",
-  "packageVersion": 4,
-  "title": "40 · Um Hilfe bitten",
+  "packageVersion": 6,
+  "title": "40 \u00B7 Um Hilfe bitten",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Um Hilfe bitten",
       "expression": "ajudar",
       "translation": "helfen",
-      "isVocabulary": true,
       "example": "Pode me ajudar, por favor?",
-      "exampleTranslation": "Können Sie mir bitte helfen?",
-      "explanation": "Ajudar heißt helfen. Pode me ajudar? bedeutet können Sie mir helfen?; me bezieht sich auf die sprechende Person. Por favor ergänzt die Bitte. Ajuda ist das Nomen Hilfe aus Paket 38."
+      "exampleTranslation": "K\u00F6nnen Sie mir bitte helfen?",
+      "explanation": "Ajudar hei\u00DFt helfen. Pode me ajudar? bedeutet k\u00F6nnen Sie mir helfen?; me bezieht sich auf die sprechende Person. Por favor erg\u00E4nzt die Bitte. Ajuda ist das Nomen Hilfe aus Paket 38.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Um Hilfe bitten",
       "expression": "perdido",
-      "translation": "verirrt (männlich)",
-      "isVocabulary": true,
+      "translation": "verirrt (m\u00E4nnlich)",
       "example": "Estou perdido.",
       "exampleTranslation": "Ich habe mich verlaufen.",
-      "explanation": "Perdido ist hier die männliche Form von verirrt; die weibliche lautet perdida. Estou perdido beschreibt den aktuellen Zustand. Die deutsche Übersetzung kann ich habe mich verlaufen oder ich bin verirrt lauten."
+      "explanation": "Perdido ist hier die m\u00E4nnliche Form von verirrt; die weibliche lautet perdida. Estou perdido beschreibt den aktuellen Zustand. Die deutsche \u00DCbersetzung kann ich habe mich verlaufen oder ich bin verirrt lauten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Um Hilfe bitten",
       "expression": "perdida",
       "translation": "verirrt (weiblich)",
-      "isVocabulary": true,
       "example": "Estou perdida nesta rua.",
-      "exampleTranslation": "Ich habe mich in dieser Straße verlaufen.",
-      "explanation": "Perdida ist hier die weibliche Form von verirrt; die männliche lautet perdido. Nesta verbindet em + esta und bedeutet in dieser. Beide Formen beschreiben dasselbe Befinden; die Auswahl nicht aus einem Avatar ableiten."
+      "exampleTranslation": "Ich habe mich in dieser Stra\u00DFe verlaufen.",
+      "explanation": "Perdida ist hier die weibliche Form von verirrt; die m\u00E4nnliche lautet perdido. Nesta verbindet em \u002B esta und bedeutet in dieser. Beide Formen beschreiben dasselbe Befinden; die Auswahl nicht aus einem Avatar ableiten.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Um Hilfe bitten",
       "expression": "perder",
       "translation": "verlieren",
-      "isVocabulary": true,
       "example": "Perdi meu celular.",
       "exampleTranslation": "Ich habe mein Handy verloren.",
-      "explanation": "Perder heißt verlieren; perdi ist die Ich-Form in der abgeschlossenen Vergangenheit: ich habe verloren. Meu celular heißt mein Handy. Im Unterschied zu estou perdido beschreibt der Satz hier den Verlust eines Gegenstands."
+      "explanation": "Perder hei\u00DFt verlieren; perdi ist die Ich-Form in der abgeschlossenen Vergangenheit: ich habe verloren. Meu celular hei\u00DFt mein Handy. Im Unterschied zu estou perdido beschreibt der Satz hier den Verlust eines Gegenstands.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Um Hilfe bitten",
       "expression": "encontrar",
       "translation": "finden",
-      "isVocabulary": true,
-      "example": "Não encontro meu passaporte.",
+      "example": "N\u00E3o encontro meu passaporte.",
       "exampleTranslation": "Ich finde meinen Reisepass nicht.",
-      "explanation": "Encontrar heißt finden; encontro ist die Ich-Form im Präsens. Não verneint die Aussage, meu passaporte heißt mein Reisepass. Nichtfinden sagt noch nicht, ob der Pass verloren wurde."
+      "explanation": "Encontrar hei\u00DFt finden; encontro ist die Ich-Form im Pr\u00E4sens. N\u00E3o verneint die Aussage, meu passaporte hei\u00DFt mein Reisepass. Nichtfinden sagt noch nicht, ob der Pass verloren wurde.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Um Hilfe bitten",
-      "expression": "ambulância",
+      "expression": "ambul\u00E2ncia",
       "translation": "Krankenwagen",
-      "isVocabulary": true,
-      "example": "Chame uma ambulância, por favor.",
+      "example": "Chame uma ambul\u00E2ncia, por favor.",
       "exampleTranslation": "Rufen Sie bitte einen Krankenwagen.",
-      "explanation": "A ambulância, Plural ambulâncias, heißt Krankenwagen. Chame ist hier die Aufforderungsform von chamar zur Ansprache mit você; por favor macht die Bitte ausdrücklich. Der Satz nennt keine Rufnummer und beschreibt keinen konkreten Ablauf."
+      "explanation": "A ambul\u00E2ncia, Plural ambul\u00E2ncias, hei\u00DFt Krankenwagen. Chame ist hier die Aufforderungsform von chamar zur Ansprache mit voc\u00EA; por favor macht die Bitte ausdr\u00FCcklich. Der Satz nennt keine Rufnummer und beschreibt keinen konkreten Ablauf.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Um Hilfe bitten",
-      "expression": "médico",
+      "expression": "m\u00E9dico",
       "translation": "Arzt",
-      "isVocabulary": true,
-      "example": "Preciso de um médico.",
+      "example": "Preciso de um m\u00E9dico.",
       "exampleTranslation": "Ich brauche einen Arzt.",
-      "explanation": "O médico heißt Arzt; die weibliche Form ist a médica, Ärztin. Preciso de + Nomen heißt ich brauche etwas oder jemanden. Um médico benennt hier die gesuchte Person; der Satz nennt keine bestimmte Behandlung."
+      "explanation": "O m\u00E9dico hei\u00DFt Arzt; die weibliche Form ist a m\u00E9dica, \u00C4rztin. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas oder jemanden. Um m\u00E9dico benennt hier die gesuchte Person; der Satz nennt keine bestimmte Behandlung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Um Hilfe bitten",
       "expression": "entrada",
       "translation": "Eingang",
-      "isVocabulary": true,
       "example": "Estou na entrada do hotel.",
       "exampleTranslation": "Ich bin am Hoteleingang.",
-      "explanation": "A entrada, Plural entradas, bezeichnet hier den Eingang. Na verbindet em + a, do verbindet de + o. Na entrada do hotel heißt am Eingang des Hotels. Estou nennt hier den aktuellen Standort."
+      "explanation": "A entrada, Plural entradas, bezeichnet hier den Eingang. Na verbindet em \u002B a, do verbindet de \u002B o. Na entrada do hotel hei\u00DFt am Eingang des Hotels. Estou nennt hier den aktuellen Standort.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Um Hilfe bitten und einfache Angaben zu Orientierung oder Problemen verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte m\u00E4nnliche Singularform f\u00FCr verirrt: \u201EEstou ____.\u201C",
+        "explanation": "Perdido ist die ausdr\u00FCcklich gefragte m\u00E4nnliche Form. Perdida w\u00E4re weiblich.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "perdido"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die gelernte weibliche Singularform f\u00FCr verirrt: \u201EEstou ____ nesta rua.\u201C",
+        "explanation": "Perdida ist die ausdr\u00FCcklich gefragte weibliche Form. Perdido w\u00E4re m\u00E4nnlich. Nesta rua bedeutet in dieser Stra\u00DFe.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "perdida"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ajudar \u2014 helfen. Ajudar hei\u00DFt helfen. Pode me ajudar? bedeutet k\u00F6nnen Sie mir helfen?; me bezieht sich auf die sprechende Person. Por favor erg\u00E4nzt die Bitte. Ajuda ist das Nomen Hilfe aus Paket 38. Pode me ajudar, por favor? \u2014 K\u00F6nnen Sie mir bitte helfen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "helfen"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "d4",
+            "text": "verlieren"
+          },
+          {
+            "id": "d3",
+            "text": "verirrt (weiblich)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ajudar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eajudar\u201C?",
+        "explanation": "ajudar \u2014 helfen. Ajudar hei\u00DFt helfen. Pode me ajudar? bedeutet k\u00F6nnen Sie mir helfen?; me bezieht sich auf die sprechende Person. Por favor erg\u00E4nzt die Bitte. Ajuda ist das Nomen Hilfe aus Paket 38. Pode me ajudar, por favor? \u2014 K\u00F6nnen Sie mir bitte helfen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "verirrt (weiblich)"
+          },
+          {
+            "id": "d5",
+            "text": "Arzt"
+          },
+          {
+            "id": "d2",
+            "text": "finden"
+          },
+          {
+            "id": "answer",
+            "text": "helfen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPerdi meu celular.\u201C",
+        "explanation": "perder \u2014 verlieren. Perder hei\u00DFt verlieren; perdi ist die Ich-Form in der abgeschlossenen Vergangenheit: ich habe verloren. Meu celular hei\u00DFt mein Handy. Im Unterschied zu estou perdido beschreibt der Satz hier den Verlust eines Gegenstands. Perdi meu celular. \u2014 Ich habe mein Handy verloren.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "verlieren"
+          },
+          {
+            "id": "d6",
+            "text": "helfen"
+          },
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "d7",
+            "text": "laut"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "perder",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eperder\u201C in diesem Beispiel? \u201EPerdi meu celular.\u201C",
+        "explanation": "perder \u2014 verlieren. Perder hei\u00DFt verlieren; perdi ist die Ich-Form in der abgeschlossenen Vergangenheit: ich habe verloren. Meu celular hei\u00DFt mein Handy. Im Unterschied zu estou perdido beschreibt der Satz hier den Verlust eines Gegenstands. Perdi meu celular. \u2014 Ich habe mein Handy verloren.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "d9",
+            "text": "Klimaanlage"
+          },
+          {
+            "id": "d1",
+            "text": "reinigen"
+          },
+          {
+            "id": "answer",
+            "text": "verlieren"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o encontro meu passaporte.\u201C",
+        "explanation": "encontrar \u2014 finden. Encontrar hei\u00DFt finden; encontro ist die Ich-Form im Pr\u00E4sens. N\u00E3o verneint die Aussage, meu passaporte hei\u00DFt mein Reisepass. Nichtfinden sagt noch nicht, ob der Pass verloren wurde. N\u00E3o encontro meu passaporte. \u2014 Ich finde meinen Reisepass nicht.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "verirrt (weiblich)"
+          },
+          {
+            "id": "d1",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "d4",
+            "text": "Arzt"
+          },
+          {
+            "id": "answer",
+            "text": "finden"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "encontrar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eencontrar\u201C in diesem Beispiel? \u201EN\u00E3o encontro meu passaporte.\u201C",
+        "explanation": "encontrar \u2014 finden. Encontrar hei\u00DFt finden; encontro ist die Ich-Form im Pr\u00E4sens. N\u00E3o verneint die Aussage, meu passaporte hei\u00DFt mein Reisepass. Nichtfinden sagt noch nicht, ob der Pass verloren wurde. N\u00E3o encontro meu passaporte. \u2014 Ich finde meinen Reisepass nicht.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "answer",
+            "text": "finden"
+          },
+          {
+            "id": "d6",
+            "text": "Krankenwagen"
+          },
+          {
+            "id": "d1",
+            "text": "verirrt (m\u00E4nnlich)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "ambul\u00E2ncia \u2014 Krankenwagen. A ambul\u00E2ncia, Plural ambul\u00E2ncias, hei\u00DFt Krankenwagen. Chame ist hier die Aufforderungsform von chamar zur Ansprache mit voc\u00EA; por favor macht die Bitte ausdr\u00FCcklich. Der Satz nennt keine Rufnummer und beschreibt keinen konkreten Ablauf. Chame uma ambul\u00E2ncia, por favor. \u2014 Rufen Sie bitte einen Krankenwagen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "verirrt (weiblich)"
+          },
+          {
+            "id": "d1",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "d5",
+            "text": "Arzt"
+          },
+          {
+            "id": "answer",
+            "text": "Krankenwagen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "ambul\u00E2ncia",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eambul\u00E2ncia\u201C?",
+        "explanation": "ambul\u00E2ncia \u2014 Krankenwagen. A ambul\u00E2ncia, Plural ambul\u00E2ncias, hei\u00DFt Krankenwagen. Chame ist hier die Aufforderungsform von chamar zur Ansprache mit voc\u00EA; por favor macht die Bitte ausdr\u00FCcklich. Der Satz nennt keine Rufnummer und beschreibt keinen konkreten Ablauf. Chame uma ambul\u00E2ncia, por favor. \u2014 Rufen Sie bitte einen Krankenwagen.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "verlieren"
+          },
+          {
+            "id": "d5",
+            "text": "Arzt"
+          },
+          {
+            "id": "answer",
+            "text": "Krankenwagen"
+          },
+          {
+            "id": "d3",
+            "text": "verirrt (weiblich)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPreciso de um m\u00E9dico.\u201C",
+        "explanation": "m\u00E9dico \u2014 Arzt. O m\u00E9dico hei\u00DFt Arzt; die weibliche Form ist a m\u00E9dica, \u00C4rztin. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas oder jemanden. Um m\u00E9dico benennt hier die gesuchte Person; der Satz nennt keine bestimmte Behandlung. Preciso de um m\u00E9dico. \u2014 Ich brauche einen Arzt.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Lehrerin"
+          },
+          {
+            "id": "d11",
+            "text": "Student; Studentin"
+          },
+          {
+            "id": "d3",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "answer",
+            "text": "Arzt"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "m\u00E9dico",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Em\u00E9dico\u201C in diesem Beispiel? \u201EPreciso de um m\u00E9dico.\u201C",
+        "explanation": "m\u00E9dico \u2014 Arzt. O m\u00E9dico hei\u00DFt Arzt; die weibliche Form ist a m\u00E9dica, \u00C4rztin. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas oder jemanden. Um m\u00E9dico benennt hier die gesuchte Person; der Satz nennt keine bestimmte Behandlung. Preciso de um m\u00E9dico. \u2014 Ich brauche einen Arzt.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "Eingang"
+          },
+          {
+            "id": "answer",
+            "text": "Arzt"
+          },
+          {
+            "id": "d7",
+            "text": "arbeiten"
+          },
+          {
+            "id": "d8",
+            "text": "noch"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EEstou na entrada do hotel.\u201C",
+        "explanation": "entrada \u2014 Eingang. A entrada, Plural entradas, bezeichnet hier den Eingang. Na verbindet em \u002B a, do verbindet de \u002B o. Na entrada do hotel hei\u00DFt am Eingang des Hotels. Estou nennt hier den aktuellen Standort. Estou na entrada do hotel. \u2014 Ich bin am Hoteleingang.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Adresse"
+          },
+          {
+            "id": "d9",
+            "text": "Hotel"
+          },
+          {
+            "id": "d0",
+            "text": "verirrt (m\u00E4nnlich)"
+          },
+          {
+            "id": "answer",
+            "text": "Eingang"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "entrada",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eentrada\u201C in diesem Beispiel? \u201EEstou na entrada do hotel.\u201C",
+        "explanation": "entrada \u2014 Eingang. A entrada, Plural entradas, bezeichnet hier den Eingang. Na verbindet em \u002B a, do verbindet de \u002B o. Na entrada do hotel hei\u00DFt am Eingang des Hotels. Estou nennt hier den aktuellen Standort. Estou na entrada do hotel. \u2014 Ich bin am Hoteleingang.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "verirrt (weiblich)"
+          },
+          {
+            "id": "answer",
+            "text": "Eingang"
+          },
+          {
+            "id": "d1",
+            "text": "Verkehr"
+          },
+          {
+            "id": "d8",
+            "text": "helfen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EVoc\u00EA precisa de ajuda?\u201C \u2013 Welche Antwort bittet die Person h\u00F6flich um Hilfe?",
+        "explanation": "Pode me ajudar, por favor? bittet um Hilfe f\u00FCr die sprechende Person. Ajuda ist das Nomen, ajudar das Verb.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Onde fica a entrada?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o preciso de ajuda."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso ajudar amanh\u00E3."
+          },
+          {
+            "id": "answer",
+            "text": "Pode me ajudar, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ehelfen\u201C?",
+        "explanation": "ajudar \u2014 helfen. Ajudar hei\u00DFt helfen. Pode me ajudar? bedeutet k\u00F6nnen Sie mir helfen?; me bezieht sich auf die sprechende Person. Por favor erg\u00E4nzt die Bitte. Ajuda ist das Nomen Hilfe aus Paket 38. Pode me ajudar, por favor? \u2014 K\u00F6nnen Sie mir bitte helfen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "perdida"
+          },
+          {
+            "id": "answer",
+            "text": "ajudar"
+          },
+          {
+            "id": "d2",
+            "text": "encontrar"
+          },
+          {
+            "id": "d1",
+            "text": "perdido"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass du dein Handy verloren hast?",
+        "explanation": "Perdi ist hier die Vergangenheit Ich habe verloren. Nichtfinden in der Gegenwart ist noch keine ausdr\u00FCckliche Behauptung eines Verlusts.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Perdi meu passaporte."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estou na entrada do hotel."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o encontro meu celular."
+          },
+          {
+            "id": "answer",
+            "text": "Perdi meu celular."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Everlieren\u201C? Zusammenhang: bei einer Aussage \u00FCber das eigene Handy.",
+        "explanation": "perder \u2014 verlieren. Perder hei\u00DFt verlieren; perdi ist die Ich-Form in der abgeschlossenen Vergangenheit: ich habe verloren. Meu celular hei\u00DFt mein Handy. Im Unterschied zu estou perdido beschreibt der Satz hier den Verlust eines Gegenstands. Perdi meu celular. \u2014 Ich habe mein Handy verloren.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "perder"
+          },
+          {
+            "id": "d10",
+            "text": "\u00E1gua quente"
+          },
+          {
+            "id": "d7",
+            "text": "barulhento"
+          },
+          {
+            "id": "d6",
+            "text": "ajudar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du deinen Reisepass gerade nicht findest, ohne ausdr\u00FCcklich einen Verlust zu behaupten?",
+        "explanation": "N\u00E3o encontro verneint das Finden in der Gegenwart. Der Satz legt nicht fest, ob der Pass verloren wurde.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Encontro meu passaporte."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o encontro meu passaporte."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Perdi meu passaporte."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estou na entrada do hotel."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Efinden\u201C? Zusammenhang: bei einer Aussage \u00FCber den eigenen Reisepass.",
+        "explanation": "encontrar \u2014 finden. Encontrar hei\u00DFt finden; encontro ist die Ich-Form im Pr\u00E4sens. N\u00E3o verneint die Aussage, meu passaporte hei\u00DFt mein Reisepass. Nichtfinden sagt noch nicht, ob der Pass verloren wurde. N\u00E3o encontro meu passaporte. \u2014 Ich finde meinen Reisepass nicht.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "ajudar"
+          },
+          {
+            "id": "answer",
+            "text": "encontrar"
+          },
+          {
+            "id": "d1",
+            "text": "perdido"
+          },
+          {
+            "id": "d0",
+            "text": "entrada"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Bitte fordert ausdr\u00FCcklich dazu auf, einen Krankenwagen zu rufen?",
+        "explanation": "Chame uma ambul\u00E2ncia bedeutet Rufen Sie einen Krankenwagen. Die Sprachaufgabe nennt keine Rufnummer und keinen Ablauf.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Chame uma ambul\u00E2ncia, por favor."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Preciso de um m\u00E9dico."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode me ajudar, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Chame um m\u00E9dico, por favor."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKrankenwagen\u201C?",
+        "explanation": "ambul\u00E2ncia \u2014 Krankenwagen. A ambul\u00E2ncia, Plural ambul\u00E2ncias, hei\u00DFt Krankenwagen. Chame ist hier die Aufforderungsform von chamar zur Ansprache mit voc\u00EA; por favor macht die Bitte ausdr\u00FCcklich. Der Satz nennt keine Rufnummer und beschreibt keinen konkreten Ablauf. Chame uma ambul\u00E2ncia, por favor. \u2014 Rufen Sie bitte einen Krankenwagen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "entrada"
+          },
+          {
+            "id": "answer",
+            "text": "ambul\u00E2ncia"
+          },
+          {
+            "id": "d5",
+            "text": "m\u00E9dico"
+          },
+          {
+            "id": "d2",
+            "text": "encontrar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du einen Arzt brauchst?",
+        "explanation": "Um m\u00E9dico benennt hier einen Arzt als gesuchte Person. Eine bestimmte Behandlung wird nicht genannt.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Preciso de um m\u00E9dico."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Estou procurando uma farm\u00E1cia aberta."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Preciso de um farmac\u00EAutico."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Preciso de ajuda."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EArzt\u201C? Zusammenhang: bei einer Bitte um Hilfe durch eine Person.",
+        "explanation": "m\u00E9dico \u2014 Arzt. O m\u00E9dico hei\u00DFt Arzt; die weibliche Form ist a m\u00E9dica, \u00C4rztin. Preciso de \u002B Nomen hei\u00DFt ich brauche etwas oder jemanden. Um m\u00E9dico benennt hier die gesuchte Person; der Satz nennt keine bestimmte Behandlung. Preciso de um m\u00E9dico. \u2014 Ich brauche einen Arzt.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "perder"
+          },
+          {
+            "id": "answer",
+            "text": "m\u00E9dico"
+          },
+          {
+            "id": "d3",
+            "text": "perdido"
+          },
+          {
+            "id": "d7",
+            "text": "trabalhar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage nennt den Hoteleingang als deinen aktuellen Standort?",
+        "explanation": "Na entrada do hotel hei\u00DFt am Hoteleingang. Estou beschreibt hier den aktuellen Standort.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Estou no quarto do hotel."
+          },
+          {
+            "id": "answer",
+            "text": "Estou na entrada do hotel."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Quero ir para o hotel."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Estou na sa\u00EDda do hotel."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEingang\u201C? Zusammenhang: bei einer Standortangabe am Hotel.",
+        "explanation": "entrada \u2014 Eingang. A entrada, Plural entradas, bezeichnet hier den Eingang. Na verbindet em \u002B a, do verbindet de \u002B o. Na entrada do hotel hei\u00DFt am Eingang des Hotels. Estou nennt hier den aktuellen Standort. Estou na entrada do hotel. \u2014 Ich bin am Hoteleingang.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "tr\u00E2nsito"
+          },
+          {
+            "id": "d8",
+            "text": "ajudar"
+          },
+          {
+            "id": "answer",
+            "text": "entrada"
+          },
+          {
+            "id": "d7",
+            "text": "m\u00E9dico"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

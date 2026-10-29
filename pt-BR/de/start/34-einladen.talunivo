@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-34-einladen",
-  "packageVersion": 4,
-  "title": "34 · Einladen und Verabreden",
+  "packageVersion": 6,
+  "title": "34 \u00B7 Einladen und Verabreden",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Einladen und Verabreden",
-      "expression": "tomar café",
+      "expression": "tomar caf\u00E9",
       "translation": "Kaffee trinken",
-      "isVocabulary": true,
-      "example": "Vamos tomar um café no sábado?",
+      "example": "Vamos tomar um caf\u00E9 no s\u00E1bado?",
       "exampleTranslation": "Wollen wir am Samstag einen Kaffee trinken?",
-      "explanation": "Tomar café heißt Kaffee trinken. Vamos + Infinitiv mit Fragezeichen ist hier ein gemeinsamer Vorschlag. Um café bezeichnet einen Kaffee; no sábado heißt am Samstag. Ort und Uhrzeit sind noch offen."
+      "explanation": "Tomar caf\u00E9 hei\u00DFt Kaffee trinken. Vamos \u002B Infinitiv mit Fragezeichen ist hier ein gemeinsamer Vorschlag. Um caf\u00E9 bezeichnet einen Kaffee; no s\u00E1bado hei\u00DFt am Samstag. Ort und Uhrzeit sind noch offen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Einladen und Verabreden",
       "expression": "cinema",
       "translation": "Kino",
-      "isVocabulary": true,
       "example": "Quer ir ao cinema comigo?",
-      "exampleTranslation": "Möchtest du mit mir ins Kino gehen?",
-      "explanation": "O cinema, Plural cinemas, bedeutet Kino. Ir ao cinema heißt ins Kino gehen; ao verbindet a + o. Quer fragt hier nach dem Wunsch der angesprochenen Person, comigo bedeutet mit mir."
+      "exampleTranslation": "M\u00F6chtest du mit mir ins Kino gehen?",
+      "explanation": "O cinema, Plural cinemas, bedeutet Kino. Ir ao cinema hei\u00DFt ins Kino gehen; ao verbindet a \u002B o. Quer fragt hier nach dem Wunsch der angesprochenen Person, comigo bedeutet mit mir.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Einladen und Verabreden",
       "expression": "tempo",
       "translation": "Zeit",
-      "isVocabulary": true,
-      "example": "Você tem tempo amanhã?",
+      "example": "Voc\u00EA tem tempo amanh\u00E3?",
       "exampleTranslation": "Hast du morgen Zeit?",
-      "explanation": "O tempo bedeutet hier verfügbare Zeit. Ter tempo heißt Zeit haben; tem gehört im Satz zu você. Amanhã heißt morgen. In der Wetterfrage Como está o tempo? hat dasselbe Wort eine andere Bedeutung."
+      "explanation": "O tempo bedeutet hier verf\u00FCgbare Zeit. Ter tempo hei\u00DFt Zeit haben; tem geh\u00F6rt im Satz zu voc\u00EA. Amanh\u00E3 hei\u00DFt morgen. In der Wetterfrage Como est\u00E1 o tempo? hat dasselbe Wort eine andere Bedeutung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Einladen und Verabreden",
       "expression": "passeio",
       "translation": "Ausflug",
-      "isVocabulary": true,
       "example": "Que tal um passeio?",
-      "exampleTranslation": "Wie wäre es mit einem Ausflug?",
-      "explanation": "O passeio, Plural passeios, kann Ausflug oder Spaziergang bedeuten. Que tal …? schlägt etwas vor: Wie wäre es mit …? Ohne Ziel oder Strecke legt der Satz die Art des Ausflugs nicht genauer fest."
+      "exampleTranslation": "Wie w\u00E4re es mit einem Ausflug?",
+      "explanation": "O passeio, Plural passeios, kann Ausflug oder Spaziergang bedeuten. Que tal \u2026? schl\u00E4gt etwas vor: Wie w\u00E4re es mit \u2026? Ohne Ziel oder Strecke legt der Satz die Art des Ausflugs nicht genauer fest.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Einladen und Verabreden",
       "expression": "boa ideia",
       "translation": "gute Idee",
-      "isVocabulary": true,
       "example": "Boa ideia!",
       "exampleTranslation": "Gute Idee!",
-      "explanation": "A ideia, Plural ideias, ist die Idee. Boa ist die weibliche Form von bom und passt zu ideia. Boa ideia! bewertet einen Vorschlag positiv; konkrete Uhrzeit und Ort sind damit noch nicht vereinbart. Ideia wird ohne Akut geschrieben."
+      "explanation": "A ideia, Plural ideias, ist die Idee. Boa ist die weibliche Form von bom und passt zu ideia. Boa ideia! bewertet einen Vorschlag positiv; konkrete Uhrzeit und Ort sind damit noch nicht vereinbart. Ideia wird ohne Akut geschrieben.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Einladen und Verabreden",
       "expression": "poder",
-      "translation": "können; dürfen",
-      "isVocabulary": true,
-      "example": "Hoje não posso.",
+      "translation": "k\u00F6nnen; d\u00FCrfen",
+      "example": "Hoje n\u00E3o posso.",
       "exampleTranslation": "Heute kann ich nicht.",
-      "explanation": "Poder heißt können oder dürfen; posso ist die Ich-Form. Hoje não posso lehnt hier wegen fehlender Möglichkeit für heute ab. Der Satz nennt keinen Grund; ein Verbot folgt daraus nicht automatisch."
+      "explanation": "Poder hei\u00DFt k\u00F6nnen oder d\u00FCrfen; posso ist die Ich-Form. Hoje n\u00E3o posso lehnt hier wegen fehlender M\u00F6glichkeit f\u00FCr heute ab. Der Satz nennt keinen Grund; ein Verbot folgt daraus nicht automatisch.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Einladen und Verabreden",
-      "expression": "sábado",
+      "expression": "s\u00E1bado",
       "translation": "Samstag",
-      "isVocabulary": true,
-      "example": "Pode ser no sábado?",
+      "example": "Pode ser no s\u00E1bado?",
       "exampleTranslation": "Geht es am Samstag?",
-      "explanation": "O sábado ist der Samstag; Wochentage schreibt man portugiesisch klein. No sábado nennt hier einen bestimmten Samstag. Pode ser …? fragt, ob ein Vorschlag passt; aos sábados heißt dagegen regelmäßig samstags."
+      "explanation": "O s\u00E1bado ist der Samstag; Wochentage schreibt man portugiesisch klein. No s\u00E1bado nennt hier einen bestimmten Samstag. Pode ser \u2026? fragt, ob ein Vorschlag passt; aos s\u00E1bados hei\u00DFt dagegen regelm\u00E4\u00DFig samstags.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Einladen und Verabreden",
       "expression": "combinado",
       "translation": "abgemacht",
-      "isVocabulary": true,
-      "example": "Combinado, até sábado!",
+      "example": "Combinado, at\u00E9 s\u00E1bado!",
       "exampleTranslation": "Abgemacht, bis Samstag!",
-      "explanation": "Combinado! ist hier eine feste Bestätigung im Sinn von abgemacht oder vereinbart. Até sábado! heißt bis Samstag. Die Bestätigung bezieht sich auf eine vorherige Absprache; der Satz selbst nennt keine Uhrzeit."
+      "explanation": "Combinado! ist hier eine feste Best\u00E4tigung im Sinn von abgemacht oder vereinbart. At\u00E9 s\u00E1bado! hei\u00DFt bis Samstag. Die Best\u00E4tigung bezieht sich auf eine vorherige Absprache; der Satz selbst nennt keine Uhrzeit.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Eine Einladung verstehen, gemeinsame Unternehmungen vorschlagen und auf Vorschl\u00E4ge reagieren.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Zweiwort-Wendung f\u00FCr gute Idee als Reaktion auf einen Vorschlag.",
+        "explanation": "Boa ideia ist die gelernte Wendung. Ideia wird in der heutigen brasilianischen Schreibweise ohne Akut geschrieben.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "boa ideia"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze den gelernten vollst\u00E4ndigen Wochentagsnamen f\u00FCr Samstag: \u201EPode ser no ____?\u201C",
+        "explanation": "S\u00E1bado wird klein und mit Akut geschrieben. No s\u00E1bado bezeichnet hier einen bestimmten Samstag.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "s\u00E1bado"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tomar caf\u00E9 \u2014 Kaffee trinken. Tomar caf\u00E9 hei\u00DFt Kaffee trinken. Vamos \u002B Infinitiv mit Fragezeichen ist hier ein gemeinsamer Vorschlag. Um caf\u00E9 bezeichnet einen Kaffee; no s\u00E1bado hei\u00DFt am Samstag. Ort und Uhrzeit sind noch offen. Vamos tomar um caf\u00E9 no s\u00E1bado? \u2014 Wollen wir am Samstag einen Kaffee trinken?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "gute Idee"
+          },
+          {
+            "id": "d1",
+            "text": "Samstag"
+          },
+          {
+            "id": "d4",
+            "text": "Kino"
+          },
+          {
+            "id": "answer",
+            "text": "Kaffee trinken"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tomar caf\u00E9",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etomar caf\u00E9\u201C?",
+        "explanation": "tomar caf\u00E9 \u2014 Kaffee trinken. Tomar caf\u00E9 hei\u00DFt Kaffee trinken. Vamos \u002B Infinitiv mit Fragezeichen ist hier ein gemeinsamer Vorschlag. Um caf\u00E9 bezeichnet einen Kaffee; no s\u00E1bado hei\u00DFt am Samstag. Ort und Uhrzeit sind noch offen. Vamos tomar um caf\u00E9 no s\u00E1bado? \u2014 Wollen wir am Samstag einen Kaffee trinken?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Kaffee trinken"
+          },
+          {
+            "id": "d3",
+            "text": "Ausflug"
+          },
+          {
+            "id": "d4",
+            "text": "Kino"
+          },
+          {
+            "id": "d0",
+            "text": "abgemacht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cinema \u2014 Kino. O cinema, Plural cinemas, bedeutet Kino. Ir ao cinema hei\u00DFt ins Kino gehen; ao verbindet a \u002B o. Quer fragt hier nach dem Wunsch der angesprochenen Person, comigo bedeutet mit mir. Quer ir ao cinema comigo? \u2014 M\u00F6chtest du mit mir ins Kino gehen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "gute Idee"
+          },
+          {
+            "id": "answer",
+            "text": "Kino"
+          },
+          {
+            "id": "d1",
+            "text": "Kaffee trinken"
+          },
+          {
+            "id": "d2",
+            "text": "Samstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cinema",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecinema\u201C?",
+        "explanation": "cinema \u2014 Kino. O cinema, Plural cinemas, bedeutet Kino. Ir ao cinema hei\u00DFt ins Kino gehen; ao verbindet a \u002B o. Quer fragt hier nach dem Wunsch der angesprochenen Person, comigo bedeutet mit mir. Quer ir ao cinema comigo? \u2014 M\u00F6chtest du mit mir ins Kino gehen?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "abgemacht"
+          },
+          {
+            "id": "d3",
+            "text": "gute Idee"
+          },
+          {
+            "id": "d5",
+            "text": "Zeit"
+          },
+          {
+            "id": "answer",
+            "text": "Kino"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVoc\u00EA tem tempo amanh\u00E3?\u201C",
+        "explanation": "tempo \u2014 Zeit. O tempo bedeutet hier verf\u00FCgbare Zeit. Ter tempo hei\u00DFt Zeit haben; tem geh\u00F6rt im Satz zu voc\u00EA. Amanh\u00E3 hei\u00DFt morgen. In der Wetterfrage Como est\u00E1 o tempo? hat dasselbe Wort eine andere Bedeutung. Voc\u00EA tem tempo amanh\u00E3? \u2014 Hast du morgen Zeit?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Zeit"
+          },
+          {
+            "id": "d0",
+            "text": "abgemacht"
+          },
+          {
+            "id": "d4",
+            "text": "Ausflug"
+          },
+          {
+            "id": "d3",
+            "text": "gute Idee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tempo",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etempo\u201C in diesem Beispiel? \u201EVoc\u00EA tem tempo amanh\u00E3?\u201C",
+        "explanation": "tempo \u2014 Zeit. O tempo bedeutet hier verf\u00FCgbare Zeit. Ter tempo hei\u00DFt Zeit haben; tem geh\u00F6rt im Satz zu voc\u00EA. Amanh\u00E3 hei\u00DFt morgen. In der Wetterfrage Como est\u00E1 o tempo? hat dasselbe Wort eine andere Bedeutung. Voc\u00EA tem tempo amanh\u00E3? \u2014 Hast du morgen Zeit?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "abgemacht"
+          },
+          {
+            "id": "answer",
+            "text": "Zeit"
+          },
+          {
+            "id": "d5",
+            "text": "Kino"
+          },
+          {
+            "id": "d4",
+            "text": "Ausflug"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EQue tal um passeio?\u201C",
+        "explanation": "passeio \u2014 Ausflug. O passeio, Plural passeios, kann Ausflug oder Spaziergang bedeuten. Que tal \u2026? schl\u00E4gt etwas vor: Wie w\u00E4re es mit \u2026? Ohne Ziel oder Strecke legt der Satz die Art des Ausflugs nicht genauer fest. Que tal um passeio? \u2014 Wie w\u00E4re es mit einem Ausflug?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ausflug"
+          },
+          {
+            "id": "d6",
+            "text": "gute Idee"
+          },
+          {
+            "id": "d0",
+            "text": "abgemacht"
+          },
+          {
+            "id": "d7",
+            "text": "sp\u00E4t"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "passeio",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epasseio\u201C in diesem Beispiel? \u201EQue tal um passeio?\u201C",
+        "explanation": "passeio \u2014 Ausflug. O passeio, Plural passeios, kann Ausflug oder Spaziergang bedeuten. Que tal \u2026? schl\u00E4gt etwas vor: Wie w\u00E4re es mit \u2026? Ohne Ziel oder Strecke legt der Satz die Art des Ausflugs nicht genauer fest. Que tal um passeio? \u2014 Wie w\u00E4re es mit einem Ausflug?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Kaffee trinken"
+          },
+          {
+            "id": "d9",
+            "text": "Kino"
+          },
+          {
+            "id": "d1",
+            "text": "kaufen"
+          },
+          {
+            "id": "answer",
+            "text": "Ausflug"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EHoje n\u00E3o posso.\u201C",
+        "explanation": "poder \u2014 k\u00F6nnen; d\u00FCrfen. Poder hei\u00DFt k\u00F6nnen oder d\u00FCrfen; posso ist die Ich-Form. Hoje n\u00E3o posso lehnt hier wegen fehlender M\u00F6glichkeit f\u00FCr heute ab. Der Satz nennt keinen Grund; ein Verbot folgt daraus nicht automatisch. Hoje n\u00E3o posso. \u2014 Heute kann ich nicht.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "gute Idee"
+          },
+          {
+            "id": "d1",
+            "text": "Kaffee trinken"
+          },
+          {
+            "id": "d5",
+            "text": "Kino"
+          },
+          {
+            "id": "answer",
+            "text": "k\u00F6nnen; d\u00FCrfen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "poder",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epoder\u201C in diesem Beispiel? \u201EHoje n\u00E3o posso.\u201C",
+        "explanation": "poder \u2014 k\u00F6nnen; d\u00FCrfen. Poder hei\u00DFt k\u00F6nnen oder d\u00FCrfen; posso ist die Ich-Form. Hoje n\u00E3o posso lehnt hier wegen fehlender M\u00F6glichkeit f\u00FCr heute ab. Der Satz nennt keinen Grund; ein Verbot folgt daraus nicht automatisch. Hoje n\u00E3o posso. \u2014 Heute kann ich nicht.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "Kaffee trinken"
+          },
+          {
+            "id": "d5",
+            "text": "Kino"
+          },
+          {
+            "id": "answer",
+            "text": "k\u00F6nnen; d\u00FCrfen"
+          },
+          {
+            "id": "d0",
+            "text": "abgemacht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ECombinado, at\u00E9 s\u00E1bado!\u201C",
+        "explanation": "combinado \u2014 abgemacht. Combinado! ist hier eine feste Best\u00E4tigung im Sinn von abgemacht oder vereinbart. At\u00E9 s\u00E1bado! hei\u00DFt bis Samstag. Die Best\u00E4tigung bezieht sich auf eine vorherige Absprache; der Satz selbst nennt keine Uhrzeit. Combinado, at\u00E9 s\u00E1bado! \u2014 Abgemacht, bis Samstag!",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Kino"
+          },
+          {
+            "id": "d0",
+            "text": "Kaffee trinken"
+          },
+          {
+            "id": "answer",
+            "text": "abgemacht"
+          },
+          {
+            "id": "d2",
+            "text": "gute Idee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "combinado",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecombinado\u201C in diesem Beispiel? \u201ECombinado, at\u00E9 s\u00E1bado!\u201C",
+        "explanation": "combinado \u2014 abgemacht. Combinado! ist hier eine feste Best\u00E4tigung im Sinn von abgemacht oder vereinbart. At\u00E9 s\u00E1bado! hei\u00DFt bis Samstag. Die Best\u00E4tigung bezieht sich auf eine vorherige Absprache; der Satz selbst nennt keine Uhrzeit. Combinado, at\u00E9 s\u00E1bado! \u2014 Abgemacht, bis Samstag!",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Zeit"
+          },
+          {
+            "id": "d2",
+            "text": "gute Idee"
+          },
+          {
+            "id": "answer",
+            "text": "abgemacht"
+          },
+          {
+            "id": "d1",
+            "text": "Samstag"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKaffee trinken\u201C?",
+        "explanation": "tomar caf\u00E9 \u2014 Kaffee trinken. Tomar caf\u00E9 hei\u00DFt Kaffee trinken. Vamos \u002B Infinitiv mit Fragezeichen ist hier ein gemeinsamer Vorschlag. Um caf\u00E9 bezeichnet einen Kaffee; no s\u00E1bado hei\u00DFt am Samstag. Ort und Uhrzeit sind noch offen. Vamos tomar um caf\u00E9 no s\u00E1bado? \u2014 Wollen wir am Samstag einen Kaffee trinken?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "poder"
+          },
+          {
+            "id": "d3",
+            "text": "passeio"
+          },
+          {
+            "id": "answer",
+            "text": "tomar caf\u00E9"
+          },
+          {
+            "id": "d0",
+            "text": "combinado"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage schl\u00E4gt vor, am Samstag gemeinsam einen Kaffee zu trinken?",
+        "explanation": "Vamos \u002B Infinitiv ist hier ein gemeinsamer Vorschlag. No s\u00E1bado hei\u00DFt am Samstag.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          },
+          {
+            "id": "answer",
+            "text": "Vamos tomar um caf\u00E9 no s\u00E1bado?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Vamos tomar um caf\u00E9 no domingo?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Vamos ao cinema no s\u00E1bado?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EKino\u201C?",
+        "explanation": "cinema \u2014 Kino. O cinema, Plural cinemas, bedeutet Kino. Ir ao cinema hei\u00DFt ins Kino gehen; ao verbindet a \u002B o. Quer fragt hier nach dem Wunsch der angesprochenen Person, comigo bedeutet mit mir. Quer ir ao cinema comigo? \u2014 M\u00F6chtest du mit mir ins Kino gehen?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "answer",
+            "text": "cinema"
+          },
+          {
+            "id": "d5",
+            "text": "tempo"
+          },
+          {
+            "id": "d1",
+            "text": "tomar caf\u00E9"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage l\u00E4dt dein Gegen\u00FCber ein, mit dir ins Kino zu gehen?",
+        "explanation": "Quer ir ao cinema comigo? verbindet das Ziel Kino mit der Einladung mit mir.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Quer tomar um caf\u00E9 comigo?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o cinema?"
+          },
+          {
+            "id": "answer",
+            "text": "Quer ir ao cinema comigo?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Quer ir \u00E0 praia comigo?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EZeit\u201C? Zusammenhang: bei einer Frage nach deiner Verf\u00FCgbarkeit f\u00FCr morgen.",
+        "explanation": "tempo \u2014 Zeit. O tempo bedeutet hier verf\u00FCgbare Zeit. Ter tempo hei\u00DFt Zeit haben; tem geh\u00F6rt im Satz zu voc\u00EA. Amanh\u00E3 hei\u00DFt morgen. In der Wetterfrage Como est\u00E1 o tempo? hat dasselbe Wort eine andere Bedeutung. Voc\u00EA tem tempo amanh\u00E3? \u2014 Hast du morgen Zeit?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "combinado"
+          },
+          {
+            "id": "d4",
+            "text": "passeio"
+          },
+          {
+            "id": "d6",
+            "text": "poder"
+          },
+          {
+            "id": "answer",
+            "text": "tempo"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich, ob dein Gegen\u00FCber morgen Zeit hat?",
+        "explanation": "Tempo bedeutet hier verf\u00FCgbare Zeit. Amanh\u00E3 hei\u00DFt morgen; die Wetterfrage verwendet tempo anders.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA tem tempo hoje?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Como est\u00E1 o tempo hoje?"
+          },
+          {
+            "id": "answer",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Onde fica o cinema?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EAusflug\u201C? Zusammenhang: bei einem gemeinsamen Vorschlag ohne festgelegtes Ziel und ohne festgelegte Strecke.",
+        "explanation": "passeio \u2014 Ausflug. O passeio, Plural passeios, kann Ausflug oder Spaziergang bedeuten. Que tal \u2026? schl\u00E4gt etwas vor: Wie w\u00E4re es mit \u2026? Ohne Ziel oder Strecke legt der Satz die Art des Ausflugs nicht genauer fest. Que tal um passeio? \u2014 Wie w\u00E4re es mit einem Ausflug?",
+        "options": [
+          {
+            "id": "d8",
+            "text": "pergunta"
+          },
+          {
+            "id": "d1",
+            "text": "comprar"
+          },
+          {
+            "id": "answer",
+            "text": "passeio"
+          },
+          {
+            "id": "d2",
+            "text": "tomar caf\u00E9"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage schl\u00E4gt einen Ausflug oder Spaziergang vor, ohne Ziel oder Strecke festzulegen?",
+        "explanation": "Passeio kann Ausflug oder Spaziergang hei\u00DFen. Que tal? bedeutet Wie w\u00E4re es mit?",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Que tal um filme?"
+          },
+          {
+            "id": "answer",
+            "text": "Que tal um passeio?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Que tal um caf\u00E9?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ek\u00F6nnen; d\u00FCrfen\u201C? Zusammenhang: bei der Antwort auf eine Einladung f\u00FCr heute.",
+        "explanation": "poder \u2014 k\u00F6nnen; d\u00FCrfen. Poder hei\u00DFt k\u00F6nnen oder d\u00FCrfen; posso ist die Ich-Form. Hoje n\u00E3o posso lehnt hier wegen fehlender M\u00F6glichkeit f\u00FCr heute ab. Der Satz nennt keinen Grund; ein Verbot folgt daraus nicht automatisch. Hoje n\u00E3o posso. \u2014 Heute kann ich nicht.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "combinado"
+          },
+          {
+            "id": "answer",
+            "text": "poder"
+          },
+          {
+            "id": "d5",
+            "text": "cinema"
+          },
+          {
+            "id": "d2",
+            "text": "s\u00E1bado"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "dialogue",
+        "prompt": "\u201EQuer ir ao cinema hoje?\u201C \u2013 Welche Antwort sagt ausdr\u00FCcklich, dass du heute nicht kannst?",
+        "explanation": "Hoje n\u00E3o posso lehnt die M\u00F6glichkeit f\u00FCr heute ab. Der Grund bleibt offen; ein Verbot wird nicht behauptet.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Amanh\u00E3 n\u00E3o posso."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Boa ideia!"
+          },
+          {
+            "id": "answer",
+            "text": "Hoje n\u00E3o posso."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Hoje posso."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eabgemacht\u201C? Zusammenhang: als Best\u00E4tigung einer vorherigen Absprache.",
+        "explanation": "combinado \u2014 abgemacht. Combinado! ist hier eine feste Best\u00E4tigung im Sinn von abgemacht oder vereinbart. At\u00E9 s\u00E1bado! hei\u00DFt bis Samstag. Die Best\u00E4tigung bezieht sich auf eine vorherige Absprache; der Satz selbst nennt keine Uhrzeit. Combinado, at\u00E9 s\u00E1bado! \u2014 Abgemacht, bis Samstag!",
+        "options": [
+          {
+            "id": "d1",
+            "text": "s\u00E1bado"
+          },
+          {
+            "id": "answer",
+            "text": "combinado"
+          },
+          {
+            "id": "d4",
+            "text": "cinema"
+          },
+          {
+            "id": "d6",
+            "text": "poder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Ein Treffen f\u00FCr Samstag ist bereits abgesprochen. Welche Antwort best\u00E4tigt die Absprache ausdr\u00FCcklich als abgemacht?",
+        "explanation": "Combinado bedeutet hier abgemacht. At\u00E9 s\u00E1bado hei\u00DFt bis Samstag und nennt noch keine Uhrzeit.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Hoje n\u00E3o posso."
+          },
+          {
+            "id": "answer",
+            "text": "Combinado, at\u00E9 s\u00E1bado!"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA tem tempo amanh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode ser no domingo?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

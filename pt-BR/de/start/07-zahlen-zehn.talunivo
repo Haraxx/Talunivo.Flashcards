@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-07-zahlen-zehn",
-  "packageVersion": 4,
-  "title": "07 · Zahlen von null bis zehn",
+  "packageVersion": 6,
+  "title": "07 \u00B7 Zahlen von null bis zehn",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,150 +12,2334 @@
       "topic": "Zahlen von null bis zehn",
       "expression": "zero",
       "translation": "null",
-      "isVocabulary": true,
-      "example": "A temperatura está em zero grau.",
+      "example": "A temperatura est\u00E1 em zero grau.",
       "exampleTranslation": "Die Temperatur liegt bei null Grad.",
-      "explanation": "Zero steht für 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer heißt 0 ebenfalls zero."
+      "explanation": "Zero steht f\u00FCr 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer hei\u00DFt 0 ebenfalls zero.",
+      "isVocabulary": true
     },
     {
       "id": "karte-01-2",
       "topic": "Zahlen von null bis zehn",
       "expression": "um",
       "translation": "eins",
-      "isVocabulary": true,
-      "example": "Quero um café, por favor.",
-      "exampleTranslation": "Ich möchte einen Kaffee, bitte.",
-      "explanation": "Um steht beim Zählen für eins. Vor einem männlichen Nomen: um café; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz."
+      "example": "Quero um caf\u00E9, por favor.",
+      "exampleTranslation": "Ich m\u00F6chte einen Kaffee, bitte.",
+      "explanation": "Um steht beim Z\u00E4hlen f\u00FCr eins. Vor einem m\u00E4nnlichen Nomen: um caf\u00E9; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz.",
+      "isVocabulary": true
     },
     {
       "id": "karte-01-3",
       "topic": "Zahlen von null bis zehn",
       "expression": "dois",
       "translation": "zwei",
-      "isVocabulary": true,
       "example": "Tenho dois livros.",
-      "exampleTranslation": "Ich habe zwei Bücher.",
-      "explanation": "Dois steht für 2 vor männlichen Nomen: dois livros = zwei Bücher. Vor weiblichen Nomen heißt es duas, etwa duas pessoas. Tenho bedeutet ich habe."
+      "exampleTranslation": "Ich habe zwei B\u00FCcher.",
+      "explanation": "Dois steht f\u00FCr 2 vor m\u00E4nnlichen Nomen: dois livros = zwei B\u00FCcher. Vor weiblichen Nomen hei\u00DFt es duas, etwa duas pessoas. Tenho bedeutet ich habe.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Zahlen von null bis zehn",
-      "expression": "três",
+      "expression": "tr\u00EAs",
       "translation": "drei",
-      "isVocabulary": true,
-      "example": "Tenho três canetas.",
+      "example": "Tenho tr\u00EAs canetas.",
       "exampleTranslation": "Ich habe drei Stifte.",
-      "explanation": "Três steht für 3. Die Form ist bei männlichen und weiblichen Nomen gleich. Três canetas bedeutet drei Stifte; der Zirkumflex in três gehört zur Schreibweise."
+      "explanation": "Tr\u00EAs steht f\u00FCr 3. Die Form ist bei m\u00E4nnlichen und weiblichen Nomen gleich. Tr\u00EAs canetas bedeutet drei Stifte; der Zirkumflex in tr\u00EAs geh\u00F6rt zur Schreibweise.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02-2",
       "topic": "Zahlen von null bis zehn",
       "expression": "quatro",
       "translation": "vier",
-      "isVocabulary": true,
-      "example": "São quatro pessoas.",
+      "example": "S\u00E3o quatro pessoas.",
       "exampleTranslation": "Es sind vier Personen.",
-      "explanation": "Quatro steht für 4 und verändert sich vor männlichen oder weiblichen Nomen nicht. São quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa."
+      "explanation": "Quatro steht f\u00FCr 4 und ver\u00E4ndert sich vor m\u00E4nnlichen oder weiblichen Nomen nicht. S\u00E3o quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02-3",
       "topic": "Zahlen von null bis zehn",
       "expression": "cinco",
-      "translation": "fünf",
-      "isVocabulary": true,
-      "example": "Quero cinco maçãs.",
-      "exampleTranslation": "Ich möchte fünf Äpfel.",
-      "explanation": "Cinco steht für 5. Quero cinco maçãs heißt ich möchte fünf Äpfel. Maçãs ist die Mehrzahl von maçã; die Zahl cinco bleibt unverändert."
+      "translation": "f\u00FCnf",
+      "example": "Quero cinco ma\u00E7\u00E3s.",
+      "exampleTranslation": "Ich m\u00F6chte f\u00FCnf \u00C4pfel.",
+      "explanation": "Cinco steht f\u00FCr 5. Quero cinco ma\u00E7\u00E3s hei\u00DFt ich m\u00F6chte f\u00FCnf \u00C4pfel. Ma\u00E7\u00E3s ist die Mehrzahl von ma\u00E7\u00E3; die Zahl cinco bleibt unver\u00E4ndert.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Zahlen von null bis zehn",
       "expression": "seis",
       "translation": "sechs",
-      "isVocabulary": true,
       "example": "Tenho seis livros.",
-      "exampleTranslation": "Ich habe sechs Bücher.",
-      "explanation": "Seis steht für 6: seis livros = sechs Bücher. Sete steht dagegen für 7. Die Form seis bleibt vor männlichen und weiblichen Nomen gleich."
+      "exampleTranslation": "Ich habe sechs B\u00FCcher.",
+      "explanation": "Seis steht f\u00FCr 6: seis livros = sechs B\u00FCcher. Sete steht dagegen f\u00FCr 7. Die Form seis bleibt vor m\u00E4nnlichen und weiblichen Nomen gleich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03-2",
       "topic": "Zahlen von null bis zehn",
       "expression": "sete",
       "translation": "sieben",
-      "isVocabulary": true,
       "example": "A semana tem sete dias.",
       "exampleTranslation": "Die Woche hat sieben Tage.",
-      "explanation": "Sete steht für 7. A semana heißt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag."
+      "explanation": "Sete steht f\u00FCr 7. A semana hei\u00DFt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03-3",
       "topic": "Zahlen von null bis zehn",
       "expression": "oito",
       "translation": "acht",
-      "isVocabulary": true,
-      "example": "São oito reais.",
+      "example": "S\u00E3o oito reais.",
       "exampleTranslation": "Das macht acht Reais.",
-      "explanation": "Oito steht für 8. Bei einem Preis bedeutet São oito reais: Das macht acht Reais. Reais ist die Mehrzahl der Währung real; der Betrag ist nur ein Lernbeispiel."
+      "explanation": "Oito steht f\u00FCr 8. Bei einem Preis bedeutet S\u00E3o oito reais: Das macht acht Reais. Reais ist die Mehrzahl der W\u00E4hrung real; der Betrag ist nur ein Lernbeispiel.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Zahlen von null bis zehn",
       "expression": "nove",
       "translation": "neun",
-      "isVocabulary": true,
       "example": "Tenho nove moedas.",
-      "exampleTranslation": "Ich habe neun Münzen.",
-      "explanation": "Nove steht für 9. Moedas sind Münzen; nove moedas bedeutet neun Münzen. Die Zahl verändert sich vor männlichen und weiblichen Nomen nicht."
+      "exampleTranslation": "Ich habe neun M\u00FCnzen.",
+      "explanation": "Nove steht f\u00FCr 9. Moedas sind M\u00FCnzen; nove moedas bedeutet neun M\u00FCnzen. Die Zahl ver\u00E4ndert sich vor m\u00E4nnlichen und weiblichen Nomen nicht.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04-2",
       "topic": "Zahlen von null bis zehn",
       "expression": "dez",
       "translation": "zehn",
-      "isVocabulary": true,
       "example": "Tenho dez livros.",
-      "exampleTranslation": "Ich habe zehn Bücher.",
-      "explanation": "Dez steht für 10. Tenho dez livros heißt ich habe zehn Bücher. Dez bleibt unverändert; nicht mit dois = zwei verwechseln."
+      "exampleTranslation": "Ich habe zehn B\u00FCcher.",
+      "explanation": "Dez steht f\u00FCr 10. Tenho dez livros hei\u00DFt ich habe zehn B\u00FCcher. Dez bleibt unver\u00E4ndert; nicht mit dois = zwei verwechseln.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Zahlen von null bis zehn",
       "expression": "pessoa",
       "translation": "Person",
-      "isVocabulary": true,
       "example": "Tem uma pessoa na sala.",
       "exampleTranslation": "Im Wohnzimmer ist eine Person.",
-      "explanation": "A pessoa, Plural pessoas. Das portugiesische Nomen ist grammatisch weiblich, unabhängig von der bezeichneten Person: uma pessoa, duas pessoas. Na sala bedeutet hier im Wohnzimmer."
+      "explanation": "A pessoa, Plural pessoas. Das portugiesische Nomen ist grammatisch weiblich, unabh\u00E4ngig von der bezeichneten Person: uma pessoa, duas pessoas. Na sala bedeutet hier im Wohnzimmer.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Zahlen von null bis zehn",
       "expression": "duas",
       "translation": "zwei (weiblich)",
-      "isVocabulary": true,
       "example": "Tem duas mesas livres.",
       "exampleTranslation": "Es sind zwei Tische frei.",
-      "explanation": "Duas ist die weibliche Form der Zahl 2. A mesa ist im Portugiesischen weiblich, daher duas mesas; das deutsche Wort Tisch ist dafür nicht maßgeblich. Livres bedeutet hier frei."
+      "explanation": "Duas ist die weibliche Form der Zahl 2. A mesa ist im Portugiesischen weiblich, daher duas mesas; das deutsche Wort Tisch ist daf\u00FCr nicht ma\u00DFgeblich. Livres bedeutet hier frei.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Zahlen von null bis zehn",
-      "expression": "irmão",
+      "expression": "irm\u00E3o",
       "translation": "Bruder",
-      "isVocabulary": true,
-      "example": "Meu irmão mora aqui.",
+      "example": "Meu irm\u00E3o mora aqui.",
       "exampleTranslation": "Mein Bruder wohnt hier.",
-      "explanation": "O irmão, Plural irmãos. Meu irmão heißt mein Bruder; mora aqui bedeutet wohnt hier. Irmãos kann je nach Kontext Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen."
+      "explanation": "O irm\u00E3o, Plural irm\u00E3os. Meu irm\u00E3o hei\u00DFt mein Bruder; mora aqui bedeutet wohnt hier. Irm\u00E3os kann je nach Kontext Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Zahlen von null bis zehn",
       "expression": "real",
-      "translation": "Real (brasilianische Währung)",
-      "isVocabulary": true,
-      "example": "Um pão custa um real.",
+      "translation": "Real (brasilianische W\u00E4hrung)",
+      "example": "Um p\u00E3o custa um real.",
       "exampleTranslation": "Ein Brot kostet einen Real.",
-      "explanation": "O real ist hier die brasilianische Währung; die Mehrzahl heißt reais. Bei Preisen: um real, dois reais. Custa bedeutet kostet. Der Beispielsatz ist keine aktuelle Preisangabe."
+      "explanation": "O real ist hier die brasilianische W\u00E4hrung; die Mehrzahl hei\u00DFt reais. Bei Preisen: um real, dois reais. Custa bedeutet kostet. Der Beispielsatz ist keine aktuelle Preisangabe.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Zahlen bis zehn sowie einfache Mengen-, Personen- und W\u00E4hrungsangaben verstehen und passende Formen verwenden.",
+        "cardIds": [
+          "karte-01",
+          "karte-01-2",
+          "karte-01-3",
+          "karte-02",
+          "karte-02-2",
+          "karte-02-3",
+          "karte-03",
+          "karte-03-2",
+          "karte-03-3",
+          "karte-04",
+          "karte-04-2",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 1 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livro\u201C.",
+        "explanation": "Um steht beim Z\u00E4hlen f\u00FCr eins. Vor einem m\u00E4nnlichen Nomen: um caf\u00E9; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "um"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 2 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Dois steht f\u00FCr 2 vor m\u00E4nnlichen Nomen: dois livros = zwei B\u00FCcher. Vor weiblichen Nomen hei\u00DFt es duas, etwa duas pessoas. Tenho bedeutet ich habe.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "dois"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 0 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Zero steht f\u00FCr 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer hei\u00DFt 0 ebenfalls zero.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "zero"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 4 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Quatro steht f\u00FCr 4 und ver\u00E4ndert sich vor m\u00E4nnlichen oder weiblichen Nomen nicht. S\u00E3o quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "quatro"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 5 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Cinco steht f\u00FCr 5. Quero cinco ma\u00E7\u00E3s hei\u00DFt ich m\u00F6chte f\u00FCnf \u00C4pfel. Ma\u00E7\u00E3s ist die Mehrzahl von ma\u00E7\u00E3; die Zahl cinco bleibt unver\u00E4ndert.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "cinco"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 3 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Tr\u00EAs steht f\u00FCr 3. Die Form ist bei m\u00E4nnlichen und weiblichen Nomen gleich. Tr\u00EAs canetas bedeutet drei Stifte; der Zirkumflex in tr\u00EAs geh\u00F6rt zur Schreibweise.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "tr\u00EAs"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 7 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Sete steht f\u00FCr 7. A semana hei\u00DFt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "sete"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 8 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Oito steht f\u00FCr 8. Bei einem Preis bedeutet S\u00E3o oito reais: Das macht acht Reais. Reais ist die Mehrzahl der W\u00E4hrung real; der Betrag ist nur ein Lernbeispiel.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "oito"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 6 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Seis steht f\u00FCr 6: seis livros = sechs B\u00FCcher. Sete steht dagegen f\u00FCr 7. Die Form seis bleibt vor m\u00E4nnlichen und weiblichen Nomen gleich.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "seis"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 10 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Dez steht f\u00FCr 10. Tenho dez livros hei\u00DFt ich habe zehn B\u00FCcher. Dez bleibt unver\u00E4ndert; nicht mit dois = zwei verwechseln.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "dez"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze die Zahl 9 ausgeschrieben vor dem m\u00E4nnlichen Nomen: \u201E____ livros\u201C.",
+        "explanation": "Nove steht f\u00FCr 9. Moedas sind M\u00FCnzen; nove moedas bedeutet neun M\u00FCnzen. Die Zahl ver\u00E4ndert sich vor m\u00E4nnlichen und weiblichen Nomen nicht.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "nove"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "um \u2014 eins. Um steht beim Z\u00E4hlen f\u00FCr eins. Vor einem m\u00E4nnlichen Nomen: um caf\u00E9; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz. Quero um caf\u00E9, por favor. \u2014 Ich m\u00F6chte einen Kaffee, bitte.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "zwei"
+          },
+          {
+            "id": "d5",
+            "text": "Bruder"
+          },
+          {
+            "id": "d10",
+            "text": "null"
+          },
+          {
+            "id": "answer",
+            "text": "eins"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "um",
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eum\u201C?",
+        "explanation": "um \u2014 eins. Um steht beim Z\u00E4hlen f\u00FCr eins. Vor einem m\u00E4nnlichen Nomen: um caf\u00E9; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz. Quero um caf\u00E9, por favor. \u2014 Ich m\u00F6chte einen Kaffee, bitte.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "acht"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "d8",
+            "text": "sieben"
+          },
+          {
+            "id": "answer",
+            "text": "eins"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dois \u2014 zwei. Dois steht f\u00FCr 2 vor m\u00E4nnlichen Nomen: dois livros = zwei B\u00FCcher. Vor weiblichen Nomen hei\u00DFt es duas, etwa duas pessoas. Tenho bedeutet ich habe. Tenho dois livros. \u2014 Ich habe zwei B\u00FCcher.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "vier"
+          },
+          {
+            "id": "d8",
+            "text": "sieben"
+          },
+          {
+            "id": "answer",
+            "text": "zwei"
+          },
+          {
+            "id": "d5",
+            "text": "Bruder"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dois",
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edois\u201C?",
+        "explanation": "dois \u2014 zwei. Dois steht f\u00FCr 2 vor m\u00E4nnlichen Nomen: dois livros = zwei B\u00FCcher. Vor weiblichen Nomen hei\u00DFt es duas, etwa duas pessoas. Tenho bedeutet ich habe. Tenho dois livros. \u2014 Ich habe zwei B\u00FCcher.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "eins / ein"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "answer",
+            "text": "zwei"
+          },
+          {
+            "id": "d1",
+            "text": "drei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "zero \u2014 null. Zero steht f\u00FCr 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer hei\u00DFt 0 ebenfalls zero. A temperatura est\u00E1 em zero grau. \u2014 Die Temperatur liegt bei null Grad.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          },
+          {
+            "id": "answer",
+            "text": "null"
+          },
+          {
+            "id": "d4",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "zero",
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ezero\u201C?",
+        "explanation": "zero \u2014 null. Zero steht f\u00FCr 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer hei\u00DFt 0 ebenfalls zero. A temperatura est\u00E1 em zero grau. \u2014 Die Temperatur liegt bei null Grad.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "sieben"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "d2",
+            "text": "drei"
+          },
+          {
+            "id": "answer",
+            "text": "null"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "quatro \u2014 vier. Quatro steht f\u00FCr 4 und ver\u00E4ndert sich vor m\u00E4nnlichen oder weiblichen Nomen nicht. S\u00E3o quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa. S\u00E3o quatro pessoas. \u2014 Es sind vier Personen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "vier"
+          },
+          {
+            "id": "d9",
+            "text": "sieben"
+          },
+          {
+            "id": "d6",
+            "text": "Bruder"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "quatro",
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Equatro\u201C?",
+        "explanation": "quatro \u2014 vier. Quatro steht f\u00FCr 4 und ver\u00E4ndert sich vor m\u00E4nnlichen oder weiblichen Nomen nicht. S\u00E3o quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa. S\u00E3o quatro pessoas. \u2014 Es sind vier Personen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "zwei"
+          },
+          {
+            "id": "answer",
+            "text": "vier"
+          },
+          {
+            "id": "d5",
+            "text": "Person"
+          },
+          {
+            "id": "d9",
+            "text": "sieben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "cinco \u2014 f\u00FCnf. Cinco steht f\u00FCr 5. Quero cinco ma\u00E7\u00E3s hei\u00DFt ich m\u00F6chte f\u00FCnf \u00C4pfel. Ma\u00E7\u00E3s ist die Mehrzahl von ma\u00E7\u00E3; die Zahl cinco bleibt unver\u00E4ndert. Quero cinco ma\u00E7\u00E3s. \u2014 Ich m\u00F6chte f\u00FCnf \u00C4pfel.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "d2",
+            "text": "drei"
+          },
+          {
+            "id": "d1",
+            "text": "zwei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cinco",
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecinco\u201C?",
+        "explanation": "cinco \u2014 f\u00FCnf. Cinco steht f\u00FCr 5. Quero cinco ma\u00E7\u00E3s hei\u00DFt ich m\u00F6chte f\u00FCnf \u00C4pfel. Ma\u00E7\u00E3s ist die Mehrzahl von ma\u00E7\u00E3; die Zahl cinco bleibt unver\u00E4ndert. Quero cinco ma\u00E7\u00E3s. \u2014 Ich m\u00F6chte f\u00FCnf \u00C4pfel.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          },
+          {
+            "id": "answer",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "d2",
+            "text": "drei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "tr\u00EAs \u2014 drei. Tr\u00EAs steht f\u00FCr 3. Die Form ist bei m\u00E4nnlichen und weiblichen Nomen gleich. Tr\u00EAs canetas bedeutet drei Stifte; der Zirkumflex in tr\u00EAs geh\u00F6rt zur Schreibweise. Tenho tr\u00EAs canetas. \u2014 Ich habe drei Stifte.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "sieben"
+          },
+          {
+            "id": "answer",
+            "text": "drei"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "d10",
+            "text": "null"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "tr\u00EAs",
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Etr\u00EAs\u201C?",
+        "explanation": "tr\u00EAs \u2014 drei. Tr\u00EAs steht f\u00FCr 3. Die Form ist bei m\u00E4nnlichen und weiblichen Nomen gleich. Tr\u00EAs canetas bedeutet drei Stifte; der Zirkumflex in tr\u00EAs geh\u00F6rt zur Schreibweise. Tenho tr\u00EAs canetas. \u2014 Ich habe drei Stifte.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "drei"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "d11",
+            "text": "vier"
+          },
+          {
+            "id": "d4",
+            "text": "Person"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "sete \u2014 sieben. Sete steht f\u00FCr 7. A semana hei\u00DFt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag. A semana tem sete dias. \u2014 Die Woche hat sieben Tage.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sieben"
+          },
+          {
+            "id": "d5",
+            "text": "Person"
+          },
+          {
+            "id": "d9",
+            "text": "zehn"
+          },
+          {
+            "id": "d2",
+            "text": "drei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sete",
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esete\u201C?",
+        "explanation": "sete \u2014 sieben. Sete steht f\u00FCr 7. A semana hei\u00DFt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag. A semana tem sete dias. \u2014 Die Woche hat sieben Tage.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sieben"
+          },
+          {
+            "id": "d10",
+            "text": "null"
+          },
+          {
+            "id": "d4",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "d11",
+            "text": "vier"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "oito \u2014 acht. Oito steht f\u00FCr 8. Bei einem Preis bedeutet S\u00E3o oito reais: Das macht acht Reais. Reais ist die Mehrzahl der W\u00E4hrung real; der Betrag ist nur ein Lernbeispiel. S\u00E3o oito reais. \u2014 Das macht acht Reais.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "nur"
+          },
+          {
+            "id": "answer",
+            "text": "acht"
+          },
+          {
+            "id": "d9",
+            "text": "eins / ein"
+          },
+          {
+            "id": "d2",
+            "text": "reif (weiblich, Mehrzahl)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "oito",
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eoito\u201C?",
+        "explanation": "oito \u2014 acht. Oito steht f\u00FCr 8. Bei einem Preis bedeutet S\u00E3o oito reais: Das macht acht Reais. Reais ist die Mehrzahl der W\u00E4hrung real; der Betrag ist nur ein Lernbeispiel. S\u00E3o oito reais. \u2014 Das macht acht Reais.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "Kilo"
+          },
+          {
+            "id": "d10",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "d9",
+            "text": "eins / ein"
+          },
+          {
+            "id": "answer",
+            "text": "acht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "seis \u2014 sechs. Seis steht f\u00FCr 6: seis livros = sechs B\u00FCcher. Sete steht dagegen f\u00FCr 7. Die Form seis bleibt vor m\u00E4nnlichen und weiblichen Nomen gleich. Tenho seis livros. \u2014 Ich habe sechs B\u00FCcher.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "eins / ein"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "d4",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "answer",
+            "text": "sechs"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "seis",
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eseis\u201C?",
+        "explanation": "seis \u2014 sechs. Seis steht f\u00FCr 6: seis livros = sechs B\u00FCcher. Sete steht dagegen f\u00FCr 7. Die Form seis bleibt vor m\u00E4nnlichen und weiblichen Nomen gleich. Tenho seis livros. \u2014 Ich habe sechs B\u00FCcher.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "answer",
+            "text": "sechs"
+          },
+          {
+            "id": "d2",
+            "text": "drei"
+          },
+          {
+            "id": "d4",
+            "text": "f\u00FCnf"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dez \u2014 zehn. Dez steht f\u00FCr 10. Tenho dez livros hei\u00DFt ich habe zehn B\u00FCcher. Dez bleibt unver\u00E4ndert; nicht mit dois = zwei verwechseln. Tenho dez livros. \u2014 Ich habe zehn B\u00FCcher.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "f\u00FCnf"
+          },
+          {
+            "id": "d5",
+            "text": "Person"
+          },
+          {
+            "id": "d1",
+            "text": "zwei"
+          },
+          {
+            "id": "answer",
+            "text": "zehn"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dez",
+        "difficulty": 1
+      },
+      {
+        "id": "task-031",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edez\u201C?",
+        "explanation": "dez \u2014 zehn. Dez steht f\u00FCr 10. Tenho dez livros hei\u00DFt ich habe zehn B\u00FCcher. Dez bleibt unver\u00E4ndert; nicht mit dois = zwei verwechseln. Tenho dez livros. \u2014 Ich habe zehn B\u00FCcher.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "Bruder"
+          },
+          {
+            "id": "d0",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "answer",
+            "text": "zehn"
+          },
+          {
+            "id": "d11",
+            "text": "vier"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-032",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "nove \u2014 neun. Nove steht f\u00FCr 9. Moedas sind M\u00FCnzen; nove moedas bedeutet neun M\u00FCnzen. Die Zahl ver\u00E4ndert sich vor m\u00E4nnlichen und weiblichen Nomen nicht. Tenho nove moedas. \u2014 Ich habe neun M\u00FCnzen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "frei"
+          },
+          {
+            "id": "d6",
+            "text": "vormittags"
+          },
+          {
+            "id": "d7",
+            "text": "vier, f\u00FCnf"
+          },
+          {
+            "id": "answer",
+            "text": "neun"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "nove",
+        "difficulty": 1
+      },
+      {
+        "id": "task-033",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Enove\u201C?",
+        "explanation": "nove \u2014 neun. Nove steht f\u00FCr 9. Moedas sind M\u00FCnzen; nove moedas bedeutet neun M\u00FCnzen. Die Zahl ver\u00E4ndert sich vor m\u00E4nnlichen und weiblichen Nomen nicht. Tenho nove moedas. \u2014 Ich habe neun M\u00FCnzen.",
+        "options": [
+          {
+            "id": "d8",
+            "text": "zwei"
+          },
+          {
+            "id": "answer",
+            "text": "neun"
+          },
+          {
+            "id": "d1",
+            "text": "losgehen"
+          },
+          {
+            "id": "d6",
+            "text": "vormittags"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-034",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "pessoa \u2014 Person. A pessoa, Plural pessoas. Das portugiesische Nomen ist grammatisch weiblich, unabh\u00E4ngig von der bezeichneten Person: uma pessoa, duas pessoas. Na sala bedeutet hier im Wohnzimmer. Tem uma pessoa na sala. \u2014 Im Wohnzimmer ist eine Person.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Bruder"
+          },
+          {
+            "id": "answer",
+            "text": "Person"
+          },
+          {
+            "id": "d6",
+            "text": "sieben"
+          },
+          {
+            "id": "d5",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "pessoa",
+        "difficulty": 1
+      },
+      {
+        "id": "task-035",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Epessoa\u201C?",
+        "explanation": "pessoa \u2014 Person. A pessoa, Plural pessoas. Das portugiesische Nomen ist grammatisch weiblich, unabh\u00E4ngig von der bezeichneten Person: uma pessoa, duas pessoas. Na sala bedeutet hier im Wohnzimmer. Tem uma pessoa na sala. \u2014 Im Wohnzimmer ist eine Person.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "zwei"
+          },
+          {
+            "id": "d5",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          },
+          {
+            "id": "d6",
+            "text": "sieben"
+          },
+          {
+            "id": "answer",
+            "text": "Person"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-036",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "duas \u2014 zwei (weiblich). Duas ist die weibliche Form der Zahl 2. A mesa ist im Portugiesischen weiblich, daher duas mesas; das deutsche Wort Tisch ist daf\u00FCr nicht ma\u00DFgeblich. Livres bedeutet hier frei. Tem duas mesas livres. \u2014 Es sind zwei Tische frei.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "zwei (weiblich)"
+          },
+          {
+            "id": "d9",
+            "text": "zehn"
+          },
+          {
+            "id": "d4",
+            "text": "Person"
+          },
+          {
+            "id": "d10",
+            "text": "null"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "duas",
+        "difficulty": 1
+      },
+      {
+        "id": "task-037",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eduas\u201C?",
+        "explanation": "duas \u2014 zwei (weiblich). Duas ist die weibliche Form der Zahl 2. A mesa ist im Portugiesischen weiblich, daher duas mesas; das deutsche Wort Tisch ist daf\u00FCr nicht ma\u00DFgeblich. Livres bedeutet hier frei. Tem duas mesas livres. \u2014 Es sind zwei Tische frei.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          },
+          {
+            "id": "d5",
+            "text": "Bruder"
+          },
+          {
+            "id": "answer",
+            "text": "zwei (weiblich)"
+          },
+          {
+            "id": "d6",
+            "text": "acht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-038",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "irm\u00E3o \u2014 Bruder. O irm\u00E3o, Plural irm\u00E3os. Meu irm\u00E3o hei\u00DFt mein Bruder; mora aqui bedeutet wohnt hier. Irm\u00E3os kann je nach Kontext Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen. Meu irm\u00E3o mora aqui. \u2014 Mein Bruder wohnt hier.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Gro\u00DFvater"
+          },
+          {
+            "id": "answer",
+            "text": "Bruder"
+          },
+          {
+            "id": "d1",
+            "text": "Vater"
+          },
+          {
+            "id": "d11",
+            "text": "acht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "irm\u00E3o",
+        "difficulty": 1
+      },
+      {
+        "id": "task-039",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eirm\u00E3o\u201C?",
+        "explanation": "irm\u00E3o \u2014 Bruder. O irm\u00E3o, Plural irm\u00E3os. Meu irm\u00E3o hei\u00DFt mein Bruder; mora aqui bedeutet wohnt hier. Irm\u00E3os kann je nach Kontext Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen. Meu irm\u00E3o mora aqui. \u2014 Mein Bruder wohnt hier.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "Kinder"
+          },
+          {
+            "id": "d4",
+            "text": "Gro\u00DFvater"
+          },
+          {
+            "id": "answer",
+            "text": "Bruder"
+          },
+          {
+            "id": "d7",
+            "text": "zwei"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-040",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "real \u2014 Real (brasilianische W\u00E4hrung). O real ist hier die brasilianische W\u00E4hrung; die Mehrzahl hei\u00DFt reais. Bei Preisen: um real, dois reais. Custa bedeutet kostet. Der Beispielsatz ist keine aktuelle Preisangabe. Um p\u00E3o custa um real. \u2014 Ein Brot kostet einen Real.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "Person"
+          },
+          {
+            "id": "d8",
+            "text": "null"
+          },
+          {
+            "id": "answer",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          },
+          {
+            "id": "d5",
+            "text": "acht"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "real",
+        "difficulty": 1
+      },
+      {
+        "id": "task-041",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ereal\u201C?",
+        "explanation": "real \u2014 Real (brasilianische W\u00E4hrung). O real ist hier die brasilianische W\u00E4hrung; die Mehrzahl hei\u00DFt reais. Bei Preisen: um real, dois reais. Custa bedeutet kostet. Der Beispielsatz ist keine aktuelle Preisangabe. Um p\u00E3o custa um real. \u2014 Ein Brot kostet einen Real.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "zwei"
+          },
+          {
+            "id": "d5",
+            "text": "acht"
+          },
+          {
+            "id": "answer",
+            "text": "Real (brasilianische W\u00E4hrung)"
+          },
+          {
+            "id": "d6",
+            "text": "sieben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-042",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eeins\u201C?",
+        "explanation": "um \u2014 eins. Um steht beim Z\u00E4hlen f\u00FCr eins. Vor einem m\u00E4nnlichen Nomen: um caf\u00E9; vor einem weiblichen: uma pessoa. Um kann auch ein unbestimmter Artikel sein; die Bedeutung ergibt sich aus dem Satz. Quero um caf\u00E9, por favor. \u2014 Ich m\u00F6chte einen Kaffee, bitte.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "dois"
+          },
+          {
+            "id": "d2",
+            "text": "tr\u00EAs"
+          },
+          {
+            "id": "d5",
+            "text": "irm\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "um"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-043",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau ein Buch hast?",
+        "explanation": "um bezeichnet die Zahl 1. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tenho tr\u00EAs livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho dois livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-044",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezwei\u201C?",
+        "explanation": "dois \u2014 zwei. Dois steht f\u00FCr 2 vor m\u00E4nnlichen Nomen: dois livros = zwei B\u00FCcher. Vor weiblichen Nomen hei\u00DFt es duas, etwa duas pessoas. Tenho bedeutet ich habe. Tenho dois livros. \u2014 Ich habe zwei B\u00FCcher.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "dois"
+          },
+          {
+            "id": "d8",
+            "text": "sete"
+          },
+          {
+            "id": "d1",
+            "text": "tr\u00EAs"
+          },
+          {
+            "id": "d9",
+            "text": "dez"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-045",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 2 B\u00FCcher hast?",
+        "explanation": "dois bezeichnet die Zahl 2. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho tr\u00EAs livros."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-046",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Enull\u201C?",
+        "explanation": "zero \u2014 null. Zero steht f\u00FCr 0. Im Beispiel nennt zero die Temperatur: zero grau = null Grad. Beim einzelnen Nennen einer Ziffer hei\u00DFt 0 ebenfalls zero. A temperatura est\u00E1 em zero grau. \u2014 Die Temperatur liegt bei null Grad.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "zero"
+          },
+          {
+            "id": "d0",
+            "text": "quatro, cinco"
+          },
+          {
+            "id": "d1",
+            "text": "dois"
+          },
+          {
+            "id": "d7",
+            "text": "oito"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-047",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 0 B\u00FCcher hast?",
+        "explanation": "zero bezeichnet die Zahl 0. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tenho tr\u00EAs livros."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho um livro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-048",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Evier\u201C?",
+        "explanation": "quatro \u2014 vier. Quatro steht f\u00FCr 4 und ver\u00E4ndert sich vor m\u00E4nnlichen oder weiblichen Nomen nicht. S\u00E3o quatro pessoas bedeutet es sind vier Personen; pessoas ist die Mehrzahl von pessoa. S\u00E3o quatro pessoas. \u2014 Es sind vier Personen.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "dez"
+          },
+          {
+            "id": "d4",
+            "text": "cinco"
+          },
+          {
+            "id": "answer",
+            "text": "quatro"
+          },
+          {
+            "id": "d11",
+            "text": "zero"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-049",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 4 B\u00FCcher hast?",
+        "explanation": "quatro bezeichnet die Zahl 4. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho quatro livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-050",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ef\u00FCnf\u201C?",
+        "explanation": "cinco \u2014 f\u00FCnf. Cinco steht f\u00FCr 5. Quero cinco ma\u00E7\u00E3s hei\u00DFt ich m\u00F6chte f\u00FCnf \u00C4pfel. Ma\u00E7\u00E3s ist die Mehrzahl von ma\u00E7\u00E3; die Zahl cinco bleibt unver\u00E4ndert. Quero cinco ma\u00E7\u00E3s. \u2014 Ich m\u00F6chte f\u00FCnf \u00C4pfel.",
+        "options": [
+          {
+            "id": "d4",
+            "text": "pessoa"
+          },
+          {
+            "id": "d7",
+            "text": "real"
+          },
+          {
+            "id": "answer",
+            "text": "cinco"
+          },
+          {
+            "id": "d8",
+            "text": "sete"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-051",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 5 B\u00FCcher hast?",
+        "explanation": "cinco bezeichnet die Zahl 5. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tenho cinco livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-052",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Edrei\u201C?",
+        "explanation": "tr\u00EAs \u2014 drei. Tr\u00EAs steht f\u00FCr 3. Die Form ist bei m\u00E4nnlichen und weiblichen Nomen gleich. Tr\u00EAs canetas bedeutet drei Stifte; der Zirkumflex in tr\u00EAs geh\u00F6rt zur Schreibweise. Tenho tr\u00EAs canetas. \u2014 Ich habe drei Stifte.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "cinco"
+          },
+          {
+            "id": "d10",
+            "text": "zero"
+          },
+          {
+            "id": "d0",
+            "text": "quatro, cinco"
+          },
+          {
+            "id": "answer",
+            "text": "tr\u00EAs"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-053",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 3 B\u00FCcher hast?",
+        "explanation": "tr\u00EAs bezeichnet die Zahl 3. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tenho tr\u00EAs livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-054",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esieben\u201C?",
+        "explanation": "sete \u2014 sieben. Sete steht f\u00FCr 7. A semana hei\u00DFt die Woche; sete dias bedeutet sieben Tage. Damit wird eine Anzahl genannt, noch kein einzelner Wochentag. A semana tem sete dias. \u2014 Die Woche hat sieben Tage.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "quatro"
+          },
+          {
+            "id": "d9",
+            "text": "dez"
+          },
+          {
+            "id": "d3",
+            "text": "um"
+          },
+          {
+            "id": "answer",
+            "text": "sete"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-055",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 7 B\u00FCcher hast?",
+        "explanation": "sete bezeichnet die Zahl 7. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho sete livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-056",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eacht\u201C?",
+        "explanation": "oito \u2014 acht. Oito steht f\u00FCr 8. Bei einem Preis bedeutet S\u00E3o oito reais: Das macht acht Reais. Reais ist die Mehrzahl der W\u00E4hrung real; der Betrag ist nur ein Lernbeispiel. S\u00E3o oito reais. \u2014 Das macht acht Reais.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "dois"
+          },
+          {
+            "id": "d1",
+            "text": "s\u00F3"
+          },
+          {
+            "id": "d3",
+            "text": "meio"
+          },
+          {
+            "id": "answer",
+            "text": "oito"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-057",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03-3",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 8 B\u00FCcher hast?",
+        "explanation": "oito bezeichnet die Zahl 8. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho oito livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-058",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esechs\u201C?",
+        "explanation": "seis \u2014 sechs. Seis steht f\u00FCr 6: seis livros = sechs B\u00FCcher. Sete steht dagegen f\u00FCr 7. Die Form seis bleibt vor m\u00E4nnlichen und weiblichen Nomen gleich. Tenho seis livros. \u2014 Ich habe sechs B\u00FCcher.",
+        "options": [
+          {
+            "id": "d7",
+            "text": "oito"
+          },
+          {
+            "id": "d2",
+            "text": "tr\u00EAs"
+          },
+          {
+            "id": "d11",
+            "text": "zero"
+          },
+          {
+            "id": "answer",
+            "text": "seis"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-059",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 6 B\u00FCcher hast?",
+        "explanation": "seis bezeichnet die Zahl 6. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho seis livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-060",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezehn\u201C?",
+        "explanation": "dez \u2014 zehn. Dez steht f\u00FCr 10. Tenho dez livros hei\u00DFt ich habe zehn B\u00FCcher. Dez bleibt unver\u00E4ndert; nicht mit dois = zwei verwechseln. Tenho dez livros. \u2014 Ich habe zehn B\u00FCcher.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "dois"
+          },
+          {
+            "id": "answer",
+            "text": "dez"
+          },
+          {
+            "id": "d9",
+            "text": "sete"
+          },
+          {
+            "id": "d6",
+            "text": "irm\u00E3o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-061",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04-2",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 10 B\u00FCcher hast?",
+        "explanation": "dez bezeichnet die Zahl 10. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho dez livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-062",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eneun\u201C?",
+        "explanation": "nove \u2014 neun. Nove steht f\u00FCr 9. Moedas sind M\u00FCnzen; nove moedas bedeutet neun M\u00FCnzen. Die Zahl ver\u00E4ndert sich vor m\u00E4nnlichen und weiblichen Nomen nicht. Tenho nove moedas. \u2014 Ich habe neun M\u00FCnzen.",
+        "options": [
+          {
+            "id": "d6",
+            "text": "de manh\u00E3"
+          },
+          {
+            "id": "d7",
+            "text": "quatro, cinco"
+          },
+          {
+            "id": "answer",
+            "text": "nove"
+          },
+          {
+            "id": "d3",
+            "text": "encontrar-se"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-063",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du genau 9 B\u00FCcher hast?",
+        "explanation": "nove bezeichnet die Zahl 9. Die anderen Aussagen nennen andere Mengen.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tenho dois livros."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tenho um livro."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tenho zero livros."
+          },
+          {
+            "id": "answer",
+            "text": "Tenho nove livros."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-064",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EPerson\u201C?",
+        "explanation": "pessoa \u2014 Person. A pessoa, Plural pessoas. Das portugiesische Nomen ist grammatisch weiblich, unabh\u00E4ngig von der bezeichneten Person: uma pessoa, duas pessoas. Na sala bedeutet hier im Wohnzimmer. Tem uma pessoa na sala. \u2014 Im Wohnzimmer ist eine Person.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "irm\u00E3o"
+          },
+          {
+            "id": "d4",
+            "text": "oito"
+          },
+          {
+            "id": "answer",
+            "text": "pessoa"
+          },
+          {
+            "id": "d2",
+            "text": "cinco"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-065",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass genau eine Person im Raum ist?",
+        "explanation": "Uma pessoa bezeichnet genau eine Person; uma ist die weibliche Form vor pessoa.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Tem tr\u00EAs pessoas na sala."
+          },
+          {
+            "id": "answer",
+            "text": "Tem uma pessoa na sala."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tem duas pessoas na sala."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem uma mesa na sala."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-066",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezwei (weiblich)\u201C?",
+        "explanation": "duas \u2014 zwei (weiblich). Duas ist die weibliche Form der Zahl 2. A mesa ist im Portugiesischen weiblich, daher duas mesas; das deutsche Wort Tisch ist daf\u00FCr nicht ma\u00DFgeblich. Livres bedeutet hier frei. Tem duas mesas livres. \u2014 Es sind zwei Tische frei.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "duas"
+          },
+          {
+            "id": "d4",
+            "text": "pessoa"
+          },
+          {
+            "id": "d3",
+            "text": "cinco"
+          },
+          {
+            "id": "d5",
+            "text": "irm\u00E3o"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-067",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du suchst genau zwei freie Tische. Welche Aussage nennt diese Zahl mit der passenden Form?",
+        "explanation": "Mesas ist weiblich; die passende Zahlform ist duas, nicht dois.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Tem duas mesas livres."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Tem tr\u00EAs mesas livres."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Tem uma mesa livre."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Tem dois mesas livres."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-068",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBruder\u201C?",
+        "explanation": "irm\u00E3o \u2014 Bruder. O irm\u00E3o, Plural irm\u00E3os. Meu irm\u00E3o hei\u00DFt mein Bruder; mora aqui bedeutet wohnt hier. Irm\u00E3os kann je nach Kontext Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen. Meu irm\u00E3o mora aqui. \u2014 Mein Bruder wohnt hier.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "pai"
+          },
+          {
+            "id": "answer",
+            "text": "irm\u00E3o"
+          },
+          {
+            "id": "d6",
+            "text": "irm\u00E3"
+          },
+          {
+            "id": "d11",
+            "text": "oito"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-069",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EMein Bruder wohnt hier\u201C?",
+        "explanation": "Irm\u00E3o bedeutet Bruder; irm\u00E3 bedeutet Schwester und aqui hei\u00DFt hier.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Meu irm\u00E3o mora aqui."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Minha irm\u00E3 mora aqui."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Meu amigo mora aqui."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Meu irm\u00E3o mora em Berlim."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-070",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EReal (brasilianische W\u00E4hrung)\u201C?",
+        "explanation": "real \u2014 Real (brasilianische W\u00E4hrung). O real ist hier die brasilianische W\u00E4hrung; die Mehrzahl hei\u00DFt reais. Bei Preisen: um real, dois reais. Custa bedeutet kostet. Der Beispielsatz ist keine aktuelle Preisangabe. Um p\u00E3o custa um real. \u2014 Ein Brot kostet einen Real.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "real"
+          },
+          {
+            "id": "d9",
+            "text": "quatro"
+          },
+          {
+            "id": "d3",
+            "text": "pessoa"
+          },
+          {
+            "id": "d8",
+            "text": "zero"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-071",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Ein Brot kostet genau einen Real. Welche Preisangabe stimmt?",
+        "explanation": "Real ist die Einzahl der brasilianischen W\u00E4hrung; die Mehrzahl ist reais.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Um p\u00E3o custa um real."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Um p\u00E3o custa dois reais."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Um p\u00E3o custa dez reais."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Um p\u00E3o custa cinco reais."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

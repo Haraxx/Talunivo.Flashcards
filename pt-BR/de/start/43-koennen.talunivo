@@ -1,91 +1,936 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-43-koennen",
-  "packageVersion": 4,
-  "title": "43 · Können und Erlaubnis",
+  "packageVersion": 6,
+  "title": "43 \u00B7 K\u00F6nnen und Erlaubnis",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "falar",
       "translation": "sprechen",
-      "isVocabulary": true,
-      "example": "Você fala português?",
+      "example": "Voc\u00EA fala portugu\u00EAs?",
       "exampleTranslation": "Sprichst du Portugiesisch?",
-      "explanation": "Falar heißt sprechen. Fala gehört im Präsens hier zu você; português bezeichnet die Sprache und wird klein geschrieben. Die Frage betrifft Sprachkenntnisse, nennt aber noch kein bestimmtes Niveau."
+      "explanation": "Falar hei\u00DFt sprechen. Fala geh\u00F6rt im Pr\u00E4sens hier zu voc\u00EA; portugu\u00EAs bezeichnet die Sprache und wird klein geschrieben. Die Frage betrifft Sprachkenntnisse, nennt aber noch kein bestimmtes Niveau.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "saber",
-      "translation": "können; wissen",
-      "isVocabulary": true,
-      "example": "Ainda não sei nadar.",
+      "translation": "k\u00F6nnen; wissen",
+      "example": "Ainda n\u00E3o sei nadar.",
       "exampleTranslation": "Ich kann noch nicht schwimmen.",
-      "explanation": "Saber heißt wissen oder, mit Infinitiv, eine Tätigkeit können. Sei ist die Ich-Form; ainda não bedeutet noch nicht. Sei nadar beschreibt Schwimmfähigkeit. Posso nadar kann dagegen je nach Situation Möglichkeit oder Erlaubnis ausdrücken."
+      "explanation": "Saber hei\u00DFt wissen oder, mit Infinitiv, eine T\u00E4tigkeit k\u00F6nnen. Sei ist die Ich-Form; ainda n\u00E3o bedeutet noch nicht. Sei nadar beschreibt Schwimmf\u00E4higkeit. Posso nadar kann dagegen je nach Situation M\u00F6glichkeit oder Erlaubnis ausdr\u00FCcken.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "cozinhar",
       "translation": "kochen",
-      "isVocabulary": true,
-      "example": "Você sabe cozinhar?",
+      "example": "Voc\u00EA sabe cozinhar?",
       "exampleTranslation": "Kannst du kochen?",
-      "explanation": "Cozinhar heißt kochen im Sinn von Essen zubereiten. Sabe ist hier die Form von saber zu você. Sabe cozinhar? fragt nach der Fähigkeit, nicht danach, ob die Person gerade Zeit zum Kochen hat oder gern kocht."
+      "explanation": "Cozinhar hei\u00DFt kochen im Sinn von Essen zubereiten. Sabe ist hier die Form von saber zu voc\u00EA. Sabe cozinhar? fragt nach der F\u00E4higkeit, nicht danach, ob die Person gerade Zeit zum Kochen hat oder gern kocht.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "sentar",
       "translation": "sich setzen",
-      "isVocabulary": true,
       "example": "Posso sentar aqui?",
       "exampleTranslation": "Darf ich mich hier hinsetzen?",
-      "explanation": "Sentar heißt hier sich setzen; im brasilianischen Alltag ist die Form ohne Reflexivpronomen üblich. Posso sentar aqui? fragt, ob ich mich hier hinsetzen darf oder kann. Auch sentar-se ist möglich."
+      "explanation": "Sentar hei\u00DFt hier sich setzen; im brasilianischen Alltag ist die Form ohne Reflexivpronomen \u00FCblich. Posso sentar aqui? fragt, ob ich mich hier hinsetzen darf oder kann. Auch sentar-se ist m\u00F6glich.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "usar",
       "translation": "benutzen",
-      "isVocabulary": true,
       "example": "Pode usar meu telefone.",
       "exampleTranslation": "Du darfst mein Telefon benutzen.",
-      "explanation": "Usar heißt hier benutzen. Meu telefone bedeutet mein Telefon. Pode usar … ist in dieser Situation eine Erlaubnis oder ein Angebot; je nach Gespräch kann pode auch eine Möglichkeit ausdrücken. Usar im Apothekenpaket bezeichnet die Anwendung."
+      "explanation": "Usar hei\u00DFt hier benutzen. Meu telefone bedeutet mein Telefon. Pode usar \u2026 ist in dieser Situation eine Erlaubnis oder ein Angebot; je nach Gespr\u00E4ch kann pode auch eine M\u00F6glichkeit ausdr\u00FCcken. Usar im Apothekenpaket bezeichnet die Anwendung.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "sair",
       "translation": "weggehen",
-      "isVocabulary": true,
-      "example": "Não posso sair agora.",
+      "example": "N\u00E3o posso sair agora.",
       "exampleTranslation": "Ich kann jetzt nicht weggehen.",
-      "explanation": "Sair bedeutet hier weggehen, in anderem Zusammenhang auch ausgehen oder hinausgehen. Não posso verneint eine Möglichkeit oder Erlaubnis; agora heißt jetzt. Warum die Person nicht weggehen kann, bleibt offen."
+      "explanation": "Sair bedeutet hier weggehen, in anderem Zusammenhang auch ausgehen oder hinausgehen. N\u00E3o posso verneint eine M\u00F6glichkeit oder Erlaubnis; agora hei\u00DFt jetzt. Warum die Person nicht weggehen kann, bleibt offen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "abrir",
-      "translation": "öffnen",
-      "isVocabulary": true,
-      "example": "Você pode abrir isto, por favor?",
-      "exampleTranslation": "Kannst du das hier bitte öffnen?",
-      "explanation": "Abrir heißt öffnen und ist aus Paket 31 bekannt. Isto bedeutet hier dies oder das hier; der Gegenstand ergibt sich aus der Situation. Você pode + Infinitiv kann als Bitte verwendet werden, statt nur eine Fähigkeit abzufragen."
+      "translation": "\u00F6ffnen",
+      "example": "Voc\u00EA pode abrir isto, por favor?",
+      "exampleTranslation": "Kannst du das hier bitte \u00F6ffnen?",
+      "explanation": "Abrir hei\u00DFt \u00F6ffnen und ist aus Paket 31 bekannt. Isto bedeutet hier dies oder das hier; der Gegenstand ergibt sich aus der Situation. Voc\u00EA pode \u002B Infinitiv kann als Bitte verwendet werden, statt nur eine F\u00E4higkeit abzufragen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Können und Erlaubnis",
+      "topic": "K\u00F6nnen und Erlaubnis",
       "expression": "fumar",
       "translation": "rauchen",
-      "isVocabulary": true,
-      "example": "Aqui não pode fumar.",
+      "example": "Aqui n\u00E3o pode fumar.",
       "exampleTranslation": "Hier darf man nicht rauchen.",
-      "explanation": "Fumar heißt rauchen. Aqui não pode fumar drückt im brasilianischen Alltagsgebrauch hier ein Verbot aus. Die handelnde Person bleibt allgemein. Die Aussage ist ein erfundenes Sprachbeispiel, keine Auskunft über einen realen Ort."
+      "explanation": "Fumar hei\u00DFt rauchen. Aqui n\u00E3o pode fumar dr\u00FCckt im brasilianischen Alltagsgebrauch hier ein Verbot aus. Die handelnde Person bleibt allgemein. Die Aussage ist ein erfundenes Sprachbeispiel, keine Auskunft \u00FCber einen realen Ort.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Einfache M\u00F6glichkeiten, F\u00E4higkeiten und Bitten mit den gelernten Ausdr\u00FCcken verstehen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Grundform des Verbs f\u00FCr wissen beziehungsweise eine T\u00E4tigkeit k\u00F6nnen aus diesem Paket, ohne Personalpronomen.",
+        "explanation": "Saber ist die gelernte Grundform. Saber \u002B Infinitiv beschreibt eine F\u00E4higkeit; poder kann M\u00F6glichkeit oder Erlaubnis ausdr\u00FCcken.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "saber"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte Grundform des Verbs f\u00FCr sich setzen aus diesem Paket, ausdr\u00FCcklich ohne Reflexiv- oder Personalpronomen.",
+        "explanation": "Die gefragte gelernte Form ist sentar. Auch sentar-se ist m\u00F6glich; hier wird ausdr\u00FCcklich die Form ohne Reflexivpronomen abgerufen.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "sentar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "falar \u2014 sprechen. Falar hei\u00DFt sprechen. Fala geh\u00F6rt im Pr\u00E4sens hier zu voc\u00EA; portugu\u00EAs bezeichnet die Sprache und wird klein geschrieben. Die Frage betrifft Sprachkenntnisse, nennt aber noch kein bestimmtes Niveau. Voc\u00EA fala portugu\u00EAs? \u2014 Sprichst du Portugiesisch?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "kochen"
+          },
+          {
+            "id": "answer",
+            "text": "sprechen"
+          },
+          {
+            "id": "d1",
+            "text": "sich setzen"
+          },
+          {
+            "id": "d0",
+            "text": "\u00F6ffnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "falar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efalar\u201C?",
+        "explanation": "falar \u2014 sprechen. Falar hei\u00DFt sprechen. Fala geh\u00F6rt im Pr\u00E4sens hier zu voc\u00EA; portugu\u00EAs bezeichnet die Sprache und wird klein geschrieben. Die Frage betrifft Sprachkenntnisse, nennt aber noch kein bestimmtes Niveau. Voc\u00EA fala portugu\u00EAs? \u2014 Sprichst du Portugiesisch?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "kochen"
+          },
+          {
+            "id": "answer",
+            "text": "sprechen"
+          },
+          {
+            "id": "d2",
+            "text": "weggehen"
+          },
+          {
+            "id": "d1",
+            "text": "sich setzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVoc\u00EA sabe cozinhar?\u201C",
+        "explanation": "cozinhar \u2014 kochen. Cozinhar hei\u00DFt kochen im Sinn von Essen zubereiten. Sabe ist hier die Form von saber zu voc\u00EA. Sabe cozinhar? fragt nach der F\u00E4higkeit, nicht danach, ob die Person gerade Zeit zum Kochen hat oder gern kocht. Voc\u00EA sabe cozinhar? \u2014 Kannst du kochen?",
+        "options": [
+          {
+            "id": "d11",
+            "text": "Fu\u00DFball"
+          },
+          {
+            "id": "d3",
+            "text": "sich setzen"
+          },
+          {
+            "id": "answer",
+            "text": "kochen"
+          },
+          {
+            "id": "d7",
+            "text": "rauchen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "cozinhar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Ecozinhar\u201C in diesem Beispiel? \u201EVoc\u00EA sabe cozinhar?\u201C",
+        "explanation": "cozinhar \u2014 kochen. Cozinhar hei\u00DFt kochen im Sinn von Essen zubereiten. Sabe ist hier die Form von saber zu voc\u00EA. Sabe cozinhar? fragt nach der F\u00E4higkeit, nicht danach, ob die Person gerade Zeit zum Kochen hat oder gern kocht. Voc\u00EA sabe cozinhar? \u2014 Kannst du kochen?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "lesen"
+          },
+          {
+            "id": "answer",
+            "text": "kochen"
+          },
+          {
+            "id": "d5",
+            "text": "sprechen"
+          },
+          {
+            "id": "d7",
+            "text": "rauchen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EPode usar meu telefone.\u201C",
+        "explanation": "usar \u2014 benutzen. Usar hei\u00DFt hier benutzen. Meu telefone bedeutet mein Telefon. Pode usar \u2026 ist in dieser Situation eine Erlaubnis oder ein Angebot; je nach Gespr\u00E4ch kann pode auch eine M\u00F6glichkeit ausdr\u00FCcken. Usar im Apothekenpaket bezeichnet die Anwendung. Pode usar meu telefone. \u2014 Du darfst mein Telefon benutzen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "benutzen"
+          },
+          {
+            "id": "d0",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "d4",
+            "text": "rauchen"
+          },
+          {
+            "id": "d3",
+            "text": "sprechen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "usar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eusar\u201C in diesem Beispiel? \u201EPode usar meu telefone.\u201C",
+        "explanation": "usar \u2014 benutzen. Usar hei\u00DFt hier benutzen. Meu telefone bedeutet mein Telefon. Pode usar \u2026 ist in dieser Situation eine Erlaubnis oder ein Angebot; je nach Gespr\u00E4ch kann pode auch eine M\u00F6glichkeit ausdr\u00FCcken. Usar im Apothekenpaket bezeichnet die Anwendung. Pode usar meu telefone. \u2014 Du darfst mein Telefon benutzen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "k\u00F6nnen; wissen"
+          },
+          {
+            "id": "d4",
+            "text": "rauchen"
+          },
+          {
+            "id": "answer",
+            "text": "benutzen"
+          },
+          {
+            "id": "d3",
+            "text": "sprechen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o posso sair agora.\u201C",
+        "explanation": "sair \u2014 weggehen. Sair bedeutet hier weggehen, in anderem Zusammenhang auch ausgehen oder hinausgehen. N\u00E3o posso verneint eine M\u00F6glichkeit oder Erlaubnis; agora hei\u00DFt jetzt. Warum die Person nicht weggehen kann, bleibt offen. N\u00E3o posso sair agora. \u2014 Ich kann jetzt nicht weggehen.",
+        "options": [
+          {
+            "id": "d2",
+            "text": "sprechen"
+          },
+          {
+            "id": "d1",
+            "text": "sich setzen"
+          },
+          {
+            "id": "d4",
+            "text": "benutzen"
+          },
+          {
+            "id": "answer",
+            "text": "weggehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "sair",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esair\u201C in diesem Beispiel? \u201EN\u00E3o posso sair agora.\u201C",
+        "explanation": "sair \u2014 weggehen. Sair bedeutet hier weggehen, in anderem Zusammenhang auch ausgehen oder hinausgehen. N\u00E3o posso verneint eine M\u00F6glichkeit oder Erlaubnis; agora hei\u00DFt jetzt. Warum die Person nicht weggehen kann, bleibt offen. N\u00E3o posso sair agora. \u2014 Ich kann jetzt nicht weggehen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "answer",
+            "text": "weggehen"
+          },
+          {
+            "id": "d6",
+            "text": "kochen"
+          },
+          {
+            "id": "d1",
+            "text": "sich setzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVoc\u00EA pode abrir isto, por favor?\u201C",
+        "explanation": "abrir \u2014 \u00F6ffnen. Abrir hei\u00DFt \u00F6ffnen und ist aus Paket 31 bekannt. Isto bedeutet hier dies oder das hier; der Gegenstand ergibt sich aus der Situation. Voc\u00EA pode \u002B Infinitiv kann als Bitte verwendet werden, statt nur eine F\u00E4higkeit abzufragen. Voc\u00EA pode abrir isto, por favor? \u2014 Kannst du das hier bitte \u00F6ffnen?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "schlie\u00DFen"
+          },
+          {
+            "id": "d3",
+            "text": "weggehen"
+          },
+          {
+            "id": "d4",
+            "text": "sprechen"
+          },
+          {
+            "id": "answer",
+            "text": "\u00F6ffnen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "abrir",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eabrir\u201C in diesem Beispiel? \u201EVoc\u00EA pode abrir isto, por favor?\u201C",
+        "explanation": "abrir \u2014 \u00F6ffnen. Abrir hei\u00DFt \u00F6ffnen und ist aus Paket 31 bekannt. Isto bedeutet hier dies oder das hier; der Gegenstand ergibt sich aus der Situation. Voc\u00EA pode \u002B Infinitiv kann als Bitte verwendet werden, statt nur eine F\u00E4higkeit abzufragen. Voc\u00EA pode abrir isto, por favor? \u2014 Kannst du das hier bitte \u00F6ffnen?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "weggehen"
+          },
+          {
+            "id": "answer",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "d0",
+            "text": "Licht"
+          },
+          {
+            "id": "d9",
+            "text": "W\u00E4sche; Kleidung"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "fumar \u2014 rauchen. Fumar hei\u00DFt rauchen. Aqui n\u00E3o pode fumar dr\u00FCckt im brasilianischen Alltagsgebrauch hier ein Verbot aus. Die handelnde Person bleibt allgemein. Die Aussage ist ein erfundenes Sprachbeispiel, keine Auskunft \u00FCber einen realen Ort. Aqui n\u00E3o pode fumar. \u2014 Hier darf man nicht rauchen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "sprechen"
+          },
+          {
+            "id": "answer",
+            "text": "rauchen"
+          },
+          {
+            "id": "d1",
+            "text": "sich setzen"
+          },
+          {
+            "id": "d2",
+            "text": "weggehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "fumar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Efumar\u201C?",
+        "explanation": "fumar \u2014 rauchen. Fumar hei\u00DFt rauchen. Aqui n\u00E3o pode fumar dr\u00FCckt im brasilianischen Alltagsgebrauch hier ein Verbot aus. Die handelnde Person bleibt allgemein. Die Aussage ist ein erfundenes Sprachbeispiel, keine Auskunft \u00FCber einen realen Ort. Aqui n\u00E3o pode fumar. \u2014 Hier darf man nicht rauchen.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "\u00F6ffnen"
+          },
+          {
+            "id": "d1",
+            "text": "sich setzen"
+          },
+          {
+            "id": "answer",
+            "text": "rauchen"
+          },
+          {
+            "id": "d4",
+            "text": "benutzen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esprechen\u201C?",
+        "explanation": "falar \u2014 sprechen. Falar hei\u00DFt sprechen. Fala geh\u00F6rt im Pr\u00E4sens hier zu voc\u00EA; portugu\u00EAs bezeichnet die Sprache und wird klein geschrieben. Die Frage betrifft Sprachkenntnisse, nennt aber noch kein bestimmtes Niveau. Voc\u00EA fala portugu\u00EAs? \u2014 Sprichst du Portugiesisch?",
+        "options": [
+          {
+            "id": "d6",
+            "text": "cozinhar"
+          },
+          {
+            "id": "answer",
+            "text": "falar"
+          },
+          {
+            "id": "d3",
+            "text": "fumar"
+          },
+          {
+            "id": "d1",
+            "text": "sentar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage erkundigt sich, ob dein Gegen\u00FCber Portugiesisch spricht?",
+        "explanation": "Voc\u00EA fala portugu\u00EAs? fragt nach Sprachkenntnissen, ohne ein bestimmtes Niveau zu nennen.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA sabe cozinhar?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Voc\u00EA pode abrir isto, por favor?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA fala alem\u00E3o?"
+          },
+          {
+            "id": "answer",
+            "text": "Voc\u00EA fala portugu\u00EAs?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ekochen\u201C? Zusammenhang: bei einer Frage nach einer F\u00E4higkeit mit einer Mahlzeit als Bezug.",
+        "explanation": "cozinhar \u2014 kochen. Cozinhar hei\u00DFt kochen im Sinn von Essen zubereiten. Sabe ist hier die Form von saber zu voc\u00EA. Sabe cozinhar? fragt nach der F\u00E4higkeit, nicht danach, ob die Person gerade Zeit zum Kochen hat oder gern kocht. Voc\u00EA sabe cozinhar? \u2014 Kannst du kochen?",
+        "options": [
+          {
+            "id": "d10",
+            "text": "saber"
+          },
+          {
+            "id": "answer",
+            "text": "cozinhar"
+          },
+          {
+            "id": "d7",
+            "text": "fumar"
+          },
+          {
+            "id": "d3",
+            "text": "sentar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage fragt nach der F\u00E4higkeit, Essen zuzubereiten?",
+        "explanation": "Sabe cozinhar? fragt nach der F\u00E4higkeit. Gosta de fragt nach einer Vorliebe, vai nach einem Plan und posso hier nach M\u00F6glichkeit oder Erlaubnis.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA vai cozinhar amanh\u00E3?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Posso cozinhar aqui?"
+          },
+          {
+            "id": "answer",
+            "text": "Voc\u00EA sabe cozinhar?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA gosta de cozinhar?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ebenutzen\u201C? Zusammenhang: bei einem Angebot zum eigenen Telefon.",
+        "explanation": "usar \u2014 benutzen. Usar hei\u00DFt hier benutzen. Meu telefone bedeutet mein Telefon. Pode usar \u2026 ist in dieser Situation eine Erlaubnis oder ein Angebot; je nach Gespr\u00E4ch kann pode auch eine M\u00F6glichkeit ausdr\u00FCcken. Usar im Apothekenpaket bezeichnet die Anwendung. Pode usar meu telefone. \u2014 Du darfst mein Telefon benutzen.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "falar"
+          },
+          {
+            "id": "answer",
+            "text": "usar"
+          },
+          {
+            "id": "d2",
+            "text": "sair"
+          },
+          {
+            "id": "d1",
+            "text": "sentar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bietest einer Person an, dein Telefon zu benutzen. Welche Aussage passt?",
+        "explanation": "Pode usar meu telefone ist hier eine Erlaubnis oder ein Angebot. Die Situation legt diese Verwendung fest.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Pode me mandar uma mensagem?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o pode usar meu telefone."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso usar seu telefone?"
+          },
+          {
+            "id": "answer",
+            "text": "Pode usar meu telefone."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Eweggehen\u201C? Zusammenhang: bei einer Aussage \u00FCber eine aktuelle M\u00F6glichkeit oder Erlaubnis.",
+        "explanation": "sair \u2014 weggehen. Sair bedeutet hier weggehen, in anderem Zusammenhang auch ausgehen oder hinausgehen. N\u00E3o posso verneint eine M\u00F6glichkeit oder Erlaubnis; agora hei\u00DFt jetzt. Warum die Person nicht weggehen kann, bleibt offen. N\u00E3o posso sair agora. \u2014 Ich kann jetzt nicht weggehen.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "saber"
+          },
+          {
+            "id": "answer",
+            "text": "sair"
+          },
+          {
+            "id": "d1",
+            "text": "sentar"
+          },
+          {
+            "id": "d0",
+            "text": "abrir"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt, dass du jetzt nicht weggehen kannst oder darfst, ohne einen Grund festzulegen?",
+        "explanation": "N\u00E3o posso sair agora verneint eine aktuelle M\u00F6glichkeit oder Erlaubnis. N\u00E3o vou sair hoje w\u00E4re dagegen ein verneinter Plan.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Vou sair amanh\u00E3."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Posso sair agora."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o vou sair hoje."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o posso sair agora."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201E\u00F6ffnen\u201C? Zusammenhang: bei einer h\u00F6flichen Bitte zu einem gezeigten Gegenstand.",
+        "explanation": "abrir \u2014 \u00F6ffnen. Abrir hei\u00DFt \u00F6ffnen und ist aus Paket 31 bekannt. Isto bedeutet hier dies oder das hier; der Gegenstand ergibt sich aus der Situation. Voc\u00EA pode \u002B Infinitiv kann als Bitte verwendet werden, statt nur eine F\u00E4higkeit abzufragen. Voc\u00EA pode abrir isto, por favor? \u2014 Kannst du das hier bitte \u00F6ffnen?",
+        "options": [
+          {
+            "id": "d1",
+            "text": "apagar"
+          },
+          {
+            "id": "d8",
+            "text": "lixo"
+          },
+          {
+            "id": "answer",
+            "text": "abrir"
+          },
+          {
+            "id": "d7",
+            "text": "fumar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Frage bittet h\u00F6flich darum, das hier zu \u00F6ffnen?",
+        "explanation": "Voc\u00EA pode abrir isto, por favor? ist hier eine Bitte. Isto bezeichnet den Gegenstand, der sich aus der Situation ergibt.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA pode escrever isto, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Voc\u00EA pode abrir isto, por favor?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "O que voc\u00EA vai fazer amanh\u00E3?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Voc\u00EA pode fechar isto, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Erauchen\u201C?",
+        "explanation": "fumar \u2014 rauchen. Fumar hei\u00DFt rauchen. Aqui n\u00E3o pode fumar dr\u00FCckt im brasilianischen Alltagsgebrauch hier ein Verbot aus. Die handelnde Person bleibt allgemein. Die Aussage ist ein erfundenes Sprachbeispiel, keine Auskunft \u00FCber einen realen Ort. Aqui n\u00E3o pode fumar. \u2014 Hier darf man nicht rauchen.",
+        "options": [
+          {
+            "id": "d1",
+            "text": "sentar"
+          },
+          {
+            "id": "answer",
+            "text": "fumar"
+          },
+          {
+            "id": "d2",
+            "text": "sair"
+          },
+          {
+            "id": "d5",
+            "text": "saber"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet in einem erfundenen Beispiel ausdr\u00FCcklich, dass man hier nicht rauchen darf?",
+        "explanation": "Aqui n\u00E3o pode fumar dr\u00FCckt in diesem Sprachbeispiel ein Verbot aus. Die Aussage beschreibt keinen tats\u00E4chlichen Ort.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Aqui n\u00E3o pode fumar."
+          },
+          {
+            "id": "wrong-1",
+            "text": "N\u00E3o quero fumar."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode fumar aqui."
+          },
+          {
+            "id": "wrong-2",
+            "text": "Vou sair agora."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }

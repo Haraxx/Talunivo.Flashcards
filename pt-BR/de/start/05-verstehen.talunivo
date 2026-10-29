@@ -1,9 +1,9 @@
 {
   "format": "talunivo",
-  "schemaVersion": 2,
+  "schemaVersion": 4,
   "packageId": "start-ptbr-05-verstehen",
-  "packageVersion": 4,
-  "title": "05 · Verstehen und Nachfragen",
+  "packageVersion": 6,
+  "title": "05 \u00B7 Verstehen und Nachfragen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,80 +12,925 @@
       "topic": "Verstehen und Nachfragen",
       "expression": "entender",
       "translation": "verstehen",
-      "isVocabulary": true,
-      "example": "Não entendi.",
+      "example": "N\u00E3o entendi.",
       "exampleTranslation": "Ich habe es nicht verstanden.",
-      "explanation": "Entender bedeutet verstehen. Entendi ist hier die Vergangenheitsform für ich habe verstanden; não verneint sie. Não entendi heißt ich habe es nicht verstanden. Die Gegenwartsform wäre não entendo."
+      "explanation": "Entender bedeutet verstehen. Entendi ist hier die Vergangenheitsform f\u00FCr ich habe verstanden; n\u00E3o verneint sie. N\u00E3o entendi hei\u00DFt ich habe es nicht verstanden. Die Gegenwartsform w\u00E4re n\u00E3o entendo.",
+      "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Verstehen und Nachfragen",
       "expression": "devagar",
       "translation": "langsam",
-      "isVocabulary": true,
       "example": "Pode falar mais devagar, por favor?",
       "exampleTranslation": "Kannst du bitte langsamer sprechen?",
-      "explanation": "Devagar bedeutet langsam, mais devagar langsamer. Pode falar …? heißt hier kannst du … sprechen? Die Bitte betrifft das Sprechtempo; pode repetir? bittet darum, etwas zu wiederholen."
+      "explanation": "Devagar bedeutet langsam, mais devagar langsamer. Pode falar \u2026? hei\u00DFt hier kannst du \u2026 sprechen? Die Bitte betrifft das Sprechtempo; pode repetir? bittet darum, etwas zu wiederholen.",
+      "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Verstehen und Nachfragen",
       "expression": "significar",
       "translation": "bedeuten",
-      "isVocabulary": true,
       "example": "O que isso significa?",
       "exampleTranslation": "Was bedeutet das?",
-      "explanation": "Significar bedeutet bedeuten. Significa ist die hier verwendete Form; isso heißt das. O que isso significa? fragt nach der Bedeutung eines Wortes, Ausdrucks oder gezeigten Zeichens."
+      "explanation": "Significar bedeutet bedeuten. Significa ist die hier verwendete Form; isso hei\u00DFt das. O que isso significa? fragt nach der Bedeutung eines Wortes, Ausdrucks oder gezeigten Zeichens.",
+      "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Verstehen und Nachfragen",
       "expression": "dizer",
       "translation": "sagen",
-      "isVocabulary": true,
-      "example": "Como se diz isso em português?",
+      "example": "Como se diz isso em portugu\u00EAs?",
       "exampleTranslation": "Wie sagt man das auf Portugiesisch?",
-      "explanation": "Dizer bedeutet sagen. Como se diz …? heißt wie sagt man …? Isso bedeutet das, em português auf Portugiesisch. Hier wird nach einem Ausdruck gefragt, nicht nach seiner Schreibweise."
+      "explanation": "Dizer bedeutet sagen. Como se diz \u2026? hei\u00DFt wie sagt man \u2026? Isso bedeutet das, em portugu\u00EAs auf Portugiesisch. Hier wird nach einem Ausdruck gefragt, nicht nach seiner Schreibweise.",
+      "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Verstehen und Nachfragen",
       "expression": "escrever",
       "translation": "schreiben",
-      "isVocabulary": true,
       "example": "Como se escreve seu nome?",
       "exampleTranslation": "Wie schreibt man deinen Namen?",
-      "explanation": "Escrever bedeutet schreiben. Como se escreve …? fragt nach der Schreibweise. Seu nome heißt hier dein Name. Die Frage kann mit geschriebenen Buchstaben oder einer buchstabierten Antwort beantwortet werden."
+      "explanation": "Escrever bedeutet schreiben. Como se escreve \u2026? fragt nach der Schreibweise. Seu nome hei\u00DFt hier dein Name. Die Frage kann mit geschriebenen Buchstaben oder einer buchstabierten Antwort beantwortet werden.",
+      "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Verstehen und Nachfragen",
-      "expression": "alemão",
+      "expression": "alem\u00E3o",
       "translation": "Deutsch (Sprache)",
-      "isVocabulary": true,
-      "example": "Você fala alemão?",
+      "example": "Voc\u00EA fala alem\u00E3o?",
       "exampleTranslation": "Sprichst du Deutsch?",
-      "explanation": "Alemão bezeichnet hier die deutsche Sprache. Sprachennamen werden im Portugiesischen kleingeschrieben. Você fala …? heißt sprichst du …? Die Bedeutung Deutscher ist in diesem Beispiel nicht gemeint."
+      "explanation": "Alem\u00E3o bezeichnet hier die deutsche Sprache. Sprachennamen werden im Portugiesischen kleingeschrieben. Voc\u00EA fala \u2026? hei\u00DFt sprichst du \u2026? Die Bedeutung Deutscher ist in diesem Beispiel nicht gemeint.",
+      "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Verstehen und Nachfragen",
       "expression": "aprender",
       "translation": "lernen",
-      "isVocabulary": true,
-      "example": "Estou aprendendo português.",
+      "example": "Estou aprendendo portugu\u00EAs.",
       "exampleTranslation": "Ich lerne gerade Portugiesisch.",
-      "explanation": "Aprender bedeutet lernen; aprendendo ist das Gerundium. Estou + Gerundium beschreibt hier den laufenden Lernprozess: Estou aprendendo português heißt ich lerne gerade Portugiesisch. Português bezeichnet die portugiesische Sprache."
+      "explanation": "Aprender bedeutet lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier den laufenden Lernprozess: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Portugu\u00EAs bezeichnet die portugiesische Sprache.",
+      "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Verstehen und Nachfragen",
       "expression": "momento",
       "translation": "Moment",
-      "isVocabulary": true,
-      "example": "Só um momento, por favor.",
+      "example": "S\u00F3 um momento, por favor.",
       "exampleTranslation": "Nur einen Moment, bitte.",
-      "explanation": "O momento, Plural momentos. Só bedeutet hier nur; só um momento heißt nur einen Moment. Por favor macht daraus eine höfliche Bitte um etwas Zeit. Der Akut gehört zu só."
+      "explanation": "O momento, Plural momentos. S\u00F3 bedeutet hier nur; s\u00F3 um momento hei\u00DFt nur einen Moment. Por favor macht daraus eine h\u00F6fliche Bitte um etwas Zeit. Der Akut geh\u00F6rt zu s\u00F3.",
+      "isVocabulary": true
     }
-  ]
+  ],
+  "learning": {
+    "level": "A0",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Bei Verst\u00E4ndigungsproblemen gelernte Wendungen zum Nichtverstehen, zu Bedeutung und Schreibweise, zum Sprachenlernen und zu langsamerem Sprechen verstehen und passend ausw\u00E4hlen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr \u201Elangsam\u201C aus diesem Paket (ein Wort): \u201EPode falar mais ____, por favor?\u201C",
+        "explanation": "Devagar bedeutet langsam, mais devagar langsamer. Die Aufgabe verlangt das gelernte Wort; in freien Gespr\u00E4chen sind auch andere Formulierungen m\u00F6glich.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "devagar"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Erg\u00E4nze den portugiesischen Namen der deutschen Sprache (ein Wort): \u201EVoc\u00EA fala ____?\u201C",
+        "explanation": "Alem\u00E3o bezeichnet hier Deutsch als Sprache. Der Akzent geh\u00F6rt zur Schreibweise. Es geht nicht um die Nationalit\u00E4t.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "alem\u00E3o"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "entender \u2014 verstehen. Entender bedeutet verstehen. Entendi ist hier die Vergangenheitsform f\u00FCr ich habe verstanden; n\u00E3o verneint sie. N\u00E3o entendi hei\u00DFt ich habe es nicht verstanden. Die Gegenwartsform w\u00E4re n\u00E3o entendo. N\u00E3o entendi. \u2014 Ich habe es nicht verstanden.",
+        "options": [
+          {
+            "id": "d9",
+            "text": "Beispiel"
+          },
+          {
+            "id": "d1",
+            "text": "Deutsch (Sprache)"
+          },
+          {
+            "id": "answer",
+            "text": "verstehen"
+          },
+          {
+            "id": "d5",
+            "text": "Frage"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "entender",
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eentender\u201C?",
+        "explanation": "entender \u2014 verstehen. Entender bedeutet verstehen. Entendi ist hier die Vergangenheitsform f\u00FCr ich habe verstanden; n\u00E3o verneint sie. N\u00E3o entendi hei\u00DFt ich habe es nicht verstanden. Die Gegenwartsform w\u00E4re n\u00E3o entendo. N\u00E3o entendi. \u2014 Ich habe es nicht verstanden.",
+        "options": [
+          {
+            "id": "d10",
+            "text": "aussprechen"
+          },
+          {
+            "id": "answer",
+            "text": "verstehen"
+          },
+          {
+            "id": "d2",
+            "text": "noch einmal"
+          },
+          {
+            "id": "d11",
+            "text": "Wort"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "significar \u2014 bedeuten. Significar bedeutet bedeuten. Significa ist die hier verwendete Form; isso hei\u00DFt das. O que isso significa? fragt nach der Bedeutung eines Wortes, Ausdrucks oder gezeigten Zeichens. O que isso significa? \u2014 Was bedeutet das?",
+        "options": [
+          {
+            "id": "d2",
+            "text": "verstehen"
+          },
+          {
+            "id": "d5",
+            "text": "Moment"
+          },
+          {
+            "id": "d3",
+            "text": "langsam"
+          },
+          {
+            "id": "answer",
+            "text": "bedeuten"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "significar",
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Esignificar\u201C?",
+        "explanation": "significar \u2014 bedeuten. Significar bedeutet bedeuten. Significa ist die hier verwendete Form; isso hei\u00DFt das. O que isso significa? fragt nach der Bedeutung eines Wortes, Ausdrucks oder gezeigten Zeichens. O que isso significa? \u2014 Was bedeutet das?",
+        "options": [
+          {
+            "id": "d0",
+            "text": "sagen"
+          },
+          {
+            "id": "answer",
+            "text": "bedeuten"
+          },
+          {
+            "id": "d4",
+            "text": "schreiben"
+          },
+          {
+            "id": "d6",
+            "text": "lernen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "dizer \u2014 sagen. Dizer bedeutet sagen. Como se diz \u2026? hei\u00DFt wie sagt man \u2026? Isso bedeutet das, em portugu\u00EAs auf Portugiesisch. Hier wird nach einem Ausdruck gefragt, nicht nach seiner Schreibweise. Como se diz isso em portugu\u00EAs? \u2014 Wie sagt man das auf Portugiesisch?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "sagen"
+          },
+          {
+            "id": "d6",
+            "text": "lernen"
+          },
+          {
+            "id": "d0",
+            "text": "Deutsch (Sprache)"
+          },
+          {
+            "id": "d1",
+            "text": "verstehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "dizer",
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Edizer\u201C?",
+        "explanation": "dizer \u2014 sagen. Dizer bedeutet sagen. Como se diz \u2026? hei\u00DFt wie sagt man \u2026? Isso bedeutet das, em portugu\u00EAs auf Portugiesisch. Hier wird nach einem Ausdruck gefragt, nicht nach seiner Schreibweise. Como se diz isso em portugu\u00EAs? \u2014 Wie sagt man das auf Portugiesisch?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "bedeuten"
+          },
+          {
+            "id": "d2",
+            "text": "langsam"
+          },
+          {
+            "id": "answer",
+            "text": "sagen"
+          },
+          {
+            "id": "d6",
+            "text": "lernen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "escrever \u2014 schreiben. Escrever bedeutet schreiben. Como se escreve \u2026? fragt nach der Schreibweise. Seu nome hei\u00DFt hier dein Name. Die Frage kann mit geschriebenen Buchstaben oder einer buchstabierten Antwort beantwortet werden. Como se escreve seu nome? \u2014 Wie schreibt man deinen Namen?",
+        "options": [
+          {
+            "id": "d4",
+            "text": "Moment"
+          },
+          {
+            "id": "d1",
+            "text": "Deutsch (Sprache)"
+          },
+          {
+            "id": "d6",
+            "text": "lernen"
+          },
+          {
+            "id": "answer",
+            "text": "schreiben"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "escrever",
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eescrever\u201C?",
+        "explanation": "escrever \u2014 schreiben. Escrever bedeutet schreiben. Como se escreve \u2026? fragt nach der Schreibweise. Seu nome hei\u00DFt hier dein Name. Die Frage kann mit geschriebenen Buchstaben oder einer buchstabierten Antwort beantwortet werden. Como se escreve seu nome? \u2014 Wie schreibt man deinen Namen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "schreiben"
+          },
+          {
+            "id": "d1",
+            "text": "Deutsch (Sprache)"
+          },
+          {
+            "id": "d5",
+            "text": "bedeuten"
+          },
+          {
+            "id": "d2",
+            "text": "verstehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "aprender \u2014 lernen. Aprender bedeutet lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier den laufenden Lernprozess: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Portugu\u00EAs bezeichnet die portugiesische Sprache. Estou aprendendo portugu\u00EAs. \u2014 Ich lerne gerade Portugiesisch.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "lernen"
+          },
+          {
+            "id": "d0",
+            "text": "Strand"
+          },
+          {
+            "id": "d5",
+            "text": "schreiben"
+          },
+          {
+            "id": "d4",
+            "text": "langsam"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "aprender",
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Eaprender\u201C?",
+        "explanation": "aprender \u2014 lernen. Aprender bedeutet lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier den laufenden Lernprozess: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Portugu\u00EAs bezeichnet die portugiesische Sprache. Estou aprendendo portugu\u00EAs. \u2014 Ich lerne gerade Portugiesisch.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "Museum"
+          },
+          {
+            "id": "answer",
+            "text": "lernen"
+          },
+          {
+            "id": "d7",
+            "text": "sich unterhalten"
+          },
+          {
+            "id": "d6",
+            "text": "Moment"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "listen",
+        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
+        "explanation": "momento \u2014 Moment. O momento, Plural momentos. S\u00F3 bedeutet hier nur; s\u00F3 um momento hei\u00DFt nur einen Moment. Por favor macht daraus eine h\u00F6fliche Bitte um etwas Zeit. Der Akut geh\u00F6rt zu s\u00F3. S\u00F3 um momento, por favor. \u2014 Nur einen Moment, bitte.",
+        "options": [
+          {
+            "id": "d3",
+            "text": "langsam"
+          },
+          {
+            "id": "d5",
+            "text": "bedeuten"
+          },
+          {
+            "id": "d4",
+            "text": "schreiben"
+          },
+          {
+            "id": "answer",
+            "text": "Moment"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": "momento",
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet \u201Emomento\u201C?",
+        "explanation": "momento \u2014 Moment. O momento, Plural momentos. S\u00F3 bedeutet hier nur; s\u00F3 um momento hei\u00DFt nur einen Moment. Por favor macht daraus eine h\u00F6fliche Bitte um etwas Zeit. Der Akut geh\u00F6rt zu s\u00F3. S\u00F3 um momento, por favor. \u2014 Nur einen Moment, bitte.",
+        "options": [
+          {
+            "id": "d5",
+            "text": "bedeuten"
+          },
+          {
+            "id": "d6",
+            "text": "lernen"
+          },
+          {
+            "id": "answer",
+            "text": "Moment"
+          },
+          {
+            "id": "d2",
+            "text": "verstehen"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage sagt ausdr\u00FCcklich, dass du etwas nicht verstanden hast?",
+        "explanation": "N\u00E3o entendi bedeutet ich habe es nicht verstanden. N\u00E3o verneint die Vergangenheitsform entendi.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "S\u00F3 um momento, por favor."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Estou aprendendo portugu\u00EAs."
+          },
+          {
+            "id": "answer",
+            "text": "N\u00E3o entendi."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Entendi."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Everstehen\u201C?",
+        "explanation": "entender \u2014 verstehen. Entender bedeutet verstehen. Entendi ist hier die Vergangenheitsform f\u00FCr ich habe verstanden; n\u00E3o verneint sie. N\u00E3o entendi hei\u00DFt ich habe es nicht verstanden. Die Gegenwartsform w\u00E4re n\u00E3o entendo. N\u00E3o entendi. \u2014 Ich habe es nicht verstanden.",
+        "options": [
+          {
+            "id": "d11",
+            "text": "palavra"
+          },
+          {
+            "id": "answer",
+            "text": "entender"
+          },
+          {
+            "id": "d2",
+            "text": "de novo"
+          },
+          {
+            "id": "d5",
+            "text": "pergunta"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest die Bedeutung eines Ausdrucks erfahren. Welche Frage passt?",
+        "explanation": "O que isso significa? fragt was bedeutet das? Es geht um Bedeutung, nicht um Schreibweise.",
+        "options": [
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA fala alem\u00E3o?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Como se escreve seu nome?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Posso passar?"
+          },
+          {
+            "id": "answer",
+            "text": "O que isso significa?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ebedeuten\u201C?",
+        "explanation": "significar \u2014 bedeuten. Significar bedeutet bedeuten. Significa ist die hier verwendete Form; isso hei\u00DFt das. O que isso significa? fragt nach der Bedeutung eines Wortes, Ausdrucks oder gezeigten Zeichens. O que isso significa? \u2014 Was bedeutet das?",
+        "options": [
+          {
+            "id": "d3",
+            "text": "devagar"
+          },
+          {
+            "id": "d0",
+            "text": "dizer"
+          },
+          {
+            "id": "d4",
+            "text": "escrever"
+          },
+          {
+            "id": "answer",
+            "text": "significar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du fragst, wie man etwas auf Portugiesisch sagt. Welche Frage passt?",
+        "explanation": "Como se diz isso em portugu\u00EAs? fragt nach dem portugiesischen Ausdruck, nicht nach der Schreibweise.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Como se diz isso em portugu\u00EAs?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "O que isso significa?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode falar mais devagar?"
+          },
+          {
+            "id": "wrong-0",
+            "text": "Como se escreve seu nome?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esagen\u201C?",
+        "explanation": "dizer \u2014 sagen. Dizer bedeutet sagen. Como se diz \u2026? hei\u00DFt wie sagt man \u2026? Isso bedeutet das, em portugu\u00EAs auf Portugiesisch. Hier wird nach einem Ausdruck gefragt, nicht nach seiner Schreibweise. Como se diz isso em portugu\u00EAs? \u2014 Wie sagt man das auf Portugiesisch?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "significar"
+          },
+          {
+            "id": "d4",
+            "text": "momento"
+          },
+          {
+            "id": "answer",
+            "text": "dizer"
+          },
+          {
+            "id": "d2",
+            "text": "devagar"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du m\u00F6chtest wissen, wie man den Namen schreibt. Welche Frage passt?",
+        "explanation": "Como se escreve seu nome? fragt ausdr\u00FCcklich nach der Schreibweise. Como voc\u00EA se chama? fragt nur nach dem Namen.",
+        "options": [
+          {
+            "id": "wrong-0",
+            "text": "Como voc\u00EA se chama?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Voc\u00EA fala alem\u00E3o?"
+          },
+          {
+            "id": "wrong-2",
+            "text": "Pode repetir, por favor?"
+          },
+          {
+            "id": "answer",
+            "text": "Como se escreve seu nome?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eschreiben\u201C?",
+        "explanation": "escrever \u2014 schreiben. Escrever bedeutet schreiben. Como se escreve \u2026? fragt nach der Schreibweise. Seu nome hei\u00DFt hier dein Name. Die Frage kann mit geschriebenen Buchstaben oder einer buchstabierten Antwort beantwortet werden. Como se escreve seu nome? \u2014 Wie schreibt man deinen Namen?",
+        "options": [
+          {
+            "id": "d5",
+            "text": "significar"
+          },
+          {
+            "id": "d1",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "answer",
+            "text": "escrever"
+          },
+          {
+            "id": "d0",
+            "text": "dizer"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Welche Aussage bedeutet \u201EIch lerne gerade Portugiesisch\u201C?",
+        "explanation": "Estou aprendendo beschreibt einen laufenden Lernprozess. Ensino bedeutet ich unterrichte.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "N\u00E3o entendi."
+          },
+          {
+            "id": "answer",
+            "text": "Estou aprendendo portugu\u00EAs."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Eu ensino portugu\u00EAs."
+          },
+          {
+            "id": "wrong-1",
+            "text": "Eu falo alem\u00E3o."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Elernen\u201C?",
+        "explanation": "aprender \u2014 lernen. Aprender bedeutet lernen; aprendendo ist das Gerundium. Estou \u002B Gerundium beschreibt hier den laufenden Lernprozess: Estou aprendendo portugu\u00EAs hei\u00DFt ich lerne gerade Portugiesisch. Portugu\u00EAs bezeichnet die portugiesische Sprache. Estou aprendendo portugu\u00EAs. \u2014 Ich lerne gerade Portugiesisch.",
+        "options": [
+          {
+            "id": "d0",
+            "text": "praia"
+          },
+          {
+            "id": "d2",
+            "text": "alem\u00E3o"
+          },
+          {
+            "id": "d7",
+            "text": "conversar"
+          },
+          {
+            "id": "answer",
+            "text": "aprender"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "situation",
+        "prompt": "Du bittest h\u00F6flich um einen kurzen Augenblick Zeit. Welche Aussage passt?",
+        "explanation": "S\u00F3 um momento bittet um einen Moment Zeit. Die anderen Fragen bitten um Wiederholung, langsameres Sprechen oder einen Ausdruck.",
+        "options": [
+          {
+            "id": "wrong-2",
+            "text": "Como se diz isso em portugu\u00EAs?"
+          },
+          {
+            "id": "wrong-1",
+            "text": "Pode falar mais devagar?"
+          },
+          {
+            "id": "answer",
+            "text": "S\u00F3 um momento, por favor."
+          },
+          {
+            "id": "wrong-0",
+            "text": "Pode repetir, por favor?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 2
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMoment\u201C?",
+        "explanation": "momento \u2014 Moment. O momento, Plural momentos. S\u00F3 bedeutet hier nur; s\u00F3 um momento hei\u00DFt nur einen Moment. Por favor macht daraus eine h\u00F6fliche Bitte um etwas Zeit. Der Akut geh\u00F6rt zu s\u00F3. S\u00F3 um momento, por favor. \u2014 Nur einen Moment, bitte.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "momento"
+          },
+          {
+            "id": "d5",
+            "text": "significar"
+          },
+          {
+            "id": "d2",
+            "text": "entender"
+          },
+          {
+            "id": "d6",
+            "text": "aprender"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
+  }
 }
