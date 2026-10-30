@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 3,
+  "packageVersion": 4,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -265,10 +265,11 @@
         "id": "task-001",
         "objectiveId": "goal-01",
         "cardId": "karte-01",
+        "explanation": "oi — hallo",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „oi“?",
-        "explanation": "oi — hallo",
         "options": [
           {
             "id": "answer",
@@ -276,32 +277,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "von Herzen"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "ein großer Fehler"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "ich wollte; ich würde gern"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-002",
         "objectiveId": "goal-01",
         "cardId": "karte-02",
+        "explanation": "sinto muito — es tut mir leid",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „sinto muito“?",
-        "explanation": "sinto muito — es tut mir leid",
         "options": [
           {
             "id": "answer",
@@ -309,32 +310,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "ein großer Fehler"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "ich wollte; ich würde gern"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "dich sehen"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-003",
         "objectiveId": "goal-01",
         "cardId": "karte-03",
+        "explanation": "de coração — von Herzen",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „de coração“?",
-        "explanation": "de coração — von Herzen",
         "options": [
           {
             "id": "answer",
@@ -342,32 +343,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "ich wollte; ich würde gern"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "dich sehen"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "zusammen essen"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-004",
         "objectiveId": "goal-01",
         "cardId": "karte-04",
+        "explanation": "um grande erro — ein großer Fehler",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „um grande erro“?",
-        "explanation": "um grande erro — ein großer Fehler",
         "options": [
           {
             "id": "answer",
@@ -375,32 +376,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "dich sehen"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "zusammen essen"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "darüber sprechen"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-005",
         "objectiveId": "goal-01",
         "cardId": "karte-05",
+        "explanation": "queria — ich wollte; ich würde gern",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „queria“?",
-        "explanation": "queria — ich wollte; ich würde gern",
         "options": [
           {
             "id": "answer",
@@ -408,32 +409,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "hallo"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "es tut mir leid"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "von Herzen"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-006",
         "objectiveId": "goal-01",
         "cardId": "karte-06",
+        "explanation": "te ver — dich sehen",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „te ver“?",
-        "explanation": "te ver — dich sehen",
         "options": [
           {
             "id": "answer",
@@ -441,32 +442,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "es tut mir leid"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "von Herzen"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "ein großer Fehler"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-007",
         "objectiveId": "goal-01",
         "cardId": "karte-07",
+        "explanation": "comer juntos — zusammen essen",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „comer juntos“?",
-        "explanation": "comer juntos — zusammen essen",
         "options": [
           {
             "id": "answer",
@@ -474,32 +475,32 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "von Herzen"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "ein großer Fehler"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "ich wollte; ich würde gern"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-008",
         "objectiveId": "goal-01",
         "cardId": "karte-08",
+        "explanation": "conversar sobre isso — darüber sprechen",
+        "difficulty": 1,
         "area": "understanding",
         "kind": "meaning",
         "prompt": "Was bedeutet „conversar sobre isso“?",
-        "explanation": "conversar sobre isso — darüber sprechen",
         "options": [
           {
             "id": "answer",
@@ -507,485 +508,382 @@
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "ein großer Fehler"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "ich wollte; ich würde gern"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "dich sehen"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-009",
         "objectiveId": "goal-01",
         "cardId": "karte-09",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „se você quiser“?",
         "explanation": "se você quiser — wenn du möchtest",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „wenn du möchtest“?",
         "options": [
           {
             "id": "answer",
-            "text": "wenn du möchtest"
+            "text": "se você quiser"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-010",
         "objectiveId": "goal-01",
         "cardId": "karte-10",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „um abraço“?",
         "explanation": "um abraço — eine Umarmung",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „eine Umarmung“?",
         "options": [
           {
             "id": "answer",
-            "text": "eine Umarmung"
+            "text": "um abraço"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-011",
         "objectiveId": "goal-01",
         "cardId": "karte-11",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „cometi“?",
         "explanation": "cometi — ich habe begangen",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „ich habe begangen“?",
         "options": [
           {
             "id": "answer",
-            "text": "ich habe begangen"
+            "text": "cometi"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-012",
         "objectiveId": "goal-01",
         "cardId": "karte-12",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „erro“?",
         "explanation": "erro — Fehler",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „Fehler“?",
         "options": [
           {
             "id": "answer",
-            "text": "Fehler"
+            "text": "erro"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-013",
         "objectiveId": "goal-01",
         "cardId": "karte-13",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „vamos“?",
         "explanation": "vamos — lass uns; wir gehen",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „lass uns; wir gehen“?",
         "options": [
           {
             "id": "answer",
-            "text": "lass uns; wir gehen"
+            "text": "vamos"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-014",
         "objectiveId": "goal-01",
         "cardId": "karte-14",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „que tal“?",
         "explanation": "que tal — wie wäre es",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „wie wäre es“?",
         "options": [
           {
             "id": "answer",
-            "text": "wie wäre es"
+            "text": "que tal"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-015",
         "objectiveId": "goal-01",
         "cardId": "karte-15",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „a gente“?",
         "explanation": "a gente — wir; man (umgangssprachlich)",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „wir; man (umgangssprachlich)“?",
         "options": [
           {
             "id": "answer",
-            "text": "wir; man (umgangssprachlich)"
+            "text": "a gente"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-016",
         "objectiveId": "goal-01",
         "cardId": "karte-16",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „alguma coisa“?",
         "explanation": "alguma coisa — etwas",
+        "difficulty": 1,
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „etwas“?",
         "options": [
           {
             "id": "answer",
-            "text": "etwas"
+            "text": "alguma coisa"
           },
           {
             "id": "d0",
-            "text": "Guten Morgen"
+            "text": "oi"
           },
           {
             "id": "d1",
-            "text": "bis morgen"
+            "text": "sinto muito"
           },
           {
             "id": "d2",
-            "text": "ein Tisch"
+            "text": "de coração"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-017",
         "objectiveId": "goal-01",
         "cardId": "karte-17",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „tudo bem“?",
         "explanation": "tudo bem — alles gut",
-        "options": [
-          {
-            "id": "answer",
-            "text": "alles gut"
-          },
-          {
-            "id": "d0",
-            "text": "Guten Morgen"
-          },
-          {
-            "id": "d1",
-            "text": "bis morgen"
-          },
-          {
-            "id": "d2",
-            "text": "ein Tisch"
-          }
+        "difficulty": 1,
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte portugiesische Wendung für „alles gut“.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "tudo bem"
         ],
-        "answer": [
-          "answer"
-        ],
-        "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-018",
         "objectiveId": "goal-01",
         "cardId": "karte-18",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „obrigado“?",
         "explanation": "obrigado — danke (männlicher Sprecher)",
-        "options": [
-          {
-            "id": "answer",
-            "text": "danke (männlicher Sprecher)"
-          },
-          {
-            "id": "d0",
-            "text": "Guten Morgen"
-          },
-          {
-            "id": "d1",
-            "text": "bis morgen"
-          },
-          {
-            "id": "d2",
-            "text": "ein Tisch"
-          }
+        "difficulty": 1,
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte portugiesische Wendung für „danke (männlicher Sprecher)“.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "obrigado"
         ],
-        "answer": [
-          "answer"
-        ],
-        "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-019",
         "objectiveId": "goal-01",
         "cardId": "karte-19",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „por favor“?",
         "explanation": "por favor — bitte",
-        "options": [
-          {
-            "id": "answer",
-            "text": "bitte"
-          },
-          {
-            "id": "d0",
-            "text": "Guten Morgen"
-          },
-          {
-            "id": "d1",
-            "text": "bis morgen"
-          },
-          {
-            "id": "d2",
-            "text": "ein Tisch"
-          }
+        "difficulty": 1,
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte portugiesische Wendung für „bitte“.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "por favor"
         ],
-        "answer": [
-          "answer"
-        ],
-        "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-020",
         "objectiveId": "goal-01",
         "cardId": "karte-20",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „preciso de ajuda“?",
         "explanation": "preciso de ajuda — ich brauche Hilfe",
-        "options": [
-          {
-            "id": "answer",
-            "text": "ich brauche Hilfe"
-          },
-          {
-            "id": "d0",
-            "text": "Guten Morgen"
-          },
-          {
-            "id": "d1",
-            "text": "bis morgen"
-          },
-          {
-            "id": "d2",
-            "text": "ein Tisch"
-          }
+        "difficulty": 1,
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte portugiesische Wendung für „ich brauche Hilfe“.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "preciso de ajuda"
         ],
-        "answer": [
-          "answer"
-        ],
-        "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-021",
         "objectiveId": "goal-01",
         "cardId": "karte-21",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „queria te ver“?",
         "explanation": "queria te ver — ich würde dich gern sehen",
-        "options": [
-          {
-            "id": "answer",
-            "text": "ich würde dich gern sehen"
-          },
-          {
-            "id": "d0",
-            "text": "Guten Morgen"
-          },
-          {
-            "id": "d1",
-            "text": "bis morgen"
-          },
-          {
-            "id": "d2",
-            "text": "ein Tisch"
-          }
+        "difficulty": 1,
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte portugiesische Wendung für „ich würde dich gern sehen“.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "queria te ver"
         ],
-        "answer": [
-          "answer"
-        ],
-        "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       },
       {
         "id": "task-022",
         "objectiveId": "goal-01",
         "cardId": "karte-22",
-        "area": "understanding",
-        "kind": "meaning",
-        "prompt": "Was bedeutet „juntos“?",
         "explanation": "juntos — zusammen",
-        "options": [
-          {
-            "id": "answer",
-            "text": "zusammen"
-          },
-          {
-            "id": "d0",
-            "text": "Guten Morgen"
-          },
-          {
-            "id": "d1",
-            "text": "bis morgen"
-          },
-          {
-            "id": "d2",
-            "text": "ein Tisch"
-          }
+        "difficulty": 1,
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe die gelernte portugiesische Wendung für „zusammen“.",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "juntos"
         ],
-        "answer": [
-          "answer"
-        ],
-        "acceptedText": [],
-        "audioText": null,
-        "difficulty": 1
+        "audioText": null
       }
     ]
   }
