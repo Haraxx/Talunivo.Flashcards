@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 5,
+  "packageVersion": 6,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -306,6 +306,86 @@
       "exampleTranslation": "Ich habe dich vermisst, Taci.",
       "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
       "isVocabulary": true
+    },
+    {
+      "id": "karte-31",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Oi Taci, que bom te ver!",
+      "translation": "Hallo Taci, schön, dich zu sehen!",
+      "example": "Oi Taci, que bom te ver!",
+      "exampleTranslation": "Hallo Taci, schön, dich zu sehen!",
+      "explanation": "Deine freundliche Begrüßung, ohne Erwartung an ihre Antwort.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-32",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Oi, tudo bem?",
+      "translation": "Hallo, alles gut?",
+      "example": "Oi, tudo bem?",
+      "exampleTranslation": "Hallo, alles gut?",
+      "explanation": "Eine mögliche freundliche Antwort auf deine Begrüßung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-33",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Tudo bem! E você?",
+      "translation": "Alles gut! Und dir?",
+      "example": "Tudo bem! E você?",
+      "exampleTranslation": "Alles gut! Und dir?",
+      "explanation": "Kurze Antwort, wenn Taci fragt, wie es dir geht.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-34",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Oi, quanto tempo!",
+      "translation": "Hey, lange nicht gesehen!",
+      "example": "Oi, quanto tempo!",
+      "exampleTranslation": "Hey, lange nicht gesehen!",
+      "explanation": "Mögliche spontane Begrüßung nach langer Zeit.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-35",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Pois é, faz tempo.",
+      "translation": "Stimmt, ist lange her.",
+      "example": "Pois é, faz tempo.",
+      "exampleTranslation": "Stimmt, ist lange her.",
+      "explanation": "Eine lockere Antwort auf „Quanto tempo!“.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-36",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Que bom te ver também!",
+      "translation": "Schön, dich auch zu sehen!",
+      "example": "Que bom te ver também!",
+      "exampleTranslation": "Schön, dich auch zu sehen!",
+      "explanation": "Eine freundliche Erwiderung auf „Que bom te ver!“.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-37",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Nossa, você tá falando português!",
+      "translation": "Wow, du sprichst ja Portugiesisch!",
+      "example": "Nossa, você tá falando português!",
+      "exampleTranslation": "Wow, du sprichst ja Portugiesisch!",
+      "explanation": "Mögliche überraschte Reaktion auf deine portugiesische Begrüßung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-38",
+      "topic": "Taci · Begrüßungsdialoge",
+      "expression": "Só um pouquinho!",
+      "translation": "Nur ein kleines bisschen!",
+      "example": "Só um pouquinho!",
+      "exampleTranslation": "Nur ein kleines bisschen!",
+      "explanation": "Humorvolle, ehrliche Antwort auf ihr Staunen über dein Portugiesisch.",
+      "isVocabulary": true
     }
   ],
   "learning": {
@@ -351,6 +431,20 @@
           "karte-28",
           "karte-29",
           "karte-30"
+        ]
+      },
+      {
+        "id": "goal-03",
+        "description": "Taci begrüßen, freundliche Reaktionen erkennen und kurz auf Portugiesisch antworten.",
+        "cardIds": [
+          "karte-31",
+          "karte-32",
+          "karte-33",
+          "karte-34",
+          "karte-35",
+          "karte-36",
+          "karte-37",
+          "karte-38"
         ]
       }
     ],
@@ -1206,6 +1300,270 @@
         "acceptedText": [
           "senti sua falta"
         ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-031",
+        "objectiveId": "goal-03",
+        "cardId": "karte-31",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi Taci, que bom te ver!“?",
+        "explanation": "Oi Taci, que bom te ver! — Hallo Taci, schön, dich zu sehen!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hallo Taci, schön, dich zu sehen!"
+          },
+          {
+            "id": "d0",
+            "text": "Hallo, alles gut?"
+          },
+          {
+            "id": "d1",
+            "text": "Alles gut! Und dir?"
+          },
+          {
+            "id": "d2",
+            "text": "Hey, lange nicht gesehen!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-032",
+        "objectiveId": "goal-03",
+        "cardId": "karte-32",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi, tudo bem?“?",
+        "explanation": "Oi, tudo bem? — Hallo, alles gut?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hallo, alles gut?"
+          },
+          {
+            "id": "d0",
+            "text": "Alles gut! Und dir?"
+          },
+          {
+            "id": "d1",
+            "text": "Hey, lange nicht gesehen!"
+          },
+          {
+            "id": "d2",
+            "text": "Stimmt, ist lange her."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-033",
+        "objectiveId": "goal-03",
+        "cardId": "karte-33",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Tudo bem! E você?“?",
+        "explanation": "Tudo bem! E você? — Alles gut! Und dir?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Alles gut! Und dir?"
+          },
+          {
+            "id": "d0",
+            "text": "Hey, lange nicht gesehen!"
+          },
+          {
+            "id": "d1",
+            "text": "Stimmt, ist lange her."
+          },
+          {
+            "id": "d2",
+            "text": "Schön, dich auch zu sehen!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-034",
+        "objectiveId": "goal-03",
+        "cardId": "karte-34",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi, quanto tempo!“?",
+        "explanation": "Oi, quanto tempo! — Hey, lange nicht gesehen!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hey, lange nicht gesehen!"
+          },
+          {
+            "id": "d0",
+            "text": "Stimmt, ist lange her."
+          },
+          {
+            "id": "d1",
+            "text": "Schön, dich auch zu sehen!"
+          },
+          {
+            "id": "d2",
+            "text": "Wow, du sprichst ja Portugiesisch!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-035",
+        "objectiveId": "goal-03",
+        "cardId": "karte-35",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Pois é, faz tempo.“?",
+        "explanation": "Pois é, faz tempo. — Stimmt, ist lange her.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Stimmt, ist lange her."
+          },
+          {
+            "id": "d0",
+            "text": "Schön, dich auch zu sehen!"
+          },
+          {
+            "id": "d1",
+            "text": "Wow, du sprichst ja Portugiesisch!"
+          },
+          {
+            "id": "d2",
+            "text": "Nur ein kleines bisschen!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-036",
+        "objectiveId": "goal-03",
+        "cardId": "karte-36",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Que bom te ver também!“?",
+        "explanation": "Que bom te ver também! — Schön, dich auch zu sehen!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Schön, dich auch zu sehen!"
+          },
+          {
+            "id": "d0",
+            "text": "Wow, du sprichst ja Portugiesisch!"
+          },
+          {
+            "id": "d1",
+            "text": "Nur ein kleines bisschen!"
+          },
+          {
+            "id": "d2",
+            "text": "Hallo Taci, schön, dich zu sehen!"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-037",
+        "objectiveId": "goal-03",
+        "cardId": "karte-37",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Nossa, você tá falando português!“?",
+        "explanation": "Nossa, você tá falando português! — Wow, du sprichst ja Portugiesisch!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Wow, du sprichst ja Portugiesisch!"
+          },
+          {
+            "id": "d0",
+            "text": "Nur ein kleines bisschen!"
+          },
+          {
+            "id": "d1",
+            "text": "Hallo Taci, schön, dich zu sehen!"
+          },
+          {
+            "id": "d2",
+            "text": "Hallo, alles gut?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-038",
+        "objectiveId": "goal-03",
+        "cardId": "karte-38",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Só um pouquinho!“?",
+        "explanation": "Só um pouquinho! — Nur ein kleines bisschen!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Nur ein kleines bisschen!"
+          },
+          {
+            "id": "d0",
+            "text": "Hallo Taci, schön, dich zu sehen!"
+          },
+          {
+            "id": "d1",
+            "text": "Hallo, alles gut?"
+          },
+          {
+            "id": "d2",
+            "text": "Alles gut! Und dir?"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
         "audioText": null,
         "difficulty": 1
       }
