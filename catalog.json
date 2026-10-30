@@ -421,11 +421,11 @@
     },
     {
       "packageId": "taci-wiedersehen",
-      "packageVersion": 2,
+      "packageVersion": 3,
       "title": "Taci · Entschuldigung und Wiedersehen",
       "cardCount": 22,
       "path": "pt-BR/de/taci/wiedersehen-taci.talunivo",
-      "sha256": "3007fe60f10a42a61b14e196aa04ba016c787fdef6f41546577b90e658b154d4"
+      "sha256": "e330726d7f88768164c51bcd6b0f704bb2551c5f54c73b40555fe29d5a698cba"
     }
   ]
 }
