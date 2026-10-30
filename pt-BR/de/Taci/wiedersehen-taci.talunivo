@@ -1,0 +1,265 @@
+{
+  "format": "talunivo",
+  "schemaVersion": 4,
+  "packageId": "taci-wiedersehen",
+  "packageVersion": 1,
+  "title": "Taci · Entschuldigung und Wiedersehen",
+  "sourceLanguage": "pt-BR",
+  "translationLanguage": "de",
+  "cards": [
+    {
+      "id": "karte-01",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Oi, Taci!",
+      "translation": "Hallo, Taci!",
+      "example": "Oi, Taci!",
+      "exampleTranslation": "Hallo, Taci!",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-02",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Sinto muito.",
+      "translation": "Es tut mir leid.",
+      "example": "Sinto muito.",
+      "exampleTranslation": "Es tut mir leid.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-03",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Sinto muito de coração.",
+      "translation": "Es tut mir von Herzen leid.",
+      "example": "Sinto muito de coração.",
+      "exampleTranslation": "Es tut mir von Herzen leid.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-04",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Cometi um grande erro.",
+      "translation": "Ich habe einen großen Fehler gemacht.",
+      "example": "Cometi um grande erro.",
+      "exampleTranslation": "Ich habe einen großen Fehler gemacht.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-05",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Queria te ver.",
+      "translation": "Ich würde dich gern sehen.",
+      "example": "Queria te ver.",
+      "exampleTranslation": "Ich würde dich gern sehen.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-06",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Vamos comer juntos.",
+      "translation": "Lass uns zusammen essen.",
+      "example": "Vamos comer juntos.",
+      "exampleTranslation": "Lass uns zusammen essen.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-07",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Vamos conversar.",
+      "translation": "Lass uns reden.",
+      "example": "Vamos conversar.",
+      "exampleTranslation": "Lass uns reden.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-08",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Vamos comer juntos e conversar sobre isso.",
+      "translation": "Lass uns zusammen essen und darüber reden.",
+      "example": "Vamos comer juntos e conversar sobre isso.",
+      "exampleTranslation": "Lass uns zusammen essen und darüber reden.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-09",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Se você quiser.",
+      "translation": "Wenn du möchtest.",
+      "example": "Se você quiser.",
+      "exampleTranslation": "Wenn du möchtest.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-10",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Um abraço, Alex.",
+      "translation": "Eine Umarmung, Alex.",
+      "example": "Um abraço, Alex.",
+      "exampleTranslation": "Eine Umarmung, Alex.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-11",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Oi, Taci! Sinto muito de coração.",
+      "translation": "Hallo, Taci! Es tut mir von Herzen leid.",
+      "example": "Oi, Taci! Sinto muito de coração.",
+      "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-12",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Sinto muito de coração. Cometi um grande erro.",
+      "translation": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
+      "example": "Sinto muito de coração. Cometi um grande erro.",
+      "exampleTranslation": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-13",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Queria te ver. Vamos comer juntos e conversar sobre isso.",
+      "translation": "Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden.",
+      "example": "Queria te ver. Vamos comer juntos e conversar sobre isso.",
+      "exampleTranslation": "Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-14",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Que tal a gente comer alguma coisa?",
+      "translation": "Wie wäre es, wenn wir etwas essen gehen?",
+      "example": "Que tal a gente comer alguma coisa?",
+      "exampleTranslation": "Wie wäre es, wenn wir etwas essen gehen?",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-15",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Que tal a gente conversar sobre isso?",
+      "translation": "Wie wäre es, wenn wir darüber reden?",
+      "example": "Que tal a gente conversar sobre isso?",
+      "exampleTranslation": "Wie wäre es, wenn wir darüber reden?",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-16",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Que tal a gente comer alguma coisa e conversar sobre isso?",
+      "translation": "Wie wäre es, wenn wir etwas essen und darüber reden?",
+      "example": "Que tal a gente comer alguma coisa e conversar sobre isso?",
+      "exampleTranslation": "Wie wäre es, wenn wir etwas essen und darüber reden?",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-17",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Tudo bem?",
+      "translation": "Alles gut?",
+      "example": "Tudo bem?",
+      "exampleTranslation": "Alles gut?",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-18",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Tudo bem, obrigado.",
+      "translation": "Alles gut, danke. (männlicher Sprecher)",
+      "example": "Tudo bem, obrigado.",
+      "exampleTranslation": "Alles gut, danke. (männlicher Sprecher)",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-19",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Pode repetir, por favor?",
+      "translation": "Kannst du das bitte wiederholen?",
+      "example": "Pode repetir, por favor?",
+      "exampleTranslation": "Kannst du das bitte wiederholen?",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-20",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Preciso de ajuda.",
+      "translation": "Ich brauche Hilfe.",
+      "example": "Preciso de ajuda.",
+      "exampleTranslation": "Ich brauche Hilfe.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-21",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver.",
+      "translation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen.",
+      "example": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver.",
+      "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-22",
+      "topic": "Taci · Entschuldigung und Wiedersehen",
+      "expression": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex.",
+      "translation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
+      "example": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex.",
+      "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
+      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "isVocabulary": true
+    }
+  ],
+  "learning": {
+    "level": "A1",
+    "objectives": [
+      {
+        "id": "goal-01",
+        "description": "Eine persönliche Entschuldigung verstehen und ein Treffen vorschlagen.",
+        "cardIds": [
+          "karte-01",
+          "karte-02",
+          "karte-03",
+          "karte-04",
+          "karte-05",
+          "karte-06",
+          "karte-07",
+          "karte-08",
+          "karte-09",
+          "karte-10",
+          "karte-11",
+          "karte-12",
+          "karte-13",
+          "karte-14",
+          "karte-15",
+          "karte-16",
+          "karte-17",
+          "karte-18",
+          "karte-19",
+          "karte-20",
+          "karte-21",
+          "karte-22"
+        ]
+      }
+    ],
+    "tasks": []
+  }
+}
