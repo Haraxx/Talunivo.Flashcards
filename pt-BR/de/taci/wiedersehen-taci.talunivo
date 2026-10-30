@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 1,
+  "packageVersion": 2,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -260,6 +260,733 @@
         ]
       }
     ],
-    "tasks": []
+    "tasks": [
+      {
+        "id": "task-001",
+        "objectiveId": "goal-01",
+        "cardId": "karte-01",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi, Taci!“?",
+        "explanation": "Oi, Taci! — Hallo, Taci!",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hallo, Taci!"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-002",
+        "objectiveId": "goal-01",
+        "cardId": "karte-02",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Sinto muito.“?",
+        "explanation": "Sinto muito. — Es tut mir leid.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Es tut mir leid."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-003",
+        "objectiveId": "goal-01",
+        "cardId": "karte-03",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Sinto muito de coração.“?",
+        "explanation": "Sinto muito de coração. — Es tut mir von Herzen leid.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Es tut mir von Herzen leid."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-004",
+        "objectiveId": "goal-01",
+        "cardId": "karte-04",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Cometi um grande erro.“?",
+        "explanation": "Cometi um grande erro. — Ich habe einen großen Fehler gemacht.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ich habe einen großen Fehler gemacht."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-005",
+        "objectiveId": "goal-01",
+        "cardId": "karte-05",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Queria te ver.“?",
+        "explanation": "Queria te ver. — Ich würde dich gern sehen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ich würde dich gern sehen."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-006",
+        "objectiveId": "goal-01",
+        "cardId": "karte-06",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Vamos comer juntos.“?",
+        "explanation": "Vamos comer juntos. — Lass uns zusammen essen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Lass uns zusammen essen."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-007",
+        "objectiveId": "goal-01",
+        "cardId": "karte-07",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Vamos conversar.“?",
+        "explanation": "Vamos conversar. — Lass uns reden.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Lass uns reden."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-008",
+        "objectiveId": "goal-01",
+        "cardId": "karte-08",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Vamos comer juntos e conversar sobre isso.“?",
+        "explanation": "Vamos comer juntos e conversar sobre isso. — Lass uns zusammen essen und darüber reden.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Lass uns zusammen essen und darüber reden."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-009",
+        "objectiveId": "goal-01",
+        "cardId": "karte-09",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Se você quiser.“?",
+        "explanation": "Se você quiser. — Wenn du möchtest.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Wenn du möchtest."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-010",
+        "objectiveId": "goal-01",
+        "cardId": "karte-10",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Um abraço, Alex.“?",
+        "explanation": "Um abraço, Alex. — Eine Umarmung, Alex.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Eine Umarmung, Alex."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-011",
+        "objectiveId": "goal-01",
+        "cardId": "karte-11",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi, Taci! Sinto muito de coração.“?",
+        "explanation": "Oi, Taci! Sinto muito de coração. — Hallo, Taci! Es tut mir von Herzen leid.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hallo, Taci! Es tut mir von Herzen leid."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-012",
+        "objectiveId": "goal-01",
+        "cardId": "karte-12",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Sinto muito de coração. Cometi um grande erro.“?",
+        "explanation": "Sinto muito de coração. Cometi um grande erro. — Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-013",
+        "objectiveId": "goal-01",
+        "cardId": "karte-13",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Queria te ver. Vamos comer juntos e conversar sobre isso.“?",
+        "explanation": "Queria te ver. Vamos comer juntos e conversar sobre isso. — Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-014",
+        "objectiveId": "goal-01",
+        "cardId": "karte-14",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Que tal a gente comer alguma coisa?“?",
+        "explanation": "Que tal a gente comer alguma coisa? — Wie wäre es, wenn wir etwas essen gehen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Wie wäre es, wenn wir etwas essen gehen?"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-015",
+        "objectiveId": "goal-01",
+        "cardId": "karte-15",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Que tal a gente conversar sobre isso?“?",
+        "explanation": "Que tal a gente conversar sobre isso? — Wie wäre es, wenn wir darüber reden?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Wie wäre es, wenn wir darüber reden?"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-016",
+        "objectiveId": "goal-01",
+        "cardId": "karte-16",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Que tal a gente comer alguma coisa e conversar sobre isso?“?",
+        "explanation": "Que tal a gente comer alguma coisa e conversar sobre isso? — Wie wäre es, wenn wir etwas essen und darüber reden?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Wie wäre es, wenn wir etwas essen und darüber reden?"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-017",
+        "objectiveId": "goal-01",
+        "cardId": "karte-17",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Tudo bem?“?",
+        "explanation": "Tudo bem? — Alles gut?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Alles gut?"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-018",
+        "objectiveId": "goal-01",
+        "cardId": "karte-18",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Tudo bem, obrigado.“?",
+        "explanation": "Tudo bem, obrigado. — Alles gut, danke. (männlicher Sprecher)",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Alles gut, danke. (männlicher Sprecher)"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-019",
+        "objectiveId": "goal-01",
+        "cardId": "karte-19",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Pode repetir, por favor?“?",
+        "explanation": "Pode repetir, por favor? — Kannst du das bitte wiederholen?",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Kannst du das bitte wiederholen?"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-020",
+        "objectiveId": "goal-01",
+        "cardId": "karte-20",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Preciso de ajuda.“?",
+        "explanation": "Preciso de ajuda. — Ich brauche Hilfe.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Ich brauche Hilfe."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-021",
+        "objectiveId": "goal-01",
+        "cardId": "karte-21",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver.“?",
+        "explanation": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. — Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-022",
+        "objectiveId": "goal-01",
+        "cardId": "karte-22",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex.“?",
+        "explanation": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex. — Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
+        "options": [
+          {
+            "id": "answer",
+            "text": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex."
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Bis morgen"
+          },
+          {
+            "id": "d2",
+            "text": "Ich möchte einen Kaffee"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      }
+    ]
   }
 }
