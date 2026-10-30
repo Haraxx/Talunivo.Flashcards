@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -10,221 +10,221 @@
     {
       "id": "karte-01",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Oi, Taci!",
-      "translation": "Hallo, Taci!",
+      "expression": "oi",
+      "translation": "hallo",
       "example": "Oi, Taci!",
       "exampleTranslation": "Hallo, Taci!",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: oi. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Sinto muito.",
-      "translation": "Es tut mir leid.",
+      "expression": "sinto muito",
+      "translation": "es tut mir leid",
       "example": "Sinto muito.",
       "exampleTranslation": "Es tut mir leid.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: sinto muito. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Sinto muito de coração.",
-      "translation": "Es tut mir von Herzen leid.",
+      "expression": "de coração",
+      "translation": "von Herzen",
       "example": "Sinto muito de coração.",
       "exampleTranslation": "Es tut mir von Herzen leid.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: de coração. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Cometi um grande erro.",
-      "translation": "Ich habe einen großen Fehler gemacht.",
+      "expression": "um grande erro",
+      "translation": "ein großer Fehler",
       "example": "Cometi um grande erro.",
       "exampleTranslation": "Ich habe einen großen Fehler gemacht.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: um grande erro. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-05",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Queria te ver.",
-      "translation": "Ich würde dich gern sehen.",
+      "expression": "queria",
+      "translation": "ich wollte; ich würde gern",
       "example": "Queria te ver.",
       "exampleTranslation": "Ich würde dich gern sehen.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: queria. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Vamos comer juntos.",
-      "translation": "Lass uns zusammen essen.",
+      "expression": "te ver",
+      "translation": "dich sehen",
       "example": "Vamos comer juntos.",
       "exampleTranslation": "Lass uns zusammen essen.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: te ver. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Vamos conversar.",
-      "translation": "Lass uns reden.",
+      "expression": "comer juntos",
+      "translation": "zusammen essen",
       "example": "Vamos conversar.",
       "exampleTranslation": "Lass uns reden.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: comer juntos. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-08",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Vamos comer juntos e conversar sobre isso.",
-      "translation": "Lass uns zusammen essen und darüber reden.",
+      "expression": "conversar sobre isso",
+      "translation": "darüber sprechen",
       "example": "Vamos comer juntos e conversar sobre isso.",
       "exampleTranslation": "Lass uns zusammen essen und darüber reden.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: conversar sobre isso. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-09",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Se você quiser.",
-      "translation": "Wenn du möchtest.",
+      "expression": "se você quiser",
+      "translation": "wenn du möchtest",
       "example": "Se você quiser.",
       "exampleTranslation": "Wenn du möchtest.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: se você quiser. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-10",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Um abraço, Alex.",
-      "translation": "Eine Umarmung, Alex.",
+      "expression": "um abraço",
+      "translation": "eine Umarmung",
       "example": "Um abraço, Alex.",
       "exampleTranslation": "Eine Umarmung, Alex.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: um abraço. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-11",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Oi, Taci! Sinto muito de coração.",
-      "translation": "Hallo, Taci! Es tut mir von Herzen leid.",
+      "expression": "cometi",
+      "translation": "ich habe begangen",
       "example": "Oi, Taci! Sinto muito de coração.",
       "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: cometi. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-12",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Sinto muito de coração. Cometi um grande erro.",
-      "translation": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
+      "expression": "erro",
+      "translation": "Fehler",
       "example": "Sinto muito de coração. Cometi um grande erro.",
       "exampleTranslation": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: erro. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-13",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Queria te ver. Vamos comer juntos e conversar sobre isso.",
-      "translation": "Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden.",
+      "expression": "vamos",
+      "translation": "lass uns; wir gehen",
       "example": "Queria te ver. Vamos comer juntos e conversar sobre isso.",
       "exampleTranslation": "Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: vamos. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-14",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Que tal a gente comer alguma coisa?",
-      "translation": "Wie wäre es, wenn wir etwas essen gehen?",
+      "expression": "que tal",
+      "translation": "wie wäre es",
       "example": "Que tal a gente comer alguma coisa?",
       "exampleTranslation": "Wie wäre es, wenn wir etwas essen gehen?",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: que tal. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-15",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Que tal a gente conversar sobre isso?",
-      "translation": "Wie wäre es, wenn wir darüber reden?",
+      "expression": "a gente",
+      "translation": "wir; man (umgangssprachlich)",
       "example": "Que tal a gente conversar sobre isso?",
       "exampleTranslation": "Wie wäre es, wenn wir darüber reden?",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: a gente. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-16",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Que tal a gente comer alguma coisa e conversar sobre isso?",
-      "translation": "Wie wäre es, wenn wir etwas essen und darüber reden?",
+      "expression": "alguma coisa",
+      "translation": "etwas",
       "example": "Que tal a gente comer alguma coisa e conversar sobre isso?",
       "exampleTranslation": "Wie wäre es, wenn wir etwas essen und darüber reden?",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: alguma coisa. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-17",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Tudo bem?",
-      "translation": "Alles gut?",
+      "expression": "tudo bem",
+      "translation": "alles gut",
       "example": "Tudo bem?",
       "exampleTranslation": "Alles gut?",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: tudo bem. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-18",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Tudo bem, obrigado.",
-      "translation": "Alles gut, danke. (männlicher Sprecher)",
+      "expression": "obrigado",
+      "translation": "danke (männlicher Sprecher)",
       "example": "Tudo bem, obrigado.",
       "exampleTranslation": "Alles gut, danke. (männlicher Sprecher)",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: obrigado. Obrigado wird von einem männlichen Sprecher verwendet.",
       "isVocabulary": true
     },
     {
       "id": "karte-19",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Pode repetir, por favor?",
-      "translation": "Kannst du das bitte wiederholen?",
+      "expression": "por favor",
+      "translation": "bitte",
       "example": "Pode repetir, por favor?",
       "exampleTranslation": "Kannst du das bitte wiederholen?",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: por favor. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-20",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Preciso de ajuda.",
-      "translation": "Ich brauche Hilfe.",
+      "expression": "preciso de ajuda",
+      "translation": "ich brauche Hilfe",
       "example": "Preciso de ajuda.",
       "exampleTranslation": "Ich brauche Hilfe.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: preciso de ajuda. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-21",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver.",
-      "translation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen.",
+      "expression": "queria te ver",
+      "translation": "ich würde dich gern sehen",
       "example": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver.",
       "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: queria te ver. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
     {
       "id": "karte-22",
       "topic": "Taci · Entschuldigung und Wiedersehen",
-      "expression": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex.",
-      "translation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
+      "expression": "juntos",
+      "translation": "zusammen",
       "example": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex.",
       "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
-      "explanation": "Brasilianisches Portugiesisch; persönliche, freundliche Formulierung.",
+      "explanation": "Ausdruck aus dem Beispielsatz: juntos. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     }
   ],
@@ -267,12 +267,12 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Oi, Taci!“?",
-        "explanation": "Oi, Taci! — Hallo, Taci!",
+        "prompt": "Was bedeutet „oi“?",
+        "explanation": "oi — hallo",
         "options": [
           {
             "id": "answer",
-            "text": "Hallo, Taci!"
+            "text": "hallo"
           },
           {
             "id": "d0",
@@ -280,11 +280,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -300,12 +300,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Sinto muito.“?",
-        "explanation": "Sinto muito. — Es tut mir leid.",
+        "prompt": "Was bedeutet „sinto muito“?",
+        "explanation": "sinto muito — es tut mir leid",
         "options": [
           {
             "id": "answer",
-            "text": "Es tut mir leid."
+            "text": "es tut mir leid"
           },
           {
             "id": "d0",
@@ -313,11 +313,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -333,12 +333,12 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Sinto muito de coração.“?",
-        "explanation": "Sinto muito de coração. — Es tut mir von Herzen leid.",
+        "prompt": "Was bedeutet „de coração“?",
+        "explanation": "de coração — von Herzen",
         "options": [
           {
             "id": "answer",
-            "text": "Es tut mir von Herzen leid."
+            "text": "von Herzen"
           },
           {
             "id": "d0",
@@ -346,11 +346,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -366,12 +366,12 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Cometi um grande erro.“?",
-        "explanation": "Cometi um grande erro. — Ich habe einen großen Fehler gemacht.",
+        "prompt": "Was bedeutet „um grande erro“?",
+        "explanation": "um grande erro — ein großer Fehler",
         "options": [
           {
             "id": "answer",
-            "text": "Ich habe einen großen Fehler gemacht."
+            "text": "ein großer Fehler"
           },
           {
             "id": "d0",
@@ -379,11 +379,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -399,12 +399,12 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Queria te ver.“?",
-        "explanation": "Queria te ver. — Ich würde dich gern sehen.",
+        "prompt": "Was bedeutet „queria“?",
+        "explanation": "queria — ich wollte; ich würde gern",
         "options": [
           {
             "id": "answer",
-            "text": "Ich würde dich gern sehen."
+            "text": "ich wollte; ich würde gern"
           },
           {
             "id": "d0",
@@ -412,11 +412,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -432,12 +432,12 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Vamos comer juntos.“?",
-        "explanation": "Vamos comer juntos. — Lass uns zusammen essen.",
+        "prompt": "Was bedeutet „te ver“?",
+        "explanation": "te ver — dich sehen",
         "options": [
           {
             "id": "answer",
-            "text": "Lass uns zusammen essen."
+            "text": "dich sehen"
           },
           {
             "id": "d0",
@@ -445,11 +445,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -465,12 +465,12 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Vamos conversar.“?",
-        "explanation": "Vamos conversar. — Lass uns reden.",
+        "prompt": "Was bedeutet „comer juntos“?",
+        "explanation": "comer juntos — zusammen essen",
         "options": [
           {
             "id": "answer",
-            "text": "Lass uns reden."
+            "text": "zusammen essen"
           },
           {
             "id": "d0",
@@ -478,11 +478,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -498,12 +498,12 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Vamos comer juntos e conversar sobre isso.“?",
-        "explanation": "Vamos comer juntos e conversar sobre isso. — Lass uns zusammen essen und darüber reden.",
+        "prompt": "Was bedeutet „conversar sobre isso“?",
+        "explanation": "conversar sobre isso — darüber sprechen",
         "options": [
           {
             "id": "answer",
-            "text": "Lass uns zusammen essen und darüber reden."
+            "text": "darüber sprechen"
           },
           {
             "id": "d0",
@@ -511,11 +511,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -531,12 +531,12 @@
         "cardId": "karte-09",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Se você quiser.“?",
-        "explanation": "Se você quiser. — Wenn du möchtest.",
+        "prompt": "Was bedeutet „se você quiser“?",
+        "explanation": "se você quiser — wenn du möchtest",
         "options": [
           {
             "id": "answer",
-            "text": "Wenn du möchtest."
+            "text": "wenn du möchtest"
           },
           {
             "id": "d0",
@@ -544,11 +544,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -564,12 +564,12 @@
         "cardId": "karte-10",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Um abraço, Alex.“?",
-        "explanation": "Um abraço, Alex. — Eine Umarmung, Alex.",
+        "prompt": "Was bedeutet „um abraço“?",
+        "explanation": "um abraço — eine Umarmung",
         "options": [
           {
             "id": "answer",
-            "text": "Eine Umarmung, Alex."
+            "text": "eine Umarmung"
           },
           {
             "id": "d0",
@@ -577,11 +577,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -597,12 +597,12 @@
         "cardId": "karte-11",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Oi, Taci! Sinto muito de coração.“?",
-        "explanation": "Oi, Taci! Sinto muito de coração. — Hallo, Taci! Es tut mir von Herzen leid.",
+        "prompt": "Was bedeutet „cometi“?",
+        "explanation": "cometi — ich habe begangen",
         "options": [
           {
             "id": "answer",
-            "text": "Hallo, Taci! Es tut mir von Herzen leid."
+            "text": "ich habe begangen"
           },
           {
             "id": "d0",
@@ -610,11 +610,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -630,12 +630,12 @@
         "cardId": "karte-12",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Sinto muito de coração. Cometi um grande erro.“?",
-        "explanation": "Sinto muito de coração. Cometi um grande erro. — Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
+        "prompt": "Was bedeutet „erro“?",
+        "explanation": "erro — Fehler",
         "options": [
           {
             "id": "answer",
-            "text": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht."
+            "text": "Fehler"
           },
           {
             "id": "d0",
@@ -643,11 +643,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -663,12 +663,12 @@
         "cardId": "karte-13",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Queria te ver. Vamos comer juntos e conversar sobre isso.“?",
-        "explanation": "Queria te ver. Vamos comer juntos e conversar sobre isso. — Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden.",
+        "prompt": "Was bedeutet „vamos“?",
+        "explanation": "vamos — lass uns; wir gehen",
         "options": [
           {
             "id": "answer",
-            "text": "Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden."
+            "text": "lass uns; wir gehen"
           },
           {
             "id": "d0",
@@ -676,11 +676,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -696,12 +696,12 @@
         "cardId": "karte-14",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Que tal a gente comer alguma coisa?“?",
-        "explanation": "Que tal a gente comer alguma coisa? — Wie wäre es, wenn wir etwas essen gehen?",
+        "prompt": "Was bedeutet „que tal“?",
+        "explanation": "que tal — wie wäre es",
         "options": [
           {
             "id": "answer",
-            "text": "Wie wäre es, wenn wir etwas essen gehen?"
+            "text": "wie wäre es"
           },
           {
             "id": "d0",
@@ -709,11 +709,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -729,12 +729,12 @@
         "cardId": "karte-15",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Que tal a gente conversar sobre isso?“?",
-        "explanation": "Que tal a gente conversar sobre isso? — Wie wäre es, wenn wir darüber reden?",
+        "prompt": "Was bedeutet „a gente“?",
+        "explanation": "a gente — wir; man (umgangssprachlich)",
         "options": [
           {
             "id": "answer",
-            "text": "Wie wäre es, wenn wir darüber reden?"
+            "text": "wir; man (umgangssprachlich)"
           },
           {
             "id": "d0",
@@ -742,11 +742,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -762,12 +762,12 @@
         "cardId": "karte-16",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Que tal a gente comer alguma coisa e conversar sobre isso?“?",
-        "explanation": "Que tal a gente comer alguma coisa e conversar sobre isso? — Wie wäre es, wenn wir etwas essen und darüber reden?",
+        "prompt": "Was bedeutet „alguma coisa“?",
+        "explanation": "alguma coisa — etwas",
         "options": [
           {
             "id": "answer",
-            "text": "Wie wäre es, wenn wir etwas essen und darüber reden?"
+            "text": "etwas"
           },
           {
             "id": "d0",
@@ -775,11 +775,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -795,12 +795,12 @@
         "cardId": "karte-17",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Tudo bem?“?",
-        "explanation": "Tudo bem? — Alles gut?",
+        "prompt": "Was bedeutet „tudo bem“?",
+        "explanation": "tudo bem — alles gut",
         "options": [
           {
             "id": "answer",
-            "text": "Alles gut?"
+            "text": "alles gut"
           },
           {
             "id": "d0",
@@ -808,11 +808,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -828,12 +828,12 @@
         "cardId": "karte-18",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Tudo bem, obrigado.“?",
-        "explanation": "Tudo bem, obrigado. — Alles gut, danke. (männlicher Sprecher)",
+        "prompt": "Was bedeutet „obrigado“?",
+        "explanation": "obrigado — danke (männlicher Sprecher)",
         "options": [
           {
             "id": "answer",
-            "text": "Alles gut, danke. (männlicher Sprecher)"
+            "text": "danke (männlicher Sprecher)"
           },
           {
             "id": "d0",
@@ -841,11 +841,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -861,12 +861,12 @@
         "cardId": "karte-19",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Pode repetir, por favor?“?",
-        "explanation": "Pode repetir, por favor? — Kannst du das bitte wiederholen?",
+        "prompt": "Was bedeutet „por favor“?",
+        "explanation": "por favor — bitte",
         "options": [
           {
             "id": "answer",
-            "text": "Kannst du das bitte wiederholen?"
+            "text": "bitte"
           },
           {
             "id": "d0",
@@ -874,11 +874,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -894,12 +894,12 @@
         "cardId": "karte-20",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Preciso de ajuda.“?",
-        "explanation": "Preciso de ajuda. — Ich brauche Hilfe.",
+        "prompt": "Was bedeutet „preciso de ajuda“?",
+        "explanation": "preciso de ajuda — ich brauche Hilfe",
         "options": [
           {
             "id": "answer",
-            "text": "Ich brauche Hilfe."
+            "text": "ich brauche Hilfe"
           },
           {
             "id": "d0",
@@ -907,11 +907,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -927,12 +927,12 @@
         "cardId": "karte-21",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver.“?",
-        "explanation": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. — Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen.",
+        "prompt": "Was bedeutet „queria te ver“?",
+        "explanation": "queria te ver — ich würde dich gern sehen",
         "options": [
           {
             "id": "answer",
-            "text": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen."
+            "text": "ich würde dich gern sehen"
           },
           {
             "id": "d0",
@@ -940,11 +940,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
@@ -960,12 +960,12 @@
         "cardId": "karte-22",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet „Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex.“?",
-        "explanation": "Oi, Taci! Sinto muito de coração. Cometi um grande erro. Queria te ver. Vamos comer juntos e conversar sobre isso, se você quiser. Um abraço, Alex. — Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
+        "prompt": "Was bedeutet „juntos“?",
+        "explanation": "juntos — zusammen",
         "options": [
           {
             "id": "answer",
-            "text": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex."
+            "text": "zusammen"
           },
           {
             "id": "d0",
@@ -973,11 +973,11 @@
           },
           {
             "id": "d1",
-            "text": "Bis morgen"
+            "text": "bis morgen"
           },
           {
             "id": "d2",
-            "text": "Ich möchte einen Kaffee"
+            "text": "ein Tisch"
           }
         ],
         "answer": [
