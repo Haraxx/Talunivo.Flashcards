@@ -418,6 +418,14 @@
       "cardCount": 8,
       "path": "pt-BR/de/start/50-mission-alltag.talunivo",
       "sha256": "33b93fc53a7644d23e8ef0d00286b82a3a4d64a243d95b43ffc86e440c9314ad"
+    },
+    {
+      "packageId": "taci-wiedersehen",
+      "packageVersion": 1,
+      "title": "Taci · Entschuldigung und Wiedersehen",
+      "cardCount": 22,
+      "path": "pt-BR/de/Taci/wiedersehen-taci.talunivo",
+      "sha256": "6a007edf545d71152fa813960e9f328b8e74e3532bfa5545bd320524c2e6daa8"
     }
   ]
 }
