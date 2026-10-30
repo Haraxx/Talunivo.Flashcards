@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 4,
+  "packageVersion": 5,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -226,6 +226,86 @@
       "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht. Ich würde dich gern sehen. Lass uns zusammen essen und darüber reden, wenn du möchtest. Eine Umarmung, Alex.",
       "explanation": "Ausdruck aus dem Beispielsatz: juntos. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
+    },
+    {
+      "id": "karte-23",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "que bom te ver",
+      "translation": "wie schön, dich zu sehen",
+      "example": "Taci, que bom te ver!",
+      "exampleTranslation": "Taci, wie schön, dich zu sehen!",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-24",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "que alegria",
+      "translation": "welche Freude",
+      "example": "Que alegria te encontrar de novo!",
+      "exampleTranslation": "Was für eine Freude, dich wiederzutreffen!",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-25",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "há quanto tempo",
+      "translation": "lange nicht gesehen",
+      "example": "Há quanto tempo, Taci!",
+      "exampleTranslation": "Lange nicht gesehen, Taci!",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-26",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "que saudade",
+      "translation": "ich habe dich vermisst",
+      "example": "Que saudade de você!",
+      "exampleTranslation": "Ich habe dich so vermisst!",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-27",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "fico feliz",
+      "translation": "ich freue mich",
+      "example": "Fico feliz em te ver de novo.",
+      "exampleTranslation": "Ich freue mich, dich wiederzusehen.",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-28",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "te encontrar de novo",
+      "translation": "dich wiederzutreffen",
+      "example": "É muito bom te encontrar de novo.",
+      "exampleTranslation": "Es ist sehr schön, dich wiederzutreffen.",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-29",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "como você está",
+      "translation": "wie geht es dir",
+      "example": "Oi, Taci! Como você está?",
+      "exampleTranslation": "Hallo, Taci! Wie geht es dir?",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
+    },
+    {
+      "id": "karte-30",
+      "topic": "Taci · Freudiges Wiedersehen",
+      "expression": "senti sua falta",
+      "translation": "ich habe dich vermisst",
+      "example": "Senti sua falta, Taci.",
+      "exampleTranslation": "Ich habe dich vermisst, Taci.",
+      "explanation": "Herzliche Formulierung auf brasilianischem Portugiesisch.",
+      "isVocabulary": true
     }
   ],
   "learning": {
@@ -257,6 +337,20 @@
           "karte-20",
           "karte-21",
           "karte-22"
+        ]
+      },
+      {
+        "id": "goal-02",
+        "description": "Jemanden herzlich begrüßen und Freude über ein Wiedersehen ausdrücken.",
+        "cardIds": [
+          "karte-23",
+          "karte-24",
+          "karte-25",
+          "karte-26",
+          "karte-27",
+          "karte-28",
+          "karte-29",
+          "karte-30"
         ]
       }
     ],
@@ -884,6 +978,236 @@
           "juntos"
         ],
         "audioText": null
+      },
+      {
+        "id": "task-023",
+        "objectiveId": "goal-02",
+        "cardId": "karte-23",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „que bom te ver“?",
+        "explanation": "que bom te ver — wie schön, dich zu sehen",
+        "options": [
+          {
+            "id": "answer",
+            "text": "wie schön, dich zu sehen"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Wo ist der Bahnhof?"
+          },
+          {
+            "id": "d2",
+            "text": "Ein Wasser, bitte."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-024",
+        "objectiveId": "goal-02",
+        "cardId": "karte-24",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „que alegria“?",
+        "explanation": "que alegria — welche Freude",
+        "options": [
+          {
+            "id": "answer",
+            "text": "welche Freude"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Wo ist der Bahnhof?"
+          },
+          {
+            "id": "d2",
+            "text": "Ein Wasser, bitte."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-025",
+        "objectiveId": "goal-02",
+        "cardId": "karte-25",
+        "area": "understanding",
+        "kind": "meaning",
+        "prompt": "Was bedeutet „há quanto tempo“?",
+        "explanation": "há quanto tempo — lange nicht gesehen",
+        "options": [
+          {
+            "id": "answer",
+            "text": "lange nicht gesehen"
+          },
+          {
+            "id": "d0",
+            "text": "Guten Morgen"
+          },
+          {
+            "id": "d1",
+            "text": "Wo ist der Bahnhof?"
+          },
+          {
+            "id": "d2",
+            "text": "Ein Wasser, bitte."
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-026",
+        "objectiveId": "goal-02",
+        "cardId": "karte-26",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „ich habe dich vermisst“?",
+        "explanation": "que saudade — ich habe dich vermisst",
+        "options": [
+          {
+            "id": "answer",
+            "text": "que saudade"
+          },
+          {
+            "id": "d0",
+            "text": "obrigado"
+          },
+          {
+            "id": "d1",
+            "text": "bom dia"
+          },
+          {
+            "id": "d2",
+            "text": "até amanhã"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-027",
+        "objectiveId": "goal-02",
+        "cardId": "karte-27",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „ich freue mich“?",
+        "explanation": "fico feliz — ich freue mich",
+        "options": [
+          {
+            "id": "answer",
+            "text": "fico feliz"
+          },
+          {
+            "id": "d0",
+            "text": "obrigado"
+          },
+          {
+            "id": "d1",
+            "text": "bom dia"
+          },
+          {
+            "id": "d2",
+            "text": "até amanhã"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-028",
+        "objectiveId": "goal-02",
+        "cardId": "karte-28",
+        "area": "use",
+        "kind": "expression",
+        "prompt": "Welche portugiesische Wendung bedeutet „dich wiederzutreffen“?",
+        "explanation": "te encontrar de novo — dich wiederzutreffen",
+        "options": [
+          {
+            "id": "answer",
+            "text": "te encontrar de novo"
+          },
+          {
+            "id": "d0",
+            "text": "obrigado"
+          },
+          {
+            "id": "d1",
+            "text": "bom dia"
+          },
+          {
+            "id": "d2",
+            "text": "até amanhã"
+          }
+        ],
+        "answer": [
+          "answer"
+        ],
+        "acceptedText": [],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-029",
+        "objectiveId": "goal-02",
+        "cardId": "karte-29",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten portugiesischen Ausdruck für „wie geht es dir“. ",
+        "explanation": "como você está — wie geht es dir",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "como você está"
+        ],
+        "audioText": null,
+        "difficulty": 1
+      },
+      {
+        "id": "task-030",
+        "objectiveId": "goal-02",
+        "cardId": "karte-30",
+        "area": "recall",
+        "kind": "gap",
+        "prompt": "Schreibe den gelernten portugiesischen Ausdruck für „ich habe dich vermisst“. ",
+        "explanation": "senti sua falta — ich habe dich vermisst",
+        "options": [],
+        "answer": [],
+        "acceptedText": [
+          "senti sua falta"
+        ],
+        "audioText": null,
+        "difficulty": 1
       }
     ]
   }
