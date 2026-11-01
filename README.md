@@ -10,6 +10,12 @@ Use **Pakete → Datei auswählen** and select a `.talunivo` file or `talunivo-s
 
 All 50 package IDs and all 428 card IDs from revision 3 are retained. The only changed translation is estudar: lernen (Studium) becomes lernen; studieren. Use an app build containing the explicit estudar progress migration when upgrading package 42 from version 3. The current app source preserves its review schedule and counters; an already trained target is retained. Other identical word pairs keep their progress. Replaced sentence cards from version 1 are archived rather than transferring their scores to individual words. The 50 starter packages now use package format 4 with 50 learning objectives and 1,468 explicit exam tasks. Ten packages have package version 5 and forty have version 6. Cards are unchanged from revision 4. Use an app build that supports format 4; older builds cannot import these updates. Existing installed packages remain available offline. Exams test recognition, selection and controlled completion; free speaking and free writing are not assessed.
 
+## Taci package update (version 7)
+
+The public catalog additionally contains `taci-wiedersehen`: 38 cards and 38 explicit exam tasks at A1 level. Version 7 fixes the import failure in version 6 by shortening three vocabulary entries and correcting four mismatched examples. All 38 card IDs are retained; unchanged expression/translation pairs keep their progress. Complete sentences remain in the examples and exam tasks. The catalog now lists 53 packages with 479 cards; the existing 50- and 52-package ZIP files do not include Taci.
+
+In the app, open **Pakete → Pakete auf Updates prüfen**, load the Taci update into the preview and confirm it explicitly. Alternatively import `pt-BR/de/taci/wiedersehen-taci.talunivo` as a local file. The correction requires no app update when format 4 is already supported. Technical validation uses the actual app parser and JSON Schema separately; no device import or independent language certification is claimed.
+
 ## Files and validation
 
 - `catalog.json`: metadata and SHA-256 checksums for each listed package.

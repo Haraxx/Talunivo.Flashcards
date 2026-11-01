@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 6,
+  "packageVersion": 7,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -62,8 +62,8 @@
       "topic": "Taci · Entschuldigung und Wiedersehen",
       "expression": "te ver",
       "translation": "dich sehen",
-      "example": "Vamos comer juntos.",
-      "exampleTranslation": "Lass uns zusammen essen.",
+      "example": "Queria te ver.",
+      "exampleTranslation": "Ich würde dich gern sehen.",
       "explanation": "Ausdruck aus dem Beispielsatz: te ver. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
@@ -72,8 +72,8 @@
       "topic": "Taci · Entschuldigung und Wiedersehen",
       "expression": "comer juntos",
       "translation": "zusammen essen",
-      "example": "Vamos conversar.",
-      "exampleTranslation": "Lass uns reden.",
+      "example": "Vamos comer juntos.",
+      "exampleTranslation": "Lass uns zusammen essen.",
       "explanation": "Ausdruck aus dem Beispielsatz: comer juntos. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
@@ -112,8 +112,8 @@
       "topic": "Taci · Entschuldigung und Wiedersehen",
       "expression": "cometi",
       "translation": "ich habe begangen",
-      "example": "Oi, Taci! Sinto muito de coração.",
-      "exampleTranslation": "Hallo, Taci! Es tut mir von Herzen leid.",
+      "example": "Cometi um erro.",
+      "exampleTranslation": "Ich habe einen Fehler gemacht.",
       "explanation": "Ausdruck aus dem Beispielsatz: cometi. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
@@ -122,8 +122,8 @@
       "topic": "Taci · Entschuldigung und Wiedersehen",
       "expression": "erro",
       "translation": "Fehler",
-      "example": "Sinto muito de coração. Cometi um grande erro.",
-      "exampleTranslation": "Es tut mir von Herzen leid. Ich habe einen großen Fehler gemacht.",
+      "example": "Foi um erro.",
+      "exampleTranslation": "Das war ein Fehler.",
       "explanation": "Ausdruck aus dem Beispielsatz: erro. Die vollständige Formulierung steht im Beispiel.",
       "isVocabulary": true
     },
@@ -310,11 +310,11 @@
     {
       "id": "karte-31",
       "topic": "Taci · Begrüßungsdialoge",
-      "expression": "Oi Taci, que bom te ver!",
-      "translation": "Hallo Taci, schön, dich zu sehen!",
+      "expression": "bom te ver",
+      "translation": "schön, dich zu sehen",
       "example": "Oi Taci, que bom te ver!",
       "exampleTranslation": "Hallo Taci, schön, dich zu sehen!",
-      "explanation": "Deine freundliche Begrüßung, ohne Erwartung an ihre Antwort.",
+      "explanation": "Bom te ver ist eine kurze Begrüßungswendung. Im Beispiel wird Taci persönlich angesprochen.",
       "isVocabulary": true
     },
     {
@@ -360,21 +360,21 @@
     {
       "id": "karte-36",
       "topic": "Taci · Begrüßungsdialoge",
-      "expression": "Que bom te ver também!",
-      "translation": "Schön, dich auch zu sehen!",
+      "expression": "te ver também",
+      "translation": "dich auch sehen",
       "example": "Que bom te ver também!",
       "exampleTranslation": "Schön, dich auch zu sehen!",
-      "explanation": "Eine freundliche Erwiderung auf „Que bom te ver!“.",
+      "explanation": "Também bedeutet auch. Das vollständige Beispiel drückt Freude über das Wiedersehen aus.",
       "isVocabulary": true
     },
     {
       "id": "karte-37",
       "topic": "Taci · Begrüßungsdialoge",
-      "expression": "Nossa, você tá falando português!",
-      "translation": "Wow, du sprichst ja Portugiesisch!",
+      "expression": "falar português",
+      "translation": "Portugiesisch sprechen",
       "example": "Nossa, você tá falando português!",
       "exampleTranslation": "Wow, du sprichst ja Portugiesisch!",
-      "explanation": "Mögliche überraschte Reaktion auf deine portugiesische Begrüßung.",
+      "explanation": "Falar ist der Infinitiv sprechen. Tá ist eine umgangssprachliche Kurzform von está; tá falando bedeutet hier du sprichst gerade.",
       "isVocabulary": true
     },
     {
