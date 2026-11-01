@@ -2,90 +2,202 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-03-befinden",
-  "packageVersion": 5,
-  "title": "03 \u00B7 Befinden und Gef\u00FChle",
+  "packageVersion": 6,
+  "title": "03 · Befinden und Gefühle",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "hoje",
       "translation": "heute",
       "example": "Hoje estou bem.",
       "exampleTranslation": "Heute geht es mir gut.",
-      "explanation": "Hoje bedeutet heute. Hoje estou bem hei\u00DFt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es ver\u00E4ndert seine Form nicht.",
-      "isVocabulary": true
+      "explanation": "Hoje bedeutet heute. Hoje estou bem heißt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es verändert seine Form nicht.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "O-zhi",
+        "ipa": "[ˈoʒi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "O-zhi ess-TOU BẼI.",
+        "ipa": "[ˈoʒi esˈtow bẽj̃]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-02",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "bem",
       "translation": "gut",
-      "example": "Estou bem, e voc\u00EA?",
+      "example": "Estou bem, e você?",
       "exampleTranslation": "Mir geht es gut, und dir?",
-      "explanation": "Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E voc\u00EA? fragt zur\u00FCck: und dir? Bem bleibt unver\u00E4ndert; die Form h\u00E4ngt nicht von der sprechenden Person ab.",
-      "isVocabulary": true
+      "explanation": "Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E você? fragt zurück: und dir? Bem bleibt unverändert; die Form hängt nicht von der sprechenden Person ab.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "BẼI",
+        "ipa": "[bẽj̃]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ess-TOU BẼI, i wo-SSE?",
+        "ipa": "[esˈtow bẽj̃ i voˈse]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-03",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "feliz",
-      "translation": "gl\u00FCcklich",
+      "translation": "glücklich",
       "example": "Estou feliz.",
-      "exampleTranslation": "Ich bin gl\u00FCcklich.",
-      "explanation": "Feliz bedeutet gl\u00FCcklich. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt felizes. Estou feliz beschreibt hier das aktuelle Gef\u00FChl.",
-      "isVocabulary": true
+      "exampleTranslation": "Ich bin glücklich.",
+      "explanation": "Feliz bedeutet glücklich. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt felizes. Estou feliz beschreibt hier das aktuelle Gefühl.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "fe-LISS",
+        "ipa": "[feˈlis]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ess-TOU fe-LISS.",
+        "ipa": "[esˈtow feˈlis]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-04",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "triste",
       "translation": "traurig",
       "example": "Estou triste.",
       "exampleTranslation": "Ich bin traurig.",
-      "explanation": "Triste bedeutet traurig. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt tristes. Estou triste beschreibt hier das aktuelle Gef\u00FChl.",
-      "isVocabulary": true
+      "explanation": "Triste bedeutet traurig. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt tristes. Estou triste beschreibt hier das aktuelle Gefühl.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "TRISS-tschi",
+        "ipa": "[ˈtɾistʃi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ess-TOU TRISS-tschi.",
+        "ipa": "[esˈtow ˈtɾistʃi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-05",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "cansado",
-      "translation": "m\u00FCde (m\u00E4nnlich)",
+      "translation": "müde (männlich)",
       "example": "Estou cansado.",
-      "exampleTranslation": "Ich bin m\u00FCde.",
-      "explanation": "Cansado ist die m\u00E4nnliche Einzahl, cansada die weibliche. Estou cansado bedeutet ich bin m\u00FCde, wenn die sprechende Person die m\u00E4nnliche Form verwendet. Die Form wird nicht aus einem Avatar abgeleitet.",
-      "isVocabulary": true
+      "exampleTranslation": "Ich bin müde.",
+      "explanation": "Cansado ist die männliche Einzahl, cansada die weibliche. Estou cansado bedeutet ich bin müde, wenn die sprechende Person die männliche Form verwendet. Die Form wird nicht aus einem Avatar abgeleitet.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "kã-SSA-du",
+        "ipa": "[kɐ̃ˈsadu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ess-TOU kã-SSA-du.",
+        "ipa": "[esˈtow kɐ̃ˈsadu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-06",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "cansada",
-      "translation": "m\u00FCde (weiblich)",
+      "translation": "müde (weiblich)",
       "example": "Estou cansada.",
-      "exampleTranslation": "Ich bin m\u00FCde.",
-      "explanation": "Cansada ist die weibliche Einzahl, cansado die m\u00E4nnliche. Estou cansada bedeutet ich bin m\u00FCde, wenn die sprechende Person die weibliche Form verwendet. Beide Beispiels\u00E4tze haben dieselbe deutsche \u00DCbersetzung.",
-      "isVocabulary": true
+      "exampleTranslation": "Ich bin müde.",
+      "explanation": "Cansada ist die weibliche Einzahl, cansado die männliche. Estou cansada bedeutet ich bin müde, wenn die sprechende Person die weibliche Form verwendet. Beide Beispielsätze haben dieselbe deutsche Übersetzung.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "kã-SSA-da",
+        "ipa": "[kɐ̃ˈsadɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ess-TOU kã-SSA-da.",
+        "ipa": "[esˈtow kɐ̃ˈsadɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-07",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "tudo",
       "translation": "alles",
-      "example": "Est\u00E1 tudo bem.",
+      "example": "Está tudo bem.",
       "exampleTranslation": "Es ist alles in Ordnung.",
-      "explanation": "Tudo bedeutet alles. Est\u00E1 tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut?",
-      "isVocabulary": true
+      "explanation": "Tudo bedeutet alles. Está tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut?",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "TU-du",
+        "ipa": "[ˈtudu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ess-TA TU-du BẼI.",
+        "ipa": "[esˈta ˈtudu bẽj̃]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-08",
-      "topic": "Befinden und Gef\u00FChle",
+      "topic": "Befinden und Gefühle",
       "expression": "mais ou menos",
-      "translation": "so einigerma\u00DFen",
+      "translation": "so einigermaßen",
       "example": "Mais ou menos.",
-      "exampleTranslation": "So einigerma\u00DFen.",
-      "explanation": "Als Antwort auf Tudo bem? bedeutet mais ou menos so einigerma\u00DFen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungef\u00E4hr bei einer Menge. Hier wird das Befinden ge\u00FCbt.",
-      "isVocabulary": true
+      "exampleTranslation": "So einigermaßen.",
+      "explanation": "Als Antwort auf Tudo bem? bedeutet mais ou menos so einigermaßen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungefähr bei einer Menge. Hier wird das Befinden geübt.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "MAISS OU ME-nuss",
+        "ipa": "[majs ow ˈmenus]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "MAISS OU ME-nuss.",
+        "ipa": "[majs ow ˈmenus]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     }
   ],
   "learning": {
@@ -93,7 +205,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Nach dem Befinden fragen und einfache Angaben zu Wohlbefinden oder M\u00FCdigkeit verstehen und verwenden.",
+        "description": "Nach dem Befinden fragen und einfache Angaben zu Wohlbefinden oder Müdigkeit verstehen und verwenden.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -113,8 +225,8 @@
         "cardId": "karte-05",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die gelernte m\u00E4nnliche Singularform f\u00FCr \u201Em\u00FCde\u201C (ein Wort): \u201EEstou ____.\u201C",
-        "explanation": "Cansado ist die m\u00E4nnliche Einzahl. Cansada ist die weibliche Form; die Aufgabe verlangt ausdr\u00FCcklich die m\u00E4nnliche Form.",
+        "prompt": "Ergänze die gelernte männliche Singularform für „müde“ (ein Wort): „Estou ____.“",
+        "explanation": "Cansado ist die männliche Einzahl. Cansada ist die weibliche Form; die Aufgabe verlangt ausdrücklich die männliche Form.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -129,8 +241,8 @@
         "cardId": "karte-06",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die gelernte weibliche Singularform f\u00FCr \u201Em\u00FCde\u201C (ein Wort): \u201EEstou ____.\u201C",
-        "explanation": "Cansada ist die weibliche Einzahl. Cansado ist die m\u00E4nnliche Form; die Aufgabe verlangt ausdr\u00FCcklich die weibliche Form.",
+        "prompt": "Ergänze die gelernte weibliche Singularform für „müde“ (ein Wort): „Estou ____.“",
+        "explanation": "Cansada ist die weibliche Einzahl. Cansado ist die männliche Form; die Aufgabe verlangt ausdrücklich die weibliche Form.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -145,12 +257,12 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "hoje \u2014 heute. Hoje bedeutet heute. Hoje estou bem hei\u00DFt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es ver\u00E4ndert seine Form nicht. Hoje estou bem. \u2014 Heute geht es mir gut.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "hoje — heute. Hoje bedeutet heute. Hoje estou bem heißt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es verändert seine Form nicht. Hoje estou bem. — Heute geht es mir gut.",
         "options": [
           {
             "id": "d3",
-            "text": "m\u00FCde (m\u00E4nnlich)"
+            "text": "müde (männlich)"
           },
           {
             "id": "d5",
@@ -162,7 +274,7 @@
           },
           {
             "id": "d1",
-            "text": "so einigerma\u00DFen"
+            "text": "so einigermaßen"
           }
         ],
         "answer": [
@@ -178,8 +290,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ehoje\u201C?",
-        "explanation": "hoje \u2014 heute. Hoje bedeutet heute. Hoje estou bem hei\u00DFt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es ver\u00E4ndert seine Form nicht. Hoje estou bem. \u2014 Heute geht es mir gut.",
+        "prompt": "Was bedeutet „hoje“?",
+        "explanation": "hoje — heute. Hoje bedeutet heute. Hoje estou bem heißt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es verändert seine Form nicht. Hoje estou bem. — Heute geht es mir gut.",
         "options": [
           {
             "id": "answer",
@@ -191,11 +303,11 @@
           },
           {
             "id": "d2",
-            "text": "m\u00FCde (weiblich)"
+            "text": "müde (weiblich)"
           },
           {
             "id": "d0",
-            "text": "gl\u00FCcklich"
+            "text": "glücklich"
           }
         ],
         "answer": [
@@ -211,12 +323,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "bem \u2014 gut. Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E voc\u00EA? fragt zur\u00FCck: und dir? Bem bleibt unver\u00E4ndert; die Form h\u00E4ngt nicht von der sprechenden Person ab. Estou bem, e voc\u00EA? \u2014 Mir geht es gut, und dir?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "bem — gut. Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E você? fragt zurück: und dir? Bem bleibt unverändert; die Form hängt nicht von der sprechenden Person ab. Estou bem, e você? — Mir geht es gut, und dir?",
         "options": [
           {
             "id": "d2",
-            "text": "m\u00FCde (weiblich)"
+            "text": "müde (weiblich)"
           },
           {
             "id": "d5",
@@ -224,7 +336,7 @@
           },
           {
             "id": "d3",
-            "text": "m\u00FCde (m\u00E4nnlich)"
+            "text": "müde (männlich)"
           },
           {
             "id": "answer",
@@ -244,12 +356,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ebem\u201C?",
-        "explanation": "bem \u2014 gut. Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E voc\u00EA? fragt zur\u00FCck: und dir? Bem bleibt unver\u00E4ndert; die Form h\u00E4ngt nicht von der sprechenden Person ab. Estou bem, e voc\u00EA? \u2014 Mir geht es gut, und dir?",
+        "prompt": "Was bedeutet „bem“?",
+        "explanation": "bem — gut. Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E você? fragt zurück: und dir? Bem bleibt unverändert; die Form hängt nicht von der sprechenden Person ab. Estou bem, e você? — Mir geht es gut, und dir?",
         "options": [
           {
             "id": "d0",
-            "text": "gl\u00FCcklich"
+            "text": "glücklich"
           },
           {
             "id": "answer",
@@ -277,12 +389,12 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "feliz \u2014 gl\u00FCcklich. Feliz bedeutet gl\u00FCcklich. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt felizes. Estou feliz beschreibt hier das aktuelle Gef\u00FChl. Estou feliz. \u2014 Ich bin gl\u00FCcklich.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "feliz — glücklich. Feliz bedeutet glücklich. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt felizes. Estou feliz beschreibt hier das aktuelle Gefühl. Estou feliz. — Ich bin glücklich.",
         "options": [
           {
             "id": "answer",
-            "text": "gl\u00FCcklich"
+            "text": "glücklich"
           },
           {
             "id": "d6",
@@ -290,11 +402,11 @@
           },
           {
             "id": "d0",
-            "text": "so einigerma\u00DFen"
+            "text": "so einigermaßen"
           },
           {
             "id": "d1",
-            "text": "m\u00FCde (weiblich)"
+            "text": "müde (weiblich)"
           }
         ],
         "answer": [
@@ -310,8 +422,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Efeliz\u201C?",
-        "explanation": "feliz \u2014 gl\u00FCcklich. Feliz bedeutet gl\u00FCcklich. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt felizes. Estou feliz beschreibt hier das aktuelle Gef\u00FChl. Estou feliz. \u2014 Ich bin gl\u00FCcklich.",
+        "prompt": "Was bedeutet „feliz“?",
+        "explanation": "feliz — glücklich. Feliz bedeutet glücklich. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt felizes. Estou feliz beschreibt hier das aktuelle Gefühl. Estou feliz. — Ich bin glücklich.",
         "options": [
           {
             "id": "d5",
@@ -319,11 +431,11 @@
           },
           {
             "id": "d2",
-            "text": "m\u00FCde (m\u00E4nnlich)"
+            "text": "müde (männlich)"
           },
           {
             "id": "answer",
-            "text": "gl\u00FCcklich"
+            "text": "glücklich"
           },
           {
             "id": "d6",
@@ -343,8 +455,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "triste \u2014 traurig. Triste bedeutet traurig. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt tristes. Estou triste beschreibt hier das aktuelle Gef\u00FChl. Estou triste. \u2014 Ich bin traurig.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "triste — traurig. Triste bedeutet traurig. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt tristes. Estou triste beschreibt hier das aktuelle Gefühl. Estou triste. — Ich bin traurig.",
         "options": [
           {
             "id": "d5",
@@ -352,7 +464,7 @@
           },
           {
             "id": "d2",
-            "text": "m\u00FCde (weiblich)"
+            "text": "müde (weiblich)"
           },
           {
             "id": "answer",
@@ -376,8 +488,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Etriste\u201C?",
-        "explanation": "triste \u2014 traurig. Triste bedeutet traurig. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt tristes. Estou triste beschreibt hier das aktuelle Gef\u00FChl. Estou triste. \u2014 Ich bin traurig.",
+        "prompt": "Was bedeutet „triste“?",
+        "explanation": "triste — traurig. Triste bedeutet traurig. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt tristes. Estou triste beschreibt hier das aktuelle Gefühl. Estou triste. — Ich bin traurig.",
         "options": [
           {
             "id": "answer",
@@ -385,7 +497,7 @@
           },
           {
             "id": "d1",
-            "text": "so einigerma\u00DFen"
+            "text": "so einigermaßen"
           },
           {
             "id": "d5",
@@ -393,7 +505,7 @@
           },
           {
             "id": "d2",
-            "text": "m\u00FCde (weiblich)"
+            "text": "müde (weiblich)"
           }
         ],
         "answer": [
@@ -409,8 +521,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "tudo \u2014 alles. Tudo bedeutet alles. Est\u00E1 tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut? Est\u00E1 tudo bem. \u2014 Es ist alles in Ordnung.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "tudo — alles. Tudo bedeutet alles. Está tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut? Está tudo bem. — Es ist alles in Ordnung.",
         "options": [
           {
             "id": "answer",
@@ -442,8 +554,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Etudo\u201C?",
-        "explanation": "tudo \u2014 alles. Tudo bedeutet alles. Est\u00E1 tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut? Est\u00E1 tudo bem. \u2014 Es ist alles in Ordnung.",
+        "prompt": "Was bedeutet „tudo“?",
+        "explanation": "tudo — alles. Tudo bedeutet alles. Está tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut? Está tudo bem. — Es ist alles in Ordnung.",
         "options": [
           {
             "id": "d11",
@@ -475,8 +587,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "mais ou menos \u2014 so einigerma\u00DFen. Als Antwort auf Tudo bem? bedeutet mais ou menos so einigerma\u00DFen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungef\u00E4hr bei einer Menge. Hier wird das Befinden ge\u00FCbt. Mais ou menos. \u2014 So einigerma\u00DFen.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "mais ou menos — so einigermaßen. Als Antwort auf Tudo bem? bedeutet mais ou menos so einigermaßen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungefähr bei einer Menge. Hier wird das Befinden geübt. Mais ou menos. — So einigermaßen.",
         "options": [
           {
             "id": "d3",
@@ -492,7 +604,7 @@
           },
           {
             "id": "answer",
-            "text": "so einigerma\u00DFen"
+            "text": "so einigermaßen"
           }
         ],
         "answer": [
@@ -508,12 +620,12 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Emais ou menos\u201C?",
-        "explanation": "mais ou menos \u2014 so einigerma\u00DFen. Als Antwort auf Tudo bem? bedeutet mais ou menos so einigerma\u00DFen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungef\u00E4hr bei einer Menge. Hier wird das Befinden ge\u00FCbt. Mais ou menos. \u2014 So einigerma\u00DFen.",
+        "prompt": "Was bedeutet „mais ou menos“?",
+        "explanation": "mais ou menos — so einigermaßen. Als Antwort auf Tudo bem? bedeutet mais ou menos so einigermaßen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungefähr bei einer Menge. Hier wird das Befinden geübt. Mais ou menos. — So einigermaßen.",
         "options": [
           {
             "id": "answer",
-            "text": "so einigerma\u00DFen"
+            "text": "so einigermaßen"
           },
           {
             "id": "d3",
@@ -521,11 +633,11 @@
           },
           {
             "id": "d0",
-            "text": "gl\u00FCcklich"
+            "text": "glücklich"
           },
           {
             "id": "d1",
-            "text": "m\u00FCde (weiblich)"
+            "text": "müde (weiblich)"
           }
         ],
         "answer": [
@@ -541,7 +653,7 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage bedeutet \u201EHeute geht es mir gut\u201C?",
+        "prompt": "Welche Aussage bedeutet „Heute geht es mir gut“?",
         "explanation": "Hoje bezeichnet heute. Estou bem bedeutet hier mir geht es gut.",
         "options": [
           {
@@ -558,7 +670,7 @@
           },
           {
             "id": "wrong-0",
-            "text": "Amanh\u00E3 estou em casa."
+            "text": "Amanhã estou em casa."
           }
         ],
         "answer": [
@@ -574,8 +686,8 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eheute\u201C?",
-        "explanation": "hoje \u2014 heute. Hoje bedeutet heute. Hoje estou bem hei\u00DFt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es ver\u00E4ndert seine Form nicht. Hoje estou bem. \u2014 Heute geht es mir gut.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „heute“?",
+        "explanation": "hoje — heute. Hoje bedeutet heute. Hoje estou bem heißt heute geht es mir gut. Das Wort bezeichnet den heutigen Tag; es verändert seine Form nicht. Hoje estou bem. — Heute geht es mir gut.",
         "options": [
           {
             "id": "d5",
@@ -607,8 +719,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201ETudo bem?\u201C \u2013 Welche Antwort sagt, dass es dir gut geht?",
-        "explanation": "Estou bem antwortet mir geht es gut. E voc\u00EA? fragt und dir?",
+        "prompt": "„Tudo bem?“ – Welche Antwort sagt, dass es dir gut geht?",
+        "explanation": "Estou bem antwortet mir geht es gut. E você? fragt und dir?",
         "options": [
           {
             "id": "wrong-0",
@@ -624,7 +736,7 @@
           },
           {
             "id": "answer",
-            "text": "Estou bem, e voc\u00EA?"
+            "text": "Estou bem, e você?"
           }
         ],
         "answer": [
@@ -640,8 +752,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Egut\u201C?",
-        "explanation": "bem \u2014 gut. Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E voc\u00EA? fragt zur\u00FCck: und dir? Bem bleibt unver\u00E4ndert; die Form h\u00E4ngt nicht von der sprechenden Person ab. Estou bem, e voc\u00EA? \u2014 Mir geht es gut, und dir?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „gut“?",
+        "explanation": "bem — gut. Bem beschreibt hier, wie es jemandem geht: estou bem = mir geht es gut. E você? fragt zurück: und dir? Bem bleibt unverändert; die Form hängt nicht von der sprechenden Person ab. Estou bem, e você? — Mir geht es gut, und dir?",
         "options": [
           {
             "id": "d0",
@@ -673,8 +785,8 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du bist gerade gl\u00FCcklich. Welche Aussage dr\u00FCckt das aus?",
-        "explanation": "Feliz bedeutet gl\u00FCcklich und hat im Singular dieselbe Form bei m\u00E4nnlichem und weiblichem Bezug.",
+        "prompt": "Du bist gerade glücklich. Welche Aussage drückt das aus?",
+        "explanation": "Feliz bedeutet glücklich und hat im Singular dieselbe Form bei männlichem und weiblichem Bezug.",
         "options": [
           {
             "id": "answer",
@@ -706,8 +818,8 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Egl\u00FCcklich\u201C?",
-        "explanation": "feliz \u2014 gl\u00FCcklich. Feliz bedeutet gl\u00FCcklich. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt felizes. Estou feliz beschreibt hier das aktuelle Gef\u00FChl. Estou feliz. \u2014 Ich bin gl\u00FCcklich.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „glücklich“?",
+        "explanation": "feliz — glücklich. Feliz bedeutet glücklich. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt felizes. Estou feliz beschreibt hier das aktuelle Gefühl. Estou feliz. — Ich bin glücklich.",
         "options": [
           {
             "id": "d3",
@@ -740,7 +852,7 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Du bist gerade traurig. Welche Aussage passt?",
-        "explanation": "Triste bedeutet traurig. Feliz bedeutet gl\u00FCcklich; fome und sede bezeichnen Hunger und Durst.",
+        "explanation": "Triste bedeutet traurig. Feliz bedeutet glücklich; fome und sede bezeichnen Hunger und Durst.",
         "options": [
           {
             "id": "answer",
@@ -772,8 +884,8 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Etraurig\u201C?",
-        "explanation": "triste \u2014 traurig. Triste bedeutet traurig. Die Einzahl ist bei m\u00E4nnlichem und weiblichem Bezug gleich; die Mehrzahl hei\u00DFt tristes. Estou triste beschreibt hier das aktuelle Gef\u00FChl. Estou triste. \u2014 Ich bin traurig.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „traurig“?",
+        "explanation": "triste — traurig. Triste bedeutet traurig. Die Einzahl ist bei männlichem und weiblichem Bezug gleich; die Mehrzahl heißt tristes. Estou triste beschreibt hier das aktuelle Gefühl. Estou triste. — Ich bin traurig.",
         "options": [
           {
             "id": "answer",
@@ -805,8 +917,8 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage bedeutet \u201EEs ist alles in Ordnung\u201C?",
-        "explanation": "Tudo bedeutet alles. Est\u00E1 tudo bem ist eine Aussage, keine Frage.",
+        "prompt": "Welche Aussage bedeutet „Es ist alles in Ordnung“?",
+        "explanation": "Tudo bedeutet alles. Está tudo bem ist eine Aussage, keine Frage.",
         "options": [
           {
             "id": "wrong-1",
@@ -814,15 +926,15 @@
           },
           {
             "id": "wrong-2",
-            "text": "At\u00E9 amanh\u00E3."
+            "text": "Até amanhã."
           },
           {
             "id": "wrong-0",
-            "text": "Est\u00E1 tudo caro."
+            "text": "Está tudo caro."
           },
           {
             "id": "answer",
-            "text": "Est\u00E1 tudo bem."
+            "text": "Está tudo bem."
           }
         ],
         "answer": [
@@ -838,12 +950,12 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ealles\u201C?",
-        "explanation": "tudo \u2014 alles. Tudo bedeutet alles. Est\u00E1 tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut? Est\u00E1 tudo bem. \u2014 Es ist alles in Ordnung.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „alles“?",
+        "explanation": "tudo — alles. Tudo bedeutet alles. Está tudo bem. ist hier eine Aussage: Es ist alles in Ordnung. Tudo bem? ist dagegen eine kurze Frage nach dem Befinden: Alles gut? Está tudo bem. — Es ist alles in Ordnung.",
         "options": [
           {
             "id": "d0",
-            "text": "cart\u00E3o de d\u00E9bito"
+            "text": "cartão de débito"
           },
           {
             "id": "d6",
@@ -871,12 +983,12 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201ETudo bem?\u201C \u2013 Welche Antwort bedeutet hier \u201ESo einigerma\u00DFen\u201C?",
-        "explanation": "Mais ou menos beschreibt hier ein mittelm\u00E4\u00DFiges Befinden; muito bem bedeutet sehr gut.",
+        "prompt": "„Tudo bem?“ – Welche Antwort bedeutet hier „So einigermaßen“?",
+        "explanation": "Mais ou menos beschreibt hier ein mittelmäßiges Befinden; muito bem bedeutet sehr gut.",
         "options": [
           {
             "id": "wrong-2",
-            "text": "At\u00E9 amanh\u00E3!"
+            "text": "Até amanhã!"
           },
           {
             "id": "answer",
@@ -904,8 +1016,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eso einigerma\u00DFen\u201C?",
-        "explanation": "mais ou menos \u2014 so einigerma\u00DFen. Als Antwort auf Tudo bem? bedeutet mais ou menos so einigerma\u00DFen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungef\u00E4hr bei einer Menge. Hier wird das Befinden ge\u00FCbt. Mais ou menos. \u2014 So einigerma\u00DFen.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „so einigermaßen“?",
+        "explanation": "mais ou menos — so einigermaßen. Als Antwort auf Tudo bem? bedeutet mais ou menos so einigermaßen. Die Wendung hat je nach Kontext andere Anwendungen, etwa ungefähr bei einer Menge. Hier wird das Befinden geübt. Mais ou menos. — So einigermaßen.",
         "options": [
           {
             "id": "answer",

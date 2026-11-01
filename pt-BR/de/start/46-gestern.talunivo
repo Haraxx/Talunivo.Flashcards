@@ -2,89 +2,96 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-46-gestern",
-  "packageVersion": 6,
-  "title": "46 \u00B7 Von gestern erz\u00E4hlen",
+  "packageVersion": 7,
+  "title": "46 · Von gestern erzählen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "ontem",
       "translation": "gestern",
       "example": "Ontem fui ao mercado.",
       "exampleTranslation": "Gestern bin ich auf den Markt gegangen.",
-      "explanation": "Ontem hei\u00DFt gestern, also am Tag vor heute. Fui ist hier die Ich-Form von ir in der abgeschlossenen Vergangenheit. Ao verbindet a \u002B o; ao mercado nennt das Ziel. Der Satz allein legt kein Verkehrsmittel fest.",
+      "explanation": "Ontem heißt gestern, also am Tag vor heute. Fui ist hier die Ich-Form von ir in der abgeschlossenen Vergangenheit. Ao verbindet a + o; ao mercado nennt das Ziel. Der Satz allein legt kein Verkehrsmittel fest.",
       "isVocabulary": true
     },
     {
       "id": "karte-02",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "amiga",
       "translation": "Freundin",
-      "example": "Tomei caf\u00E9 com uma amiga.",
+      "example": "Tomei café com uma amiga.",
       "exampleTranslation": "Ich habe mit einer Freundin Kaffee getrunken.",
-      "explanation": "A amiga, Plural amigas, hei\u00DFt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar caf\u00E9 bedeutet Kaffee trinken. Com uma amiga hei\u00DFt mit einer Freundin und legt keine Partnerschaft fest.",
-      "isVocabulary": true
+      "explanation": "A amiga, Plural amigas, heißt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar café bedeutet Kaffee trinken. Com uma amiga heißt mit einer Freundin und legt keine Partnerschaft fest.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "a-MI-ga",
+        "ipa": "[aˈmiɡɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-03",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "comprar",
       "translation": "kaufen",
-      "example": "Comprei p\u00E3o e queijo.",
-      "exampleTranslation": "Ich habe Brot und K\u00E4se gekauft.",
-      "explanation": "Comprar hei\u00DFt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. P\u00E3o e queijo bedeutet Brot und K\u00E4se. Dasselbe Verb wird in Paket 45 mit vamos comprar f\u00FCr einen gemeinsamen Plan verwendet.",
+      "example": "Comprei pão e queijo.",
+      "exampleTranslation": "Ich habe Brot und Käse gekauft.",
+      "explanation": "Comprar heißt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. Pão e queijo bedeutet Brot und Käse. Dasselbe Verb wird in Paket 45 mit vamos comprar für einen gemeinsamen Plan verwendet.",
       "isVocabulary": true
     },
     {
       "id": "karte-04",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "minutos",
       "translation": "Minuten",
-      "example": "Estudei portugu\u00EAs por dez minutos.",
+      "example": "Estudei português por dez minutos.",
       "exampleTranslation": "Ich habe zehn Minuten Portugiesisch gelernt.",
-      "explanation": "O minuto hei\u00DFt Minute, os minutos die Minuten. Por dez minutos nennt eine Dauer von zehn Minuten, keine Uhrzeit. Estudei ist die vergangene Ich-Form von estudar, gezielt lernen oder studieren.",
+      "explanation": "O minuto heißt Minute, os minutos die Minuten. Por dez minutos nennt eine Dauer von zehn Minuten, keine Uhrzeit. Estudei ist die vergangene Ich-Form von estudar, gezielt lernen oder studieren.",
       "isVocabulary": true
     },
     {
       "id": "karte-05",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "passeio",
       "translation": "Ausflug",
       "example": "Gostei muito do passeio.",
       "exampleTranslation": "Der Ausflug hat mir sehr gefallen.",
-      "explanation": "O passeio, Plural passeios, hei\u00DFt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de \u002B o. Muito verst\u00E4rkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten.",
+      "explanation": "O passeio, Plural passeios, heißt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de + o. Muito verstärkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten.",
       "isVocabulary": true
     },
     {
       "id": "karte-06",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "tarde",
-      "translation": "sp\u00E4t",
+      "translation": "spät",
       "example": "Cheguei tarde em casa.",
-      "exampleTranslation": "Ich bin sp\u00E4t nach Hause gekommen.",
-      "explanation": "Tarde bedeutet hier sp\u00E4t. A tarde ist dagegen das Nomen Nachmittag; \u00E0 tarde hei\u00DFt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause.",
+      "exampleTranslation": "Ich bin spät nach Hause gekommen.",
+      "explanation": "Tarde bedeutet hier spät. A tarde ist dagegen das Nomen Nachmittag; à tarde heißt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause.",
       "isVocabulary": true
     },
     {
       "id": "karte-07",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "pergunta",
       "translation": "Frage",
-      "example": "N\u00E3o entendi a pergunta.",
+      "example": "Não entendi a pergunta.",
       "exampleTranslation": "Ich habe die Frage nicht verstanden.",
-      "explanation": "A pergunta, Plural perguntas, hei\u00DFt Frage. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verst\u00E4ndnis einer bereits gestellten Frage.",
+      "explanation": "A pergunta, Plural perguntas, heißt Frage. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verständnis einer bereits gestellten Frage.",
       "isVocabulary": true
     },
     {
       "id": "karte-08",
-      "topic": "Von gestern erz\u00E4hlen",
+      "topic": "Von gestern erzählen",
       "expression": "bom",
-      "translation": "gut (m\u00E4nnlich)",
+      "translation": "gut (männlich)",
       "example": "Foi um dia bom.",
       "exampleTranslation": "Es war ein guter Tag.",
-      "explanation": "Bom ist die m\u00E4nnliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a m\u00E4nnlich; deshalb hei\u00DFt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erz\u00E4hlenden Person.",
+      "explanation": "Bom ist die männliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a männlich; deshalb heißt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erzählenden Person.",
       "isVocabulary": true
     }
   ],
@@ -93,7 +100,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Einfache Aussagen \u00FCber gestern und vergangene T\u00E4tigkeiten oder Zeitspannen verstehen.",
+        "description": "Einfache Aussagen über gestern und vergangene Tätigkeiten oder Zeitspannen verstehen.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -113,7 +120,7 @@
         "cardId": "karte-01",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das gelernte einzelne Wort f\u00FCr gestern: \u201E____ fui ao mercado.\u201C",
+        "prompt": "Ergänze das gelernte einzelne Wort für gestern: „____ fui ao mercado.“",
         "explanation": "Ontem bedeutet gestern, am Tag vor heute. Die Aussage steht in der Vergangenheit.",
         "options": [],
         "answer": [],
@@ -129,7 +136,7 @@
         "cardId": "karte-04",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die gelernte Pluralform f\u00FCr Minuten: \u201EEstudei portugu\u00EAs por dez ____.\u201C",
+        "prompt": "Ergänze die gelernte Pluralform für Minuten: „Estudei português por dez ____.“",
         "explanation": "Minutos ist die Mehrzahl von minuto. Por dez minutos bezeichnet eine Dauer, keine Uhrzeit.",
         "options": [],
         "answer": [],
@@ -145,12 +152,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ETomei caf\u00E9 com uma amiga.\u201C",
-        "explanation": "amiga \u2014 Freundin. A amiga, Plural amigas, hei\u00DFt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar caf\u00E9 bedeutet Kaffee trinken. Com uma amiga hei\u00DFt mit einer Freundin und legt keine Partnerschaft fest. Tomei caf\u00E9 com uma amiga. \u2014 Ich habe mit einer Freundin Kaffee getrunken.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Tomei café com uma amiga.“",
+        "explanation": "amiga — Freundin. A amiga, Plural amigas, heißt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar café bedeutet Kaffee trinken. Com uma amiga heißt mit einer Freundin und legt keine Partnerschaft fest. Tomei café com uma amiga. — Ich habe mit einer Freundin Kaffee getrunken.",
         "options": [
           {
             "id": "d4",
-            "text": "sp\u00E4t"
+            "text": "spät"
           },
           {
             "id": "answer",
@@ -178,12 +185,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eamiga\u201C in diesem Beispiel? \u201ETomei caf\u00E9 com uma amiga.\u201C",
-        "explanation": "amiga \u2014 Freundin. A amiga, Plural amigas, hei\u00DFt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar caf\u00E9 bedeutet Kaffee trinken. Com uma amiga hei\u00DFt mit einer Freundin und legt keine Partnerschaft fest. Tomei caf\u00E9 com uma amiga. \u2014 Ich habe mit einer Freundin Kaffee getrunken.",
+        "prompt": "Was bedeutet „amiga“ in diesem Beispiel? „Tomei café com uma amiga.“",
+        "explanation": "amiga — Freundin. A amiga, Plural amigas, heißt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar café bedeutet Kaffee trinken. Com uma amiga heißt mit einer Freundin und legt keine Partnerschaft fest. Tomei café com uma amiga. — Ich habe mit einer Freundin Kaffee getrunken.",
         "options": [
           {
             "id": "d8",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           },
           {
             "id": "d0",
@@ -211,8 +218,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EComprei p\u00E3o e queijo.\u201C",
-        "explanation": "comprar \u2014 kaufen. Comprar hei\u00DFt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. P\u00E3o e queijo bedeutet Brot und K\u00E4se. Dasselbe Verb wird in Paket 45 mit vamos comprar f\u00FCr einen gemeinsamen Plan verwendet. Comprei p\u00E3o e queijo. \u2014 Ich habe Brot und K\u00E4se gekauft.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Comprei pão e queijo.“",
+        "explanation": "comprar — kaufen. Comprar heißt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. Pão e queijo bedeutet Brot und Käse. Dasselbe Verb wird in Paket 45 mit vamos comprar für einen gemeinsamen Plan verwendet. Comprei pão e queijo. — Ich habe Brot und Käse gekauft.",
         "options": [
           {
             "id": "d5",
@@ -244,8 +251,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ecomprar\u201C in diesem Beispiel? \u201EComprei p\u00E3o e queijo.\u201C",
-        "explanation": "comprar \u2014 kaufen. Comprar hei\u00DFt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. P\u00E3o e queijo bedeutet Brot und K\u00E4se. Dasselbe Verb wird in Paket 45 mit vamos comprar f\u00FCr einen gemeinsamen Plan verwendet. Comprei p\u00E3o e queijo. \u2014 Ich habe Brot und K\u00E4se gekauft.",
+        "prompt": "Was bedeutet „comprar“ in diesem Beispiel? „Comprei pão e queijo.“",
+        "explanation": "comprar — kaufen. Comprar heißt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. Pão e queijo bedeutet Brot und Käse. Dasselbe Verb wird in Paket 45 mit vamos comprar für einen gemeinsamen Plan verwendet. Comprei pão e queijo. — Ich habe Brot und Käse gekauft.",
         "options": [
           {
             "id": "d3",
@@ -277,8 +284,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EGostei muito do passeio.\u201C",
-        "explanation": "passeio \u2014 Ausflug. O passeio, Plural passeios, hei\u00DFt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de \u002B o. Muito verst\u00E4rkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten. Gostei muito do passeio. \u2014 Der Ausflug hat mir sehr gefallen.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Gostei muito do passeio.“",
+        "explanation": "passeio — Ausflug. O passeio, Plural passeios, heißt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de + o. Muito verstärkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten. Gostei muito do passeio. — Der Ausflug hat mir sehr gefallen.",
         "options": [
           {
             "id": "d2",
@@ -286,11 +293,11 @@
           },
           {
             "id": "d11",
-            "text": "k\u00F6nnen; d\u00FCrfen"
+            "text": "können; dürfen"
           },
           {
             "id": "d3",
-            "text": "gut (m\u00E4nnlich)"
+            "text": "gut (männlich)"
           },
           {
             "id": "answer",
@@ -310,8 +317,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epasseio\u201C in diesem Beispiel? \u201EGostei muito do passeio.\u201C",
-        "explanation": "passeio \u2014 Ausflug. O passeio, Plural passeios, hei\u00DFt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de \u002B o. Muito verst\u00E4rkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten. Gostei muito do passeio. \u2014 Der Ausflug hat mir sehr gefallen.",
+        "prompt": "Was bedeutet „passeio“ in diesem Beispiel? „Gostei muito do passeio.“",
+        "explanation": "passeio — Ausflug. O passeio, Plural passeios, heißt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de + o. Muito verstärkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten. Gostei muito do passeio. — Der Ausflug hat mir sehr gefallen.",
         "options": [
           {
             "id": "d0",
@@ -323,7 +330,7 @@
           },
           {
             "id": "d7",
-            "text": "sp\u00E4t"
+            "text": "spät"
           },
           {
             "id": "d8",
@@ -343,12 +350,12 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ECheguei tarde em casa.\u201C",
-        "explanation": "tarde \u2014 sp\u00E4t. Tarde bedeutet hier sp\u00E4t. A tarde ist dagegen das Nomen Nachmittag; \u00E0 tarde hei\u00DFt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause. Cheguei tarde em casa. \u2014 Ich bin sp\u00E4t nach Hause gekommen.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Cheguei tarde em casa.“",
+        "explanation": "tarde — spät. Tarde bedeutet hier spät. A tarde ist dagegen das Nomen Nachmittag; à tarde heißt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause. Cheguei tarde em casa. — Ich bin spät nach Hause gekommen.",
         "options": [
           {
             "id": "answer",
-            "text": "sp\u00E4t"
+            "text": "spät"
           },
           {
             "id": "d0",
@@ -376,8 +383,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Etarde\u201C in diesem Beispiel? \u201ECheguei tarde em casa.\u201C",
-        "explanation": "tarde \u2014 sp\u00E4t. Tarde bedeutet hier sp\u00E4t. A tarde ist dagegen das Nomen Nachmittag; \u00E0 tarde hei\u00DFt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause. Cheguei tarde em casa. \u2014 Ich bin sp\u00E4t nach Hause gekommen.",
+        "prompt": "Was bedeutet „tarde“ in diesem Beispiel? „Cheguei tarde em casa.“",
+        "explanation": "tarde — spät. Tarde bedeutet hier spät. A tarde ist dagegen das Nomen Nachmittag; à tarde heißt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause. Cheguei tarde em casa. — Ich bin spät nach Hause gekommen.",
         "options": [
           {
             "id": "d5",
@@ -389,7 +396,7 @@
           },
           {
             "id": "answer",
-            "text": "sp\u00E4t"
+            "text": "spät"
           },
           {
             "id": "d3",
@@ -409,8 +416,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EN\u00E3o entendi a pergunta.\u201C",
-        "explanation": "pergunta \u2014 Frage. A pergunta, Plural perguntas, hei\u00DFt Frage. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verst\u00E4ndnis einer bereits gestellten Frage. N\u00E3o entendi a pergunta. \u2014 Ich habe die Frage nicht verstanden.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Não entendi a pergunta.“",
+        "explanation": "pergunta — Frage. A pergunta, Plural perguntas, heißt Frage. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verständnis einer bereits gestellten Frage. Não entendi a pergunta. — Ich habe die Frage nicht verstanden.",
         "options": [
           {
             "id": "d11",
@@ -426,7 +433,7 @@
           },
           {
             "id": "d7",
-            "text": "sp\u00E4t"
+            "text": "spät"
           }
         ],
         "answer": [
@@ -442,8 +449,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epergunta\u201C in diesem Beispiel? \u201EN\u00E3o entendi a pergunta.\u201C",
-        "explanation": "pergunta \u2014 Frage. A pergunta, Plural perguntas, hei\u00DFt Frage. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verst\u00E4ndnis einer bereits gestellten Frage. N\u00E3o entendi a pergunta. \u2014 Ich habe die Frage nicht verstanden.",
+        "prompt": "Was bedeutet „pergunta“ in diesem Beispiel? „Não entendi a pergunta.“",
+        "explanation": "pergunta — Frage. A pergunta, Plural perguntas, heißt Frage. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verständnis einer bereits gestellten Frage. Não entendi a pergunta. — Ich habe die Frage nicht verstanden.",
         "options": [
           {
             "id": "d2",
@@ -475,8 +482,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EFoi um dia bom.\u201C",
-        "explanation": "bom \u2014 gut (m\u00E4nnlich). Bom ist die m\u00E4nnliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a m\u00E4nnlich; deshalb hei\u00DFt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erz\u00E4hlenden Person. Foi um dia bom. \u2014 Es war ein guter Tag.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Foi um dia bom.“",
+        "explanation": "bom — gut (männlich). Bom ist die männliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a männlich; deshalb heißt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erzählenden Person. Foi um dia bom. — Es war ein guter Tag.",
         "options": [
           {
             "id": "d6",
@@ -484,7 +491,7 @@
           },
           {
             "id": "answer",
-            "text": "gut (m\u00E4nnlich)"
+            "text": "gut (männlich)"
           },
           {
             "id": "d1",
@@ -508,8 +515,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ebom\u201C in diesem Beispiel? \u201EFoi um dia bom.\u201C",
-        "explanation": "bom \u2014 gut (m\u00E4nnlich). Bom ist die m\u00E4nnliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a m\u00E4nnlich; deshalb hei\u00DFt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erz\u00E4hlenden Person. Foi um dia bom. \u2014 Es war ein guter Tag.",
+        "prompt": "Was bedeutet „bom“ in diesem Beispiel? „Foi um dia bom.“",
+        "explanation": "bom — gut (männlich). Bom ist die männliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a männlich; deshalb heißt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erzählenden Person. Foi um dia bom. — Es war ein guter Tag.",
         "options": [
           {
             "id": "d5",
@@ -525,7 +532,7 @@
           },
           {
             "id": "answer",
-            "text": "gut (m\u00E4nnlich)"
+            "text": "gut (männlich)"
           }
         ],
         "answer": [
@@ -541,8 +548,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFreundin\u201C? Zusammenhang: bei einem R\u00FCckblick auf ein gemeinsames Kaffeetrinken.",
-        "explanation": "amiga \u2014 Freundin. A amiga, Plural amigas, hei\u00DFt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar caf\u00E9 bedeutet Kaffee trinken. Com uma amiga hei\u00DFt mit einer Freundin und legt keine Partnerschaft fest. Tomei caf\u00E9 com uma amiga. \u2014 Ich habe mit einer Freundin Kaffee getrunken.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Freundin“? Zusammenhang: bei einem Rückblick auf ein gemeinsames Kaffeetrinken.",
+        "explanation": "amiga — Freundin. A amiga, Plural amigas, heißt Freundin. Tomei ist hier die Ich-Form von tomar in der Vergangenheit; tomar café bedeutet Kaffee trinken. Com uma amiga heißt mit einer Freundin und legt keine Partnerschaft fest. Tomei café com uma amiga. — Ich habe mit einer Freundin Kaffee getrunken.",
         "options": [
           {
             "id": "answer",
@@ -554,7 +561,7 @@
           },
           {
             "id": "d10",
-            "text": "voc\u00EA"
+            "text": "você"
           },
           {
             "id": "d0",
@@ -579,19 +586,19 @@
         "options": [
           {
             "id": "wrong-1",
-            "text": "Tomei ch\u00E1 com uma amiga."
+            "text": "Tomei chá com uma amiga."
           },
           {
             "id": "answer",
-            "text": "Tomei caf\u00E9 com uma amiga."
+            "text": "Tomei café com uma amiga."
           },
           {
             "id": "wrong-2",
-            "text": "Tomei caf\u00E9 com meu irm\u00E3o."
+            "text": "Tomei café com meu irmão."
           },
           {
             "id": "wrong-0",
-            "text": "Vou tomar caf\u00E9 com uma amiga."
+            "text": "Vou tomar café com uma amiga."
           }
         ],
         "answer": [
@@ -607,8 +614,8 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ekaufen\u201C? Zusammenhang: bei einem R\u00FCckblick auf bereits Geschehenes.",
-        "explanation": "comprar \u2014 kaufen. Comprar hei\u00DFt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. P\u00E3o e queijo bedeutet Brot und K\u00E4se. Dasselbe Verb wird in Paket 45 mit vamos comprar f\u00FCr einen gemeinsamen Plan verwendet. Comprei p\u00E3o e queijo. \u2014 Ich habe Brot und K\u00E4se gekauft.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „kaufen“? Zusammenhang: bei einem Rückblick auf bereits Geschehenes.",
+        "explanation": "comprar — kaufen. Comprar heißt kaufen; comprei ist die Ich-Form in der abgeschlossenen Vergangenheit. Pão e queijo bedeutet Brot und Käse. Dasselbe Verb wird in Paket 45 mit vamos comprar für einen gemeinsamen Plan verwendet. Comprei pão e queijo. — Ich habe Brot und Käse gekauft.",
         "options": [
           {
             "id": "d4",
@@ -640,24 +647,24 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage sagt, dass du Brot und K\u00E4se bereits gekauft hast?",
-        "explanation": "Comprei ist die Ich-Form der abgeschlossenen Vergangenheit. P\u00E3o e queijo nennt Brot und K\u00E4se.",
+        "prompt": "Welche Aussage sagt, dass du Brot und Käse bereits gekauft hast?",
+        "explanation": "Comprei ist die Ich-Form der abgeschlossenen Vergangenheit. Pão e queijo nennt Brot und Käse.",
         "options": [
           {
             "id": "wrong-0",
-            "text": "Vou comprar p\u00E3o e queijo."
+            "text": "Vou comprar pão e queijo."
           },
           {
             "id": "wrong-2",
-            "text": "Comprei arroz e feij\u00E3o."
+            "text": "Comprei arroz e feijão."
           },
           {
             "id": "wrong-1",
-            "text": "Comprei p\u00E3o e leite."
+            "text": "Comprei pão e leite."
           },
           {
             "id": "answer",
-            "text": "Comprei p\u00E3o e queijo."
+            "text": "Comprei pão e queijo."
           }
         ],
         "answer": [
@@ -673,8 +680,8 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EAusflug\u201C? Zusammenhang: bei einer positiven R\u00FCckmeldung zu einer gemeinsamen Unternehmung.",
-        "explanation": "passeio \u2014 Ausflug. O passeio, Plural passeios, hei\u00DFt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de \u002B o. Muito verst\u00E4rkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten. Gostei muito do passeio. \u2014 Der Ausflug hat mir sehr gefallen.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Ausflug“? Zusammenhang: bei einer positiven Rückmeldung zu einer gemeinsamen Unternehmung.",
+        "explanation": "passeio — Ausflug. O passeio, Plural passeios, heißt hier Ausflug. Gostei ist die vergangene Ich-Form von gostar; do verbindet de + o. Muito verstärkt zu sehr. Passeio kann je nach Kontext auch Spaziergang bedeuten. Gostei muito do passeio. — Der Ausflug hat mir sehr gefallen.",
         "options": [
           {
             "id": "d7",
@@ -707,11 +714,11 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Welche Aussage sagt, dass dir der Ausflug sehr gefallen hat?",
-        "explanation": "Gostei muito do passeio ist eine positive R\u00FCckmeldung \u00FCber den Ausflug. Passeio kann je nach Kontext auch Spaziergang bedeuten.",
+        "explanation": "Gostei muito do passeio ist eine positive Rückmeldung über den Ausflug. Passeio kann je nach Kontext auch Spaziergang bedeuten.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Gostei muito do caf\u00E9."
+            "text": "Gostei muito do café."
           },
           {
             "id": "wrong-2",
@@ -719,7 +726,7 @@
           },
           {
             "id": "wrong-0",
-            "text": "N\u00E3o gostei do passeio."
+            "text": "Não gostei do passeio."
           },
           {
             "id": "answer",
@@ -739,8 +746,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Esp\u00E4t\u201C? Zusammenhang: bei einer Ankunft im R\u00FCckblick.",
-        "explanation": "tarde \u2014 sp\u00E4t. Tarde bedeutet hier sp\u00E4t. A tarde ist dagegen das Nomen Nachmittag; \u00E0 tarde hei\u00DFt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause. Cheguei tarde em casa. \u2014 Ich bin sp\u00E4t nach Hause gekommen.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „spät“? Zusammenhang: bei einer Ankunft im Rückblick.",
+        "explanation": "tarde — spät. Tarde bedeutet hier spät. A tarde ist dagegen das Nomen Nachmittag; à tarde heißt am Nachmittag. Cheguei ist die vergangene Ich-Form von chegar, ankommen. Em casa bezieht sich hier auf die Ankunft zu Hause. Cheguei tarde em casa. — Ich bin spät nach Hause gekommen.",
         "options": [
           {
             "id": "d4",
@@ -772,8 +779,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage sagt, dass du sp\u00E4t nach Hause gekommen bist?",
-        "explanation": "Cheguei ist die vergangene Ich-Form von chegar. Tarde allein bedeutet hier sp\u00E4t, nicht am Nachmittag.",
+        "prompt": "Welche Aussage sagt, dass du spät nach Hause gekommen bist?",
+        "explanation": "Cheguei ist die vergangene Ich-Form von chegar. Tarde allein bedeutet hier spät, nicht am Nachmittag.",
         "options": [
           {
             "id": "wrong-1",
@@ -805,8 +812,8 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EFrage\u201C? Zusammenhang: bei einem R\u00FCckblick auf bereits Geschehenes.",
-        "explanation": "pergunta \u2014 Frage. A pergunta, Plural perguntas, hei\u00DFt Frage. N\u00E3o entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verst\u00E4ndnis einer bereits gestellten Frage. N\u00E3o entendi a pergunta. \u2014 Ich habe die Frage nicht verstanden.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Frage“? Zusammenhang: bei einem Rückblick auf bereits Geschehenes.",
+        "explanation": "pergunta — Frage. A pergunta, Plural perguntas, heißt Frage. Não entendi ist die verneinte Ich-Form von entender in der Vergangenheit. Anders als Tenho uma pergunta aus Paket 42 geht es hier um das Verständnis einer bereits gestellten Frage. Não entendi a pergunta. — Ich habe die Frage nicht verstanden.",
         "options": [
           {
             "id": "d9",
@@ -839,15 +846,15 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Welche Aussage sagt, dass du die bereits gestellte Frage nicht verstanden hast?",
-        "explanation": "N\u00E3o entendi a pergunta verneint das Verstehen einer Frage. Tenho uma pergunta k\u00FCndigt dagegen eine neue Frage an.",
+        "explanation": "Não entendi a pergunta verneint das Verstehen einer Frage. Tenho uma pergunta kündigt dagegen eine neue Frage an.",
         "options": [
           {
             "id": "answer",
-            "text": "N\u00E3o entendi a pergunta."
+            "text": "Não entendi a pergunta."
           },
           {
             "id": "wrong-2",
-            "text": "N\u00E3o encontro meu passaporte."
+            "text": "Não encontro meu passaporte."
           },
           {
             "id": "wrong-1",
@@ -871,8 +878,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Egut (m\u00E4nnlich)\u201C? Zusammenhang: als m\u00E4nnliche Form bezogen auf das Nomen dia.",
-        "explanation": "bom \u2014 gut (m\u00E4nnlich). Bom ist die m\u00E4nnliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a m\u00E4nnlich; deshalb hei\u00DFt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erz\u00E4hlenden Person. Foi um dia bom. \u2014 Es war ein guter Tag.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „gut (männlich)“? Zusammenhang: als männliche Form bezogen auf das Nomen dia.",
+        "explanation": "bom — gut (männlich). Bom ist die männliche Form von gut, boa die weibliche. O dia ist trotz der Endung -a männlich; deshalb heißt es um dia bom. Foi ist hier die vergangene Form von ser, war. Die Form richtet sich nicht nach der erzählenden Person. Foi um dia bom. — Es war ein guter Tag.",
         "options": [
           {
             "id": "d0",
@@ -905,7 +912,7 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Welche Aussage beschreibt einen vergangenen Tag als gut?",
-        "explanation": "O dia ist m\u00E4nnlich; deshalb steht bom. Foi bezeichnet hier die Vergangenheit. Die Form h\u00E4ngt nicht von der erz\u00E4hlenden Person ab.",
+        "explanation": "O dia ist männlich; deshalb steht bom. Foi bezeichnet hier die Vergangenheit. Die Form hängt nicht von der erzählenden Person ab.",
         "options": [
           {
             "id": "wrong-1",

@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "taci-wiedersehen",
-  "packageVersion": 7,
+  "packageVersion": 8,
   "title": "Taci · Entschuldigung und Wiedersehen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,14 @@
       "example": "Oi, Taci!",
       "exampleTranslation": "Hallo, Taci!",
       "explanation": "Ausdruck aus dem Beispielsatz: oi. Die vollständige Formulierung steht im Beispiel.",
-      "isVocabulary": true
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "OI",
+        "ipa": "[oj]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-02",
@@ -175,7 +182,14 @@
       "example": "Tudo bem?",
       "exampleTranslation": "Alles gut?",
       "explanation": "Ausdruck aus dem Beispielsatz: tudo bem. Die vollständige Formulierung steht im Beispiel.",
-      "isVocabulary": true
+      "isVocabulary": true,
+      "examplePronunciation": {
+        "germanHint": "TU-du BẼI?",
+        "ipa": "[ˈtudu bẽj̃]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-18",
@@ -185,7 +199,21 @@
       "example": "Tudo bem, obrigado.",
       "exampleTranslation": "Alles gut, danke. (männlicher Sprecher)",
       "explanation": "Ausdruck aus dem Beispielsatz: obrigado. Obrigado wird von einem männlichen Sprecher verwendet.",
-      "isVocabulary": true
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "o-bri-GA-du",
+        "ipa": "[obɾiˈɡadu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "TU-du BẼI, o-bri-GA-du.",
+        "ipa": "[ˈtudu bẽj̃ obɾiˈɡadu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-19",
@@ -195,7 +223,21 @@
       "example": "Pode repetir, por favor?",
       "exampleTranslation": "Kannst du das bitte wiederholen?",
       "explanation": "Ausdruck aus dem Beispielsatz: por favor. Die vollständige Formulierung steht im Beispiel.",
-      "isVocabulary": true
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "pur fa-WOR",
+        "ipa": "[puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "PO-dschi he-pe-TSCHIR, pur fa-WOR?",
+        "ipa": "[ˈpɔdʒi hepeˈtʃiɾ puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-20",

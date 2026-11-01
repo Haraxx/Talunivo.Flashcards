@@ -2,19 +2,19 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-11-familie",
-  "packageVersion": 6,
-  "title": "11 \u00B7 Familie und Menschen",
+  "packageVersion": 7,
+  "title": "11 · Familie und Menschen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
       "topic": "Familie und Menschen",
-      "expression": "m\u00E3e",
+      "expression": "mãe",
       "translation": "Mutter",
-      "example": "Esta \u00E9 a minha m\u00E3e.",
+      "example": "Esta é a minha mãe.",
       "exampleTranslation": "Das ist meine Mutter.",
-      "explanation": "A m\u00E3e, Plural m\u00E3es. Minha m\u00E3e hei\u00DFt meine Mutter; esta \u00E9 \u2026 bedeutet das ist \u2026 f\u00FCr den hier weiblichen Bezug. Der Satz ist ein \u00DCbungsmuster und setzt keine Angabe \u00FCber deine Familie voraus.",
+      "explanation": "A mãe, Plural mães. Minha mãe heißt meine Mutter; esta é … bedeutet das ist … für den hier weiblichen Bezug. Der Satz ist ein Übungsmuster und setzt keine Angabe über deine Familie voraus.",
       "isVocabulary": true
     },
     {
@@ -22,30 +22,37 @@
       "topic": "Familie und Menschen",
       "expression": "pai",
       "translation": "Vater",
-      "example": "Este \u00E9 o meu pai.",
+      "example": "Este é o meu pai.",
       "exampleTranslation": "Das ist mein Vater.",
-      "explanation": "O pai, Plural pais. Meu pai hei\u00DFt mein Vater. Este ist hier die m\u00E4nnliche Form. Die Mehrzahl pais kann je nach Kontext V\u00E4ter oder Eltern bedeuten.",
+      "explanation": "O pai, Plural pais. Meu pai heißt mein Vater. Este ist hier die männliche Form. Die Mehrzahl pais kann je nach Kontext Väter oder Eltern bedeuten.",
       "isVocabulary": true
     },
     {
       "id": "karte-03",
       "topic": "Familie und Menschen",
-      "expression": "irm\u00E3",
+      "expression": "irmã",
       "translation": "Schwester",
-      "example": "Tenho uma irm\u00E3.",
+      "example": "Tenho uma irmã.",
       "exampleTranslation": "Ich habe eine Schwester.",
-      "explanation": "A irm\u00E3, Plural irm\u00E3s. Tenho uma irm\u00E3 bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irm\u00E3; die Tilde geh\u00F6rt zur Schreibweise.",
+      "explanation": "A irmã, Plural irmãs. Tenho uma irmã bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irmã; die Tilde gehört zur Schreibweise.",
       "isVocabulary": true
     },
     {
       "id": "karte-04",
       "topic": "Familie und Menschen",
-      "expression": "irm\u00E3o",
+      "expression": "irmão",
       "translation": "Bruder",
-      "example": "Meu irm\u00E3o se chama Jo\u00E3o.",
-      "exampleTranslation": "Mein Bruder hei\u00DFt Jo\u00E3o.",
-      "explanation": "O irm\u00E3o, Plural irm\u00E3os. Se chama bedeutet hier hei\u00DFt und greift das Vorstellungsmodell auf. Irm\u00E3os kann Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet.",
-      "isVocabulary": true
+      "example": "Meu irmão se chama João.",
+      "exampleTranslation": "Mein Bruder heißt João.",
+      "explanation": "O irmão, Plural irmãos. Se chama bedeutet hier heißt und greift das Vorstellungsmodell auf. Irmãos kann Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "ir-MÃU",
+        "ipa": "[iɾˈmɐ̃w̃]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-05",
@@ -54,27 +61,27 @@
       "translation": "Eltern",
       "example": "Meus pais moram aqui.",
       "exampleTranslation": "Meine Eltern wohnen hier.",
-      "explanation": "Os pais bedeutet hier die Eltern. Meus pais hei\u00DFt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch V\u00E4ter bedeuten.",
+      "explanation": "Os pais bedeutet hier die Eltern. Meus pais heißt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch Väter bedeuten.",
       "isVocabulary": true
     },
     {
       "id": "karte-06",
       "topic": "Familie und Menschen",
-      "expression": "av\u00F3",
-      "translation": "Gro\u00DFmutter",
-      "example": "Minha av\u00F3 mora perto.",
-      "exampleTranslation": "Meine Gro\u00DFmutter wohnt in der N\u00E4he.",
-      "explanation": "A av\u00F3 mit Akut bedeutet Gro\u00DFmutter. Mora perto hei\u00DFt wohnt in der N\u00E4he. Vergleiche av\u00F3 mit av\u00F4 = Gro\u00DFvater; die verschiedenen Akzente unterscheiden hier die W\u00F6rter.",
+      "expression": "avó",
+      "translation": "Großmutter",
+      "example": "Minha avó mora perto.",
+      "exampleTranslation": "Meine Großmutter wohnt in der Nähe.",
+      "explanation": "A avó mit Akut bedeutet Großmutter. Mora perto heißt wohnt in der Nähe. Vergleiche avó mit avô = Großvater; die verschiedenen Akzente unterscheiden hier die Wörter.",
       "isVocabulary": true
     },
     {
       "id": "karte-07",
       "topic": "Familie und Menschen",
-      "expression": "av\u00F4",
-      "translation": "Gro\u00DFvater",
-      "example": "Meu av\u00F4 mora aqui.",
-      "exampleTranslation": "Mein Gro\u00DFvater wohnt hier.",
-      "explanation": "O av\u00F4 mit Zirkumflex bedeutet Gro\u00DFvater. Meu av\u00F4 hei\u00DFt mein Gro\u00DFvater; mora aqui bedeutet wohnt hier. Av\u00F3 mit Akut bezeichnet dagegen die Gro\u00DFmutter.",
+      "expression": "avô",
+      "translation": "Großvater",
+      "example": "Meu avô mora aqui.",
+      "exampleTranslation": "Mein Großvater wohnt hier.",
+      "explanation": "O avô mit Zirkumflex bedeutet Großvater. Meu avô heißt mein Großvater; mora aqui bedeutet wohnt hier. Avó mit Akut bezeichnet dagegen die Großmutter.",
       "isVocabulary": true
     },
     {
@@ -82,9 +89,9 @@
       "topic": "Familie und Menschen",
       "expression": "filhos",
       "translation": "Kinder",
-      "example": "Voc\u00EA tem filhos?",
+      "example": "Você tem filhos?",
       "exampleTranslation": "Hast du Kinder?",
-      "explanation": "Os filhos bezeichnet hier die Kinder einer Person, unabh\u00E4ngig vom Alter. Je nach Kontext kann filhos auch S\u00F6hne bedeuten; filhas sind T\u00F6chter. Gemeint ist hier das Verwandtschaftsverh\u00E4ltnis, nicht allgemein eine Gruppe junger Menschen.",
+      "explanation": "Os filhos bezeichnet hier die Kinder einer Person, unabhängig vom Alter. Je nach Kontext kann filhos auch Söhne bedeuten; filhas sind Töchter. Gemeint ist hier das Verwandtschaftsverhältnis, nicht allgemein eine Gruppe junger Menschen.",
       "isVocabulary": true
     }
   ],
@@ -93,7 +100,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Familienmitglieder benennen und einfache Aussagen \u00FCber Verwandtschaft verstehen.",
+        "description": "Familienmitglieder benennen und einfache Aussagen über Verwandtschaft verstehen.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -113,12 +120,12 @@
         "cardId": "karte-06",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Gro\u00DFmutter: \u201EMinha ____ mora perto.\u201C",
-        "explanation": "Av\u00F3 mit Akut hei\u00DFt Gro\u00DFmutter. Av\u00F4 mit Zirkumflex hei\u00DFt Gro\u00DFvater.",
+        "prompt": "Ergänze das gelernte Wort für Großmutter: „Minha ____ mora perto.“",
+        "explanation": "Avó mit Akut heißt Großmutter. Avô mit Zirkumflex heißt Großvater.",
         "options": [],
         "answer": [],
         "acceptedText": [
-          "av\u00F3"
+          "avó"
         ],
         "audioText": null,
         "difficulty": 1
@@ -129,12 +136,12 @@
         "cardId": "karte-07",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Gro\u00DFvater: \u201EMeu ____ mora aqui.\u201C",
-        "explanation": "Av\u00F4 mit Zirkumflex hei\u00DFt Gro\u00DFvater. Av\u00F3 mit Akut hei\u00DFt Gro\u00DFmutter.",
+        "prompt": "Ergänze das gelernte Wort für Großvater: „Meu ____ mora aqui.“",
+        "explanation": "Avô mit Zirkumflex heißt Großvater. Avó mit Akut heißt Großmutter.",
         "options": [],
         "answer": [],
         "acceptedText": [
-          "av\u00F4"
+          "avô"
         ],
         "audioText": null,
         "difficulty": 1
@@ -145,12 +152,12 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "m\u00E3e \u2014 Mutter. A m\u00E3e, Plural m\u00E3es. Minha m\u00E3e hei\u00DFt meine Mutter; esta \u00E9 \u2026 bedeutet das ist \u2026 f\u00FCr den hier weiblichen Bezug. Der Satz ist ein \u00DCbungsmuster und setzt keine Angabe \u00FCber deine Familie voraus. Esta \u00E9 a minha m\u00E3e. \u2014 Das ist meine Mutter.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "mãe — Mutter. A mãe, Plural mães. Minha mãe heißt meine Mutter; esta é … bedeutet das ist … für den hier weiblichen Bezug. Der Satz ist ein Übungsmuster und setzt keine Angabe über deine Familie voraus. Esta é a minha mãe. — Das ist meine Mutter.",
         "options": [
           {
             "id": "d3",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           },
           {
             "id": "answer",
@@ -169,7 +176,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "m\u00E3e",
+        "audioText": "mãe",
         "difficulty": 1
       },
       {
@@ -178,8 +185,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Em\u00E3e\u201C?",
-        "explanation": "m\u00E3e \u2014 Mutter. A m\u00E3e, Plural m\u00E3es. Minha m\u00E3e hei\u00DFt meine Mutter; esta \u00E9 \u2026 bedeutet das ist \u2026 f\u00FCr den hier weiblichen Bezug. Der Satz ist ein \u00DCbungsmuster und setzt keine Angabe \u00FCber deine Familie voraus. Esta \u00E9 a minha m\u00E3e. \u2014 Das ist meine Mutter.",
+        "prompt": "Was bedeutet „mãe“?",
+        "explanation": "mãe — Mutter. A mãe, Plural mães. Minha mãe heißt meine Mutter; esta é … bedeutet das ist … für den hier weiblichen Bezug. Der Satz ist ein Übungsmuster und setzt keine Angabe über deine Familie voraus. Esta é a minha mãe. — Das ist meine Mutter.",
         "options": [
           {
             "id": "d0",
@@ -195,7 +202,7 @@
           },
           {
             "id": "d4",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           }
         ],
         "answer": [
@@ -211,12 +218,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "pai \u2014 Vater. O pai, Plural pais. Meu pai hei\u00DFt mein Vater. Este ist hier die m\u00E4nnliche Form. Die Mehrzahl pais kann je nach Kontext V\u00E4ter oder Eltern bedeuten. Este \u00E9 o meu pai. \u2014 Das ist mein Vater.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "pai — Vater. O pai, Plural pais. Meu pai heißt mein Vater. Este ist hier die männliche Form. Die Mehrzahl pais kann je nach Kontext Väter oder Eltern bedeuten. Este é o meu pai. — Das ist mein Vater.",
         "options": [
           {
             "id": "d4",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           },
           {
             "id": "answer",
@@ -244,8 +251,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epai\u201C?",
-        "explanation": "pai \u2014 Vater. O pai, Plural pais. Meu pai hei\u00DFt mein Vater. Este ist hier die m\u00E4nnliche Form. Die Mehrzahl pais kann je nach Kontext V\u00E4ter oder Eltern bedeuten. Este \u00E9 o meu pai. \u2014 Das ist mein Vater.",
+        "prompt": "Was bedeutet „pai“?",
+        "explanation": "pai — Vater. O pai, Plural pais. Meu pai heißt mein Vater. Este ist hier die männliche Form. Die Mehrzahl pais kann je nach Kontext Väter oder Eltern bedeuten. Este é o meu pai. — Das ist mein Vater.",
         "options": [
           {
             "id": "answer",
@@ -253,11 +260,11 @@
           },
           {
             "id": "d3",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           },
           {
             "id": "d4",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           },
           {
             "id": "d0",
@@ -277,12 +284,12 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "irm\u00E3 \u2014 Schwester. A irm\u00E3, Plural irm\u00E3s. Tenho uma irm\u00E3 bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irm\u00E3; die Tilde geh\u00F6rt zur Schreibweise. Tenho uma irm\u00E3. \u2014 Ich habe eine Schwester.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "irmã — Schwester. A irmã, Plural irmãs. Tenho uma irmã bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irmã; die Tilde gehört zur Schreibweise. Tenho uma irmã. — Ich habe eine Schwester.",
         "options": [
           {
             "id": "d5",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           },
           {
             "id": "answer",
@@ -294,14 +301,14 @@
           },
           {
             "id": "d4",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           }
         ],
         "answer": [
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "irm\u00E3",
+        "audioText": "irmã",
         "difficulty": 1
       },
       {
@@ -310,8 +317,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eirm\u00E3\u201C?",
-        "explanation": "irm\u00E3 \u2014 Schwester. A irm\u00E3, Plural irm\u00E3s. Tenho uma irm\u00E3 bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irm\u00E3; die Tilde geh\u00F6rt zur Schreibweise. Tenho uma irm\u00E3. \u2014 Ich habe eine Schwester.",
+        "prompt": "Was bedeutet „irmã“?",
+        "explanation": "irmã — Schwester. A irmã, Plural irmãs. Tenho uma irmã bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irmã; die Tilde gehört zur Schreibweise. Tenho uma irmã. — Ich habe eine Schwester.",
         "options": [
           {
             "id": "d0",
@@ -343,12 +350,12 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "irm\u00E3o \u2014 Bruder. O irm\u00E3o, Plural irm\u00E3os. Se chama bedeutet hier hei\u00DFt und greift das Vorstellungsmodell auf. Irm\u00E3os kann Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet. Meu irm\u00E3o se chama Jo\u00E3o. \u2014 Mein Bruder hei\u00DFt Jo\u00E3o.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "irmão — Bruder. O irmão, Plural irmãos. Se chama bedeutet hier heißt und greift das Vorstellungsmodell auf. Irmãos kann Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet. Meu irmão se chama João. — Mein Bruder heißt João.",
         "options": [
           {
             "id": "d4",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           },
           {
             "id": "d0",
@@ -367,7 +374,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "irm\u00E3o",
+        "audioText": "irmão",
         "difficulty": 1
       },
       {
@@ -376,8 +383,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eirm\u00E3o\u201C?",
-        "explanation": "irm\u00E3o \u2014 Bruder. O irm\u00E3o, Plural irm\u00E3os. Se chama bedeutet hier hei\u00DFt und greift das Vorstellungsmodell auf. Irm\u00E3os kann Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet. Meu irm\u00E3o se chama Jo\u00E3o. \u2014 Mein Bruder hei\u00DFt Jo\u00E3o.",
+        "prompt": "Was bedeutet „irmão“?",
+        "explanation": "irmão — Bruder. O irmão, Plural irmãos. Se chama bedeutet hier heißt und greift das Vorstellungsmodell auf. Irmãos kann Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet. Meu irmão se chama João. — Mein Bruder heißt João.",
         "options": [
           {
             "id": "d8",
@@ -393,7 +400,7 @@
           },
           {
             "id": "d4",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           }
         ],
         "answer": [
@@ -409,12 +416,12 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EMeus pais moram aqui.\u201C",
-        "explanation": "pais \u2014 Eltern. Os pais bedeutet hier die Eltern. Meus pais hei\u00DFt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch V\u00E4ter bedeuten. Meus pais moram aqui. \u2014 Meine Eltern wohnen hier.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Meus pais moram aqui.“",
+        "explanation": "pais — Eltern. Os pais bedeutet hier die Eltern. Meus pais heißt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch Väter bedeuten. Meus pais moram aqui. — Meine Eltern wohnen hier.",
         "options": [
           {
             "id": "d4",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           },
           {
             "id": "d0",
@@ -442,12 +449,12 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epais\u201C in diesem Beispiel? \u201EMeus pais moram aqui.\u201C",
-        "explanation": "pais \u2014 Eltern. Os pais bedeutet hier die Eltern. Meus pais hei\u00DFt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch V\u00E4ter bedeuten. Meus pais moram aqui. \u2014 Meine Eltern wohnen hier.",
+        "prompt": "Was bedeutet „pais“ in diesem Beispiel? „Meus pais moram aqui.“",
+        "explanation": "pais — Eltern. Os pais bedeutet hier die Eltern. Meus pais heißt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch Väter bedeuten. Meus pais moram aqui. — Meine Eltern wohnen hier.",
         "options": [
           {
             "id": "d4",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           },
           {
             "id": "answer",
@@ -455,7 +462,7 @@
           },
           {
             "id": "d3",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           },
           {
             "id": "d0",
@@ -475,8 +482,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVoc\u00EA tem filhos?\u201C",
-        "explanation": "filhos \u2014 Kinder. Os filhos bezeichnet hier die Kinder einer Person, unabh\u00E4ngig vom Alter. Je nach Kontext kann filhos auch S\u00F6hne bedeuten; filhas sind T\u00F6chter. Gemeint ist hier das Verwandtschaftsverh\u00E4ltnis, nicht allgemein eine Gruppe junger Menschen. Voc\u00EA tem filhos? \u2014 Hast du Kinder?",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Você tem filhos?“",
+        "explanation": "filhos — Kinder. Os filhos bezeichnet hier die Kinder einer Person, unabhängig vom Alter. Je nach Kontext kann filhos auch Söhne bedeuten; filhas sind Töchter. Gemeint ist hier das Verwandtschaftsverhältnis, nicht allgemein eine Gruppe junger Menschen. Você tem filhos? — Hast du Kinder?",
         "options": [
           {
             "id": "d6",
@@ -508,8 +515,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Efilhos\u201C in diesem Beispiel? \u201EVoc\u00EA tem filhos?\u201C",
-        "explanation": "filhos \u2014 Kinder. Os filhos bezeichnet hier die Kinder einer Person, unabh\u00E4ngig vom Alter. Je nach Kontext kann filhos auch S\u00F6hne bedeuten; filhas sind T\u00F6chter. Gemeint ist hier das Verwandtschaftsverh\u00E4ltnis, nicht allgemein eine Gruppe junger Menschen. Voc\u00EA tem filhos? \u2014 Hast du Kinder?",
+        "prompt": "Was bedeutet „filhos“ in diesem Beispiel? „Você tem filhos?“",
+        "explanation": "filhos — Kinder. Os filhos bezeichnet hier die Kinder einer Person, unabhängig vom Alter. Je nach Kontext kann filhos auch Söhne bedeuten; filhas sind Töchter. Gemeint ist hier das Verwandtschaftsverhältnis, nicht allgemein eine Gruppe junger Menschen. Você tem filhos? — Hast du Kinder?",
         "options": [
           {
             "id": "d1",
@@ -517,11 +524,11 @@
           },
           {
             "id": "d4",
-            "text": "Gro\u00DFmutter"
+            "text": "Großmutter"
           },
           {
             "id": "d3",
-            "text": "Gro\u00DFvater"
+            "text": "Großvater"
           },
           {
             "id": "answer",
@@ -541,24 +548,24 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Ana stellt ihre Mutter vor. Welche Aussage bedeutet \u201EDas ist meine Mutter\u201C?",
-        "explanation": "Minha m\u00E3e bedeutet meine Mutter. Esta ist die weibliche Singularform.",
+        "prompt": "Ana stellt ihre Mutter vor. Welche Aussage bedeutet „Das ist meine Mutter“?",
+        "explanation": "Minha mãe bedeutet meine Mutter. Esta ist die weibliche Singularform.",
         "options": [
           {
             "id": "answer",
-            "text": "Esta \u00E9 a minha m\u00E3e."
+            "text": "Esta é a minha mãe."
           },
           {
             "id": "wrong-0",
-            "text": "Este \u00E9 o meu pai."
+            "text": "Este é o meu pai."
           },
           {
             "id": "wrong-2",
-            "text": "Esta \u00E9 a minha av\u00F3."
+            "text": "Esta é a minha avó."
           },
           {
             "id": "wrong-1",
-            "text": "Esta \u00E9 a minha irm\u00E3."
+            "text": "Esta é a minha irmã."
           }
         ],
         "answer": [
@@ -574,20 +581,20 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMutter\u201C?",
-        "explanation": "m\u00E3e \u2014 Mutter. A m\u00E3e, Plural m\u00E3es. Minha m\u00E3e hei\u00DFt meine Mutter; esta \u00E9 \u2026 bedeutet das ist \u2026 f\u00FCr den hier weiblichen Bezug. Der Satz ist ein \u00DCbungsmuster und setzt keine Angabe \u00FCber deine Familie voraus. Esta \u00E9 a minha m\u00E3e. \u2014 Das ist meine Mutter.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Mutter“?",
+        "explanation": "mãe — Mutter. A mãe, Plural mães. Minha mãe heißt meine Mutter; esta é … bedeutet das ist … für den hier weiblichen Bezug. Der Satz ist ein Übungsmuster und setzt keine Angabe über deine Familie voraus. Esta é a minha mãe. — Das ist meine Mutter.",
         "options": [
           {
             "id": "d6",
-            "text": "irm\u00E3o"
+            "text": "irmão"
           },
           {
             "id": "answer",
-            "text": "m\u00E3e"
+            "text": "mãe"
           },
           {
             "id": "d3",
-            "text": "av\u00F4"
+            "text": "avô"
           },
           {
             "id": "d2",
@@ -608,23 +615,23 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Pedro stellt seinen Vater vor. Welche Aussage passt?",
-        "explanation": "Meu pai bedeutet mein Vater. Meu und este passen zum m\u00E4nnlichen Wort pai.",
+        "explanation": "Meu pai bedeutet mein Vater. Meu und este passen zum männlichen Wort pai.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Este \u00E9 o meu irm\u00E3o."
+            "text": "Este é o meu irmão."
           },
           {
             "id": "answer",
-            "text": "Este \u00E9 o meu pai."
+            "text": "Este é o meu pai."
           },
           {
             "id": "wrong-2",
-            "text": "Este \u00E9 o meu av\u00F4."
+            "text": "Este é o meu avô."
           },
           {
             "id": "wrong-0",
-            "text": "Esta \u00E9 a minha m\u00E3e."
+            "text": "Esta é a minha mãe."
           }
         ],
         "answer": [
@@ -640,20 +647,20 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EVater\u201C?",
-        "explanation": "pai \u2014 Vater. O pai, Plural pais. Meu pai hei\u00DFt mein Vater. Este ist hier die m\u00E4nnliche Form. Die Mehrzahl pais kann je nach Kontext V\u00E4ter oder Eltern bedeuten. Este \u00E9 o meu pai. \u2014 Das ist mein Vater.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Vater“?",
+        "explanation": "pai — Vater. O pai, Plural pais. Meu pai heißt mein Vater. Este ist hier die männliche Form. Die Mehrzahl pais kann je nach Kontext Väter oder Eltern bedeuten. Este é o meu pai. — Das ist mein Vater.",
         "options": [
           {
             "id": "d5",
-            "text": "irm\u00E3"
+            "text": "irmã"
           },
           {
             "id": "d4",
-            "text": "av\u00F3"
+            "text": "avó"
           },
           {
             "id": "d2",
-            "text": "m\u00E3e"
+            "text": "mãe"
           },
           {
             "id": "answer",
@@ -674,7 +681,7 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Welche Aussage sagt, dass du eine Schwester hast?",
-        "explanation": "Uma irm\u00E3 bezeichnet eine Schwester; um irm\u00E3o einen Bruder. Die Situation darf zum \u00DCben erfunden sein.",
+        "explanation": "Uma irmã bezeichnet eine Schwester; um irmão einen Bruder. Die Situation darf zum Üben erfunden sein.",
         "options": [
           {
             "id": "wrong-2",
@@ -682,7 +689,7 @@
           },
           {
             "id": "wrong-0",
-            "text": "Tenho um irm\u00E3o."
+            "text": "Tenho um irmão."
           },
           {
             "id": "wrong-1",
@@ -690,7 +697,7 @@
           },
           {
             "id": "answer",
-            "text": "Tenho uma irm\u00E3."
+            "text": "Tenho uma irmã."
           }
         ],
         "answer": [
@@ -706,8 +713,8 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESchwester\u201C?",
-        "explanation": "irm\u00E3 \u2014 Schwester. A irm\u00E3, Plural irm\u00E3s. Tenho uma irm\u00E3 bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irm\u00E3; die Tilde geh\u00F6rt zur Schreibweise. Tenho uma irm\u00E3. \u2014 Ich habe eine Schwester.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Schwester“?",
+        "explanation": "irmã — Schwester. A irmã, Plural irmãs. Tenho uma irmã bedeutet ich habe eine Schwester. Uma richtet sich nach dem weiblichen Nomen irmã; die Tilde gehört zur Schreibweise. Tenho uma irmã. — Ich habe eine Schwester.",
         "options": [
           {
             "id": "d0",
@@ -715,11 +722,11 @@
           },
           {
             "id": "answer",
-            "text": "irm\u00E3"
+            "text": "irmã"
           },
           {
             "id": "d5",
-            "text": "av\u00F3"
+            "text": "avó"
           },
           {
             "id": "d2",
@@ -739,24 +746,24 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201EQuem \u00E9 Jo\u00E3o?\u201C \u2013 Welche Antwort nennt Jo\u00E3o ausdr\u00FCcklich deinen Bruder?",
-        "explanation": "Irm\u00E3o bedeutet Bruder. Jo\u00E3o \u00E9 o meu irm\u00E3o hei\u00DFt Jo\u00E3o ist mein Bruder.",
+        "prompt": "„Quem é João?“ – Welche Antwort nennt João ausdrücklich deinen Bruder?",
+        "explanation": "Irmão bedeutet Bruder. João é o meu irmão heißt João ist mein Bruder.",
         "options": [
           {
             "id": "wrong-0",
-            "text": "Jo\u00E3o \u00E9 o meu pai."
+            "text": "João é o meu pai."
           },
           {
             "id": "answer",
-            "text": "Jo\u00E3o \u00E9 o meu irm\u00E3o."
+            "text": "João é o meu irmão."
           },
           {
             "id": "wrong-1",
-            "text": "Jo\u00E3o \u00E9 o meu av\u00F4."
+            "text": "João é o meu avô."
           },
           {
             "id": "wrong-2",
-            "text": "Jo\u00E3o \u00E9 o meu amigo."
+            "text": "João é o meu amigo."
           }
         ],
         "answer": [
@@ -772,12 +779,12 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EBruder\u201C?",
-        "explanation": "irm\u00E3o \u2014 Bruder. O irm\u00E3o, Plural irm\u00E3os. Se chama bedeutet hier hei\u00DFt und greift das Vorstellungsmodell auf. Irm\u00E3os kann Br\u00FCder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet. Meu irm\u00E3o se chama Jo\u00E3o. \u2014 Mein Bruder hei\u00DFt Jo\u00E3o.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Bruder“?",
+        "explanation": "irmão — Bruder. O irmão, Plural irmãos. Se chama bedeutet hier heißt und greift das Vorstellungsmodell auf. Irmãos kann Brüder oder eine gemischte Gruppe von Geschwistern bezeichnen; der Zusammenhang entscheidet. Meu irmão se chama João. — Mein Bruder heißt João.",
         "options": [
           {
             "id": "d4",
-            "text": "av\u00F4"
+            "text": "avô"
           },
           {
             "id": "d0",
@@ -785,11 +792,11 @@
           },
           {
             "id": "answer",
-            "text": "irm\u00E3o"
+            "text": "irmão"
           },
           {
             "id": "d6",
-            "text": "irm\u00E3"
+            "text": "irmã"
           }
         ],
         "answer": [
@@ -805,12 +812,12 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage bedeutet hier \u201EMeine Eltern wohnen hier\u201C?",
-        "explanation": "Meus pais bedeutet hier meine Eltern. Pais kann in einem anderen Zusammenhang auch V\u00E4ter hei\u00DFen.",
+        "prompt": "Welche Aussage bedeutet hier „Meine Eltern wohnen hier“?",
+        "explanation": "Meus pais bedeutet hier meine Eltern. Pais kann in einem anderen Zusammenhang auch Väter heißen.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Minha m\u00E3e mora em Berlim."
+            "text": "Minha mãe mora em Berlim."
           },
           {
             "id": "answer",
@@ -822,7 +829,7 @@
           },
           {
             "id": "wrong-0",
-            "text": "Meus irm\u00E3os moram aqui."
+            "text": "Meus irmãos moram aqui."
           }
         ],
         "answer": [
@@ -838,12 +845,12 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEltern\u201C? Gemeint ist: Eltern im Familienbeispiel.",
-        "explanation": "pais \u2014 Eltern. Os pais bedeutet hier die Eltern. Meus pais hei\u00DFt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch V\u00E4ter bedeuten. Meus pais moram aqui. \u2014 Meine Eltern wohnen hier.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Eltern“? Gemeint ist: Eltern im Familienbeispiel.",
+        "explanation": "pais — Eltern. Os pais bedeutet hier die Eltern. Meus pais heißt meine Eltern; moram aqui bedeutet wohnen hier und steht in der Mehrzahl. Pais kann in einem anderen Zusammenhang auch Väter bedeuten. Meus pais moram aqui. — Meine Eltern wohnen hier.",
         "options": [
           {
             "id": "d5",
-            "text": "irm\u00E3"
+            "text": "irmã"
           },
           {
             "id": "answer",
@@ -851,7 +858,7 @@
           },
           {
             "id": "d2",
-            "text": "m\u00E3e"
+            "text": "mãe"
           },
           {
             "id": "d0",
@@ -871,24 +878,24 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du fragst, ob eine Person eigene Kinder hat, unabh\u00E4ngig von deren Alter. Welche Frage passt?",
-        "explanation": "Filhos bezeichnet hier die Kinder einer Person als Verwandtschaftsverh\u00E4ltnis, nicht allgemein eine Gruppe junger Menschen.",
+        "prompt": "Du fragst, ob eine Person eigene Kinder hat, unabhängig von deren Alter. Welche Frage passt?",
+        "explanation": "Filhos bezeichnet hier die Kinder einer Person als Verwandtschaftsverhältnis, nicht allgemein eine Gruppe junger Menschen.",
         "options": [
           {
             "id": "wrong-0",
-            "text": "Voc\u00EA tem irm\u00E3os?"
+            "text": "Você tem irmãos?"
           },
           {
             "id": "wrong-2",
-            "text": "Onde voc\u00EA mora?"
+            "text": "Onde você mora?"
           },
           {
             "id": "wrong-1",
-            "text": "Voc\u00EA tem uma caneta?"
+            "text": "Você tem uma caneta?"
           },
           {
             "id": "answer",
-            "text": "Voc\u00EA tem filhos?"
+            "text": "Você tem filhos?"
           }
         ],
         "answer": [
@@ -904,8 +911,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EKinder\u201C? Gemeint ist: die eigenen Kinder einer Person als Verwandtschaftsverh\u00E4ltnis, unabh\u00E4ngig vom Alter.",
-        "explanation": "filhos \u2014 Kinder. Os filhos bezeichnet hier die Kinder einer Person, unabh\u00E4ngig vom Alter. Je nach Kontext kann filhos auch S\u00F6hne bedeuten; filhas sind T\u00F6chter. Gemeint ist hier das Verwandtschaftsverh\u00E4ltnis, nicht allgemein eine Gruppe junger Menschen. Voc\u00EA tem filhos? \u2014 Hast du Kinder?",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Kinder“? Gemeint ist: die eigenen Kinder einer Person als Verwandtschaftsverhältnis, unabhängig vom Alter.",
+        "explanation": "filhos — Kinder. Os filhos bezeichnet hier die Kinder einer Person, unabhängig vom Alter. Je nach Kontext kann filhos auch Söhne bedeuten; filhas sind Töchter. Gemeint ist hier das Verwandtschaftsverhältnis, nicht allgemein eine Gruppe junger Menschen. Você tem filhos? — Hast du Kinder?",
         "options": [
           {
             "id": "answer",
@@ -913,11 +920,11 @@
           },
           {
             "id": "d5",
-            "text": "irm\u00E3"
+            "text": "irmã"
           },
           {
             "id": "d2",
-            "text": "m\u00E3e"
+            "text": "mãe"
           },
           {
             "id": "d1",

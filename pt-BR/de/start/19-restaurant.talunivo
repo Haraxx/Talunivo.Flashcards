@@ -2,8 +2,8 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-19-restaurant",
-  "packageVersion": 6,
-  "title": "19 \u00B7 Im Restaurant",
+  "packageVersion": 7,
+  "title": "19 · Im Restaurant",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -13,18 +13,25 @@
       "expression": "mesa",
       "translation": "Tisch",
       "example": "Tem uma mesa para duas pessoas?",
-      "exampleTranslation": "Ist ein Tisch f\u00FCr zwei Personen frei?",
-      "explanation": "A mesa, Plural mesas. Para duas pessoas bedeutet f\u00FCr zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verk\u00FCrzte Tischfrage para dois ist ebenfalls gebr\u00E4uchlich.",
-      "isVocabulary": true
+      "exampleTranslation": "Ist ein Tisch für zwei Personen frei?",
+      "explanation": "A mesa, Plural mesas. Para duas pessoas bedeutet für zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verkürzte Tischfrage para dois ist ebenfalls gebräuchlich.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "ME-sa",
+        "ipa": "[ˈmezɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-02",
       "topic": "Im Restaurant",
       "expression": "prato do dia",
       "translation": "Tagesgericht",
-      "example": "Qual \u00E9 o prato do dia?",
+      "example": "Qual é o prato do dia?",
       "exampleTranslation": "Was ist das Tagesgericht?",
-      "explanation": "O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de \u002B o; do dia hei\u00DFt hier des Tages.",
+      "explanation": "O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de + o; do dia heißt hier des Tages.",
       "isVocabulary": true
     },
     {
@@ -33,18 +40,18 @@
       "expression": "arroz",
       "translation": "Reis",
       "example": "Quero arroz, por favor.",
-      "exampleTranslation": "Ich m\u00F6chte Reis, bitte.",
-      "explanation": "O arroz bezeichnet hier Reis als Lebensmittel und steht im Singular. Quero arroz, por favor ist eine einfache Bestellung. Der Satz legt noch keine genaue Portionsgr\u00F6\u00DFe fest.",
+      "exampleTranslation": "Ich möchte Reis, bitte.",
+      "explanation": "O arroz bezeichnet hier Reis als Lebensmittel und steht im Singular. Quero arroz, por favor ist eine einfache Bestellung. Der Satz legt noch keine genaue Portionsgröße fest.",
       "isVocabulary": true
     },
     {
       "id": "karte-03-2",
       "topic": "Im Restaurant",
-      "expression": "feij\u00E3o",
+      "expression": "feijão",
       "translation": "Bohnen",
-      "example": "O feij\u00E3o est\u00E1 gostoso.",
+      "example": "O feijão está gostoso.",
       "exampleTranslation": "Die Bohnen sind lecker.",
-      "explanation": "O feij\u00E3o bezeichnet hier Bohnen als Lebensmittel oder Gericht. Im Portugiesischen steht der Ausdruck im Singular, die deutsche \u00DCbersetzung im Plural. Einzelne Bohnenk\u00F6rner kann man als gr\u00E3os de feij\u00E3o benennen; feij\u00F5es kann auch verschiedene Bohnensorten bezeichnen.",
+      "explanation": "O feijão bezeichnet hier Bohnen als Lebensmittel oder Gericht. Im Portugiesischen steht der Ausdruck im Singular, die deutsche Übersetzung im Plural. Einzelne Bohnenkörner kann man als grãos de feijão benennen; feijões kann auch verschiedene Bohnensorten bezeichnen.",
       "isVocabulary": true
     },
     {
@@ -63,8 +70,8 @@
       "expression": "salada",
       "translation": "Salat",
       "example": "Quero uma salada pequena, por favor.",
-      "exampleTranslation": "Ich m\u00F6chte einen kleinen Salat, bitte.",
-      "explanation": "A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen m\u00E4nnlich ist. Por favor erg\u00E4nzt die h\u00F6fliche Bitte.",
+      "exampleTranslation": "Ich möchte einen kleinen Salat, bitte.",
+      "explanation": "A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen männlich ist. Por favor ergänzt die höfliche Bitte.",
       "isVocabulary": true
     },
     {
@@ -72,9 +79,9 @@
       "topic": "Im Restaurant",
       "expression": "carne",
       "translation": "Fleisch",
-      "example": "N\u00E3o como carne.",
+      "example": "Não como carne.",
       "exampleTranslation": "Ich esse kein Fleisch.",
-      "explanation": "A carne ist Fleisch. Como hei\u00DFt hier ich esse; n\u00E3o verneint die Aussage. Der Satz nennt eine m\u00F6gliche Essenswahl, ohne einen Grund oder eine bestimmte Ern\u00E4hrung des Nutzers vorauszusetzen.",
+      "explanation": "A carne ist Fleisch. Como heißt hier ich esse; não verneint die Aussage. Der Satz nennt eine mögliche Essenswahl, ohne einen Grund oder eine bestimmte Ernährung des Nutzers vorauszusetzen.",
       "isVocabulary": true
     },
     {
@@ -83,8 +90,8 @@
       "expression": "amendoim",
       "translation": "Erdnuss",
       "example": "Este prato tem amendoim?",
-      "exampleTranslation": "Enth\u00E4lt dieses Gericht Erdn\u00FCsse?",
-      "explanation": "O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato hei\u00DFt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet nat\u00FCrlich Erdn\u00FCsse.",
+      "exampleTranslation": "Enthält dieses Gericht Erdnüsse?",
+      "explanation": "O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato heißt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet natürlich Erdnüsse.",
       "isVocabulary": true
     },
     {
@@ -94,7 +101,7 @@
       "translation": "Chili; Pfeffer",
       "example": "Sem pimenta, por favor.",
       "exampleTranslation": "Ohne Chili, bitte.",
-      "explanation": "A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer hei\u00DFt ausdr\u00FCcklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere \u00DCbersetzungen m\u00F6glich.",
+      "explanation": "A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer heißt ausdrücklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere Übersetzungen möglich.",
       "isVocabulary": true
     },
     {
@@ -103,8 +110,8 @@
       "expression": "dividir",
       "translation": "teilen",
       "example": "Podemos dividir a conta?",
-      "exampleTranslation": "K\u00F6nnen wir die Rechnung teilen?",
-      "explanation": "Dividir hei\u00DFt teilen. Podemos bedeutet k\u00F6nnen wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt.",
+      "exampleTranslation": "Können wir die Rechnung teilen?",
+      "explanation": "Dividir heißt teilen. Podemos bedeutet können wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt.",
       "isVocabulary": true
     }
   ],
@@ -113,7 +120,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Im Restaurant nach Gerichten und Zutaten fragen und einfache Bestellungen oder W\u00FCnsche \u00E4u\u00DFern.",
+        "description": "Im Restaurant nach Gerichten und Zutaten fragen und einfache Bestellungen oder Wünsche äußern.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -135,12 +142,12 @@
         "cardId": "karte-03-2",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die gelernte Singularform f\u00FCr Bohnen als Lebensmittel: \u201EO ____ est\u00E1 gostoso.\u201C",
-        "explanation": "Feij\u00E3o steht hier im Portugiesischen im Singular, obwohl im Deutschen Bohnen im Plural steht.",
+        "prompt": "Ergänze die gelernte Singularform für Bohnen als Lebensmittel: „O ____ está gostoso.“",
+        "explanation": "Feijão steht hier im Portugiesischen im Singular, obwohl im Deutschen Bohnen im Plural steht.",
         "options": [],
         "answer": [],
         "acceptedText": [
-          "feij\u00E3o"
+          "feijão"
         ],
         "audioText": null,
         "difficulty": 1
@@ -151,7 +158,7 @@
         "cardId": "karte-03",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das gelernte Wort f\u00FCr Reis aus diesem Paket: \u201EQuero ____, por favor.\u201C",
+        "prompt": "Ergänze das gelernte Wort für Reis aus diesem Paket: „Quero ____, por favor.“",
         "explanation": "Arroz bezeichnet hier Reis als Lebensmittel und steht im Singular.",
         "options": [],
         "answer": [],
@@ -167,8 +174,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "mesa \u2014 Tisch. A mesa, Plural mesas. Para duas pessoas bedeutet f\u00FCr zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verk\u00FCrzte Tischfrage para dois ist ebenfalls gebr\u00E4uchlich. Tem uma mesa para duas pessoas? \u2014 Ist ein Tisch f\u00FCr zwei Personen frei?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "mesa — Tisch. A mesa, Plural mesas. Para duas pessoas bedeutet für zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verkürzte Tischfrage para dois ist ebenfalls gebräuchlich. Tem uma mesa para duas pessoas? — Ist ein Tisch für zwei Personen frei?",
         "options": [
           {
             "id": "d7",
@@ -200,8 +207,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Emesa\u201C?",
-        "explanation": "mesa \u2014 Tisch. A mesa, Plural mesas. Para duas pessoas bedeutet f\u00FCr zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verk\u00FCrzte Tischfrage para dois ist ebenfalls gebr\u00E4uchlich. Tem uma mesa para duas pessoas? \u2014 Ist ein Tisch f\u00FCr zwei Personen frei?",
+        "prompt": "Was bedeutet „mesa“?",
+        "explanation": "mesa — Tisch. A mesa, Plural mesas. Para duas pessoas bedeutet für zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verkürzte Tischfrage para dois ist ebenfalls gebräuchlich. Tem uma mesa para duas pessoas? — Ist ein Tisch für zwei Personen frei?",
         "options": [
           {
             "id": "d3",
@@ -233,8 +240,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "prato do dia \u2014 Tagesgericht. O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de \u002B o; do dia hei\u00DFt hier des Tages. Qual \u00E9 o prato do dia? \u2014 Was ist das Tagesgericht?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "prato do dia — Tagesgericht. O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de + o; do dia heißt hier des Tages. Qual é o prato do dia? — Was ist das Tagesgericht?",
         "options": [
           {
             "id": "d3",
@@ -266,8 +273,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eprato do dia\u201C?",
-        "explanation": "prato do dia \u2014 Tagesgericht. O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de \u002B o; do dia hei\u00DFt hier des Tages. Qual \u00E9 o prato do dia? \u2014 Was ist das Tagesgericht?",
+        "prompt": "Was bedeutet „prato do dia“?",
+        "explanation": "prato do dia — Tagesgericht. O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de + o; do dia heißt hier des Tages. Qual é o prato do dia? — Was ist das Tagesgericht?",
         "options": [
           {
             "id": "d5",
@@ -299,8 +306,8 @@
         "cardId": "karte-04-2",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "salada \u2014 Salat. A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen m\u00E4nnlich ist. Por favor erg\u00E4nzt die h\u00F6fliche Bitte. Quero uma salada pequena, por favor. \u2014 Ich m\u00F6chte einen kleinen Salat, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "salada — Salat. A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen männlich ist. Por favor ergänzt die höfliche Bitte. Quero uma salada pequena, por favor. — Ich möchte einen kleinen Salat, bitte.",
         "options": [
           {
             "id": "d1",
@@ -332,8 +339,8 @@
         "cardId": "karte-04-2",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Esalada\u201C?",
-        "explanation": "salada \u2014 Salat. A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen m\u00E4nnlich ist. Por favor erg\u00E4nzt die h\u00F6fliche Bitte. Quero uma salada pequena, por favor. \u2014 Ich m\u00F6chte einen kleinen Salat, bitte.",
+        "prompt": "Was bedeutet „salada“?",
+        "explanation": "salada — Salat. A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen männlich ist. Por favor ergänzt die höfliche Bitte. Quero uma salada pequena, por favor. — Ich möchte einen kleinen Salat, bitte.",
         "options": [
           {
             "id": "d2",
@@ -365,8 +372,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "peixe \u2014 Fisch. O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis. O peixe vem com arroz? \u2014 Wird der Fisch mit Reis serviert?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "peixe — Fisch. O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis. O peixe vem com arroz? — Wird der Fisch mit Reis serviert?",
         "options": [
           {
             "id": "d7",
@@ -398,8 +405,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epeixe\u201C?",
-        "explanation": "peixe \u2014 Fisch. O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis. O peixe vem com arroz? \u2014 Wird der Fisch mit Reis serviert?",
+        "prompt": "Was bedeutet „peixe“?",
+        "explanation": "peixe — Fisch. O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis. O peixe vem com arroz? — Wird der Fisch mit Reis serviert?",
         "options": [
           {
             "id": "d6",
@@ -431,8 +438,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "carne \u2014 Fleisch. A carne ist Fleisch. Como hei\u00DFt hier ich esse; n\u00E3o verneint die Aussage. Der Satz nennt eine m\u00F6gliche Essenswahl, ohne einen Grund oder eine bestimmte Ern\u00E4hrung des Nutzers vorauszusetzen. N\u00E3o como carne. \u2014 Ich esse kein Fleisch.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "carne — Fleisch. A carne ist Fleisch. Como heißt hier ich esse; não verneint die Aussage. Der Satz nennt eine mögliche Essenswahl, ohne einen Grund oder eine bestimmte Ernährung des Nutzers vorauszusetzen. Não como carne. — Ich esse kein Fleisch.",
         "options": [
           {
             "id": "d8",
@@ -464,8 +471,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ecarne\u201C?",
-        "explanation": "carne \u2014 Fleisch. A carne ist Fleisch. Como hei\u00DFt hier ich esse; n\u00E3o verneint die Aussage. Der Satz nennt eine m\u00F6gliche Essenswahl, ohne einen Grund oder eine bestimmte Ern\u00E4hrung des Nutzers vorauszusetzen. N\u00E3o como carne. \u2014 Ich esse kein Fleisch.",
+        "prompt": "Was bedeutet „carne“?",
+        "explanation": "carne — Fleisch. A carne ist Fleisch. Como heißt hier ich esse; não verneint die Aussage. Der Satz nennt eine mögliche Essenswahl, ohne einen Grund oder eine bestimmte Ernährung des Nutzers vorauszusetzen. Não como carne. — Ich esse kein Fleisch.",
         "options": [
           {
             "id": "d4",
@@ -497,8 +504,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "amendoim \u2014 Erdnuss. O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato hei\u00DFt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet nat\u00FCrlich Erdn\u00FCsse. Este prato tem amendoim? \u2014 Enth\u00E4lt dieses Gericht Erdn\u00FCsse?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "amendoim — Erdnuss. O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato heißt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet natürlich Erdnüsse. Este prato tem amendoim? — Enthält dieses Gericht Erdnüsse?",
         "options": [
           {
             "id": "d8",
@@ -530,8 +537,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eamendoim\u201C?",
-        "explanation": "amendoim \u2014 Erdnuss. O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato hei\u00DFt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet nat\u00FCrlich Erdn\u00FCsse. Este prato tem amendoim? \u2014 Enth\u00E4lt dieses Gericht Erdn\u00FCsse?",
+        "prompt": "Was bedeutet „amendoim“?",
+        "explanation": "amendoim — Erdnuss. O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato heißt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet natürlich Erdnüsse. Este prato tem amendoim? — Enthält dieses Gericht Erdnüsse?",
         "options": [
           {
             "id": "d5",
@@ -563,8 +570,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ESem pimenta, por favor.\u201C",
-        "explanation": "pimenta \u2014 Chili; Pfeffer. A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer hei\u00DFt ausdr\u00FCcklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere \u00DCbersetzungen m\u00F6glich. Sem pimenta, por favor. \u2014 Ohne Chili, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Sem pimenta, por favor.“",
+        "explanation": "pimenta — Chili; Pfeffer. A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer heißt ausdrücklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere Übersetzungen möglich. Sem pimenta, por favor. — Ohne Chili, bitte.",
         "options": [
           {
             "id": "d6",
@@ -596,8 +603,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epimenta\u201C in diesem Beispiel? \u201ESem pimenta, por favor.\u201C",
-        "explanation": "pimenta \u2014 Chili; Pfeffer. A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer hei\u00DFt ausdr\u00FCcklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere \u00DCbersetzungen m\u00F6glich. Sem pimenta, por favor. \u2014 Ohne Chili, bitte.",
+        "prompt": "Was bedeutet „pimenta“ in diesem Beispiel? „Sem pimenta, por favor.“",
+        "explanation": "pimenta — Chili; Pfeffer. A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer heißt ausdrücklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere Übersetzungen möglich. Sem pimenta, por favor. — Ohne Chili, bitte.",
         "options": [
           {
             "id": "d0",
@@ -629,8 +636,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "dividir \u2014 teilen. Dividir hei\u00DFt teilen. Podemos bedeutet k\u00F6nnen wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt. Podemos dividir a conta? \u2014 K\u00F6nnen wir die Rechnung teilen?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "dividir — teilen. Dividir heißt teilen. Podemos bedeutet können wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt. Podemos dividir a conta? — Können wir die Rechnung teilen?",
         "options": [
           {
             "id": "answer",
@@ -662,8 +669,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Edividir\u201C?",
-        "explanation": "dividir \u2014 teilen. Dividir hei\u00DFt teilen. Podemos bedeutet k\u00F6nnen wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt. Podemos dividir a conta? \u2014 K\u00F6nnen wir die Rechnung teilen?",
+        "prompt": "Was bedeutet „dividir“?",
+        "explanation": "dividir — teilen. Dividir heißt teilen. Podemos bedeutet können wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt. Podemos dividir a conta? — Können wir die Rechnung teilen?",
         "options": [
           {
             "id": "d1",
@@ -695,8 +702,8 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ETisch\u201C?",
-        "explanation": "mesa \u2014 Tisch. A mesa, Plural mesas. Para duas pessoas bedeutet f\u00FCr zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verk\u00FCrzte Tischfrage para dois ist ebenfalls gebr\u00E4uchlich. Tem uma mesa para duas pessoas? \u2014 Ist ein Tisch f\u00FCr zwei Personen frei?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Tisch“?",
+        "explanation": "mesa — Tisch. A mesa, Plural mesas. Para duas pessoas bedeutet für zwei Personen; duas richtet sich nach dem weiblichen pessoa. Die verkürzte Tischfrage para dois ist ebenfalls gebräuchlich. Tem uma mesa para duas pessoas? — Ist ein Tisch für zwei Personen frei?",
         "options": [
           {
             "id": "d3",
@@ -704,7 +711,7 @@
           },
           {
             "id": "d10",
-            "text": "sandu\u00EDche"
+            "text": "sanduíche"
           },
           {
             "id": "d0",
@@ -728,12 +735,12 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du suchst im Restaurant einen Tisch f\u00FCr zwei Personen. Welche Frage passt?",
-        "explanation": "Uma mesa para duas pessoas ist ein Tisch f\u00FCr zwei Personen. Die anderen Fragen betreffen eine andere Personenzahl, die Speisekarte oder das Bezahlen.",
+        "prompt": "Du suchst im Restaurant einen Tisch für zwei Personen. Welche Frage passt?",
+        "explanation": "Uma mesa para duas pessoas ist ein Tisch für zwei Personen. Die anderen Fragen betreffen eine andere Personenzahl, die Speisekarte oder das Bezahlen.",
         "options": [
           {
             "id": "wrong-2",
-            "text": "Posso pagar com cart\u00E3o?"
+            "text": "Posso pagar com cartão?"
           },
           {
             "id": "answer",
@@ -741,7 +748,7 @@
           },
           {
             "id": "wrong-1",
-            "text": "Posso ver o card\u00E1pio?"
+            "text": "Posso ver o cardápio?"
           },
           {
             "id": "wrong-0",
@@ -761,7 +768,7 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du suchst einen freien Tisch im Caf\u00E9. Welche Frage passt?",
+        "prompt": "Du suchst einen freien Tisch im Café. Welche Frage passt?",
         "explanation": "Tem uma mesa livre? fragt, ob ein unbesetzter Tisch vorhanden ist. Die anderen Aussagen betreffen Bezahlen, Speisekarte und Rechnung.",
         "options": [
           {
@@ -770,11 +777,11 @@
           },
           {
             "id": "wrong-0",
-            "text": "Posso pagar com cart\u00E3o?"
+            "text": "Posso pagar com cartão?"
           },
           {
             "id": "wrong-1",
-            "text": "Posso ver o card\u00E1pio?"
+            "text": "Posso ver o cardápio?"
           },
           {
             "id": "answer",
@@ -794,8 +801,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ETagesgericht\u201C?",
-        "explanation": "prato do dia \u2014 Tagesgericht. O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de \u002B o; do dia hei\u00DFt hier des Tages. Qual \u00E9 o prato do dia? \u2014 Was ist das Tagesgericht?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Tagesgericht“?",
+        "explanation": "prato do dia — Tagesgericht. O prato do dia ist das Tagesgericht. Prato bedeutet hier Gericht, nicht der leere Teller als Gegenstand. Do ist de + o; do dia heißt hier des Tages. Qual é o prato do dia? — Was ist das Tagesgericht?",
         "options": [
           {
             "id": "answer",
@@ -844,7 +851,7 @@
           },
           {
             "id": "answer",
-            "text": "Qual \u00E9 o prato do dia?"
+            "text": "Qual é o prato do dia?"
           }
         ],
         "answer": [
@@ -860,8 +867,8 @@
         "cardId": "karte-04-2",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESalat\u201C?",
-        "explanation": "salada \u2014 Salat. A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen m\u00E4nnlich ist. Por favor erg\u00E4nzt die h\u00F6fliche Bitte. Quero uma salada pequena, por favor. \u2014 Ich m\u00F6chte einen kleinen Salat, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Salat“?",
+        "explanation": "salada — Salat. A salada, Plural saladas, ist ein Salat als Gericht. Uma und pequena richten sich nach dem weiblichen portugiesischen salada, obwohl Salat im Deutschen männlich ist. Por favor ergänzt die höfliche Bitte. Quero uma salada pequena, por favor. — Ich möchte einen kleinen Salat, bitte.",
         "options": [
           {
             "id": "answer",
@@ -926,8 +933,8 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFisch\u201C?",
-        "explanation": "peixe \u2014 Fisch. O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis. O peixe vem com arroz? \u2014 Wird der Fisch mit Reis serviert?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Fisch“?",
+        "explanation": "peixe — Fisch. O peixe, Plural peixes. Vem com arroz bedeutet im Restaurant hier wird mit Reis serviert oder kommt mit Reis. Die Frage betrifft die Beilage; sie nennt noch keinen Preis. O peixe vem com arroz? — Wird der Fisch mit Reis serviert?",
         "options": [
           {
             "id": "d0",
@@ -960,7 +967,7 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Du fragst, ob zum Fisch Reis serviert wird. Welche Frage passt?",
-        "explanation": "Peixe hei\u00DFt Fisch. Vem com arroz fragt hier nach Reis als Beilage, nicht nach dem Preis.",
+        "explanation": "Peixe heißt Fisch. Vem com arroz fragt hier nach Reis als Beilage, nicht nach dem Preis.",
         "options": [
           {
             "id": "answer",
@@ -992,8 +999,8 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFleisch\u201C?",
-        "explanation": "carne \u2014 Fleisch. A carne ist Fleisch. Como hei\u00DFt hier ich esse; n\u00E3o verneint die Aussage. Der Satz nennt eine m\u00F6gliche Essenswahl, ohne einen Grund oder eine bestimmte Ern\u00E4hrung des Nutzers vorauszusetzen. N\u00E3o como carne. \u2014 Ich esse kein Fleisch.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Fleisch“?",
+        "explanation": "carne — Fleisch. A carne ist Fleisch. Como heißt hier ich esse; não verneint die Aussage. Der Satz nennt eine mögliche Essenswahl, ohne einen Grund oder eine bestimmte Ernährung des Nutzers vorauszusetzen. Não como carne. — Ich esse kein Fleisch.",
         "options": [
           {
             "id": "d5",
@@ -1025,12 +1032,12 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage bedeutet \u201EIch esse kein Fleisch\u201C?",
-        "explanation": "Carne hei\u00DFt Fleisch. N\u00E3o verneint die Aussage; ein Grund oder die tats\u00E4chliche Ern\u00E4hrung des Lernenden wird nicht vorausgesetzt.",
+        "prompt": "Welche Aussage bedeutet „Ich esse kein Fleisch“?",
+        "explanation": "Carne heißt Fleisch. Não verneint die Aussage; ein Grund oder die tatsächliche Ernährung des Lernenden wird nicht vorausgesetzt.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "N\u00E3o como arroz."
+            "text": "Não como arroz."
           },
           {
             "id": "wrong-2",
@@ -1038,7 +1045,7 @@
           },
           {
             "id": "answer",
-            "text": "N\u00E3o como carne."
+            "text": "Não como carne."
           },
           {
             "id": "wrong-0",
@@ -1058,8 +1065,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EErdnuss\u201C?",
-        "explanation": "amendoim \u2014 Erdnuss. O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato hei\u00DFt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet nat\u00FCrlich Erdn\u00FCsse. Este prato tem amendoim? \u2014 Enth\u00E4lt dieses Gericht Erdn\u00FCsse?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Erdnuss“?",
+        "explanation": "amendoim — Erdnuss. O amendoim bedeutet Erdnuss und wird als Zutat oft im Singular verwendet. Este prato heißt dieses Gericht; tem fragt hier nach einer enthaltenen Zutat. Die deutsche Fassung verwendet natürlich Erdnüsse. Este prato tem amendoim? — Enthält dieses Gericht Erdnüsse?",
         "options": [
           {
             "id": "d2",
@@ -1091,8 +1098,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Frage fragt ausdr\u00FCcklich nach Erdn\u00FCssen als Zutat in diesem Gericht?",
-        "explanation": "Amendoim hei\u00DFt Erdnuss. Als Lebensmittel oder Zutat wird hier die Singularform verwendet, im Deutschen nat\u00FCrlich Erdn\u00FCsse.",
+        "prompt": "Welche Frage fragt ausdrücklich nach Erdnüssen als Zutat in diesem Gericht?",
+        "explanation": "Amendoim heißt Erdnuss. Als Lebensmittel oder Zutat wird hier die Singularform verwendet, im Deutschen natürlich Erdnüsse.",
         "options": [
           {
             "id": "wrong-0",
@@ -1124,8 +1131,8 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EChili; Pfeffer\u201C? Gemeint ist: Chili in der angegebenen Restaurantbestellung.",
-        "explanation": "pimenta \u2014 Chili; Pfeffer. A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer hei\u00DFt ausdr\u00FCcklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere \u00DCbersetzungen m\u00F6glich. Sem pimenta, por favor. \u2014 Ohne Chili, bitte.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Chili; Pfeffer“? Gemeint ist: Chili in der angegebenen Restaurantbestellung.",
+        "explanation": "pimenta — Chili; Pfeffer. A pimenta meint in diesem Beispiel Chili. Das Wort kann je nach Zusammenhang auch Pfeffer bezeichnen; schwarzer Pfeffer heißt ausdrücklich pimenta-do-reino. Bei einer offenen Wortfrage sind daher mehrere Übersetzungen möglich. Sem pimenta, por favor. — Ohne Chili, bitte.",
         "options": [
           {
             "id": "d0",
@@ -1141,7 +1148,7 @@
           },
           {
             "id": "d6",
-            "text": "feij\u00E3o"
+            "text": "feijão"
           }
         ],
         "answer": [
@@ -1157,7 +1164,7 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du bittest darum, Chili wegzulassen. Welche gelernte Erg\u00E4nzung passt?",
+        "prompt": "Du bittest darum, Chili wegzulassen. Welche gelernte Ergänzung passt?",
         "explanation": "Pimenta meint in diesem Beispiel Chili. Das Wort kann in anderem Zusammenhang auch Pfeffer bezeichnen.",
         "options": [
           {
@@ -1166,7 +1173,7 @@
           },
           {
             "id": "wrong-1",
-            "text": "Sem a\u00E7\u00FAcar, por favor."
+            "text": "Sem açúcar, por favor."
           },
           {
             "id": "answer",
@@ -1190,8 +1197,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eteilen\u201C?",
-        "explanation": "dividir \u2014 teilen. Dividir hei\u00DFt teilen. Podemos bedeutet k\u00F6nnen wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt. Podemos dividir a conta? \u2014 K\u00F6nnen wir die Rechnung teilen?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „teilen“?",
+        "explanation": "dividir — teilen. Dividir heißt teilen. Podemos bedeutet können wir; a conta ist hier die Restaurantrechnung. Die Frage bittet um Rechnungsteilung, sagt aber noch nicht, wer welchen Betrag bezahlt. Podemos dividir a conta? — Können wir die Rechnung teilen?",
         "options": [
           {
             "id": "answer",
@@ -1223,8 +1230,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du m\u00F6chtest die Restaurantrechnung teilen. Welche Frage bittet darum?",
-        "explanation": "Dividir hei\u00DFt teilen. Die Frage legt noch nicht fest, wer welchen Betrag bezahlt.",
+        "prompt": "Du möchtest die Restaurantrechnung teilen. Welche Frage bittet darum?",
+        "explanation": "Dividir heißt teilen. Die Frage legt noch nicht fest, wer welchen Betrag bezahlt.",
         "options": [
           {
             "id": "answer",
@@ -1232,11 +1239,11 @@
           },
           {
             "id": "wrong-0",
-            "text": "Posso pagar com cart\u00E3o?"
+            "text": "Posso pagar com cartão?"
           },
           {
             "id": "wrong-1",
-            "text": "Posso ver o card\u00E1pio?"
+            "text": "Posso ver o cardápio?"
           },
           {
             "id": "wrong-2",
