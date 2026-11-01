@@ -2,8 +2,8 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-04-hoeflichkeit",
-  "packageVersion": 5,
-  "title": "04 \u00B7 Bitte, danke, Entschuldigung",
+  "packageVersion": 6,
+  "title": "04 · Bitte, danke, Entschuldigung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,20 +12,48 @@
       "topic": "Bitte, danke, Entschuldigung",
       "expression": "por favor",
       "translation": "bitte",
-      "example": "Um caf\u00E9, por favor.",
+      "example": "Um café, por favor.",
       "exampleTranslation": "Einen Kaffee, bitte.",
-      "explanation": "Por favor erg\u00E4nzt eine Bitte oder Bestellung: um caf\u00E9 = einen Kaffee. Hier bedeutet bitte eine h\u00F6fliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada.",
-      "isVocabulary": true
+      "explanation": "Por favor ergänzt eine Bitte oder Bestellung: um café = einen Kaffee. Hier bedeutet bitte eine höfliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "pur fa-WOR",
+        "ipa": "[puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "Ũ ka-FÄ, pur fa-WOR.",
+        "ipa": "[ũ kaˈfɛ puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-02",
       "topic": "Bitte, danke, Entschuldigung",
       "expression": "obrigado",
-      "translation": "danke (m\u00E4nnlicher Sprecher)",
+      "translation": "danke (männlicher Sprecher)",
       "example": "Muito obrigado!",
       "exampleTranslation": "Vielen Dank!",
-      "explanation": "Obrigado ist die m\u00E4nnliche Standardform des Dankes, obrigada die weibliche. Die Form richtet sich nach der dankenden Person, nicht nach der Person, der gedankt wird. Muito verst\u00E4rkt den Dank: vielen Dank.",
-      "isVocabulary": true
+      "explanation": "Obrigado ist die männliche Standardform des Dankes, obrigada die weibliche. Die Form richtet sich nach der dankenden Person, nicht nach der Person, der gedankt wird. Muito verstärkt den Dank: vielen Dank.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "o-bri-GA-du",
+        "ipa": "[obɾiˈɡadu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "MŨI-tu o-bri-GA-du!",
+        "ipa": "[ˈmũj̃tu obɾiˈɡadu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-03",
@@ -34,8 +62,22 @@
       "translation": "danke (weibliche Sprecherin)",
       "example": "Muito obrigada!",
       "exampleTranslation": "Vielen Dank!",
-      "explanation": "Obrigada ist die weibliche Standardform des Dankes, obrigado die m\u00E4nnliche. Entscheidend ist die dankende Person. In muito obrigada bleibt muito unver\u00E4ndert; es verst\u00E4rkt hier den Dank.",
-      "isVocabulary": true
+      "explanation": "Obrigada ist die weibliche Standardform des Dankes, obrigado die männliche. Entscheidend ist die dankende Person. In muito obrigada bleibt muito unverändert; es verstärkt hier den Dank.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "o-bri-GA-da",
+        "ipa": "[obɾiˈɡadɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "MŨI-tu o-bri-GA-da!",
+        "ipa": "[ˈmũj̃tu obɾiˈɡadɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-04",
@@ -44,18 +86,46 @@
       "translation": "gern geschehen",
       "example": "De nada!",
       "exampleTranslation": "Gern geschehen!",
-      "explanation": "De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. F\u00FCr eine Bitte verwendet man por favor.",
-      "isVocabulary": true
+      "explanation": "De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. Für eine Bitte verwendet man por favor.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "dschi NA-da",
+        "ipa": "[dʒi ˈnadɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "dschi NA-da!",
+        "ipa": "[dʒi ˈnadɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-05",
       "topic": "Bitte, danke, Entschuldigung",
-      "expression": "com licen\u00E7a",
+      "expression": "com licença",
       "translation": "Entschuldigung (um Erlaubnis bitten)",
-      "example": "Com licen\u00E7a, posso passar?",
+      "example": "Com licença, posso passar?",
       "exampleTranslation": "Entschuldigung, darf ich vorbei?",
-      "explanation": "Com licen\u00E7a bittet hier h\u00F6flich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht.",
-      "isVocabulary": true
+      "explanation": "Com licença bittet hier höflich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "kõ li-SSẼ-ssa",
+        "ipa": "[kõ liˈsẽsɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "kõ li-SSẼ-ssa, PO-ssu pa-SSAR?",
+        "ipa": "[kõ liˈsẽsɐ ˈpɔsu paˈsaɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-06",
@@ -63,19 +133,47 @@
       "expression": "desculpe",
       "translation": "Entschuldigung (um Verzeihung bitten)",
       "example": "Desculpe pelo atraso.",
-      "exampleTranslation": "Entschuldige die Versp\u00E4tung.",
-      "explanation": "Desculpe bittet um Entschuldigung. Pelo atraso bedeutet f\u00FCr die Versp\u00E4tung. Hier entschuldigt sich jemand f\u00FCr etwas Geschehenes; com licen\u00E7a wird im vorherigen Beispiel vor dem Vorbeigehen verwendet.",
-      "isVocabulary": true
+      "exampleTranslation": "Entschuldige die Verspätung.",
+      "explanation": "Desculpe bittet um Entschuldigung. Pelo atraso bedeutet für die Verspätung. Hier entschuldigt sich jemand für etwas Geschehenes; com licença wird im vorherigen Beispiel vor dem Vorbeigehen verwendet.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "dschiss-KUu-pi",
+        "ipa": "[dʒisˈkuwpi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "dschiss-KUu-pi PE-lu a-TRA-su.",
+        "ipa": "[dʒisˈkuwpi ˈpelu aˈtɾazu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-07",
       "topic": "Bitte, danke, Entschuldigung",
       "expression": "problema",
       "translation": "Problem",
-      "example": "N\u00E3o tem problema.",
+      "example": "Não tem problema.",
       "exampleTranslation": "Das ist kein Problem.",
-      "explanation": "O problema, Plural problemas, ist trotz der Endung -a m\u00E4nnlich. N\u00E3o tem problema ist im brasilianischen Alltag eine \u00FCbliche Reaktion: Das ist kein Problem oder kein Problem.",
-      "isVocabulary": true
+      "explanation": "O problema, Plural problemas, ist trotz der Endung -a männlich. Não tem problema ist im brasilianischen Alltag eine übliche Reaktion: Das ist kein Problem oder kein Problem.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "pro-BLẼ-ma",
+        "ipa": "[pɾoˈblẽmɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "NÃU TẼI pro-BLẼ-ma.",
+        "ipa": "[nɐ̃w̃ tẽj̃ pɾoˈblẽmɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-08",
@@ -84,8 +182,22 @@
       "translation": "wiederholen",
       "example": "Pode repetir, por favor?",
       "exampleTranslation": "Kannst du das bitte wiederholen?",
-      "explanation": "Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine h\u00F6fliche Bitte, etwas noch einmal zu sagen. Die Wendung l\u00E4sst sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht.",
-      "isVocabulary": true
+      "explanation": "Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine höfliche Bitte, etwas noch einmal zu sagen. Die Wendung lässt sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "he-pe-TSCHIR",
+        "ipa": "[hepeˈtʃiɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "PO-dschi he-pe-TSCHIR, pur fa-WOR?",
+        "ipa": "[ˈpɔdʒi hepeˈtʃiɾ puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     }
   ],
   "learning": {
@@ -93,7 +205,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Sich passend bedanken, sich entschuldigen und h\u00F6flich um etwas bitten.",
+        "description": "Sich passend bedanken, sich entschuldigen und höflich um etwas bitten.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -113,8 +225,8 @@
         "cardId": "karte-02",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die gelernte m\u00E4nnliche Standardform f\u00FCr \u201Edanke\u201C (ein Wort): \u201EMuito ____!\u201C",
-        "explanation": "Obrigado ist die m\u00E4nnliche Standardform des Dankes. Die Form richtet sich nach der dankenden Person, nicht nach dem Gegen\u00FCber.",
+        "prompt": "Ergänze die gelernte männliche Standardform für „danke“ (ein Wort): „Muito ____!“",
+        "explanation": "Obrigado ist die männliche Standardform des Dankes. Die Form richtet sich nach der dankenden Person, nicht nach dem Gegenüber.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -129,8 +241,8 @@
         "cardId": "karte-03",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die gelernte weibliche Standardform f\u00FCr \u201Edanke\u201C (ein Wort): \u201EMuito ____!\u201C",
-        "explanation": "Obrigada ist die weibliche Standardform des Dankes. Muito bleibt unver\u00E4ndert. Die Aufgabe verlangt diese Form ausdr\u00FCcklich.",
+        "prompt": "Ergänze die gelernte weibliche Standardform für „danke“ (ein Wort): „Muito ____!“",
+        "explanation": "Obrigada ist die weibliche Standardform des Dankes. Muito bleibt unverändert. Die Aufgabe verlangt diese Form ausdrücklich.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -145,8 +257,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "por favor \u2014 bitte. Por favor erg\u00E4nzt eine Bitte oder Bestellung: um caf\u00E9 = einen Kaffee. Hier bedeutet bitte eine h\u00F6fliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada. Um caf\u00E9, por favor. \u2014 Einen Kaffee, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "por favor — bitte. Por favor ergänzt eine Bitte oder Bestellung: um café = einen Kaffee. Hier bedeutet bitte eine höfliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada. Um café, por favor. — Einen Kaffee, bitte.",
         "options": [
           {
             "id": "answer",
@@ -158,7 +270,7 @@
           },
           {
             "id": "d6",
-            "text": "danke (m\u00E4nnlicher Sprecher)"
+            "text": "danke (männlicher Sprecher)"
           },
           {
             "id": "d0",
@@ -178,8 +290,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epor favor\u201C?",
-        "explanation": "por favor \u2014 bitte. Por favor erg\u00E4nzt eine Bitte oder Bestellung: um caf\u00E9 = einen Kaffee. Hier bedeutet bitte eine h\u00F6fliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada. Um caf\u00E9, por favor. \u2014 Einen Kaffee, bitte.",
+        "prompt": "Was bedeutet „por favor“?",
+        "explanation": "por favor — bitte. Por favor ergänzt eine Bitte oder Bestellung: um café = einen Kaffee. Hier bedeutet bitte eine höfliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada. Um café, por favor. — Einen Kaffee, bitte.",
         "options": [
           {
             "id": "answer",
@@ -187,7 +299,7 @@
           },
           {
             "id": "d6",
-            "text": "danke (m\u00E4nnlicher Sprecher)"
+            "text": "danke (männlicher Sprecher)"
           },
           {
             "id": "d5",
@@ -211,8 +323,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "de nada \u2014 gern geschehen. De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. F\u00FCr eine Bitte verwendet man por favor. De nada! \u2014 Gern geschehen!",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "de nada — gern geschehen. De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. Für eine Bitte verwendet man por favor. De nada! — Gern geschehen!",
         "options": [
           {
             "id": "answer",
@@ -244,8 +356,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ede nada\u201C?",
-        "explanation": "de nada \u2014 gern geschehen. De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. F\u00FCr eine Bitte verwendet man por favor. De nada! \u2014 Gern geschehen!",
+        "prompt": "Was bedeutet „de nada“?",
+        "explanation": "de nada — gern geschehen. De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. Für eine Bitte verwendet man por favor. De nada! — Gern geschehen!",
         "options": [
           {
             "id": "d5",
@@ -277,8 +389,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "com licen\u00E7a \u2014 Entschuldigung (um Erlaubnis bitten). Com licen\u00E7a bittet hier h\u00F6flich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht. Com licen\u00E7a, posso passar? \u2014 Entschuldigung, darf ich vorbei?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "com licença — Entschuldigung (um Erlaubnis bitten). Com licença bittet hier höflich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht. Com licença, posso passar? — Entschuldigung, darf ich vorbei?",
         "options": [
           {
             "id": "d1",
@@ -301,7 +413,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "com licen\u00E7a",
+        "audioText": "com licença",
         "difficulty": 1
       },
       {
@@ -310,12 +422,12 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ecom licen\u00E7a\u201C?",
-        "explanation": "com licen\u00E7a \u2014 Entschuldigung (um Erlaubnis bitten). Com licen\u00E7a bittet hier h\u00F6flich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht. Com licen\u00E7a, posso passar? \u2014 Entschuldigung, darf ich vorbei?",
+        "prompt": "Was bedeutet „com licença“?",
+        "explanation": "com licença — Entschuldigung (um Erlaubnis bitten). Com licença bittet hier höflich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht. Com licença, posso passar? — Entschuldigung, darf ich vorbei?",
         "options": [
           {
             "id": "d5",
-            "text": "danke (m\u00E4nnlicher Sprecher)"
+            "text": "danke (männlicher Sprecher)"
           },
           {
             "id": "d4",
@@ -343,8 +455,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "desculpe \u2014 Entschuldigung (um Verzeihung bitten). Desculpe bittet um Entschuldigung. Pelo atraso bedeutet f\u00FCr die Versp\u00E4tung. Hier entschuldigt sich jemand f\u00FCr etwas Geschehenes; com licen\u00E7a wird im vorherigen Beispiel vor dem Vorbeigehen verwendet. Desculpe pelo atraso. \u2014 Entschuldige die Versp\u00E4tung.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "desculpe — Entschuldigung (um Verzeihung bitten). Desculpe bittet um Entschuldigung. Pelo atraso bedeutet für die Verspätung. Hier entschuldigt sich jemand für etwas Geschehenes; com licença wird im vorherigen Beispiel vor dem Vorbeigehen verwendet. Desculpe pelo atraso. — Entschuldige die Verspätung.",
         "options": [
           {
             "id": "d1",
@@ -376,8 +488,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Edesculpe\u201C?",
-        "explanation": "desculpe \u2014 Entschuldigung (um Verzeihung bitten). Desculpe bittet um Entschuldigung. Pelo atraso bedeutet f\u00FCr die Versp\u00E4tung. Hier entschuldigt sich jemand f\u00FCr etwas Geschehenes; com licen\u00E7a wird im vorherigen Beispiel vor dem Vorbeigehen verwendet. Desculpe pelo atraso. \u2014 Entschuldige die Versp\u00E4tung.",
+        "prompt": "Was bedeutet „desculpe“?",
+        "explanation": "desculpe — Entschuldigung (um Verzeihung bitten). Desculpe bittet um Entschuldigung. Pelo atraso bedeutet für die Verspätung. Hier entschuldigt sich jemand für etwas Geschehenes; com licença wird im vorherigen Beispiel vor dem Vorbeigehen verwendet. Desculpe pelo atraso. — Entschuldige die Verspätung.",
         "options": [
           {
             "id": "d1",
@@ -409,8 +521,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "problema \u2014 Problem. O problema, Plural problemas, ist trotz der Endung -a m\u00E4nnlich. N\u00E3o tem problema ist im brasilianischen Alltag eine \u00FCbliche Reaktion: Das ist kein Problem oder kein Problem. N\u00E3o tem problema. \u2014 Das ist kein Problem.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "problema — Problem. O problema, Plural problemas, ist trotz der Endung -a männlich. Não tem problema ist im brasilianischen Alltag eine übliche Reaktion: Das ist kein Problem oder kein Problem. Não tem problema. — Das ist kein Problem.",
         "options": [
           {
             "id": "d5",
@@ -442,8 +554,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eproblema\u201C?",
-        "explanation": "problema \u2014 Problem. O problema, Plural problemas, ist trotz der Endung -a m\u00E4nnlich. N\u00E3o tem problema ist im brasilianischen Alltag eine \u00FCbliche Reaktion: Das ist kein Problem oder kein Problem. N\u00E3o tem problema. \u2014 Das ist kein Problem.",
+        "prompt": "Was bedeutet „problema“?",
+        "explanation": "problema — Problem. O problema, Plural problemas, ist trotz der Endung -a männlich. Não tem problema ist im brasilianischen Alltag eine übliche Reaktion: Das ist kein Problem oder kein Problem. Não tem problema. — Das ist kein Problem.",
         "options": [
           {
             "id": "d5",
@@ -455,7 +567,7 @@
           },
           {
             "id": "d6",
-            "text": "danke (m\u00E4nnlicher Sprecher)"
+            "text": "danke (männlicher Sprecher)"
           },
           {
             "id": "d1",
@@ -475,8 +587,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "repetir \u2014 wiederholen. Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine h\u00F6fliche Bitte, etwas noch einmal zu sagen. Die Wendung l\u00E4sst sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht. Pode repetir, por favor? \u2014 Kannst du das bitte wiederholen?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "repetir — wiederholen. Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine höfliche Bitte, etwas noch einmal zu sagen. Die Wendung lässt sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht. Pode repetir, por favor? — Kannst du das bitte wiederholen?",
         "options": [
           {
             "id": "d1",
@@ -508,8 +620,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Erepetir\u201C?",
-        "explanation": "repetir \u2014 wiederholen. Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine h\u00F6fliche Bitte, etwas noch einmal zu sagen. Die Wendung l\u00E4sst sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht. Pode repetir, por favor? \u2014 Kannst du das bitte wiederholen?",
+        "prompt": "Was bedeutet „repetir“?",
+        "explanation": "repetir — wiederholen. Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine höfliche Bitte, etwas noch einmal zu sagen. Die Wendung lässt sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht. Pode repetir, por favor? — Kannst du das bitte wiederholen?",
         "options": [
           {
             "id": "d0",
@@ -541,24 +653,24 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du bestellst h\u00F6flich einen Kaffee. Welche Aussage enth\u00E4lt den Ausdruck f\u00FCr bitte in einer Bitte?",
-        "explanation": "Por favor macht die Bestellung h\u00F6flich. De nada antwortet auf einen Dank.",
+        "prompt": "Du bestellst höflich einen Kaffee. Welche Aussage enthält den Ausdruck für bitte in einer Bitte?",
+        "explanation": "Por favor macht die Bestellung höflich. De nada antwortet auf einen Dank.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Um caf\u00E9, at\u00E9 amanh\u00E3."
+            "text": "Um café, até amanhã."
           },
           {
             "id": "answer",
-            "text": "Um caf\u00E9, por favor."
+            "text": "Um café, por favor."
           },
           {
             "id": "wrong-0",
-            "text": "Um caf\u00E9, de nada."
+            "text": "Um café, de nada."
           },
           {
             "id": "wrong-2",
-            "text": "Um caf\u00E9, bom dia."
+            "text": "Um café, bom dia."
           }
         ],
         "answer": [
@@ -574,8 +686,8 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ebitte\u201C, wenn du h\u00F6flich um etwas bittest oder etwas bestellst?",
-        "explanation": "por favor \u2014 bitte. Por favor erg\u00E4nzt eine Bitte oder Bestellung: um caf\u00E9 = einen Kaffee. Hier bedeutet bitte eine h\u00F6fliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada. Um caf\u00E9, por favor. \u2014 Einen Kaffee, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „bitte“, wenn du höflich um etwas bittest oder etwas bestellst?",
+        "explanation": "por favor — bitte. Por favor ergänzt eine Bitte oder Bestellung: um café = einen Kaffee. Hier bedeutet bitte eine höfliche Bitte; als Antwort auf danke verwendet man zum Beispiel de nada. Um café, por favor. — Einen Kaffee, bitte.",
         "options": [
           {
             "id": "d1",
@@ -587,7 +699,7 @@
           },
           {
             "id": "d2",
-            "text": "com licen\u00E7a"
+            "text": "com licença"
           },
           {
             "id": "answer",
@@ -607,12 +719,12 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "Ana sagt \u201EMuito obrigada!\u201C. Welche Antwort bedeutet \u201EGern geschehen\u201C?",
-        "explanation": "De nada ist eine Antwort auf Dank. Por favor erg\u00E4nzt eine Bitte.",
+        "prompt": "Ana sagt „Muito obrigada!“. Welche Antwort bedeutet „Gern geschehen“?",
+        "explanation": "De nada ist eine Antwort auf Dank. Por favor ergänzt eine Bitte.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "At\u00E9 amanh\u00E3!"
+            "text": "Até amanhã!"
           },
           {
             "id": "answer",
@@ -640,8 +752,8 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Egern geschehen\u201C?",
-        "explanation": "de nada \u2014 gern geschehen. De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. F\u00FCr eine Bitte verwendet man por favor. De nada! \u2014 Gern geschehen!",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „gern geschehen“?",
+        "explanation": "de nada — gern geschehen. De nada ist eine Antwort auf einen Dank: gern geschehen oder bitte, gern. Es ist keine Bitte um etwas. Für eine Bitte verwendet man por favor. De nada! — Gern geschehen!",
         "options": [
           {
             "id": "d4",
@@ -673,16 +785,16 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du m\u00F6chtest h\u00F6flich um Erlaubnis bitten, vorbeizugehen. Welche Frage bittet um Platz?",
-        "explanation": "Com licen\u00E7a, posso passar? bedeutet Entschuldigung, darf ich vorbei? Die anderen Fragen betreffen Speisekarte, Wiederholen und Namen.",
+        "prompt": "Du möchtest höflich um Erlaubnis bitten, vorbeizugehen. Welche Frage bittet um Platz?",
+        "explanation": "Com licença, posso passar? bedeutet Entschuldigung, darf ich vorbei? Die anderen Fragen betreffen Speisekarte, Wiederholen und Namen.",
         "options": [
           {
             "id": "wrong-2",
-            "text": "Como voc\u00EA se chama?"
+            "text": "Como você se chama?"
           },
           {
             "id": "wrong-0",
-            "text": "Posso ver o card\u00E1pio?"
+            "text": "Posso ver o cardápio?"
           },
           {
             "id": "wrong-1",
@@ -690,7 +802,7 @@
           },
           {
             "id": "answer",
-            "text": "Com licen\u00E7a, posso passar?"
+            "text": "Com licença, posso passar?"
           }
         ],
         "answer": [
@@ -706,8 +818,8 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EEntschuldigung (um Erlaubnis bitten)\u201C?",
-        "explanation": "com licen\u00E7a \u2014 Entschuldigung (um Erlaubnis bitten). Com licen\u00E7a bittet hier h\u00F6flich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht. Com licen\u00E7a, posso passar? \u2014 Entschuldigung, darf ich vorbei?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Entschuldigung (um Erlaubnis bitten)“?",
+        "explanation": "com licença — Entschuldigung (um Erlaubnis bitten). Com licença bittet hier höflich um Platz, bevor man vorbeigeht. Posso passar? bedeutet darf ich vorbei? Die Wendung wird auch verwendet, bevor man jemanden unterbricht. Com licença, posso passar? — Entschuldigung, darf ich vorbei?",
         "options": [
           {
             "id": "d0",
@@ -715,7 +827,7 @@
           },
           {
             "id": "answer",
-            "text": "com licen\u00E7a"
+            "text": "com licença"
           },
           {
             "id": "d3",
@@ -739,8 +851,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du entschuldigst dich ausdr\u00FCcklich f\u00FCr deine Versp\u00E4tung. Welche Aussage passt?",
-        "explanation": "Desculpe pelo atraso bittet um Verzeihung f\u00FCr eine Versp\u00E4tung. Com licen\u00E7a, posso passar? bittet um Platz.",
+        "prompt": "Du entschuldigst dich ausdrücklich für deine Verspätung. Welche Aussage passt?",
+        "explanation": "Desculpe pelo atraso bittet um Verzeihung für eine Verspätung. Com licença, posso passar? bittet um Platz.",
         "options": [
           {
             "id": "wrong-2",
@@ -752,7 +864,7 @@
           },
           {
             "id": "wrong-0",
-            "text": "Com licen\u00E7a, posso passar?"
+            "text": "Com licença, posso passar?"
           },
           {
             "id": "answer",
@@ -772,8 +884,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EEntschuldigung (um Verzeihung bitten)\u201C?",
-        "explanation": "desculpe \u2014 Entschuldigung (um Verzeihung bitten). Desculpe bittet um Entschuldigung. Pelo atraso bedeutet f\u00FCr die Versp\u00E4tung. Hier entschuldigt sich jemand f\u00FCr etwas Geschehenes; com licen\u00E7a wird im vorherigen Beispiel vor dem Vorbeigehen verwendet. Desculpe pelo atraso. \u2014 Entschuldige die Versp\u00E4tung.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Entschuldigung (um Verzeihung bitten)“?",
+        "explanation": "desculpe — Entschuldigung (um Verzeihung bitten). Desculpe bittet um Entschuldigung. Pelo atraso bedeutet für die Verspätung. Hier entschuldigt sich jemand für etwas Geschehenes; com licença wird im vorherigen Beispiel vor dem Vorbeigehen verwendet. Desculpe pelo atraso. — Entschuldige die Verspätung.",
         "options": [
           {
             "id": "d4",
@@ -805,16 +917,16 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "Jemand entschuldigt sich. Welche Antwort bedeutet \u201EDas ist kein Problem\u201C?",
-        "explanation": "N\u00E3o tem problema ist im brasilianischen Alltag eine \u00FCbliche beruhigende Antwort.",
+        "prompt": "Jemand entschuldigt sich. Welche Antwort bedeutet „Das ist kein Problem“?",
+        "explanation": "Não tem problema ist im brasilianischen Alltag eine übliche beruhigende Antwort.",
         "options": [
           {
             "id": "wrong-2",
-            "text": "O problema \u00E9 grande."
+            "text": "O problema é grande."
           },
           {
             "id": "answer",
-            "text": "N\u00E3o tem problema."
+            "text": "Não tem problema."
           },
           {
             "id": "wrong-0",
@@ -822,7 +934,7 @@
           },
           {
             "id": "wrong-1",
-            "text": "Qual \u00E9 o problema?"
+            "text": "Qual é o problema?"
           }
         ],
         "answer": [
@@ -838,8 +950,8 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EProblem\u201C?",
-        "explanation": "problema \u2014 Problem. O problema, Plural problemas, ist trotz der Endung -a m\u00E4nnlich. N\u00E3o tem problema ist im brasilianischen Alltag eine \u00FCbliche Reaktion: Das ist kein Problem oder kein Problem. N\u00E3o tem problema. \u2014 Das ist kein Problem.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Problem“?",
+        "explanation": "problema — Problem. O problema, Plural problemas, ist trotz der Endung -a männlich. Não tem problema ist im brasilianischen Alltag eine übliche Reaktion: Das ist kein Problem oder kein Problem. Não tem problema. — Das ist kein Problem.",
         "options": [
           {
             "id": "answer",
@@ -871,8 +983,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du m\u00F6chtest, dass jemand das Gesagte wiederholt. Welche Bitte passt?",
-        "explanation": "Repetir verlangt Wiederholung. Mais devagar ver\u00E4ndert das Tempo; escrever bittet um Schreiben.",
+        "prompt": "Du möchtest, dass jemand das Gesagte wiederholt. Welche Bitte passt?",
+        "explanation": "Repetir verlangt Wiederholung. Mais devagar verändert das Tempo; escrever bittet um Schreiben.",
         "options": [
           {
             "id": "wrong-2",
@@ -904,12 +1016,12 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ewiederholen\u201C?",
-        "explanation": "repetir \u2014 wiederholen. Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine h\u00F6fliche Bitte, etwas noch einmal zu sagen. Die Wendung l\u00E4sst sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht. Pode repetir, por favor? \u2014 Kannst du das bitte wiederholen?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „wiederholen“?",
+        "explanation": "repetir — wiederholen. Repetir bedeutet wiederholen. Pode repetir, por favor? ist eine höfliche Bitte, etwas noch einmal zu sagen. Die Wendung lässt sich als Ganzes lernen und wird beim Nachfragen erneut gebraucht. Pode repetir, por favor? — Kannst du das bitte wiederholen?",
         "options": [
           {
             "id": "d2",
-            "text": "com licen\u00E7a"
+            "text": "com licença"
           },
           {
             "id": "d4",

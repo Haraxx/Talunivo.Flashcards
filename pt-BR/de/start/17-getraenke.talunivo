@@ -2,90 +2,202 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-17-getraenke",
-  "packageVersion": 5,
-  "title": "17 \u00B7 Getr\u00E4nke bestellen",
+  "packageVersion": 6,
+  "title": "17 · Getränke bestellen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
     {
       "id": "karte-01",
-      "topic": "Getr\u00E4nke bestellen",
-      "expression": "\u00E1gua sem g\u00E1s",
+      "topic": "Getränke bestellen",
+      "expression": "água sem gás",
       "translation": "stilles Wasser",
-      "example": "Uma \u00E1gua sem g\u00E1s, por favor.",
+      "example": "Uma água sem gás, por favor.",
       "exampleTranslation": "Ein stilles Wasser, bitte.",
-      "explanation": "A \u00E1gua ist weiblich, deshalb uma \u00E1gua. Sem g\u00E1s bedeutet ohne Kohlens\u00E4ure: stilles Wasser. Sem gelo w\u00FCrde dagegen ohne Eisw\u00FCrfel bedeuten; das sind verschiedene Zus\u00E4tze.",
-      "isVocabulary": true
+      "explanation": "A água ist weiblich, deshalb uma água. Sem gás bedeutet ohne Kohlensäure: stilles Wasser. Sem gelo würde dagegen ohne Eiswürfel bedeuten; das sind verschiedene Zusätze.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "A-gua ssẽi GASS",
+        "ipa": "[ˈaɡwɐ sẽj̃ ɡas]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "Ũ-ma A-gua ssẽi GASS, pur fa-WOR.",
+        "ipa": "[ˈũmɐ ˈaɡwɐ sẽj̃ ɡas puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-02",
-      "topic": "Getr\u00E4nke bestellen",
-      "expression": "\u00E1gua com g\u00E1s",
+      "topic": "Getränke bestellen",
+      "expression": "água com gás",
       "translation": "Sprudelwasser",
-      "example": "Quero \u00E1gua com g\u00E1s.",
-      "exampleTranslation": "Ich m\u00F6chte Sprudelwasser.",
-      "explanation": "\u00C1gua com g\u00E1s ist Wasser mit Kohlens\u00E4ure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem g\u00E1s w\u00E4re ohne Kohlens\u00E4ure. Hier wird kein bestimmter Kohlens\u00E4uregehalt festgelegt.",
-      "isVocabulary": true
+      "example": "Quero água com gás.",
+      "exampleTranslation": "Ich möchte Sprudelwasser.",
+      "explanation": "Água com gás ist Wasser mit Kohlensäure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem gás wäre ohne Kohlensäure. Hier wird kein bestimmter Kohlensäuregehalt festgelegt.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "A-gua kõ GASS",
+        "ipa": "[ˈaɡwɐ kõ ɡas]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "KÄ-ru A-gua kõ GASS.",
+        "ipa": "[ˈkɛɾu ˈaɡwɐ kõ ɡas]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-03",
-      "topic": "Getr\u00E4nke bestellen",
-      "expression": "caf\u00E9 com leite",
+      "topic": "Getränke bestellen",
+      "expression": "café com leite",
       "translation": "Milchkaffee",
-      "example": "Um caf\u00E9 com leite, por favor.",
+      "example": "Um café com leite, por favor.",
       "exampleTranslation": "Einen Kaffee mit Milch, bitte.",
-      "explanation": "Caf\u00E9 com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O caf\u00E9 ist m\u00E4nnlich, deshalb um caf\u00E9. Die Wendung allein gibt kein genaues Verh\u00E4ltnis von Kaffee und Milch an.",
-      "isVocabulary": true
+      "explanation": "Café com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O café ist männlich, deshalb um café. Die Wendung allein gibt kein genaues Verhältnis von Kaffee und Milch an.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "ka-FÄ kõ LEI-tschi",
+        "ipa": "[kaˈfɛ kõ ˈlejtʃi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "Ũ ka-FÄ kõ LEI-tschi, pur fa-WOR.",
+        "ipa": "[ũ kaˈfɛ kõ ˈlejtʃi puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-04",
-      "topic": "Getr\u00E4nke bestellen",
-      "expression": "ch\u00E1",
+      "topic": "Getränke bestellen",
+      "expression": "chá",
       "translation": "Tee",
-      "example": "Tem ch\u00E1?",
+      "example": "Tem chá?",
       "exampleTranslation": "Gibt es Tee?",
-      "explanation": "O ch\u00E1 ist Tee; der Akut geh\u00F6rt zur Schreibweise. Tem ch\u00E1? fragt nach der Verf\u00FCgbarkeit. Eine Bestellung kann zum Beispiel mit Um ch\u00E1, por favor. formuliert werden.",
-      "isVocabulary": true
+      "explanation": "O chá ist Tee; der Akut gehört zur Schreibweise. Tem chá? fragt nach der Verfügbarkeit. Eine Bestellung kann zum Beispiel mit Um chá, por favor. formuliert werden.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "SCHA",
+        "ipa": "[ʃa]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "TẼI SCHA?",
+        "ipa": "[tẽj̃ ʃa]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-05",
-      "topic": "Getr\u00E4nke bestellen",
+      "topic": "Getränke bestellen",
       "expression": "suco de laranja",
       "translation": "Orangensaft",
       "example": "Quero um suco de laranja, por favor.",
-      "exampleTranslation": "Ich m\u00F6chte einen Orangensaft, bitte.",
-      "explanation": "O suco ist die brasilianische Bezeichnung f\u00FCr Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum m\u00E4nnlichen suco.",
-      "isVocabulary": true
+      "exampleTranslation": "Ich möchte einen Orangensaft, bitte.",
+      "explanation": "O suco ist die brasilianische Bezeichnung für Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum männlichen suco.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "SSU-ku dschi la-RÃ-zha",
+        "ipa": "[ˈsuku dʒi laˈɾɐ̃ʒɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "KÄ-ru Ũ SSU-ku dschi la-RÃ-zha, pur fa-WOR.",
+        "ipa": "[ˈkɛɾu ũ ˈsuku dʒi laˈɾɐ̃ʒɐ puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-06",
-      "topic": "Getr\u00E4nke bestellen",
+      "topic": "Getränke bestellen",
       "expression": "sem gelo",
-      "translation": "ohne Eisw\u00FCrfel",
+      "translation": "ohne Eiswürfel",
       "example": "Sem gelo, por favor.",
-      "exampleTranslation": "Ohne Eisw\u00FCrfel, bitte.",
-      "explanation": "Gelo bedeutet Eis; bei einem Getr\u00E4nk sind hier Eisw\u00FCrfel gemeint. Sem gelo ist ohne Eisw\u00FCrfel und erg\u00E4nzt eine Bestellung. Speiseeis hei\u00DFt sorvete; sem gelo ist nicht dieselbe Angabe wie sem g\u00E1s.",
-      "isVocabulary": true
+      "exampleTranslation": "Ohne Eiswürfel, bitte.",
+      "explanation": "Gelo bedeutet Eis; bei einem Getränk sind hier Eiswürfel gemeint. Sem gelo ist ohne Eiswürfel und ergänzt eine Bestellung. Speiseeis heißt sorvete; sem gelo ist nicht dieselbe Angabe wie sem gás.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "ssẽi ZHÄ-lu",
+        "ipa": "[sẽj̃ ˈʒɛlu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ssẽi ZHÄ-lu, pur fa-WOR.",
+        "ipa": "[sẽj̃ ˈʒɛlu puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-07",
-      "topic": "Getr\u00E4nke bestellen",
-      "expression": "x\u00EDcara",
+      "topic": "Getränke bestellen",
+      "expression": "xícara",
       "translation": "Tasse",
-      "example": "Uma x\u00EDcara de ch\u00E1, por favor.",
+      "example": "Uma xícara de chá, por favor.",
       "exampleTranslation": "Eine Tasse Tee, bitte.",
-      "explanation": "A x\u00EDcara, Plural x\u00EDcaras. Uma x\u00EDcara de ch\u00E1 bedeutet eine Tasse Tee. De verbindet hier das Gef\u00E4\u00DF mit dem Inhalt. X\u00EDcara ist eine Tasse; copo aus Paket 14 bezeichnet ein Trinkglas.",
-      "isVocabulary": true
+      "explanation": "A xícara, Plural xícaras. Uma xícara de chá bedeutet eine Tasse Tee. De verbindet hier das Gefäß mit dem Inhalt. Xícara ist eine Tasse; copo aus Paket 14 bezeichnet ein Trinkglas.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "SCHI-ka-ra",
+        "ipa": "[ˈʃikɐɾɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "Ũ-ma SCHI-ka-ra dschi SCHA, pur fa-WOR.",
+        "ipa": "[ˈũmɐ ˈʃikɐɾɐ dʒi ʃa puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-08",
-      "topic": "Getr\u00E4nke bestellen",
+      "topic": "Getränke bestellen",
       "expression": "para levar",
       "translation": "zum Mitnehmen",
-      "example": "Um caf\u00E9 para levar, por favor.",
+      "example": "Um café para levar, por favor.",
       "exampleTranslation": "Einen Kaffee zum Mitnehmen, bitte.",
-      "explanation": "Para levar hei\u00DFt bei einer Bestellung zum Mitnehmen. Die Wendung erg\u00E4nzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gef\u00E4\u00DFgr\u00F6\u00DFe.",
-      "isVocabulary": true
+      "explanation": "Para levar heißt bei einer Bestellung zum Mitnehmen. Die Wendung ergänzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gefäßgröße.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "PA-ra le-WAR",
+        "ipa": "[ˈpaɾɐ leˈvaɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "Ũ ka-FÄ PA-ra le-WAR, pur fa-WOR.",
+        "ipa": "[ũ kaˈfɛ ˈpaɾɐ leˈvaɾ puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     }
   ],
   "learning": {
@@ -93,7 +205,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Getr\u00E4nke bestellen und Zus\u00E4tze wie Kohlens\u00E4ure oder Eis unterscheiden.",
+        "description": "Getränke bestellen und Zusätze wie Kohlensäure oder Eis unterscheiden.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -113,12 +225,12 @@
         "cardId": "karte-04",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Tee: \u201EUm ____, por favor.\u201C",
-        "explanation": "Ch\u00E1 hei\u00DFt Tee. Der Akut geh\u00F6rt zur Schreibweise.",
+        "prompt": "Ergänze das gelernte Nomen für Tee: „Um ____, por favor.“",
+        "explanation": "Chá heißt Tee. Der Akut gehört zur Schreibweise.",
         "options": [],
         "answer": [],
         "acceptedText": [
-          "ch\u00E1"
+          "chá"
         ],
         "audioText": null,
         "difficulty": 1
@@ -129,12 +241,12 @@
         "cardId": "karte-07",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das gelernte Nomen f\u00FCr Tasse aus diesem Paket: \u201EUma ____ de ch\u00E1, por favor.\u201C",
-        "explanation": "X\u00EDcara ist die Tasse. Uma passt zum weiblichen Nomen x\u00EDcara.",
+        "prompt": "Ergänze das gelernte Nomen für Tasse aus diesem Paket: „Uma ____ de chá, por favor.“",
+        "explanation": "Xícara ist die Tasse. Uma passt zum weiblichen Nomen xícara.",
         "options": [],
         "answer": [],
         "acceptedText": [
-          "x\u00EDcara"
+          "xícara"
         ],
         "audioText": null,
         "difficulty": 1
@@ -145,8 +257,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "\u00E1gua sem g\u00E1s \u2014 stilles Wasser. A \u00E1gua ist weiblich, deshalb uma \u00E1gua. Sem g\u00E1s bedeutet ohne Kohlens\u00E4ure: stilles Wasser. Sem gelo w\u00FCrde dagegen ohne Eisw\u00FCrfel bedeuten; das sind verschiedene Zus\u00E4tze. Uma \u00E1gua sem g\u00E1s, por favor. \u2014 Ein stilles Wasser, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "água sem gás — stilles Wasser. A água ist weiblich, deshalb uma água. Sem gás bedeutet ohne Kohlensäure: stilles Wasser. Sem gelo würde dagegen ohne Eiswürfel bedeuten; das sind verschiedene Zusätze. Uma água sem gás, por favor. — Ein stilles Wasser, bitte.",
         "options": [
           {
             "id": "d2",
@@ -158,7 +270,7 @@
           },
           {
             "id": "d4",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "answer",
@@ -169,7 +281,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "\u00E1gua sem g\u00E1s",
+        "audioText": "água sem gás",
         "difficulty": 1
       },
       {
@@ -178,8 +290,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201E\u00E1gua sem g\u00E1s\u201C?",
-        "explanation": "\u00E1gua sem g\u00E1s \u2014 stilles Wasser. A \u00E1gua ist weiblich, deshalb uma \u00E1gua. Sem g\u00E1s bedeutet ohne Kohlens\u00E4ure: stilles Wasser. Sem gelo w\u00FCrde dagegen ohne Eisw\u00FCrfel bedeuten; das sind verschiedene Zus\u00E4tze. Uma \u00E1gua sem g\u00E1s, por favor. \u2014 Ein stilles Wasser, bitte.",
+        "prompt": "Was bedeutet „água sem gás“?",
+        "explanation": "água sem gás — stilles Wasser. A água ist weiblich, deshalb uma água. Sem gás bedeutet ohne Kohlensäure: stilles Wasser. Sem gelo würde dagegen ohne Eiswürfel bedeuten; das sind verschiedene Zusätze. Uma água sem gás, por favor. — Ein stilles Wasser, bitte.",
         "options": [
           {
             "id": "answer",
@@ -191,7 +303,7 @@
           },
           {
             "id": "d4",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "d0",
@@ -211,8 +323,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "\u00E1gua com g\u00E1s \u2014 Sprudelwasser. \u00C1gua com g\u00E1s ist Wasser mit Kohlens\u00E4ure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem g\u00E1s w\u00E4re ohne Kohlens\u00E4ure. Hier wird kein bestimmter Kohlens\u00E4uregehalt festgelegt. Quero \u00E1gua com g\u00E1s. \u2014 Ich m\u00F6chte Sprudelwasser.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "água com gás — Sprudelwasser. Água com gás ist Wasser mit Kohlensäure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem gás wäre ohne Kohlensäure. Hier wird kein bestimmter Kohlensäuregehalt festgelegt. Quero água com gás. — Ich möchte Sprudelwasser.",
         "options": [
           {
             "id": "d3",
@@ -224,7 +336,7 @@
           },
           {
             "id": "d5",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "answer",
@@ -235,7 +347,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "\u00E1gua com g\u00E1s",
+        "audioText": "água com gás",
         "difficulty": 1
       },
       {
@@ -244,8 +356,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201E\u00E1gua com g\u00E1s\u201C?",
-        "explanation": "\u00E1gua com g\u00E1s \u2014 Sprudelwasser. \u00C1gua com g\u00E1s ist Wasser mit Kohlens\u00E4ure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem g\u00E1s w\u00E4re ohne Kohlens\u00E4ure. Hier wird kein bestimmter Kohlens\u00E4uregehalt festgelegt. Quero \u00E1gua com g\u00E1s. \u2014 Ich m\u00F6chte Sprudelwasser.",
+        "prompt": "Was bedeutet „água com gás“?",
+        "explanation": "água com gás — Sprudelwasser. Água com gás ist Wasser mit Kohlensäure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem gás wäre ohne Kohlensäure. Hier wird kein bestimmter Kohlensäuregehalt festgelegt. Quero água com gás. — Ich möchte Sprudelwasser.",
         "options": [
           {
             "id": "d1",
@@ -253,7 +365,7 @@
           },
           {
             "id": "d5",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "answer",
@@ -277,8 +389,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "caf\u00E9 com leite \u2014 Milchkaffee. Caf\u00E9 com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O caf\u00E9 ist m\u00E4nnlich, deshalb um caf\u00E9. Die Wendung allein gibt kein genaues Verh\u00E4ltnis von Kaffee und Milch an. Um caf\u00E9 com leite, por favor. \u2014 Einen Kaffee mit Milch, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "café com leite — Milchkaffee. Café com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O café ist männlich, deshalb um café. Die Wendung allein gibt kein genaues Verhältnis von Kaffee und Milch an. Um café com leite, por favor. — Einen Kaffee mit Milch, bitte.",
         "options": [
           {
             "id": "d6",
@@ -301,7 +413,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "caf\u00E9 com leite",
+        "audioText": "café com leite",
         "difficulty": 1
       },
       {
@@ -310,8 +422,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ecaf\u00E9 com leite\u201C?",
-        "explanation": "caf\u00E9 com leite \u2014 Milchkaffee. Caf\u00E9 com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O caf\u00E9 ist m\u00E4nnlich, deshalb um caf\u00E9. Die Wendung allein gibt kein genaues Verh\u00E4ltnis von Kaffee und Milch an. Um caf\u00E9 com leite, por favor. \u2014 Einen Kaffee mit Milch, bitte.",
+        "prompt": "Was bedeutet „café com leite“?",
+        "explanation": "café com leite — Milchkaffee. Café com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O café ist männlich, deshalb um café. Die Wendung allein gibt kein genaues Verhältnis von Kaffee und Milch an. Um café com leite, por favor. — Einen Kaffee mit Milch, bitte.",
         "options": [
           {
             "id": "d6",
@@ -343,8 +455,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "suco de laranja \u2014 Orangensaft. O suco ist die brasilianische Bezeichnung f\u00FCr Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum m\u00E4nnlichen suco. Quero um suco de laranja, por favor. \u2014 Ich m\u00F6chte einen Orangensaft, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "suco de laranja — Orangensaft. O suco ist die brasilianische Bezeichnung für Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum männlichen suco. Quero um suco de laranja, por favor. — Ich möchte einen Orangensaft, bitte.",
         "options": [
           {
             "id": "answer",
@@ -356,7 +468,7 @@
           },
           {
             "id": "d4",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "d3",
@@ -376,8 +488,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Esuco de laranja\u201C?",
-        "explanation": "suco de laranja \u2014 Orangensaft. O suco ist die brasilianische Bezeichnung f\u00FCr Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum m\u00E4nnlichen suco. Quero um suco de laranja, por favor. \u2014 Ich m\u00F6chte einen Orangensaft, bitte.",
+        "prompt": "Was bedeutet „suco de laranja“?",
+        "explanation": "suco de laranja — Orangensaft. O suco ist die brasilianische Bezeichnung für Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum männlichen suco. Quero um suco de laranja, por favor. — Ich möchte einen Orangensaft, bitte.",
         "options": [
           {
             "id": "d0",
@@ -393,7 +505,7 @@
           },
           {
             "id": "d4",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           }
         ],
         "answer": [
@@ -409,8 +521,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "sem gelo \u2014 ohne Eisw\u00FCrfel. Gelo bedeutet Eis; bei einem Getr\u00E4nk sind hier Eisw\u00FCrfel gemeint. Sem gelo ist ohne Eisw\u00FCrfel und erg\u00E4nzt eine Bestellung. Speiseeis hei\u00DFt sorvete; sem gelo ist nicht dieselbe Angabe wie sem g\u00E1s. Sem gelo, por favor. \u2014 Ohne Eisw\u00FCrfel, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "sem gelo — ohne Eiswürfel. Gelo bedeutet Eis; bei einem Getränk sind hier Eiswürfel gemeint. Sem gelo ist ohne Eiswürfel und ergänzt eine Bestellung. Speiseeis heißt sorvete; sem gelo ist nicht dieselbe Angabe wie sem gás. Sem gelo, por favor. — Ohne Eiswürfel, bitte.",
         "options": [
           {
             "id": "d4",
@@ -422,7 +534,7 @@
           },
           {
             "id": "answer",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "d2",
@@ -442,8 +554,8 @@
         "cardId": "karte-06",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Esem gelo\u201C?",
-        "explanation": "sem gelo \u2014 ohne Eisw\u00FCrfel. Gelo bedeutet Eis; bei einem Getr\u00E4nk sind hier Eisw\u00FCrfel gemeint. Sem gelo ist ohne Eisw\u00FCrfel und erg\u00E4nzt eine Bestellung. Speiseeis hei\u00DFt sorvete; sem gelo ist nicht dieselbe Angabe wie sem g\u00E1s. Sem gelo, por favor. \u2014 Ohne Eisw\u00FCrfel, bitte.",
+        "prompt": "Was bedeutet „sem gelo“?",
+        "explanation": "sem gelo — ohne Eiswürfel. Gelo bedeutet Eis; bei einem Getränk sind hier Eiswürfel gemeint. Sem gelo ist ohne Eiswürfel und ergänzt eine Bestellung. Speiseeis heißt sorvete; sem gelo ist nicht dieselbe Angabe wie sem gás. Sem gelo, por favor. — Ohne Eiswürfel, bitte.",
         "options": [
           {
             "id": "d5",
@@ -455,7 +567,7 @@
           },
           {
             "id": "answer",
-            "text": "ohne Eisw\u00FCrfel"
+            "text": "ohne Eiswürfel"
           },
           {
             "id": "d1",
@@ -475,8 +587,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "para levar \u2014 zum Mitnehmen. Para levar hei\u00DFt bei einer Bestellung zum Mitnehmen. Die Wendung erg\u00E4nzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gef\u00E4\u00DFgr\u00F6\u00DFe. Um caf\u00E9 para levar, por favor. \u2014 Einen Kaffee zum Mitnehmen, bitte.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "para levar — zum Mitnehmen. Para levar heißt bei einer Bestellung zum Mitnehmen. Die Wendung ergänzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gefäßgröße. Um café para levar, por favor. — Einen Kaffee zum Mitnehmen, bitte.",
         "options": [
           {
             "id": "d3",
@@ -508,8 +620,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Epara levar\u201C?",
-        "explanation": "para levar \u2014 zum Mitnehmen. Para levar hei\u00DFt bei einer Bestellung zum Mitnehmen. Die Wendung erg\u00E4nzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gef\u00E4\u00DFgr\u00F6\u00DFe. Um caf\u00E9 para levar, por favor. \u2014 Einen Kaffee zum Mitnehmen, bitte.",
+        "prompt": "Was bedeutet „para levar“?",
+        "explanation": "para levar — zum Mitnehmen. Para levar heißt bei einer Bestellung zum Mitnehmen. Die Wendung ergänzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gefäßgröße. Um café para levar, por favor. — Einen Kaffee zum Mitnehmen, bitte.",
         "options": [
           {
             "id": "d0",
@@ -541,8 +653,8 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Estilles Wasser\u201C?",
-        "explanation": "\u00E1gua sem g\u00E1s \u2014 stilles Wasser. A \u00E1gua ist weiblich, deshalb uma \u00E1gua. Sem g\u00E1s bedeutet ohne Kohlens\u00E4ure: stilles Wasser. Sem gelo w\u00FCrde dagegen ohne Eisw\u00FCrfel bedeuten; das sind verschiedene Zus\u00E4tze. Uma \u00E1gua sem g\u00E1s, por favor. \u2014 Ein stilles Wasser, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „stilles Wasser“?",
+        "explanation": "água sem gás — stilles Wasser. A água ist weiblich, deshalb uma água. Sem gás bedeutet ohne Kohlensäure: stilles Wasser. Sem gelo würde dagegen ohne Eiswürfel bedeuten; das sind verschiedene Zusätze. Uma água sem gás, por favor. — Ein stilles Wasser, bitte.",
         "options": [
           {
             "id": "d5",
@@ -554,11 +666,11 @@
           },
           {
             "id": "d2",
-            "text": "ch\u00E1"
+            "text": "chá"
           },
           {
             "id": "answer",
-            "text": "\u00E1gua sem g\u00E1s"
+            "text": "água sem gás"
           }
         ],
         "answer": [
@@ -574,8 +686,8 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Bestellung verlangt ausdr\u00FCcklich Wasser ohne Kohlens\u00E4ure?",
-        "explanation": "Sem g\u00E1s bedeutet ohne Kohlens\u00E4ure. Sem gelo verlangt dagegen keine Eisw\u00FCrfel.",
+        "prompt": "Welche Bestellung verlangt ausdrücklich Wasser ohne Kohlensäure?",
+        "explanation": "Sem gás bedeutet ohne Kohlensäure. Sem gelo verlangt dagegen keine Eiswürfel.",
         "options": [
           {
             "id": "wrong-2",
@@ -583,15 +695,15 @@
           },
           {
             "id": "answer",
-            "text": "Uma \u00E1gua sem g\u00E1s, por favor."
+            "text": "Uma água sem gás, por favor."
           },
           {
             "id": "wrong-0",
-            "text": "Uma \u00E1gua com g\u00E1s, por favor."
+            "text": "Uma água com gás, por favor."
           },
           {
             "id": "wrong-1",
-            "text": "Um ch\u00E1, por favor."
+            "text": "Um chá, por favor."
           }
         ],
         "answer": [
@@ -607,20 +719,20 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201ESprudelwasser\u201C?",
-        "explanation": "\u00E1gua com g\u00E1s \u2014 Sprudelwasser. \u00C1gua com g\u00E1s ist Wasser mit Kohlens\u00E4ure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem g\u00E1s w\u00E4re ohne Kohlens\u00E4ure. Hier wird kein bestimmter Kohlens\u00E4uregehalt festgelegt. Quero \u00E1gua com g\u00E1s. \u2014 Ich m\u00F6chte Sprudelwasser.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Sprudelwasser“?",
+        "explanation": "água com gás — Sprudelwasser. Água com gás ist Wasser mit Kohlensäure, auf Deutsch auch Sprudelwasser. Com bedeutet mit; sem gás wäre ohne Kohlensäure. Hier wird kein bestimmter Kohlensäuregehalt festgelegt. Quero água com gás. — Ich möchte Sprudelwasser.",
         "options": [
           {
             "id": "d3",
-            "text": "\u00E1gua sem g\u00E1s"
+            "text": "água sem gás"
           },
           {
             "id": "answer",
-            "text": "\u00E1gua com g\u00E1s"
+            "text": "água com gás"
           },
           {
             "id": "d1",
-            "text": "caf\u00E9 com leite"
+            "text": "café com leite"
           },
           {
             "id": "d5",
@@ -640,8 +752,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage bestellt ausdr\u00FCcklich Sprudelwasser?",
-        "explanation": "\u00C1gua com g\u00E1s ist Wasser mit Kohlens\u00E4ure. Daraus folgt kein bestimmter Kohlens\u00E4uregehalt.",
+        "prompt": "Welche Aussage bestellt ausdrücklich Sprudelwasser?",
+        "explanation": "Água com gás ist Wasser mit Kohlensäure. Daraus folgt kein bestimmter Kohlensäuregehalt.",
         "options": [
           {
             "id": "wrong-2",
@@ -649,15 +761,15 @@
           },
           {
             "id": "wrong-0",
-            "text": "Quero \u00E1gua sem g\u00E1s."
+            "text": "Quero água sem gás."
           },
           {
             "id": "wrong-1",
-            "text": "Quero ch\u00E1 sem a\u00E7\u00FAcar."
+            "text": "Quero chá sem açúcar."
           },
           {
             "id": "answer",
-            "text": "Quero \u00E1gua com g\u00E1s."
+            "text": "Quero água com gás."
           }
         ],
         "answer": [
@@ -673,12 +785,12 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EMilchkaffee\u201C?",
-        "explanation": "caf\u00E9 com leite \u2014 Milchkaffee. Caf\u00E9 com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O caf\u00E9 ist m\u00E4nnlich, deshalb um caf\u00E9. Die Wendung allein gibt kein genaues Verh\u00E4ltnis von Kaffee und Milch an. Um caf\u00E9 com leite, por favor. \u2014 Einen Kaffee mit Milch, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Milchkaffee“?",
+        "explanation": "café com leite — Milchkaffee. Café com leite bedeutet Kaffee mit Milch; Milchkaffee ist ebenfalls eine passende deutsche Bezeichnung. O café ist männlich, deshalb um café. Die Wendung allein gibt kein genaues Verhältnis von Kaffee und Milch an. Um café com leite, por favor. — Einen Kaffee mit Milch, bitte.",
         "options": [
           {
             "id": "d2",
-            "text": "\u00E1gua sem g\u00E1s"
+            "text": "água sem gás"
           },
           {
             "id": "d0",
@@ -686,11 +798,11 @@
           },
           {
             "id": "answer",
-            "text": "caf\u00E9 com leite"
+            "text": "café com leite"
           },
           {
             "id": "d1",
-            "text": "ch\u00E1"
+            "text": "chá"
           }
         ],
         "answer": [
@@ -706,24 +818,24 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201EO que voc\u00EA quer beber?\u201C \u2013 Welche Antwort bestellt Kaffee mit Milch?",
-        "explanation": "Caf\u00E9 com leite bedeutet Kaffee mit Milch oder Milchkaffee. Das Verh\u00E4ltnis der Zutaten wird nicht festgelegt.",
+        "prompt": "„O que você quer beber?“ – Welche Antwort bestellt Kaffee mit Milch?",
+        "explanation": "Café com leite bedeutet Kaffee mit Milch oder Milchkaffee. Das Verhältnis der Zutaten wird nicht festgelegt.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Um caf\u00E9 sem leite, por favor."
+            "text": "Um café sem leite, por favor."
           },
           {
             "id": "answer",
-            "text": "Um caf\u00E9 com leite, por favor."
+            "text": "Um café com leite, por favor."
           },
           {
             "id": "wrong-2",
-            "text": "Uma \u00E1gua sem g\u00E1s, por favor."
+            "text": "Uma água sem gás, por favor."
           },
           {
             "id": "wrong-0",
-            "text": "Um ch\u00E1, por favor."
+            "text": "Um chá, por favor."
           }
         ],
         "answer": [
@@ -739,12 +851,12 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EOrangensaft\u201C?",
-        "explanation": "suco de laranja \u2014 Orangensaft. O suco ist die brasilianische Bezeichnung f\u00FCr Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum m\u00E4nnlichen suco. Quero um suco de laranja, por favor. \u2014 Ich m\u00F6chte einen Orangensaft, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Orangensaft“?",
+        "explanation": "suco de laranja — Orangensaft. O suco ist die brasilianische Bezeichnung für Saft. Suco de laranja bedeutet Orangensaft; de laranja nennt hier die Frucht, aus der der Saft stammt. Um passt zum männlichen suco. Quero um suco de laranja, por favor. — Ich möchte einen Orangensaft, bitte.",
         "options": [
           {
             "id": "d0",
-            "text": "caf\u00E9 com leite"
+            "text": "café com leite"
           },
           {
             "id": "d4",
@@ -752,7 +864,7 @@
           },
           {
             "id": "d6",
-            "text": "\u00E1gua com g\u00E1s"
+            "text": "água com gás"
           },
           {
             "id": "answer",
@@ -772,12 +884,12 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201EO que voc\u00EA quer beber?\u201C \u2013 Welche Antwort bestellt Orangensaft?",
+        "prompt": "„O que você quer beber?“ – Welche Antwort bestellt Orangensaft?",
         "explanation": "Suco ist im brasilianischen Portugiesisch Saft. De laranja nennt die Orange.",
         "options": [
           {
             "id": "wrong-0",
-            "text": "Um caf\u00E9 com leite, por favor."
+            "text": "Um café com leite, por favor."
           },
           {
             "id": "answer",
@@ -785,11 +897,11 @@
           },
           {
             "id": "wrong-1",
-            "text": "Um ch\u00E1, por favor."
+            "text": "Um chá, por favor."
           },
           {
             "id": "wrong-2",
-            "text": "Uma \u00E1gua sem g\u00E1s, por favor."
+            "text": "Uma água sem gás, por favor."
           }
         ],
         "answer": [
@@ -805,8 +917,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Eohne Eisw\u00FCrfel\u201C?",
-        "explanation": "sem gelo \u2014 ohne Eisw\u00FCrfel. Gelo bedeutet Eis; bei einem Getr\u00E4nk sind hier Eisw\u00FCrfel gemeint. Sem gelo ist ohne Eisw\u00FCrfel und erg\u00E4nzt eine Bestellung. Speiseeis hei\u00DFt sorvete; sem gelo ist nicht dieselbe Angabe wie sem g\u00E1s. Sem gelo, por favor. \u2014 Ohne Eisw\u00FCrfel, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „ohne Eiswürfel“?",
+        "explanation": "sem gelo — ohne Eiswürfel. Gelo bedeutet Eis; bei einem Getränk sind hier Eiswürfel gemeint. Sem gelo ist ohne Eiswürfel und ergänzt eine Bestellung. Speiseeis heißt sorvete; sem gelo ist nicht dieselbe Angabe wie sem gás. Sem gelo, por favor. — Ohne Eiswürfel, bitte.",
         "options": [
           {
             "id": "answer",
@@ -814,15 +926,15 @@
           },
           {
             "id": "d6",
-            "text": "\u00E1gua com g\u00E1s"
+            "text": "água com gás"
           },
           {
             "id": "d4",
-            "text": "x\u00EDcara"
+            "text": "xícara"
           },
           {
             "id": "d3",
-            "text": "\u00E1gua sem g\u00E1s"
+            "text": "água sem gás"
           }
         ],
         "answer": [
@@ -838,8 +950,8 @@
         "cardId": "karte-06",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Erg\u00E4nzung bedeutet ausdr\u00FCcklich \u201Eohne Eisw\u00FCrfel\u201C?",
-        "explanation": "Bei einem Getr\u00E4nk ist gelo hier Eis in Form von Eisw\u00FCrfeln. Sem g\u00E1s bedeutet etwas anderes: ohne Kohlens\u00E4ure.",
+        "prompt": "Welche Ergänzung bedeutet ausdrücklich „ohne Eiswürfel“?",
+        "explanation": "Bei einem Getränk ist gelo hier Eis in Form von Eiswürfeln. Sem gás bedeutet etwas anderes: ohne Kohlensäure.",
         "options": [
           {
             "id": "wrong-1",
@@ -851,11 +963,11 @@
           },
           {
             "id": "wrong-0",
-            "text": "Sem g\u00E1s, por favor."
+            "text": "Sem gás, por favor."
           },
           {
             "id": "wrong-2",
-            "text": "Com a\u00E7\u00FAcar, por favor."
+            "text": "Com açúcar, por favor."
           }
         ],
         "answer": [
@@ -871,12 +983,12 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ezum Mitnehmen\u201C?",
-        "explanation": "para levar \u2014 zum Mitnehmen. Para levar hei\u00DFt bei einer Bestellung zum Mitnehmen. Die Wendung erg\u00E4nzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gef\u00E4\u00DFgr\u00F6\u00DFe. Um caf\u00E9 para levar, por favor. \u2014 Einen Kaffee zum Mitnehmen, bitte.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „zum Mitnehmen“?",
+        "explanation": "para levar — zum Mitnehmen. Para levar heißt bei einer Bestellung zum Mitnehmen. Die Wendung ergänzt hier den Kaffee. Sie benennt die Mitnahme, aber noch keine bestimmte Verpackung oder Gefäßgröße. Um café para levar, por favor. — Einen Kaffee zum Mitnehmen, bitte.",
         "options": [
           {
             "id": "d2",
-            "text": "ch\u00E1"
+            "text": "chá"
           },
           {
             "id": "answer",
@@ -884,11 +996,11 @@
           },
           {
             "id": "d1",
-            "text": "caf\u00E9 com leite"
+            "text": "café com leite"
           },
           {
             "id": "d6",
-            "text": "\u00E1gua com g\u00E1s"
+            "text": "água com gás"
           }
         ],
         "answer": [
@@ -904,7 +1016,7 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201EPara comer aqui ou para levar?\u201C \u2013 Welche Antwort bedeutet \u201Ezum Mitnehmen\u201C?",
+        "prompt": "„Para comer aqui ou para levar?“ – Welche Antwort bedeutet „zum Mitnehmen“?",
         "explanation": "Para levar benennt die Mitnahme. Para comer aqui bedeutet zum Hieressen.",
         "options": [
           {
@@ -913,7 +1025,7 @@
           },
           {
             "id": "wrong-2",
-            "text": "Sem a\u00E7\u00FAcar, por favor."
+            "text": "Sem açúcar, por favor."
           },
           {
             "id": "answer",

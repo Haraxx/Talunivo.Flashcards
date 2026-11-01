@@ -2,7 +2,7 @@
   "format": "talunivo",
   "schemaVersion": 2,
   "packageId": "cafe-zusatz",
-  "packageVersion": 4,
+  "packageVersion": 5,
   "title": "Noch mehr im Café",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
@@ -15,7 +15,14 @@
       "isVocabulary": true,
       "example": "Tem uma mesa livre?",
       "exampleTranslation": "Ist ein Tisch frei?",
-      "explanation": "A mesa livre heißt freier oder unbesetzter Tisch; der Plural lautet mesas livres. Tem …? fragt hier nach dem Vorhandensein. Frei bedeutet nicht kostenlos."
+      "explanation": "A mesa livre heißt freier oder unbesetzter Tisch; der Plural lautet mesas livres. Tem …? fragt hier nach dem Vorhandensein. Frei bedeutet nicht kostenlos.",
+      "examplePronunciation": {
+        "germanHint": "TẼI Ũ-ma ME-sa LI-wri?",
+        "ipa": "[tẽj̃ ˈũmɐ ˈmezɐ ˈlivɾi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "conta",
@@ -25,7 +32,21 @@
       "isVocabulary": true,
       "example": "A conta, por favor.",
       "exampleTranslation": "Die Rechnung, bitte.",
-      "explanation": "A conta, Plural contas, bezeichnet hier die Rechnung im Café. Por favor ergänzt die Bitte. Ein anderer Gebrauch von conta ist etwa Konto; diese Bedeutung passt hier nicht."
+      "explanation": "A conta, Plural contas, bezeichnet hier die Rechnung im Café. Por favor ergänzt die Bitte. Ein anderer Gebrauch von conta ist etwa Konto; diese Bedeutung passt hier nicht.",
+      "pronunciation": {
+        "germanHint": "KÕ-ta",
+        "ipa": "[ˈkõtɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "a KÕ-ta, pur fa-WOR.",
+        "ipa": "[ɐ ˈkõtɐ puɾ faˈvoɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "sem-acucar",

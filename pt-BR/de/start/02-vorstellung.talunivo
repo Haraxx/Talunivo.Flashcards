@@ -2,8 +2,8 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-02-vorstellung",
-  "packageVersion": 5,
-  "title": "02 \u00B7 Name und Vorstellung",
+  "packageVersion": 6,
+  "title": "02 · Name und Vorstellung",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,70 +12,168 @@
       "topic": "Name und Vorstellung",
       "expression": "nome",
       "translation": "Name",
-      "example": "Meu nome \u00E9 Ana.",
+      "example": "Meu nome é Ana.",
       "exampleTranslation": "Mein Name ist Ana.",
-      "explanation": "O nome, Plural nomes. Meu nome \u00E9 \u2026 bedeutet mein Name ist \u2026 Ersetze Ana durch deinen Namen.",
-      "isVocabulary": true
+      "explanation": "O nome, Plural nomes. Meu nome é … bedeutet mein Name ist … Ersetze Ana durch deinen Namen.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "NÕ-mi",
+        "ipa": "[ˈnõmi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "MEU NÕ-mi Ä Ã-na.",
+        "ipa": "[mew ˈnõmi ɛ ˈɐ̃nɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-02",
       "topic": "Name und Vorstellung",
       "expression": "chamar-se",
-      "translation": "sich nennen; hei\u00DFen",
+      "translation": "sich nennen; heißen",
       "example": "Eu me chamo Pedro.",
-      "exampleTranslation": "Ich hei\u00DFe Pedro.",
-      "explanation": "Chamar-se hei\u00DFt sich nennen oder hei\u00DFen. F\u00FCr die eigene Vorstellung: eu me chamo \u2026 Das me geh\u00F6rt hier zum Verb; lerne das Muster zusammen.",
-      "isVocabulary": true
+      "exampleTranslation": "Ich heiße Pedro.",
+      "explanation": "Chamar-se heißt sich nennen oder heißen. Für die eigene Vorstellung: eu me chamo … Das me gehört hier zum Verb; lerne das Muster zusammen.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "scha-MAR-ssi",
+        "ipa": "[ʃaˈmaɾ si]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "EU mi SCHÃ-mu PE-dru.",
+        "ipa": "[ew mi ˈʃɐ̃mu ˈpedɾu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-03",
       "topic": "Name und Vorstellung",
-      "expression": "voc\u00EA",
+      "expression": "você",
       "translation": "du; Sie",
-      "example": "Como voc\u00EA se chama?",
-      "exampleTranslation": "Wie hei\u00DFt du?",
-      "explanation": "Voc\u00EA wird hier mit du \u00FCbersetzt und verwendet die dritte Person Singular: voc\u00EA se chama. Die passende deutsche Anrede h\u00E4ngt von der Situation ab; eine f\u00F6rmliche Anrede wird gesondert ge\u00FCbt.",
-      "isVocabulary": true
+      "example": "Como você se chama?",
+      "exampleTranslation": "Wie heißt du?",
+      "explanation": "Você wird hier mit du übersetzt und verwendet die dritte Person Singular: você se chama. Die passende deutsche Anrede hängt von der Situation ab; eine förmliche Anrede wird gesondert geübt.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "wo-SSE",
+        "ipa": "[voˈse]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "KÕ-mu wo-SSE ssi SCHÃ-ma?",
+        "ipa": "[ˈkõmu voˈse si ˈʃɐ̃mɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-04",
       "topic": "Name und Vorstellung",
       "expression": "qual",
       "translation": "welcher; welche; welches",
-      "example": "Qual \u00E9 o seu nome?",
-      "exampleTranslation": "Wie hei\u00DFt du?",
-      "explanation": "Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual \u00E9 o seu nome? ist eine \u00FCbliche Frage nach dem Namen; auf Deutsch nat\u00FCrlich: Wie hei\u00DFt du?",
-      "isVocabulary": true
+      "example": "Qual é o seu nome?",
+      "exampleTranslation": "Wie heißt du?",
+      "explanation": "Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual é o seu nome? ist eine übliche Frage nach dem Namen; auf Deutsch natürlich: Wie heißt du?",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "KUAU",
+        "ipa": "[kwaw]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "KUAU Ä u SSEU NÕ-mi?",
+        "ipa": "[kwaw ɛ u sew ˈnõmi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-05",
       "topic": "Name und Vorstellung",
       "expression": "prazer",
-      "translation": "Vergn\u00FCgen",
+      "translation": "Vergnügen",
       "example": "Prazer, Ana!",
       "exampleTranslation": "Freut mich, Ana!",
-      "explanation": "O prazer bedeutet w\u00F6rtlich das Vergn\u00FCgen. Bei einer Vorstellung hei\u00DFt Prazer! sinngem\u00E4\u00DF freut mich. Die passende Antwort kann ebenfalls Prazer! sein.",
-      "isVocabulary": true
+      "explanation": "O prazer bedeutet wörtlich das Vergnügen. Bei einer Vorstellung heißt Prazer! sinngemäß freut mich. Die passende Antwort kann ebenfalls Prazer! sein.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "pra-SER",
+        "ipa": "[pɾaˈzeɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "pra-SER, Ã-na!",
+        "ipa": "[pɾaˈzeɾ ˈɐ̃nɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-06",
       "topic": "Name und Vorstellung",
       "expression": "este",
       "translation": "dieser",
-      "example": "Este \u00E9 o Pedro.",
+      "example": "Este é o Pedro.",
       "exampleTranslation": "Das ist Pedro.",
-      "explanation": "Este ist die m\u00E4nnliche Form, esta die weibliche. Este \u00E9 o Pedro bedeutet das ist Pedro. O vor einem Personennamen kommt in Brasilien vor; der Gebrauch ist regional unterschiedlich.",
-      "isVocabulary": true
+      "explanation": "Este ist die männliche Form, esta die weibliche. Este é o Pedro bedeutet das ist Pedro. O vor einem Personennamen kommt in Brasilien vor; der Gebrauch ist regional unterschiedlich.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "ESS-tschi",
+        "ipa": "[ˈestʃi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ESS-tschi Ä u PE-dru.",
+        "ipa": "[ˈestʃi ɛ u ˈpedɾu]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-07",
       "topic": "Name und Vorstellung",
       "expression": "amiga",
       "translation": "Freundin",
-      "example": "Esta \u00E9 a minha amiga Ana.",
+      "example": "Esta é a minha amiga Ana.",
       "exampleTranslation": "Das ist meine Freundin Ana.",
-      "explanation": "A amiga, Plural amigas; m\u00E4nnlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este.",
-      "isVocabulary": true
+      "explanation": "A amiga, Plural amigas; männlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "a-MI-ga",
+        "ipa": "[aˈmiɡɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "ÄSS-ta Ä a MĨ-nja a-MI-ga Ã-na.",
+        "ipa": "[ˈɛstɐ ɛ ɐ ˈmĩɲɐ aˈmiɡɐ ˈɐ̃nɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-08",
@@ -84,8 +182,22 @@
       "translation": "rufen; nennen",
       "example": "Pode me chamar de Bia.",
       "exampleTranslation": "Du kannst mich Bia nennen.",
-      "explanation": "Chamar hei\u00DFt rufen oder nennen. Chamar algu\u00E9m de \u2026 bedeutet jemanden \u2026 nennen. Pode me chamar de \u2026 nennt den gew\u00FCnschten Rufnamen; Eu me chamo \u2026 stellt den eigenen Namen vor.",
-      "isVocabulary": true
+      "explanation": "Chamar heißt rufen oder nennen. Chamar alguém de … bedeutet jemanden … nennen. Pode me chamar de … nennt den gewünschten Rufnamen; Eu me chamo … stellt den eigenen Namen vor.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "scha-MAR",
+        "ipa": "[ʃaˈmaɾ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      },
+      "examplePronunciation": {
+        "germanHint": "PO-dschi mi scha-MAR dschi BI-a.",
+        "ipa": "[ˈpɔdʒi mi ʃaˈmaɾ dʒi ˈbiɐ]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     }
   ],
   "learning": {
@@ -113,8 +225,8 @@
         "cardId": "karte-01",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze das portugiesische Wort f\u00FCr \u201EName\u201C (ein Wort): \u201EMeu ____ \u00E9 Ana.\u201C",
-        "explanation": "Meu nome \u00E9 Ana hei\u00DFt mein Name ist Ana. Nome ist das Nomen Name.",
+        "prompt": "Ergänze das portugiesische Wort für „Name“ (ein Wort): „Meu ____ é Ana.“",
+        "explanation": "Meu nome é Ana heißt mein Name ist Ana. Nome ist das Nomen Name.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -129,8 +241,8 @@
         "cardId": "karte-06",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze ein m\u00E4nnliches Demonstrativpronomen f\u00FCr \u201Edieser\u201C (ein Wort): \u201E____ \u00E9 o Pedro.\u201C",
-        "explanation": "Este und esse sind m\u00E4nnliche Demonstrativpronomen im Singular. Hier sind beide zul\u00E4ssig. Esta ist weiblich; estes und estas sind Pluralformen.",
+        "prompt": "Ergänze ein männliches Demonstrativpronomen für „dieser“ (ein Wort): „____ é o Pedro.“",
+        "explanation": "Este und esse sind männliche Demonstrativpronomen im Singular. Hier sind beide zulässig. Esta ist weiblich; estes und estas sind Pluralformen.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -146,8 +258,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "chamar-se \u2014 sich nennen; hei\u00DFen. Chamar-se hei\u00DFt sich nennen oder hei\u00DFen. F\u00FCr die eigene Vorstellung: eu me chamo \u2026 Das me geh\u00F6rt hier zum Verb; lerne das Muster zusammen. Eu me chamo Pedro. \u2014 Ich hei\u00DFe Pedro.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "chamar-se — sich nennen; heißen. Chamar-se heißt sich nennen oder heißen. Für die eigene Vorstellung: eu me chamo … Das me gehört hier zum Verb; lerne das Muster zusammen. Eu me chamo Pedro. — Ich heiße Pedro.",
         "options": [
           {
             "id": "d3",
@@ -159,11 +271,11 @@
           },
           {
             "id": "answer",
-            "text": "sich nennen; hei\u00DFen"
+            "text": "sich nennen; heißen"
           },
           {
             "id": "d1",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           }
         ],
         "answer": [
@@ -179,12 +291,12 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Echamar-se\u201C?",
-        "explanation": "chamar-se \u2014 sich nennen; hei\u00DFen. Chamar-se hei\u00DFt sich nennen oder hei\u00DFen. F\u00FCr die eigene Vorstellung: eu me chamo \u2026 Das me geh\u00F6rt hier zum Verb; lerne das Muster zusammen. Eu me chamo Pedro. \u2014 Ich hei\u00DFe Pedro.",
+        "prompt": "Was bedeutet „chamar-se“?",
+        "explanation": "chamar-se — sich nennen; heißen. Chamar-se heißt sich nennen oder heißen. Für die eigene Vorstellung: eu me chamo … Das me gehört hier zum Verb; lerne das Muster zusammen. Eu me chamo Pedro. — Ich heiße Pedro.",
         "options": [
           {
             "id": "answer",
-            "text": "sich nennen; hei\u00DFen"
+            "text": "sich nennen; heißen"
           },
           {
             "id": "d5",
@@ -212,8 +324,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "voc\u00EA \u2014 du; Sie. Voc\u00EA wird hier mit du \u00FCbersetzt und verwendet die dritte Person Singular: voc\u00EA se chama. Die passende deutsche Anrede h\u00E4ngt von der Situation ab; eine f\u00F6rmliche Anrede wird gesondert ge\u00FCbt. Como voc\u00EA se chama? \u2014 Wie hei\u00DFt du?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "você — du; Sie. Você wird hier mit du übersetzt und verwendet die dritte Person Singular: você se chama. Die passende deutsche Anrede hängt von der Situation ab; eine förmliche Anrede wird gesondert geübt. Como você se chama? — Wie heißt du?",
         "options": [
           {
             "id": "d6",
@@ -221,7 +333,7 @@
           },
           {
             "id": "d1",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           },
           {
             "id": "answer",
@@ -236,7 +348,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "voc\u00EA",
+        "audioText": "você",
         "difficulty": 1
       },
       {
@@ -245,8 +357,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Evoc\u00EA\u201C?",
-        "explanation": "voc\u00EA \u2014 du; Sie. Voc\u00EA wird hier mit du \u00FCbersetzt und verwendet die dritte Person Singular: voc\u00EA se chama. Die passende deutsche Anrede h\u00E4ngt von der Situation ab; eine f\u00F6rmliche Anrede wird gesondert ge\u00FCbt. Como voc\u00EA se chama? \u2014 Wie hei\u00DFt du?",
+        "prompt": "Was bedeutet „você“?",
+        "explanation": "você — du; Sie. Você wird hier mit du übersetzt und verwendet die dritte Person Singular: você se chama. Die passende deutsche Anrede hängt von der Situation ab; eine förmliche Anrede wird gesondert geübt. Como você se chama? — Wie heißt du?",
         "options": [
           {
             "id": "answer",
@@ -278,8 +390,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "Welche Bedeutung hat voc\u00EA in der geh\u00F6rten Frage?",
-        "explanation": "Voc\u00EA spricht eine Person an. Ob die deutsche \u00DCbersetzung du oder Sie verwendet, h\u00E4ngt vom Gespr\u00E4ch ab.",
+        "prompt": "Welche Bedeutung hat você in der gehörten Frage?",
+        "explanation": "Você spricht eine Person an. Ob die deutsche Übersetzung du oder Sie verwendet, hängt vom Gespräch ab.",
         "options": [
           {
             "id": "wrong-0",
@@ -302,7 +414,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "Como voc\u00EA se chama?",
+        "audioText": "Como você se chama?",
         "difficulty": 1
       },
       {
@@ -311,8 +423,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "qual \u2014 welcher; welche; welches. Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual \u00E9 o seu nome? ist eine \u00FCbliche Frage nach dem Namen; auf Deutsch nat\u00FCrlich: Wie hei\u00DFt du? Qual \u00E9 o seu nome? \u2014 Wie hei\u00DFt du?",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "qual — welcher; welche; welches. Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual é o seu nome? ist eine übliche Frage nach dem Namen; auf Deutsch natürlich: Wie heißt du? Qual é o seu nome? — Wie heißt du?",
         "options": [
           {
             "id": "answer",
@@ -328,7 +440,7 @@
           },
           {
             "id": "d1",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           }
         ],
         "answer": [
@@ -344,8 +456,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Equal\u201C?",
-        "explanation": "qual \u2014 welcher; welche; welches. Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual \u00E9 o seu nome? ist eine \u00FCbliche Frage nach dem Namen; auf Deutsch nat\u00FCrlich: Wie hei\u00DFt du? Qual \u00E9 o seu nome? \u2014 Wie hei\u00DFt du?",
+        "prompt": "Was bedeutet „qual“?",
+        "explanation": "qual — welcher; welche; welches. Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual é o seu nome? ist eine übliche Frage nach dem Namen; auf Deutsch natürlich: Wie heißt du? Qual é o seu nome? — Wie heißt du?",
         "options": [
           {
             "id": "d5",
@@ -353,7 +465,7 @@
           },
           {
             "id": "d2",
-            "text": "sich nennen; hei\u00DFen"
+            "text": "sich nennen; heißen"
           },
           {
             "id": "answer",
@@ -377,8 +489,8 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "prazer \u2014 Vergn\u00FCgen. O prazer bedeutet w\u00F6rtlich das Vergn\u00FCgen. Bei einer Vorstellung hei\u00DFt Prazer! sinngem\u00E4\u00DF freut mich. Die passende Antwort kann ebenfalls Prazer! sein. Prazer, Ana! \u2014 Freut mich, Ana!",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "prazer — Vergnügen. O prazer bedeutet wörtlich das Vergnügen. Bei einer Vorstellung heißt Prazer! sinngemäß freut mich. Die passende Antwort kann ebenfalls Prazer! sein. Prazer, Ana! — Freut mich, Ana!",
         "options": [
           {
             "id": "d5",
@@ -390,7 +502,7 @@
           },
           {
             "id": "answer",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           },
           {
             "id": "d6",
@@ -410,16 +522,16 @@
         "cardId": "karte-05",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eprazer\u201C?",
-        "explanation": "prazer \u2014 Vergn\u00FCgen. O prazer bedeutet w\u00F6rtlich das Vergn\u00FCgen. Bei einer Vorstellung hei\u00DFt Prazer! sinngem\u00E4\u00DF freut mich. Die passende Antwort kann ebenfalls Prazer! sein. Prazer, Ana! \u2014 Freut mich, Ana!",
+        "prompt": "Was bedeutet „prazer“?",
+        "explanation": "prazer — Vergnügen. O prazer bedeutet wörtlich das Vergnügen. Bei einer Vorstellung heißt Prazer! sinngemäß freut mich. Die passende Antwort kann ebenfalls Prazer! sein. Prazer, Ana! — Freut mich, Ana!",
         "options": [
           {
             "id": "answer",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           },
           {
             "id": "d1",
-            "text": "sich nennen; hei\u00DFen"
+            "text": "sich nennen; heißen"
           },
           {
             "id": "d5",
@@ -443,8 +555,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "amiga \u2014 Freundin. A amiga, Plural amigas; m\u00E4nnlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este. Esta \u00E9 a minha amiga Ana. \u2014 Das ist meine Freundin Ana.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "amiga — Freundin. A amiga, Plural amigas; männlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este. Esta é a minha amiga Ana. — Das ist meine Freundin Ana.",
         "options": [
           {
             "id": "answer",
@@ -460,7 +572,7 @@
           },
           {
             "id": "d4",
-            "text": "sp\u00E4t"
+            "text": "spät"
           }
         ],
         "answer": [
@@ -476,8 +588,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eamiga\u201C?",
-        "explanation": "amiga \u2014 Freundin. A amiga, Plural amigas; m\u00E4nnlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este. Esta \u00E9 a minha amiga Ana. \u2014 Das ist meine Freundin Ana.",
+        "prompt": "Was bedeutet „amiga“?",
+        "explanation": "amiga — Freundin. A amiga, Plural amigas; männlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este. Esta é a minha amiga Ana. — Das ist meine Freundin Ana.",
         "options": [
           {
             "id": "d11",
@@ -489,7 +601,7 @@
           },
           {
             "id": "d4",
-            "text": "sp\u00E4t"
+            "text": "spät"
           },
           {
             "id": "answer",
@@ -509,8 +621,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung.",
-        "explanation": "chamar \u2014 rufen; nennen. Chamar hei\u00DFt rufen oder nennen. Chamar algu\u00E9m de \u2026 bedeutet jemanden \u2026 nennen. Pode me chamar de \u2026 nennt den gew\u00FCnschten Rufnamen; Eu me chamo \u2026 stellt den eigenen Namen vor. Pode me chamar de Bia. \u2014 Du kannst mich Bia nennen.",
+        "prompt": "Hör zu und wähle die passende Bedeutung.",
+        "explanation": "chamar — rufen; nennen. Chamar heißt rufen oder nennen. Chamar alguém de … bedeutet jemanden … nennen. Pode me chamar de … nennt den gewünschten Rufnamen; Eu me chamo … stellt den eigenen Namen vor. Pode me chamar de Bia. — Du kannst mich Bia nennen.",
         "options": [
           {
             "id": "d3",
@@ -542,8 +654,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Echamar\u201C?",
-        "explanation": "chamar \u2014 rufen; nennen. Chamar hei\u00DFt rufen oder nennen. Chamar algu\u00E9m de \u2026 bedeutet jemanden \u2026 nennen. Pode me chamar de \u2026 nennt den gew\u00FCnschten Rufnamen; Eu me chamo \u2026 stellt den eigenen Namen vor. Pode me chamar de Bia. \u2014 Du kannst mich Bia nennen.",
+        "prompt": "Was bedeutet „chamar“?",
+        "explanation": "chamar — rufen; nennen. Chamar heißt rufen oder nennen. Chamar alguém de … bedeutet jemanden … nennen. Pode me chamar de … nennt den gewünschten Rufnamen; Eu me chamo … stellt den eigenen Namen vor. Pode me chamar de Bia. — Du kannst mich Bia nennen.",
         "options": [
           {
             "id": "answer",
@@ -555,11 +667,11 @@
           },
           {
             "id": "d0",
-            "text": "Vergn\u00FCgen"
+            "text": "Vergnügen"
           },
           {
             "id": "d1",
-            "text": "sich nennen; hei\u00DFen"
+            "text": "sich nennen; heißen"
           }
         ],
         "answer": [
@@ -575,8 +687,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Esich nennen; hei\u00DFen\u201C?",
-        "explanation": "chamar-se \u2014 sich nennen; hei\u00DFen. Chamar-se hei\u00DFt sich nennen oder hei\u00DFen. F\u00FCr die eigene Vorstellung: eu me chamo \u2026 Das me geh\u00F6rt hier zum Verb; lerne das Muster zusammen. Eu me chamo Pedro. \u2014 Ich hei\u00DFe Pedro.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „sich nennen; heißen“?",
+        "explanation": "chamar-se — sich nennen; heißen. Chamar-se heißt sich nennen oder heißen. Für die eigene Vorstellung: eu me chamo … Das me gehört hier zum Verb; lerne das Muster zusammen. Eu me chamo Pedro. — Ich heiße Pedro.",
         "options": [
           {
             "id": "answer",
@@ -608,8 +720,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201EComo voc\u00EA se chama?\u201C \u2013 Welche Antwort nennt den eigenen Namen?",
-        "explanation": "Eu me chamo Pedro ist die passende Form von chamar-se: Ich hei\u00DFe Pedro. Die anderen Antworten bestellen, bezahlen oder k\u00FCndigen eine Frage an.",
+        "prompt": "„Como você se chama?“ – Welche Antwort nennt den eigenen Namen?",
+        "explanation": "Eu me chamo Pedro ist die passende Form von chamar-se: Ich heiße Pedro. Die anderen Antworten bestellen, bezahlen oder kündigen eine Frage an.",
         "options": [
           {
             "id": "wrong-2",
@@ -617,11 +729,11 @@
           },
           {
             "id": "wrong-0",
-            "text": "Eu quero um caf\u00E9."
+            "text": "Eu quero um café."
           },
           {
             "id": "wrong-1",
-            "text": "Eu pago com cart\u00E3o."
+            "text": "Eu pago com cartão."
           },
           {
             "id": "answer",
@@ -641,8 +753,8 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Edu; Sie\u201C?",
-        "explanation": "voc\u00EA \u2014 du; Sie. Voc\u00EA wird hier mit du \u00FCbersetzt und verwendet die dritte Person Singular: voc\u00EA se chama. Die passende deutsche Anrede h\u00E4ngt von der Situation ab; eine f\u00F6rmliche Anrede wird gesondert ge\u00FCbt. Como voc\u00EA se chama? \u2014 Wie hei\u00DFt du?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „du; Sie“?",
+        "explanation": "você — du; Sie. Você wird hier mit du übersetzt und verwendet die dritte Person Singular: você se chama. Die passende deutsche Anrede hängt von der Situation ab; eine förmliche Anrede wird gesondert geübt. Como você se chama? — Wie heißt du?",
         "options": [
           {
             "id": "d6",
@@ -654,7 +766,7 @@
           },
           {
             "id": "answer",
-            "text": "voc\u00EA"
+            "text": "você"
           },
           {
             "id": "d4",
@@ -674,8 +786,8 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Ewelcher; welche; welches\u201C?",
-        "explanation": "qual \u2014 welcher; welche; welches. Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual \u00E9 o seu nome? ist eine \u00FCbliche Frage nach dem Namen; auf Deutsch nat\u00FCrlich: Wie hei\u00DFt du? Qual \u00E9 o seu nome? \u2014 Wie hei\u00DFt du?",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „welcher; welche; welches“?",
+        "explanation": "qual — welcher; welche; welches. Qual bedeutet je nach Zusammenhang welcher, welche oder welches. Qual é o seu nome? ist eine übliche Frage nach dem Namen; auf Deutsch natürlich: Wie heißt du? Qual é o seu nome? — Wie heißt du?",
         "options": [
           {
             "id": "d6",
@@ -707,8 +819,8 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welches portugiesische Fragewort bedeutet \u201Ewelcher / welche / welches\u201C?",
-        "explanation": "Qual \u00E9 o seu nome? fragt nach dem Namen. Onde fragt nach einem Ort, quando nach einem Zeitpunkt und quem nach einer Person.",
+        "prompt": "Welches portugiesische Fragewort bedeutet „welcher / welche / welches“?",
+        "explanation": "Qual é o seu nome? fragt nach dem Namen. Onde fragt nach einem Ort, quando nach einem Zeitpunkt und quem nach einer Person.",
         "options": [
           {
             "id": "wrong-1",
@@ -740,8 +852,8 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EVergn\u00FCgen\u201C?",
-        "explanation": "prazer \u2014 Vergn\u00FCgen. O prazer bedeutet w\u00F6rtlich das Vergn\u00FCgen. Bei einer Vorstellung hei\u00DFt Prazer! sinngem\u00E4\u00DF freut mich. Die passende Antwort kann ebenfalls Prazer! sein. Prazer, Ana! \u2014 Freut mich, Ana!",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Vergnügen“?",
+        "explanation": "prazer — Vergnügen. O prazer bedeutet wörtlich das Vergnügen. Bei einer Vorstellung heißt Prazer! sinngemäß freut mich. Die passende Antwort kann ebenfalls Prazer! sein. Prazer, Ana! — Freut mich, Ana!",
         "options": [
           {
             "id": "answer",
@@ -757,7 +869,7 @@
           },
           {
             "id": "d3",
-            "text": "voc\u00EA"
+            "text": "você"
           }
         ],
         "answer": [
@@ -773,12 +885,12 @@
         "cardId": "karte-05",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du lernst Ana kennen. Welche kurze Aussage dr\u00FCckt Freude \u00FCber das Kennenlernen aus?",
-        "explanation": "Prazer ist beim Kennenlernen eine Kurzform f\u00FCr freut mich. Als Nomen bedeutet prazer Vergn\u00FCgen.",
+        "prompt": "Du lernst Ana kennen. Welche kurze Aussage drückt Freude über das Kennenlernen aus?",
+        "explanation": "Prazer ist beim Kennenlernen eine Kurzform für freut mich. Als Nomen bedeutet prazer Vergnügen.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "At\u00E9 amanh\u00E3, Ana!"
+            "text": "Até amanhã, Ana!"
           },
           {
             "id": "answer",
@@ -790,7 +902,7 @@
           },
           {
             "id": "wrong-2",
-            "text": "Mais um caf\u00E9, Ana!"
+            "text": "Mais um café, Ana!"
           }
         ],
         "answer": [
@@ -806,8 +918,8 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201EFreundin\u201C?",
-        "explanation": "amiga \u2014 Freundin. A amiga, Plural amigas; m\u00E4nnlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este. Esta \u00E9 a minha amiga Ana. \u2014 Das ist meine Freundin Ana.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „Freundin“?",
+        "explanation": "amiga — Freundin. A amiga, Plural amigas; männlich o amigo. Minha amiga kann eine platonische Freundin bezeichnen. Esta ist hier die weibliche Form von este. Esta é a minha amiga Ana. — Das ist meine Freundin Ana.",
         "options": [
           {
             "id": "d0",
@@ -819,7 +931,7 @@
           },
           {
             "id": "d10",
-            "text": "voc\u00EA"
+            "text": "você"
           },
           {
             "id": "answer",
@@ -839,24 +951,24 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "situation",
-        "prompt": "Du stellst Ana ausdr\u00FCcklich als deine Freundin vor. Welche Aussage passt?",
+        "prompt": "Du stellst Ana ausdrücklich als deine Freundin vor. Welche Aussage passt?",
         "explanation": "Minha amiga benennt eine weibliche Freundin. Der Satz legt keine romantische Beziehung fest.",
         "options": [
           {
             "id": "wrong-0",
-            "text": "Este \u00E9 o meu amigo Pedro."
+            "text": "Este é o meu amigo Pedro."
           },
           {
             "id": "wrong-1",
-            "text": "Meu nome \u00E9 Ana."
+            "text": "Meu nome é Ana."
           },
           {
             "id": "answer",
-            "text": "Esta \u00E9 a minha amiga Ana."
+            "text": "Esta é a minha amiga Ana."
           },
           {
             "id": "wrong-2",
-            "text": "Como voc\u00EA se chama?"
+            "text": "Como você se chama?"
           }
         ],
         "answer": [
@@ -872,8 +984,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher portugiesische Ausdruck bedeutet \u201Erufen; nennen\u201C?",
-        "explanation": "chamar \u2014 rufen; nennen. Chamar hei\u00DFt rufen oder nennen. Chamar algu\u00E9m de \u2026 bedeutet jemanden \u2026 nennen. Pode me chamar de \u2026 nennt den gew\u00FCnschten Rufnamen; Eu me chamo \u2026 stellt den eigenen Namen vor. Pode me chamar de Bia. \u2014 Du kannst mich Bia nennen.",
+        "prompt": "Welcher portugiesische Ausdruck bedeutet „rufen; nennen“?",
+        "explanation": "chamar — rufen; nennen. Chamar heißt rufen oder nennen. Chamar alguém de … bedeutet jemanden … nennen. Pode me chamar de … nennt den gewünschten Rufnamen; Eu me chamo … stellt den eigenen Namen vor. Pode me chamar de Bia. — Du kannst mich Bia nennen.",
         "options": [
           {
             "id": "answer",
@@ -906,7 +1018,7 @@
         "area": "use",
         "kind": "dialogue",
         "prompt": "Jemand fragt, wie er dich nennen darf. Welche Antwort erlaubt den Namen Bia?",
-        "explanation": "Pode me chamar de Bia hei\u00DFt du kannst mich Bia nennen. Chamar steht hier mit me und de vor dem Namen.",
+        "explanation": "Pode me chamar de Bia heißt du kannst mich Bia nennen. Chamar steht hier mit me und de vor dem Namen.",
         "options": [
           {
             "id": "wrong-2",
@@ -914,11 +1026,11 @@
           },
           {
             "id": "wrong-0",
-            "text": "Quero um sandu\u00EDche."
+            "text": "Quero um sanduíche."
           },
           {
             "id": "wrong-1",
-            "text": "Posso ver o card\u00E1pio?"
+            "text": "Posso ver o cardápio?"
           },
           {
             "id": "answer",

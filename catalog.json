@@ -5,75 +5,75 @@
   "packages": [
     {
       "packageId": "cafe-bilder-pilot",
-      "packageVersion": 3,
+      "packageVersion": 4,
       "title": "Im Café · Bildpilot",
       "cardCount": 10,
       "path": "pt-BR/de/cafe/cafe-bilder-pilot.talunivo",
-      "sha256": "18d3de11dae0edb5ed8839419b9b784eae8156adcc44acb42df29ee473f7509a"
+      "sha256": "3742e415e515306e19695e6c622c81a53a2618ffa844aecb7f8e36bf8f267cb2"
     },
     {
       "packageId": "cafe-zusatz",
-      "packageVersion": 4,
+      "packageVersion": 5,
       "title": "Noch mehr im Café",
       "cardCount": 3,
       "path": "pt-BR/de/cafe/cafe-zusatz.talunivo",
-      "sha256": "dc6bd54c8f7a25cfbc047ad1dccc784b3a7be665ef94cf1a7a9333b80150786d"
+      "sha256": "b8f73b864b837c597bf57ad9ec454099f5fa1cb8aa8c419bfc0056490118165d"
     },
     {
       "packageId": "start-ptbr-01-begruessung",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "01 · Begrüßung und Abschied",
       "cardCount": 8,
       "path": "pt-BR/de/start/01-begruessung.talunivo",
-      "sha256": "6df6900ecdaef28df4a1b391ab9d2d2d5a12792201ed62ed187a67e5a82dddbd"
+      "sha256": "bbb1ef22687f618934603d6a49a5fae85ddde9bc73706edf8d1628a6b5df7df0"
     },
     {
       "packageId": "start-ptbr-02-vorstellung",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "02 · Name und Vorstellung",
       "cardCount": 8,
       "path": "pt-BR/de/start/02-vorstellung.talunivo",
-      "sha256": "4c37f063ffa41602c3271db97065a8a877bdc6a48a4c861c9ed8fc6942d3302e"
+      "sha256": "697212cde9f81586acab35ab2e56c52782e0b0b6312d1522d913e5d10f7527fb"
     },
     {
       "packageId": "start-ptbr-03-befinden",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "03 · Befinden und Gefühle",
       "cardCount": 8,
       "path": "pt-BR/de/start/03-befinden.talunivo",
-      "sha256": "531b4b88524b67cb3ceaac4499539b60f3ba8bdecffa3c8f1a6cc0d3fe76fd82"
+      "sha256": "0758c8c7ef5ab09df1e4be7dc71a4391a7a3f8c6c9a2af2f464190eb189863e1"
     },
     {
       "packageId": "start-ptbr-04-hoeflichkeit",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "04 · Bitte, danke, Entschuldigung",
       "cardCount": 8,
       "path": "pt-BR/de/start/04-hoeflichkeit.talunivo",
-      "sha256": "b7bba8ba511020a2010fc60014456fae9c146771ab7fbd592595945e963074a2"
+      "sha256": "98213330b26216381455df503cb1f8ce71a7c52732dd615623f6294bd2f8eaa0"
     },
     {
       "packageId": "start-ptbr-05-verstehen",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "05 · Verstehen und Nachfragen",
       "cardCount": 8,
       "path": "pt-BR/de/start/05-verstehen.talunivo",
-      "sha256": "0cfa09acdba6d65c6ab1050c32e80c0af3a87bc8f0527ee17a3dc688ae3159bd"
+      "sha256": "076bbb887054d9b88a8f07709b2f45930741dfc43a35d76f1cc8523ff5af4d5c"
     },
     {
       "packageId": "start-ptbr-06-herkunft",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "06 · Herkunft und Wohnort",
       "cardCount": 8,
       "path": "pt-BR/de/start/06-herkunft.talunivo",
-      "sha256": "f7601cd4c20540b785dca7297313646a35fcba2cc5f5535280daf74dfe40e768"
+      "sha256": "ac9adb72f6496ed53f5704fe781f4b340bb9d05e9d82a97fcf87fc0543bf3262"
     },
     {
       "packageId": "start-ptbr-07-zahlen-zehn",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "07 · Zahlen von null bis zehn",
       "cardCount": 15,
       "path": "pt-BR/de/start/07-zahlen-zehn.talunivo",
-      "sha256": "bf918939d9d1f25467cb1fb03cf43c3f857f6022cf99399f3811f73f5d26a2f7"
+      "sha256": "0c1c8c4d9f7c87da1cb2b71151dd7878df328c0b3ba06e914f63426e6780fc93"
     },
     {
       "packageId": "start-ptbr-08-zahlen-preise",
@@ -101,11 +101,11 @@
     },
     {
       "packageId": "start-ptbr-11-familie",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "11 · Familie und Menschen",
       "cardCount": 8,
       "path": "pt-BR/de/start/11-familie.talunivo",
-      "sha256": "aee5306bf0d644048b027f88f1c92d2feb1424733fe4b43c40c32f691a6a47a4"
+      "sha256": "36069928acfe8161e436c7288e03ab877e5fc654d12cf20f8d791bf9339379e1"
     },
     {
       "packageId": "start-ptbr-12-alter-beruf",
@@ -149,27 +149,27 @@
     },
     {
       "packageId": "start-ptbr-17-getraenke",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "17 · Getränke bestellen",
       "cardCount": 8,
       "path": "pt-BR/de/start/17-getraenke.talunivo",
-      "sha256": "c9fb685cb1327a9e928641d0aab64f2a273d279df906e759a6dbf64952fb9d4f"
+      "sha256": "e86a977b827dcba078486dd1882a1e0a677550aa5400a1eec878257bc5fc9048"
     },
     {
       "packageId": "start-ptbr-18-cafe",
-      "packageVersion": 5,
+      "packageVersion": 6,
       "title": "18 · Im Café",
       "cardCount": 8,
       "path": "pt-BR/de/start/18-cafe.talunivo",
-      "sha256": "5e9f331d8b88fb2b51338aa766962f22a4bc3d19e9d08f5d3e0201d59845898c"
+      "sha256": "0c60acf9523aee021abc7af5557d4cc5ec61529f0d21b69a082db8ee6aabf4d9"
     },
     {
       "packageId": "start-ptbr-19-restaurant",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "19 · Im Restaurant",
       "cardCount": 10,
       "path": "pt-BR/de/start/19-restaurant.talunivo",
-      "sha256": "91a4040e1270cf0553b911716d3a4a9861893e4bc6ccd468ff4608b786aec846"
+      "sha256": "657e14f1c67e52f0869e81c0cacd60b235b6f64d75f46b4c5855785d8db12982"
     },
     {
       "packageId": "start-ptbr-20-supermarkt",
@@ -189,11 +189,11 @@
     },
     {
       "packageId": "start-ptbr-22-bezahlen",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "22 · Geld und Bezahlen",
       "cardCount": 8,
       "path": "pt-BR/de/start/22-bezahlen.talunivo",
-      "sha256": "669471d00d6e0b097b5f12232164df3da981cecf98d2217fd09857ddde876fe8"
+      "sha256": "b0678abfd1016eaec42151961e73126a12b2e32eb3b0b8e20860ca866412fa8b"
     },
     {
       "packageId": "start-ptbr-23-kleidung",
@@ -269,19 +269,19 @@
     },
     {
       "packageId": "start-ptbr-32-vorlieben",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "32 · Was ich mag",
       "cardCount": 8,
       "path": "pt-BR/de/start/32-vorlieben.talunivo",
-      "sha256": "8eed210bd3082c3f6af9d2076001842c11bc93d1fc25eb183b6cdb86f6cd3251"
+      "sha256": "db88509eacf99acd500dc4ee66fb8e3c483162f483d334f418f23fdefbed3f56"
     },
     {
       "packageId": "start-ptbr-33-freizeit",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "33 · Freizeit und Hobbys",
       "cardCount": 8,
       "path": "pt-BR/de/start/33-freizeit.talunivo",
-      "sha256": "da0ef89c2ce51c3393efd3d77ab19a5f163a561e78792669df383fdf350a6749"
+      "sha256": "1ae099ef6297ff4a239867c0fa6221bb4353b0e7d770d3726e69b87c29cbb1f6"
     },
     {
       "packageId": "start-ptbr-34-einladen",
@@ -381,11 +381,11 @@
     },
     {
       "packageId": "start-ptbr-46-gestern",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "46 · Von gestern erzählen",
       "cardCount": 8,
       "path": "pt-BR/de/start/46-gestern.talunivo",
-      "sha256": "bf92f7ef917fb8e18b16e2b4059e430b5c88ad804daa1850e886ff0a4a896949"
+      "sha256": "3687469f5898189542f547f70cb10653c80439d37a799691824e8b86e2f59ba5"
     },
     {
       "packageId": "start-ptbr-47-gespraech",
@@ -397,35 +397,35 @@
     },
     {
       "packageId": "start-ptbr-48-mission-markt",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "48 · Mini-Dialog: Auf dem Markt",
       "cardCount": 8,
       "path": "pt-BR/de/start/48-mission-markt.talunivo",
-      "sha256": "694ffac11a158105285af71dc234b97a6e77cc9fc296679b684f18d488079dff"
+      "sha256": "3d083c0ae44614d9249a370cc4735cc4e5f5d2324eed63742f86b18267674de7"
     },
     {
       "packageId": "start-ptbr-49-mission-verabredung",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "49 · Mini-Dialog: Einen Ausflug planen",
       "cardCount": 8,
       "path": "pt-BR/de/start/49-mission-verabredung.talunivo",
-      "sha256": "786d8fc32ae0c9c62e1ed28d2987ac2b45f9a4d13f605eade9e94c35685edfc5"
+      "sha256": "1ab17c95e476a7f74eb61ada1f8f57a934202488a37fd4276465c83e210bf8ff"
     },
     {
       "packageId": "start-ptbr-50-mission-alltag",
-      "packageVersion": 6,
+      "packageVersion": 7,
       "title": "50 · Abschluss: Ein Tag in Brasilien",
       "cardCount": 8,
       "path": "pt-BR/de/start/50-mission-alltag.talunivo",
-      "sha256": "33b93fc53a7644d23e8ef0d00286b82a3a4d64a243d95b43ffc86e440c9314ad"
+      "sha256": "6bdae6f0cd1ff5934b4f67f2d711ac1f4a41a5f4407aadcfac7084ce95be1334"
     },
     {
       "packageId": "taci-wiedersehen",
-      "packageVersion": 7,
+      "packageVersion": 8,
       "title": "Taci · Entschuldigung und Wiedersehen",
       "cardCount": 38,
       "path": "pt-BR/de/taci/wiedersehen-taci.talunivo",
-      "sha256": "071421fbd115986601877489f02b9a6e1b8af62ba0051de34f7ae870439fb65c"
+      "sha256": "d36fc7ceefee6650a2f8a7be3885a41cb9b80e83d34ca1ea3cfb4c67fb54a6a6"
     }
   ]
 }

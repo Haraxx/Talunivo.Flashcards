@@ -2,8 +2,8 @@
   "format": "talunivo",
   "schemaVersion": 4,
   "packageId": "start-ptbr-49-mission-verabredung",
-  "packageVersion": 6,
-  "title": "49 \u00B7 Mini-Dialog: Einen Ausflug planen",
+  "packageVersion": 7,
+  "title": "49 · Mini-Dialog: Einen Ausflug planen",
   "sourceLanguage": "pt-BR",
   "translationLanguage": "de",
   "cards": [
@@ -12,19 +12,19 @@
       "topic": "Mini-Dialog: Einen Ausflug planen",
       "expression": "livre",
       "translation": "frei",
-      "example": "Voc\u00EA est\u00E1 livre amanh\u00E3?",
+      "example": "Você está livre amanhã?",
       "exampleTranslation": "Hast du morgen Zeit?",
-      "explanation": "Livre hei\u00DFt hier zeitlich frei oder verf\u00FCgbar. Die Form bleibt f\u00FCr m\u00E4nnlichen und weiblichen Bezug gleich; im Plural hei\u00DFt sie livres. Amanh\u00E3 fragt nach morgen, noch ohne eine genaue Uhrzeit.",
+      "explanation": "Livre heißt hier zeitlich frei oder verfügbar. Die Form bleibt für männlichen und weiblichen Bezug gleich; im Plural heißt sie livres. Amanhã fragt nach morgen, noch ohne eine genaue Uhrzeit.",
       "isVocabulary": true
     },
     {
       "id": "karte-02",
       "topic": "Mini-Dialog: Einen Ausflug planen",
-      "expression": "de manh\u00E3",
+      "expression": "de manhã",
       "translation": "vormittags",
-      "example": "Sim, estou livre amanh\u00E3 de manh\u00E3.",
+      "example": "Sim, estou livre amanhã de manhã.",
       "exampleTranslation": "Ja, morgen Vormittag habe ich Zeit.",
-      "explanation": "De manh\u00E3 bedeutet morgens oder vormittags. Amanh\u00E3 de manh\u00E3 hei\u00DFt morgen fr\u00FCh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim best\u00E4tigt die verf\u00FCgbare Zeit.",
+      "explanation": "De manhã bedeutet morgens oder vormittags. Amanhã de manhã heißt morgen früh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim bestätigt die verfügbare Zeit.",
       "isVocabulary": true
     },
     {
@@ -34,7 +34,7 @@
       "translation": "besuchen",
       "example": "Vamos visitar o parque novo?",
       "exampleTranslation": "Wollen wir den neuen Park besuchen?",
-      "explanation": "Visitar hei\u00DFt besuchen. Vamos \u002B Infinitiv mit Frageintonation schl\u00E4gt hier eine gemeinsame Handlung vor. Novo passt zum m\u00E4nnlichen parque; der Park ist ein erfundener Gespr\u00E4chsbezug, kein benannter realer Ort.",
+      "explanation": "Visitar heißt besuchen. Vamos + Infinitiv mit Frageintonation schlägt hier eine gemeinsame Handlung vor. Novo passt zum männlichen parque; der Park ist ein erfundener Gesprächsbezug, kein benannter realer Ort.",
       "isVocabulary": true
     },
     {
@@ -44,7 +44,7 @@
       "translation": "losgehen",
       "example": "A que horas vamos sair?",
       "exampleTranslation": "Um wie viel Uhr gehen wir los?",
-      "explanation": "Sair bedeutet hier losgehen oder aufbrechen. A que horas \u2026? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen m\u00F6gliche Bedeutungen von sair.",
+      "explanation": "Sair bedeutet hier losgehen oder aufbrechen. A que horas …? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen mögliche Bedeutungen von sair.",
       "isVocabulary": true
     },
     {
@@ -52,10 +52,17 @@
       "topic": "Mini-Dialog: Einen Ausflug planen",
       "expression": "nove",
       "translation": "neun",
-      "example": "Podemos sair \u00E0s nove.",
-      "exampleTranslation": "Wir k\u00F6nnen um neun losgehen.",
-      "explanation": "Nove ist die Zahl neun; \u00E0s nove bedeutet um neun Uhr. Podemos ist die Wir-Form von poder. Im Zusammenhang mit amanh\u00E3 de manh\u00E3 ist hier neun Uhr am Morgen gemeint; der einzelne Satz allein nennt keinen Tagesabschnitt.",
-      "isVocabulary": true
+      "example": "Podemos sair às nove.",
+      "exampleTranslation": "Wir können um neun losgehen.",
+      "explanation": "Nove ist die Zahl neun; às nove bedeutet um neun Uhr. Podemos ist die Wir-Form von poder. Im Zusammenhang mit amanhã de manhã ist hier neun Uhr am Morgen gemeint; der einzelne Satz allein nennt keinen Tagesabschnitt.",
+      "isVocabulary": true,
+      "pronunciation": {
+        "germanHint": "NO-wi",
+        "ipa": "[ˈnɔvi]",
+        "hintLanguage": "de-DE",
+        "variant": "pt-BR",
+        "note": "Wortweise Lernfassung; flüssige Rede verbindet Laute. Tilde = nasal, ss = stimmloses s, zh = stimmhaftes sch wie in Journal. EU = e→u in einer Silbe, kein deutsches eu. R kurz anschlagen; r und tschi/dschi variieren regional."
+      }
     },
     {
       "id": "karte-06",
@@ -64,7 +71,7 @@
       "translation": "sich treffen",
       "example": "Onde vamos nos encontrar?",
       "exampleTranslation": "Wo werden wir uns treffen?",
-      "explanation": "Encontrar-se hei\u00DFt hier sich treffen. Nos encontrar bedeutet im Satz uns treffen; nos bezieht sich auf wir. Onde fragt nach dem Ort. Encontrar ohne diesen gegenseitigen Bezug kann auch finden bedeuten, wie bei der Suche nach einem Gegenstand.",
+      "explanation": "Encontrar-se heißt hier sich treffen. Nos encontrar bedeutet im Satz uns treffen; nos bezieht sich auf wir. Onde fragt nach dem Ort. Encontrar ohne diesen gegenseitigen Bezug kann auch finden bedeuten, wie bei der Suche nach einem Gegenstand.",
       "isVocabulary": true
     },
     {
@@ -73,8 +80,8 @@
       "expression": "esquina",
       "translation": "Ecke",
       "example": "Vamos nos encontrar na esquina da padaria.",
-      "exampleTranslation": "Wir werden uns an der Ecke bei der B\u00E4ckerei treffen.",
-      "explanation": "A esquina, Plural esquinas, ist eine Stra\u00DFenecke. Na verbindet em \u002B a, da verbindet de \u002B a. Na esquina da padaria nennt hier die Ecke bei der im Gespr\u00E4ch bekannten B\u00E4ckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein.",
+      "exampleTranslation": "Wir werden uns an der Ecke bei der Bäckerei treffen.",
+      "explanation": "A esquina, Plural esquinas, ist eine Straßenecke. Na verbindet em + a, da verbindet de + a. Na esquina da padaria nennt hier die Ecke bei der im Gespräch bekannten Bäckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein.",
       "isVocabulary": true
     },
     {
@@ -82,9 +89,9 @@
       "topic": "Mini-Dialog: Einen Ausflug planen",
       "expression": "levar",
       "translation": "mitnehmen",
-      "example": "Vou levar \u00E1gua para n\u00F3s.",
-      "exampleTranslation": "Ich werde Wasser f\u00FCr uns mitnehmen.",
-      "explanation": "Levar hei\u00DFt hier mitnehmen. Vou levar k\u00FCndigt meine Handlung an; para n\u00F3s bedeutet f\u00FCr uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge.",
+      "example": "Vou levar água para nós.",
+      "exampleTranslation": "Ich werde Wasser für uns mitnehmen.",
+      "explanation": "Levar heißt hier mitnehmen. Vou levar kündigt meine Handlung an; para nós bedeutet für uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge.",
       "isVocabulary": true
     }
   ],
@@ -93,7 +100,7 @@
     "objectives": [
       {
         "id": "goal-01",
-        "description": "Einen Ausflug oder ein Treffen mit Zeit, Ort und gemeinsamen Aktivit\u00E4ten planen.",
+        "description": "Einen Ausflug oder ein Treffen mit Zeit, Ort und gemeinsamen Aktivitäten planen.",
         "cardIds": [
           "karte-01",
           "karte-02",
@@ -113,8 +120,8 @@
         "cardId": "karte-05",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Erg\u00E4nze die Zahl 9 ausgeschrieben als gelerntes einzelnes Wort: \u201EPodemos sair \u00E0s ____.\u201C",
-        "explanation": "Nove hei\u00DFt neun. Der einzelne Satz nennt keinen Tagesabschnitt; im vollst\u00E4ndigen Gespr\u00E4ch ist morgen Vormittag gemeint.",
+        "prompt": "Ergänze die Zahl 9 ausgeschrieben als gelerntes einzelnes Wort: „Podemos sair às ____.“",
+        "explanation": "Nove heißt neun. Der einzelne Satz nennt keinen Tagesabschnitt; im vollständigen Gespräch ist morgen Vormittag gemeint.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -129,8 +136,8 @@
         "cardId": "karte-06",
         "area": "recall",
         "kind": "gap",
-        "prompt": "Schreibe die vollst\u00E4ndige gelernte Grundform f\u00FCr sich treffen aus diesem Paket, mit Bindestrich und angeh\u00E4ngtem Reflexivpronomen -se.",
-        "explanation": "Die gelernte Grundform ist encontrar-se. Im Satz Onde vamos nos encontrar? wird nos f\u00FCr uns verwendet.",
+        "prompt": "Schreibe die vollständige gelernte Grundform für sich treffen aus diesem Paket, mit Bindestrich und angehängtem Reflexivpronomen -se.",
+        "explanation": "Die gelernte Grundform ist encontrar-se. Im Satz Onde vamos nos encontrar? wird nos für uns verwendet.",
         "options": [],
         "answer": [],
         "acceptedText": [
@@ -145,8 +152,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVoc\u00EA est\u00E1 livre amanh\u00E3?\u201C",
-        "explanation": "livre \u2014 frei. Livre hei\u00DFt hier zeitlich frei oder verf\u00FCgbar. Die Form bleibt f\u00FCr m\u00E4nnlichen und weiblichen Bezug gleich; im Plural hei\u00DFt sie livres. Amanh\u00E3 fragt nach morgen, noch ohne eine genaue Uhrzeit. Voc\u00EA est\u00E1 livre amanh\u00E3? \u2014 Hast du morgen Zeit?",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Você está livre amanhã?“",
+        "explanation": "livre — frei. Livre heißt hier zeitlich frei oder verfügbar. Die Form bleibt für männlichen und weiblichen Bezug gleich; im Plural heißt sie livres. Amanhã fragt nach morgen, noch ohne eine genaue Uhrzeit. Você está livre amanhã? — Hast du morgen Zeit?",
         "options": [
           {
             "id": "answer",
@@ -178,8 +185,8 @@
         "cardId": "karte-01",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Elivre\u201C in diesem Beispiel? \u201EVoc\u00EA est\u00E1 livre amanh\u00E3?\u201C",
-        "explanation": "livre \u2014 frei. Livre hei\u00DFt hier zeitlich frei oder verf\u00FCgbar. Die Form bleibt f\u00FCr m\u00E4nnlichen und weiblichen Bezug gleich; im Plural hei\u00DFt sie livres. Amanh\u00E3 fragt nach morgen, noch ohne eine genaue Uhrzeit. Voc\u00EA est\u00E1 livre amanh\u00E3? \u2014 Hast du morgen Zeit?",
+        "prompt": "Was bedeutet „livre“ in diesem Beispiel? „Você está livre amanhã?“",
+        "explanation": "livre — frei. Livre heißt hier zeitlich frei oder verfügbar. Die Form bleibt für männlichen und weiblichen Bezug gleich; im Plural heißt sie livres. Amanhã fragt nach morgen, noch ohne eine genaue Uhrzeit. Você está livre amanhã? — Hast du morgen Zeit?",
         "options": [
           {
             "id": "d0",
@@ -211,8 +218,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201ESim, estou livre amanh\u00E3 de manh\u00E3.\u201C",
-        "explanation": "de manh\u00E3 \u2014 vormittags. De manh\u00E3 bedeutet morgens oder vormittags. Amanh\u00E3 de manh\u00E3 hei\u00DFt morgen fr\u00FCh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim best\u00E4tigt die verf\u00FCgbare Zeit. Sim, estou livre amanh\u00E3 de manh\u00E3. \u2014 Ja, morgen Vormittag habe ich Zeit.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Sim, estou livre amanhã de manhã.“",
+        "explanation": "de manhã — vormittags. De manhã bedeutet morgens oder vormittags. Amanhã de manhã heißt morgen früh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim bestätigt die verfügbare Zeit. Sim, estou livre amanhã de manhã. — Ja, morgen Vormittag habe ich Zeit.",
         "options": [
           {
             "id": "d3",
@@ -235,7 +242,7 @@
           "answer"
         ],
         "acceptedText": [],
-        "audioText": "de manh\u00E3",
+        "audioText": "de manhã",
         "difficulty": 1
       },
       {
@@ -244,8 +251,8 @@
         "cardId": "karte-02",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Ede manh\u00E3\u201C in diesem Beispiel? \u201ESim, estou livre amanh\u00E3 de manh\u00E3.\u201C",
-        "explanation": "de manh\u00E3 \u2014 vormittags. De manh\u00E3 bedeutet morgens oder vormittags. Amanh\u00E3 de manh\u00E3 hei\u00DFt morgen fr\u00FCh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim best\u00E4tigt die verf\u00FCgbare Zeit. Sim, estou livre amanh\u00E3 de manh\u00E3. \u2014 Ja, morgen Vormittag habe ich Zeit.",
+        "prompt": "Was bedeutet „de manhã“ in diesem Beispiel? „Sim, estou livre amanhã de manhã.“",
+        "explanation": "de manhã — vormittags. De manhã bedeutet morgens oder vormittags. Amanhã de manhã heißt morgen früh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim bestätigt die verfügbare Zeit. Sim, estou livre amanhã de manhã. — Ja, morgen Vormittag habe ich Zeit.",
         "options": [
           {
             "id": "d0",
@@ -277,8 +284,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVamos visitar o parque novo?\u201C",
-        "explanation": "visitar \u2014 besuchen. Visitar hei\u00DFt besuchen. Vamos \u002B Infinitiv mit Frageintonation schl\u00E4gt hier eine gemeinsame Handlung vor. Novo passt zum m\u00E4nnlichen parque; der Park ist ein erfundener Gespr\u00E4chsbezug, kein benannter realer Ort. Vamos visitar o parque novo? \u2014 Wollen wir den neuen Park besuchen?",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Vamos visitar o parque novo?“",
+        "explanation": "visitar — besuchen. Visitar heißt besuchen. Vamos + Infinitiv mit Frageintonation schlägt hier eine gemeinsame Handlung vor. Novo passt zum männlichen parque; der Park ist ein erfundener Gesprächsbezug, kein benannter realer Ort. Vamos visitar o parque novo? — Wollen wir den neuen Park besuchen?",
         "options": [
           {
             "id": "d2",
@@ -310,8 +317,8 @@
         "cardId": "karte-03",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Evisitar\u201C in diesem Beispiel? \u201EVamos visitar o parque novo?\u201C",
-        "explanation": "visitar \u2014 besuchen. Visitar hei\u00DFt besuchen. Vamos \u002B Infinitiv mit Frageintonation schl\u00E4gt hier eine gemeinsame Handlung vor. Novo passt zum m\u00E4nnlichen parque; der Park ist ein erfundener Gespr\u00E4chsbezug, kein benannter realer Ort. Vamos visitar o parque novo? \u2014 Wollen wir den neuen Park besuchen?",
+        "prompt": "Was bedeutet „visitar“ in diesem Beispiel? „Vamos visitar o parque novo?“",
+        "explanation": "visitar — besuchen. Visitar heißt besuchen. Vamos + Infinitiv mit Frageintonation schlägt hier eine gemeinsame Handlung vor. Novo passt zum männlichen parque; der Park ist ein erfundener Gesprächsbezug, kein benannter realer Ort. Vamos visitar o parque novo? — Wollen wir den neuen Park besuchen?",
         "options": [
           {
             "id": "d11",
@@ -343,8 +350,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EA que horas vamos sair?\u201C",
-        "explanation": "sair \u2014 losgehen. Sair bedeutet hier losgehen oder aufbrechen. A que horas \u2026? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen m\u00F6gliche Bedeutungen von sair. A que horas vamos sair? \u2014 Um wie viel Uhr gehen wir los?",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „A que horas vamos sair?“",
+        "explanation": "sair — losgehen. Sair bedeutet hier losgehen oder aufbrechen. A que horas …? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen mögliche Bedeutungen von sair. A que horas vamos sair? — Um wie viel Uhr gehen wir los?",
         "options": [
           {
             "id": "d2",
@@ -376,8 +383,8 @@
         "cardId": "karte-04",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Esair\u201C in diesem Beispiel? \u201EA que horas vamos sair?\u201C",
-        "explanation": "sair \u2014 losgehen. Sair bedeutet hier losgehen oder aufbrechen. A que horas \u2026? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen m\u00F6gliche Bedeutungen von sair. A que horas vamos sair? \u2014 Um wie viel Uhr gehen wir los?",
+        "prompt": "Was bedeutet „sair“ in diesem Beispiel? „A que horas vamos sair?“",
+        "explanation": "sair — losgehen. Sair bedeutet hier losgehen oder aufbrechen. A que horas …? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen mögliche Bedeutungen von sair. A que horas vamos sair? — Um wie viel Uhr gehen wir los?",
         "options": [
           {
             "id": "d0",
@@ -409,8 +416,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVamos nos encontrar na esquina da padaria.\u201C",
-        "explanation": "esquina \u2014 Ecke. A esquina, Plural esquinas, ist eine Stra\u00DFenecke. Na verbindet em \u002B a, da verbindet de \u002B a. Na esquina da padaria nennt hier die Ecke bei der im Gespr\u00E4ch bekannten B\u00E4ckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein. Vamos nos encontrar na esquina da padaria. \u2014 Wir werden uns an der Ecke bei der B\u00E4ckerei treffen.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Vamos nos encontrar na esquina da padaria.“",
+        "explanation": "esquina — Ecke. A esquina, Plural esquinas, ist eine Straßenecke. Na verbindet em + a, da verbindet de + a. Na esquina da padaria nennt hier die Ecke bei der im Gespräch bekannten Bäckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein. Vamos nos encontrar na esquina da padaria. — Wir werden uns an der Ecke bei der Bäckerei treffen.",
         "options": [
           {
             "id": "d4",
@@ -442,8 +449,8 @@
         "cardId": "karte-07",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Eesquina\u201C in diesem Beispiel? \u201EVamos nos encontrar na esquina da padaria.\u201C",
-        "explanation": "esquina \u2014 Ecke. A esquina, Plural esquinas, ist eine Stra\u00DFenecke. Na verbindet em \u002B a, da verbindet de \u002B a. Na esquina da padaria nennt hier die Ecke bei der im Gespr\u00E4ch bekannten B\u00E4ckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein. Vamos nos encontrar na esquina da padaria. \u2014 Wir werden uns an der Ecke bei der B\u00E4ckerei treffen.",
+        "prompt": "Was bedeutet „esquina“ in diesem Beispiel? „Vamos nos encontrar na esquina da padaria.“",
+        "explanation": "esquina — Ecke. A esquina, Plural esquinas, ist eine Straßenecke. Na verbindet em + a, da verbindet de + a. Na esquina da padaria nennt hier die Ecke bei der im Gespräch bekannten Bäckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein. Vamos nos encontrar na esquina da padaria. — Wir werden uns an der Ecke bei der Bäckerei treffen.",
         "options": [
           {
             "id": "d5",
@@ -475,8 +482,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "listen",
-        "prompt": "H\u00F6r zu und w\u00E4hle die passende Bedeutung im Beispiel: \u201EVou levar \u00E1gua para n\u00F3s.\u201C",
-        "explanation": "levar \u2014 mitnehmen. Levar hei\u00DFt hier mitnehmen. Vou levar k\u00FCndigt meine Handlung an; para n\u00F3s bedeutet f\u00FCr uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge. Vou levar \u00E1gua para n\u00F3s. \u2014 Ich werde Wasser f\u00FCr uns mitnehmen.",
+        "prompt": "Hör zu und wähle die passende Bedeutung im Beispiel: „Vou levar água para nós.“",
+        "explanation": "levar — mitnehmen. Levar heißt hier mitnehmen. Vou levar kündigt meine Handlung an; para nós bedeutet für uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge. Vou levar água para nós. — Ich werde Wasser für uns mitnehmen.",
         "options": [
           {
             "id": "d6",
@@ -508,8 +515,8 @@
         "cardId": "karte-08",
         "area": "understanding",
         "kind": "meaning",
-        "prompt": "Was bedeutet \u201Elevar\u201C in diesem Beispiel? \u201EVou levar \u00E1gua para n\u00F3s.\u201C",
-        "explanation": "levar \u2014 mitnehmen. Levar hei\u00DFt hier mitnehmen. Vou levar k\u00FCndigt meine Handlung an; para n\u00F3s bedeutet f\u00FCr uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge. Vou levar \u00E1gua para n\u00F3s. \u2014 Ich werde Wasser f\u00FCr uns mitnehmen.",
+        "prompt": "Was bedeutet „levar“ in diesem Beispiel? „Vou levar água para nós.“",
+        "explanation": "levar — mitnehmen. Levar heißt hier mitnehmen. Vou levar kündigt meine Handlung an; para nós bedeutet für uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge. Vou levar água para nós. — Ich werde Wasser für uns mitnehmen.",
         "options": [
           {
             "id": "d6",
@@ -541,8 +548,8 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Efrei\u201C? Zusammenhang: bei einer Terminabsprache f\u00FCr morgen.",
-        "explanation": "livre \u2014 frei. Livre hei\u00DFt hier zeitlich frei oder verf\u00FCgbar. Die Form bleibt f\u00FCr m\u00E4nnlichen und weiblichen Bezug gleich; im Plural hei\u00DFt sie livres. Amanh\u00E3 fragt nach morgen, noch ohne eine genaue Uhrzeit. Voc\u00EA est\u00E1 livre amanh\u00E3? \u2014 Hast du morgen Zeit?",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „frei“? Zusammenhang: bei einer Terminabsprache für morgen.",
+        "explanation": "livre — frei. Livre heißt hier zeitlich frei oder verfügbar. Die Form bleibt für männlichen und weiblichen Bezug gleich; im Plural heißt sie livres. Amanhã fragt nach morgen, noch ohne eine genaue Uhrzeit. Você está livre amanhã? — Hast du morgen Zeit?",
         "options": [
           {
             "id": "d6",
@@ -574,20 +581,20 @@
         "cardId": "karte-01",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Frage erkundigt sich, ob dein Gegen\u00FCber morgen zeitlich frei ist?",
-        "explanation": "Livre bedeutet hier zeitlich verf\u00FCgbar, nicht kostenlos. Amanh\u00E3 legt den Tag auf morgen fest.",
+        "prompt": "Welche Frage erkundigt sich, ob dein Gegenüber morgen zeitlich frei ist?",
+        "explanation": "Livre bedeutet hier zeitlich verfügbar, nicht kostenlos. Amanhã legt den Tag auf morgen fest.",
         "options": [
           {
             "id": "wrong-0",
-            "text": "Voc\u00EA est\u00E1 livre hoje?"
+            "text": "Você está livre hoje?"
           },
           {
             "id": "answer",
-            "text": "Voc\u00EA est\u00E1 livre amanh\u00E3?"
+            "text": "Você está livre amanhã?"
           },
           {
             "id": "wrong-1",
-            "text": "Como est\u00E1 o tempo amanh\u00E3?"
+            "text": "Como está o tempo amanhã?"
           },
           {
             "id": "wrong-2",
@@ -607,8 +614,8 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Evormittags\u201C? Zusammenhang: bei einer Terminabsprache f\u00FCr morgen.",
-        "explanation": "de manh\u00E3 \u2014 vormittags. De manh\u00E3 bedeutet morgens oder vormittags. Amanh\u00E3 de manh\u00E3 hei\u00DFt morgen fr\u00FCh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim best\u00E4tigt die verf\u00FCgbare Zeit. Sim, estou livre amanh\u00E3 de manh\u00E3. \u2014 Ja, morgen Vormittag habe ich Zeit.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „vormittags“? Zusammenhang: bei einer Terminabsprache für morgen.",
+        "explanation": "de manhã — vormittags. De manhã bedeutet morgens oder vormittags. Amanhã de manhã heißt morgen früh oder morgen am Vormittag; die Antwort greift den Tag der vorherigen Frage auf. Sim bestätigt die verfügbare Zeit. Sim, estou livre amanhã de manhã. — Ja, morgen Vormittag habe ich Zeit.",
         "options": [
           {
             "id": "d3",
@@ -616,7 +623,7 @@
           },
           {
             "id": "answer",
-            "text": "de manh\u00E3"
+            "text": "de manhã"
           },
           {
             "id": "d1",
@@ -640,24 +647,24 @@
         "cardId": "karte-02",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Antwort best\u00E4tigt, dass du morgen Vormittag Zeit hast?",
-        "explanation": "Amanh\u00E3 de manh\u00E3 bedeutet morgen fr\u00FCh oder morgen am Vormittag. Die Antwort nennt keine genaue Uhrzeit.",
+        "prompt": "Welche Antwort bestätigt, dass du morgen Vormittag Zeit hast?",
+        "explanation": "Amanhã de manhã bedeutet morgen früh oder morgen am Vormittag. Die Antwort nennt keine genaue Uhrzeit.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Sim, estou livre amanh\u00E3 \u00E0 tarde."
+            "text": "Sim, estou livre amanhã à tarde."
           },
           {
             "id": "wrong-2",
-            "text": "N\u00E3o estou livre amanh\u00E3."
+            "text": "Não estou livre amanhã."
           },
           {
             "id": "answer",
-            "text": "Sim, estou livre amanh\u00E3 de manh\u00E3."
+            "text": "Sim, estou livre amanhã de manhã."
           },
           {
             "id": "wrong-0",
-            "text": "Sim, estou livre hoje de manh\u00E3."
+            "text": "Sim, estou livre hoje de manhã."
           }
         ],
         "answer": [
@@ -673,8 +680,8 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Ebesuchen\u201C? Zusammenhang: bei einem gemeinsamen Vorschlag mit einem Park als Ziel.",
-        "explanation": "visitar \u2014 besuchen. Visitar hei\u00DFt besuchen. Vamos \u002B Infinitiv mit Frageintonation schl\u00E4gt hier eine gemeinsame Handlung vor. Novo passt zum m\u00E4nnlichen parque; der Park ist ein erfundener Gespr\u00E4chsbezug, kein benannter realer Ort. Vamos visitar o parque novo? \u2014 Wollen wir den neuen Park besuchen?",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „besuchen“? Zusammenhang: bei einem gemeinsamen Vorschlag mit einem Park als Ziel.",
+        "explanation": "visitar — besuchen. Visitar heißt besuchen. Vamos + Infinitiv mit Frageintonation schlägt hier eine gemeinsame Handlung vor. Novo passt zum männlichen parque; der Park ist ein erfundener Gesprächsbezug, kein benannter realer Ort. Vamos visitar o parque novo? — Wollen wir den neuen Park besuchen?",
         "options": [
           {
             "id": "d2",
@@ -706,12 +713,12 @@
         "cardId": "karte-03",
         "area": "use",
         "kind": "dialogue",
-        "prompt": "\u201EVoc\u00EA est\u00E1 livre amanh\u00E3 de manh\u00E3?\u201C \u2013 Welche Anschlussfrage schl\u00E4gt einen gemeinsamen Besuch im neuen Park vor?",
-        "explanation": "Vamos visitar o parque novo? ist mit Frageintonation ein gemeinsamer Vorschlag. Der Park ist ein erfundener Gespr\u00E4chsbezug.",
+        "prompt": "„Você está livre amanhã de manhã?“ – Welche Anschlussfrage schlägt einen gemeinsamen Besuch im neuen Park vor?",
+        "explanation": "Vamos visitar o parque novo? ist mit Frageintonation ein gemeinsamer Vorschlag. Der Park ist ein erfundener Gesprächsbezug.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Vamos tomar um caf\u00E9?"
+            "text": "Vamos tomar um café?"
           },
           {
             "id": "wrong-2",
@@ -739,12 +746,12 @@
         "cardId": "karte-04",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Elosgehen\u201C? Zusammenhang: bei einer Frage nach dem gemeinsamen Aufbruch.",
-        "explanation": "sair \u2014 losgehen. Sair bedeutet hier losgehen oder aufbrechen. A que horas \u2026? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen m\u00F6gliche Bedeutungen von sair. A que horas vamos sair? \u2014 Um wie viel Uhr gehen wir los?",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „losgehen“? Zusammenhang: bei einer Frage nach dem gemeinsamen Aufbruch.",
+        "explanation": "sair — losgehen. Sair bedeutet hier losgehen oder aufbrechen. A que horas …? fragt nach einer Uhrzeit. Vamos sair bezieht sich auf die gemeinsame Handlung; weggehen oder ausgehen sind in anderen Situationen mögliche Bedeutungen von sair. A que horas vamos sair? — Um wie viel Uhr gehen wir los?",
         "options": [
           {
             "id": "d5",
-            "text": "de manh\u00E3"
+            "text": "de manhã"
           },
           {
             "id": "d4",
@@ -773,11 +780,11 @@
         "area": "use",
         "kind": "situation",
         "prompt": "Welche Frage fragt offen nach der Uhrzeit unseres gemeinsamen Aufbruchs?",
-        "explanation": "A que horas vamos sair? fragt nach der Aufbruchszeit. Podemos sair \u00E0s nove? schl\u00E4gt dagegen eine bestimmte Uhrzeit vor.",
+        "explanation": "A que horas vamos sair? fragt nach der Aufbruchszeit. Podemos sair às nove? schlägt dagegen eine bestimmte Uhrzeit vor.",
         "options": [
           {
             "id": "wrong-2",
-            "text": "Podemos sair \u00E0s nove?"
+            "text": "Podemos sair às nove?"
           },
           {
             "id": "answer",
@@ -789,7 +796,7 @@
           },
           {
             "id": "wrong-1",
-            "text": "Que horas s\u00E3o?"
+            "text": "Que horas são?"
           }
         ],
         "answer": [
@@ -805,8 +812,8 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201EEcke\u201C? Zusammenhang: bei einem Treffpunkt in der Stadt.",
-        "explanation": "esquina \u2014 Ecke. A esquina, Plural esquinas, ist eine Stra\u00DFenecke. Na verbindet em \u002B a, da verbindet de \u002B a. Na esquina da padaria nennt hier die Ecke bei der im Gespr\u00E4ch bekannten B\u00E4ckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein. Vamos nos encontrar na esquina da padaria. \u2014 Wir werden uns an der Ecke bei der B\u00E4ckerei treffen.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „Ecke“? Zusammenhang: bei einem Treffpunkt in der Stadt.",
+        "explanation": "esquina — Ecke. A esquina, Plural esquinas, ist eine Straßenecke. Na verbindet em + a, da verbindet de + a. Na esquina da padaria nennt hier die Ecke bei der im Gespräch bekannten Bäckerei. Welche Ecke genau gemeint ist, muss aus der Situation klar sein. Vamos nos encontrar na esquina da padaria. — Wir werden uns an der Ecke bei der Bäckerei treffen.",
         "options": [
           {
             "id": "d1",
@@ -818,7 +825,7 @@
           },
           {
             "id": "d5",
-            "text": "de manh\u00E3"
+            "text": "de manhã"
           },
           {
             "id": "d2",
@@ -838,16 +845,16 @@
         "cardId": "karte-07",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage legt den Treffpunkt an der Ecke bei der B\u00E4ckerei fest?",
-        "explanation": "Na esquina da padaria bezeichnet die im Gespr\u00E4ch bekannte Ecke bei der B\u00E4ckerei. Die genaue Ecke muss aus der Situation klar sein.",
+        "prompt": "Welche Aussage legt den Treffpunkt an der Ecke bei der Bäckerei fest?",
+        "explanation": "Na esquina da padaria bezeichnet die im Gespräch bekannte Ecke bei der Bäckerei. Die genaue Ecke muss aus der Situation klar sein.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Vamos nos encontrar na sa\u00EDda da padaria."
+            "text": "Vamos nos encontrar na saída da padaria."
           },
           {
             "id": "wrong-2",
-            "text": "Vamos nos encontrar na esquina da farm\u00E1cia."
+            "text": "Vamos nos encontrar na esquina da farmácia."
           },
           {
             "id": "answer",
@@ -871,8 +878,8 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "expression",
-        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet \u201Emitnehmen\u201C? Zusammenhang: bei einem Plan f\u00FCr Wasser auf einem gemeinsamen Ausflug.",
-        "explanation": "levar \u2014 mitnehmen. Levar hei\u00DFt hier mitnehmen. Vou levar k\u00FCndigt meine Handlung an; para n\u00F3s bedeutet f\u00FCr uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge. Vou levar \u00E1gua para n\u00F3s. \u2014 Ich werde Wasser f\u00FCr uns mitnehmen.",
+        "prompt": "Welcher gelernte portugiesische Ausdruck bedeutet „mitnehmen“? Zusammenhang: bei einem Plan für Wasser auf einem gemeinsamen Ausflug.",
+        "explanation": "levar — mitnehmen. Levar heißt hier mitnehmen. Vou levar kündigt meine Handlung an; para nós bedeutet für uns und umfasst die sprechende Person. Der Satz nennt keine genaue Wassermenge. Vou levar água para nós. — Ich werde Wasser für uns mitnehmen.",
         "options": [
           {
             "id": "d2",
@@ -904,24 +911,24 @@
         "cardId": "karte-08",
         "area": "use",
         "kind": "situation",
-        "prompt": "Welche Aussage k\u00FCndigt an, dass du Wasser f\u00FCr uns einschlie\u00DFlich der sprechenden Person mitnehmen wirst?",
-        "explanation": "Vou levar nennt meine Handlung. Para n\u00F3s hei\u00DFt f\u00FCr uns und schlie\u00DFt die sprechende Person ein; eine Menge wird nicht festgelegt.",
+        "prompt": "Welche Aussage kündigt an, dass du Wasser für uns einschließlich der sprechenden Person mitnehmen wirst?",
+        "explanation": "Vou levar nennt meine Handlung. Para nós heißt für uns und schließt die sprechende Person ein; eine Menge wird nicht festgelegt.",
         "options": [
           {
             "id": "wrong-1",
-            "text": "Vou levar caf\u00E9 para n\u00F3s."
+            "text": "Vou levar café para nós."
           },
           {
             "id": "answer",
-            "text": "Vou levar \u00E1gua para n\u00F3s."
+            "text": "Vou levar água para nós."
           },
           {
             "id": "wrong-2",
-            "text": "Vamos comprar \u00E1gua."
+            "text": "Vamos comprar água."
           },
           {
             "id": "wrong-0",
-            "text": "Vou levar \u00E1gua para voc\u00EA."
+            "text": "Vou levar água para você."
           }
         ],
         "answer": [
